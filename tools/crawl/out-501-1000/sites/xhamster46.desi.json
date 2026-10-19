@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "xhamster46.desi",
+    "rank": 995,
+    "url": "https://xhamster46.desi/",
+    "runAt": "2026-10-18T17:56:58.071Z",
+    "robots": {
+      "status": 200,
+      "bytes": 13130,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://xhamster46.desi/",
+      "bytes": 476788
+    },
+    "rendered": {
+      "title": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "canonical": "https://xhamster.com/",
+      "words": 659,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 590,
+      "renderedWords": 659,
+      "coverage": 58.7,
+      "rawOnlyTokens": 203,
+      "renderedOnlyTokens": 272,
+      "renderedOnlySample": [
+        "first",
+        "time",
+        "sharing",
+        "swingers",
+        "such",
+        "filthy",
+        "whore",
+        "tempting",
+        "sisters",
+        "living",
+        "roof",
+        "where",
+        "innocence",
+        "turns",
+        "desire",
+        "episode5",
+        "matings",
+        "l'ereditiera",
+        "movie",
+        "vintage",
+        "sujatha",
+        "aunty",
+        "teaches",
+        "balu",
+        "queen"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos &amp; XXX Movies: Sex Videos Tube | xHamster",
+      "renderedTitle": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

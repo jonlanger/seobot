@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "youjizz.com",
+    "rank": 1341,
+    "url": "https://youjizz.com/",
+    "runAt": "2026-10-18T18:10:03.718Z",
+    "robots": {
+      "status": 200,
+      "bytes": 38,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.youjizz.com/",
+      "bytes": 114455
+    },
+    "rendered": {
+      "title": "porntube, porn tube, mobile porn, pornotube, you porn, youporn",
+      "canonical": "",
+      "words": 433,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 406,
+      "renderedWords": 433,
+      "coverage": 87.3,
+      "rawOnlyTokens": 28,
+      "renderedOnlyTokens": 55,
+      "renderedOnlySample": [
+        "234567891011121314151617181920next",
+        "112k",
+        "75k",
+        "37k",
+        "217k",
+        "231k",
+        "28k",
+        "stepsister's",
+        "106k",
+        "63k",
+        "he's",
+        "157k",
+        "i'm",
+        "11k",
+        "comatozze's",
+        "149k",
+        "85k",
+        "182k",
+        "61k",
+        "266k",
+        "70k",
+        "98k",
+        "242k",
+        "234567891011121314151617181920",
+        "ads"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "porntube, porn tube, mobile porn, pornotube, you porn, youporn",
+      "renderedTitle": "porntube, porn tube, mobile porn, pornotube, you porn, youporn",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

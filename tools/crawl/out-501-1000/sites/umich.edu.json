@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "umich.edu",
+    "rank": 996,
+    "url": "https://umich.edu/",
+    "runAt": "2026-10-18T17:57:01.296Z",
+    "robots": {
+      "status": 200,
+      "bytes": 97,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://umich.edu/",
+      "bytes": 5858
+    },
+    "rendered": {
+      "title": "University of Michigan",
+      "canonical": "",
+      "words": 355,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 355,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 355,
+      "renderedOnlySample": [
+        "skip",
+        "global",
+        "navigation",
+        "university",
+        "michigan",
+        "report",
+        "sexual",
+        "misconduct",
+        "discrimination",
+        "and",
+        "harassment",
+        "search",
+        "for",
+        "quick",
+        "links",
+        "academic",
+        "calendar",
+        "canvas",
+        "directory",
+        "email",
+        "umhs",
+        "library",
+        "catalog",
+        "maps",
+        "directions"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "University of Michigan",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

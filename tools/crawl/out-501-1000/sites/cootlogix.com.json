@@ -1,0 +1,66 @@
+[
+  {
+    "domain": "cootlogix.com",
+    "rank": 1014,
+    "url": "https://cootlogix.com/",
+    "runAt": "2026-10-18T17:57:26.231Z",
+    "robots": {
+      "status": 404,
+      "bytes": 2238,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 404,
+      "finalUrl": "https://cootlogix.com/",
+      "bytes": 2516
+    },
+    "rendered": {
+      "title": "Reconnect Your Domain | Wix.com",
+      "canonical": "",
+      "words": 21,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4,
+      "renderedWords": 21,
+      "coverage": 4.8,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 20,
+      "renderedOnlySample": [
+        "create",
+        "websitethis",
+        "domain",
+        "isn't",
+        "connected",
+        "siteif",
+        "this",
+        "yours",
+        "head",
+        "the",
+        "domains",
+        "page",
+        "your",
+        "dashboard",
+        "dreaming",
+        "own",
+        "claim",
+        "one",
+        "now",
+        "get"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "ConnectYourDomain Error | Wix.com",
+      "renderedTitle": "Reconnect Your Domain | Wix.com",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

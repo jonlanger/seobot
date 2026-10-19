@@ -1,0 +1,90 @@
+[
+  {
+    "domain": "justdial.com",
+    "rank": 1324,
+    "url": "https://justdial.com/",
+    "runAt": "2026-10-18T18:09:36.330Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1079,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://justdial.com/",
+      "bytes": 362
+    },
+    "renderError": "page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://justdial.com/\nCall log:\n  - navigating to \"https://justdial.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

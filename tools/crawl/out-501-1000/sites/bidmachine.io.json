@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "bidmachine.io",
+    "rank": 1067,
+    "url": "https://bidmachine.io/",
+    "runAt": "2026-10-18T17:59:20.314Z",
+    "robots": {
+      "status": 200,
+      "bytes": 228,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.bidmachine.com/",
+      "bytes": 64328
+    },
+    "rendered": {
+      "title": "BidMachine. Fastest Growing Mobile Ad Exchange",
+      "canonical": "https://www.bidmachine.com/",
+      "words": 457,
+      "jsonLdTypes": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 20,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 449,
+      "renderedWords": 457,
+      "coverage": 85.8,
+      "rawOnlyTokens": 57,
+      "renderedOnlyTokens": 65,
+      "renderedOnlySample": [
+        "solutionsfor",
+        "publishersfor",
+        "agenciesfor",
+        "marketersproductssdk",
+        "monetizationad",
+        "mediationuser",
+        "acquisitionad",
+        "exchangeprivate",
+        "marketplacedirect",
+        "placementsresourcesblogmedia",
+        "kitnewsletterdeveloper",
+        "docscompanyabout",
+        "uscareerslog",
+        "insign",
+        "scalebuilt",
+        "startedi",
+        "publisherunlock",
+        "morei",
+        "agencyconnect",
+        "resultsby",
+        "numbers500",
+        "bidmachine600m",
+        "users1t",
+        "monthtrusted",
+        "brandswhy"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 20,
+      "headingsAlsoInRaw": 17,
+      "headingsCoverage": 85,
+      "titleDiffers": false,
+      "rawTitle": "BidMachine. Fastest Growing Mobile Ad Exchange",
+      "renderedTitle": "BidMachine. Fastest Growing Mobile Ad Exchange",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

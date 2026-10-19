@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "pixiv.net",
+    "rank": 1008,
+    "url": "https://pixiv.net/",
+    "runAt": "2026-10-18T17:57:17.671Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1025,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.pixiv.net/en/",
+      "bytes": 71971
+    },
+    "rendered": {
+      "title": "Online community for artist [pixiv]",
+      "canonical": "https://www.pixiv.net/en/",
+      "words": 67,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 112,
+      "renderedWords": 67,
+      "coverage": 58.2,
+      "rawOnlyTokens": 73,
+      "renderedOnlyTokens": 28,
+      "renderedOnlySample": [
+        "default街をきれいにする見た目地雷系幼馴染art",
+        "tettovisions2026掲載クリエイターlog",
+        "accountcreate",
+        "accountloginlog",
+        "accountcontinue",
+        "applecontinue",
+        "googlecontinue",
+        "xcontinue",
+        "facebookthis",
+        "pixivpixiv",
+        "world's",
+        "servicepixiv",
+        "comicpixivfanboxfanbox",
+        "printboothpixivfactorybookspixiv",
+        "sketchpixivisionsenseipixiv",
+        "encyclopediaimagefluxvroid",
+        "studiovroid",
+        "hubpalcypixiv",
+        "gallerypixiv",
+        "premiumpastelaterms",
+        "servicehelpterms",
+        "useprivacy",
+        "policyguidelinescontact",
+        "usnewsnewspixiv",
+        "insidexfacebookinstagramplurkweiboadvertisingadvertise"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "Online community for artist [pixiv]",
+      "renderedTitle": "Online community for artist [pixiv]",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

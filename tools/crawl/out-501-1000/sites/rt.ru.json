@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "rt.ru",
+    "rank": 908,
+    "url": "https://rt.ru/",
+    "runAt": "2026-10-18T17:52:32.884Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://rt.ru/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://rt.ru/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "mercadolibre.com.ar",
+    "rank": 945,
+    "url": "https://mercadolibre.com.ar/",
+    "runAt": "2026-10-18T17:53:43.750Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2519,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.mercadolibre.com.ar/",
+      "bytes": 355558
+    },
+    "rendered": {
+      "title": "Mercado Libre Argentina - Envíos Gratis en el día",
+      "canonical": "https://www.mercadolibre.com.ar/",
+      "words": 397,
+      "jsonLdTypes": [
+        "onlinestore",
+        "website"
+      ],
+      "headings": 29,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 379,
+      "renderedWords": 397,
+      "coverage": 43.6,
+      "rawOnlyTokens": 206,
+      "renderedOnlyTokens": 224,
+      "renderedOnlySample": [
+        "contenidomenú",
+        "atajossaltar",
+        "asaltar",
+        "contenidocomentar",
+        "accesibilidadmétodos",
+        "tecladobuscar",
+        "compraspcarritocabrir",
+        "atajoszmercado",
+        "todoingresá",
+        "encontrarenviar",
+        "federalenviar",
+        "federalcategoríasvehículosinmueblessupermercadotecnologíafarmaciainternacionalhogar",
+        "muebleselectrodomésticosherramientasconstruccióndeportes",
+        "fitnessaccesorios",
+        "vehículospara",
+        "negociomascotasmodajuegos",
+        "juguetesbebésbelleza",
+        "personalsalud",
+        "médicoindustrias",
+        "oficinasagroproductos",
+        "sustentablesserviciosmás",
+        "vendidostiendas",
+        "oficialesver",
+        "categoríastecnologíacelulares",
+        "teléfonoscelulares"
+      ],
+      "jsonLdRaw": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 29,
+      "headingsAlsoInRaw": 28,
+      "headingsCoverage": 96.6,
+      "titleDiffers": false,
+      "rawTitle": "Mercado Libre Argentina - Envíos Gratis en el día",
+      "renderedTitle": "Mercado Libre Argentina - Envíos Gratis en el día",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "jd.com",
+    "rank": 971,
+    "url": "https://jd.com/",
+    "runAt": "2026-10-18T17:55:37.648Z",
+    "robots": {
+      "status": 200,
+      "bytes": 786,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://corporate.jd.com/home",
+      "bytes": 686
+    },
+    "rendered": {
+      "title": "JD.com, Inc.",
+      "canonical": "",
+      "words": 831,
+      "jsonLdTypes": [],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1,
+      "renderedWords": 831,
+      "coverage": 0,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 831,
+      "renderedOnlySample": [
+        "authentic",
+        "productsdelivered",
+        "todayhomeabout",
+        "our",
+        "business",
+        "history",
+        "mission",
+        "valuesnewsfor",
+        "partnersfor",
+        "investors",
+        "investor",
+        "home",
+        "stock",
+        "information",
+        "quote",
+        "chart",
+        "historical",
+        "price",
+        "lookup",
+        "investment",
+        "calculator",
+        "news",
+        "hkex",
+        "filings",
+        "financial"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "JoyGen",
+      "renderedTitle": "JD.com, Inc.",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

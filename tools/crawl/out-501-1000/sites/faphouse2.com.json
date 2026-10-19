@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "faphouse2.com",
+    "rank": 1333,
+    "url": "https://faphouse2.com/",
+    "runAt": "2026-10-18T18:09:48.829Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3958,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://faphouse2.com/",
+      "bytes": 978897
+    },
+    "rendered": {
+      "title": "FapHouse: Full-Length Porn Videos & XXX Movies - Download Sex Videos in Full HD and 4K",
+      "canonical": "https://faphouse.com/",
+      "words": 1128,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 940,
+      "renderedWords": 1128,
+      "coverage": 58.3,
+      "rawOnlyTokens": 282,
+      "renderedOnlyTokens": 470,
+      "renderedOnlySample": [
+        "videosvr",
+        "pornultraawardsnewstorecategoriespornstarschannelsnewcreatorsfeedlive",
+        "sexsex",
+        "straightgaytransgender",
+        "videosawards",
+        "26crown",
+        "leadersbest",
+        "videostop",
+        "picksfaphouse",
+        "originalsplaylistsshort",
+        "videosporn",
+        "radarrecommendedwatch",
+        "historymy",
+        "fanclubsall",
+        "videosrecommendedporn",
+        "radarbest",
+        "videosvisit",
+        "storebestsellersdiscounted",
+        "vidscategoriestime",
+        "stoptaxihorrormedievalstore",
+        "11ultra",
+        "videostepmother",
+        "sweetfantasy1314k",
+        "46stepbrother",
+        "younghd"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 76.9,
+      "titleDiffers": true,
+      "rawTitle": "FapHouse: Full-Length Porn Videos &amp; XXX Movies - Download Sex Videos in Full HD and 4K",
+      "renderedTitle": "FapHouse: Full-Length Porn Videos & XXX Movies - Download Sex Videos in Full HD and 4K",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "naukri.com",
+    "rank": 1297,
+    "url": "https://naukri.com/",
+    "runAt": "2026-10-18T18:08:44.003Z",
+    "robots": {
+      "status": 403,
+      "bytes": 380,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.naukri.com/",
+      "bytes": 366
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 20,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 20,
+      "coverage": 95,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "df3bf37"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

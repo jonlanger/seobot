@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "character.ai",
+    "rank": 961,
+    "url": "https://character.ai/",
+    "runAt": "2026-10-18T17:54:41.533Z",
+    "robots": {
+      "status": 200,
+      "bytes": 159,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://character.ai/",
+      "bytes": 331389
+    },
+    "rendered": {
+      "title": "character.ai | AI Chat, Reimagined–Your Words. Your World.",
+      "canonical": "",
+      "words": 25,
+      "jsonLdTypes": [],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 6,
+      "renderedWords": 25,
+      "coverage": 0,
+      "rawOnlyTokens": 6,
+      "renderedOnlyTokens": 25,
+      "renderedOnlySample": [
+        "sign",
+        "chatloginget",
+        "access",
+        "to10m",
+        "characterssign",
+        "just",
+        "ten",
+        "secondscontinue",
+        "with",
+        "googlecontinue",
+        "appleorcontinue",
+        "emailby",
+        "continuing",
+        "you",
+        "agree",
+        "the",
+        "terms",
+        "and",
+        "privacy",
+        "policyaboutcareerssafety",
+        "centerblogcookie",
+        "policyprivacy",
+        "policyterms",
+        "servicecharms",
+        "use"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "character.ai | AI Chat, Reimagined–Your Words. Your World.",
+      "renderedTitle": "character.ai | AI Chat, Reimagined–Your Words. Your World.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

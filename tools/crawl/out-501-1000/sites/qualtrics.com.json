@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "qualtrics.com",
+    "rank": 924,
+    "url": "https://qualtrics.com/",
+    "runAt": "2026-10-18T17:53:02.142Z",
+    "robots": {
+      "status": 200,
+      "bytes": 30643,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.qualtrics.com/",
+      "bytes": 519371
+    },
+    "rendered": {
+      "title": "Qualtrics XM AI: The Future of Experience Management - Qualtrics",
+      "canonical": "https://www.qualtrics.com/",
+      "words": 843,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 43,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 725,
+      "renderedWords": 843,
+      "coverage": 55.3,
+      "rawOnlyTokens": 259,
+      "renderedOnlyTokens": 377,
+      "renderedOnlySample": [
+        "era",
+        "here",
+        "watch",
+        "livestream",
+        "patient",
+        "does",
+        "achieve",
+        "lifetime",
+        "value",
+        "nps",
+        "csat",
+        "operational",
+        "efficiency",
+        "decrease",
+        "churn",
+        "gartner",
+        "magic",
+        "quadrant",
+        "2026",
+        "has",
+        "been",
+        "named",
+        "leader",
+        "fifth",
+        "consecutive"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 43,
+      "headingsAlsoInRaw": 21,
+      "headingsCoverage": 48.8,
+      "titleDiffers": false,
+      "rawTitle": "Qualtrics XM AI: The Future of Experience Management - Qualtrics",
+      "renderedTitle": "Qualtrics XM AI: The Future of Experience Management - Qualtrics",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

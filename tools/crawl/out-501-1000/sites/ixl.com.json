@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "ixl.com",
+    "rank": 1254,
+    "url": "https://ixl.com/",
+    "runAt": "2026-10-18T18:06:26.520Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1284,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ixl.com/",
+      "bytes": 263483
+    },
+    "rendered": {
+      "title": "IXL | Math, Language Arts, Science, Social Studies, and Spanish",
+      "canonical": "",
+      "words": 529,
+      "jsonLdTypes": [],
+      "headings": 76,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 498,
+      "renderedWords": 529,
+      "coverage": 84.9,
+      "rawOnlyTokens": 49,
+      "renderedOnlyTokens": 80,
+      "renderedOnlySample": [
+        "byeducators",
+        "immersivelearning",
+        "needwe've",
+        "perfectly",
+        "concept",
+        "growth",
+        "weekly",
+        "boostim",
+        "mathact",
+        "standardsopen",
+        "resourcesixl",
+        "readi-ready",
+        "diagnosticwonders",
+        "2023big",
+        "ideas",
+        "mathpsat",
+        "journeysixl",
+        "reading",
+        "interventionsat",
+        "reveal",
+        "mathstemscopes",
+        "ngss",
+        "3dgo",
+        "2023",
+        "bridges"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 76,
+      "headingsAlsoInRaw": 35,
+      "headingsCoverage": 46.1,
+      "titleDiffers": false,
+      "rawTitle": "IXL | Math, Language Arts, Science, Social Studies, and Spanish",
+      "renderedTitle": "IXL | Math, Language Arts, Science, Social Studies, and Spanish",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

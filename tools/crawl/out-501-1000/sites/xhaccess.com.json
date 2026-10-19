@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "xhaccess.com",
+    "rank": 1197,
+    "url": "https://xhaccess.com/",
+    "runAt": "2026-10-18T18:04:12.992Z",
+    "robots": {
+      "status": 200,
+      "bytes": 13130,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://xhaccess.com/",
+      "bytes": 472186
+    },
+    "rendered": {
+      "title": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "canonical": "https://xhaccess.com/",
+      "words": 587,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 602,
+      "renderedWords": 587,
+      "coverage": 63.4,
+      "rawOnlyTokens": 230,
+      "renderedOnlyTokens": 215,
+      "renderedOnlySample": [
+        "friend's",
+        "redhead",
+        "leandro",
+        "grey",
+        "sweet",
+        "dear",
+        "movie",
+        "invasion",
+        "cleaning",
+        "lady",
+        "interrupts",
+        "joins",
+        "amazing",
+        "dakotta",
+        "monroe",
+        "three",
+        "cute",
+        "dicks",
+        "cummed",
+        "body",
+        "san",
+        "dros",
+        "roouse",
+        "spunky",
+        "shady"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos &amp; XXX Movies: Sex Videos Tube | xHamster",
+      "renderedTitle": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

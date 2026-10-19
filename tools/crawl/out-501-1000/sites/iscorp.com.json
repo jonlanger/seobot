@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "iscorp.com",
+    "rank": 1378,
+    "url": "https://iscorp.com/",
+    "runAt": "2026-10-18T18:11:22.404Z",
+    "robots": {
+      "status": 200,
+      "bytes": 188,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.iscorp.com/",
+      "bytes": 181450
+    },
+    "rendered": {
+      "title": "ISCorp - Managed Secure Private Cloud Provider",
+      "canonical": "https://www.iscorp.com/",
+      "words": 357,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 27,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 356,
+      "renderedWords": 357,
+      "coverage": 89.1,
+      "rawOnlyTokens": 38,
+      "renderedOnlyTokens": 39,
+      "renderedOnlySample": [
+        "statement",
+        "homewho",
+        "purposethe",
+        "differencesenior",
+        "teamwhat",
+        "enablementthe",
+        "approachcontinuous",
+        "improvementcompliancesecurityapplication",
+        "enablementperformance",
+        "reliabilitypriority",
+        "supportmonitoringcreating",
+        "partnerscustomer",
+        "reviewsknowledge",
+        "centercareerscontactclient",
+        "linkedinyoutube",
+        "240-7777infos",
+        "homeangela",
+        "ohlinger2026-02-05t21",
+        "softwareschedule",
+        "continuity100",
+        "uptimetrusted",
+        "isvsfind",
+        "whypeerless",
+        "disciplineswhen",
+        "partnershipalways"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 27,
+      "headingsAlsoInRaw": 24,
+      "headingsCoverage": 88.9,
+      "titleDiffers": false,
+      "rawTitle": "ISCorp - Managed Secure Private Cloud Provider",
+      "renderedTitle": "ISCorp - Managed Secure Private Cloud Provider",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

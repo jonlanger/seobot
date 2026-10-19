@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "vinted.fr",
+    "rank": 1191,
+    "url": "https://vinted.fr/",
+    "runAt": "2026-10-18T18:03:59.392Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3281,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.vinted.fr/",
+      "bytes": 1895845
+    },
+    "rendered": {
+      "title": "Vinted | Toute la seconde main dans une seule application",
+      "canonical": "https://www.vinted.fr/",
+      "words": 409,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 147,
+      "renderedWords": 409,
+      "coverage": 14.2,
+      "rawOnlyTokens": 89,
+      "renderedOnlyTokens": 351,
+      "renderedOnlySample": [
+        "contenuarticless'inscrire",
+        "connectervends",
+        "articleslanguefrançais",
+        "frfemmeshommesarticles",
+        "créateursenfantsmaisonélectroniquelivres",
+        "médiasloisirs",
+        "collectionssportarticlesprêt",
+        "vendredécouvrir",
+        "marcheprêt",
+        "marcheles",
+        "frais",
+        "port",
+        "sont",
+        "calculés",
+        "lors",
+        "paiement",
+        "36tommy",
+        "hilfigerm",
+        "état45",
+        "34zarabon",
+        "état4",
+        "13zaram",
+        "étiquette6",
+        "38cárdigan",
+        "état22"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 50,
+      "titleDiffers": false,
+      "rawTitle": "Vinted | Toute la seconde main dans une seule application",
+      "renderedTitle": "Vinted | Toute la seconde main dans une seule application",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

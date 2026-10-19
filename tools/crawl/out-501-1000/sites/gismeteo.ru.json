@@ -1,0 +1,140 @@
+[
+  {
+    "domain": "gismeteo.ru",
+    "rank": 1189,
+    "url": "https://gismeteo.ru/",
+    "runAt": "2026-10-18T18:03:54.029Z",
+    "robots": {
+      "status": 200,
+      "bytes": 277,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.gismeteo.ru/",
+      "bytes": 189335
+    },
+    "rendered": {
+      "title": "GISMETEO: Погода в России, прогноз погоды на сегодня, завтра, 3 дня, выходные, неделю, 10 дней, 2 недели, месяц",
+      "canonical": "https://www.gismeteo.ru/",
+      "words": 531,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 509,
+      "renderedWords": 531,
+      "coverage": 95.5,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 24,
+      "renderedOnlySample": [
+        "местоположенияпросмотренныеочиститьбостонближайшие",
+        "ip-адресувойдите",
+        "личный",
+        "кабинетчтобы",
+        "менять",
+        "единицы",
+        "измерения",
+        "набор",
+        "данных",
+        "также",
+        "увидеть",
+        "ваши",
+        "просмотренные",
+        "войдите",
+        "кабинетvk",
+        "idяндекс",
+        "idвходя",
+        "кабинет",
+        "принимаете",
+        "условия",
+        "октября",
+        "775",
+        "настройка",
+        "конфиденциальности"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 66.7,
+      "titleDiffers": false,
+      "rawTitle": "GISMETEO: Погода в России, прогноз погоды на сегодня, завтра, 3 дня, выходные, неделю, 10 дней, 2 недели, месяц",
+      "renderedTitle": "GISMETEO: Погода в России, прогноз погоды на сегодня, завтра, 3 дня, выходные, неделю, 10 дней, 2 недели, месяц",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

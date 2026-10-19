@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "pornhub.com",
+    "rank": 896,
+    "url": "https://pornhub.com/",
+    "runAt": "2026-10-18T17:52:18.082Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5295,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.pornhub.com/",
+      "bytes": 1259971
+    },
+    "rendered": {
+      "title": "Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube | Pornhub",
+      "canonical": "https://www.pornhub.com/",
+      "words": 1100,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1041,
+      "renderedWords": 1100,
+      "coverage": 68,
+      "rawOnlyTokens": 293,
+      "renderedOnlyTokens": 352,
+      "renderedOnlySample": [
+        "uses",
+        "improve",
+        "user",
+        "learn",
+        "about",
+        "how",
+        "customize",
+        "contains",
+        "age-restricted",
+        "materials",
+        "including",
+        "nudity",
+        "explicit",
+        "depictions",
+        "activity",
+        "entering",
+        "affirm",
+        "least",
+        "majority",
+        "jurisdiction",
+        "accessing",
+        "consent",
+        "viewing",
+        "sexually",
+        "enter"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 92.3,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos &amp; Sex Movies - Porno, XXX, Porn Tube &#124; Pornhub",
+      "renderedTitle": "Free Porn Videos & Sex Movies - Porno, XXX, Porn Tube | Pornhub",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

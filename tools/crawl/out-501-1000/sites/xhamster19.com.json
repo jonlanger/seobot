@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "xhamster19.com",
+    "rank": 1301,
+    "url": "https://xhamster19.com/",
+    "runAt": "2026-10-18T18:08:52.107Z",
+    "robots": {
+      "status": 200,
+      "bytes": 13130,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://xhamster19.com/",
+      "bytes": 470383
+    },
+    "rendered": {
+      "title": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "canonical": "https://xhamster19.com/",
+      "words": 693,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 608,
+      "renderedWords": 693,
+      "coverage": 53.2,
+      "rawOnlyTokens": 239,
+      "renderedOnlyTokens": 324,
+      "renderedOnlySample": [
+        "teenfidelity",
+        "library",
+        "slut",
+        "lena",
+        "anderson",
+        "swallows",
+        "jizz",
+        "fidelity",
+        "lord",
+        "forgive",
+        "sinned",
+        "were",
+        "camping",
+        "colorado",
+        "makes",
+        "crotch",
+        "tingle",
+        "friends",
+        "chain",
+        "creampies",
+        "another",
+        "mynewlygoing",
+        "meeting",
+        "toon",
+        "lab"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos &amp; XXX Movies: Sex Videos Tube | xHamster",
+      "renderedTitle": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

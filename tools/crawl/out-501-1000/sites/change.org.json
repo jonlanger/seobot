@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "change.org",
+    "rank": 985,
+    "url": "https://change.org/",
+    "runAt": "2026-10-18T17:56:27.568Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5034,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.change.org/",
+      "bytes": 308248
+    },
+    "rendered": {
+      "title": "Change starts here · Change.org",
+      "canonical": "https://www.change.org/",
+      "words": 241,
+      "jsonLdTypes": [
+        "imageobject",
+        "organization"
+      ],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 226,
+      "renderedWords": 241,
+      "coverage": 58.1,
+      "rawOnlyTokens": 86,
+      "renderedOnlyTokens": 101,
+      "renderedOnlySample": [
+        "contentmy",
+        "petitionsmembershipsearchstart",
+        "petitionlog",
+        "inchangestarts",
+        "petitionget",
+        "aitrending",
+        "signaturesjustice",
+        "america's",
+        "disasterstrending",
+        "signaturesone",
+        "children's",
+        "livesvictory",
+        "signaturesher",
+        "lawvictory",
+        "signatureshow",
+        "prisontrending",
+        "she's",
+        "disastersvictory",
+        "signaturesvictory",
+        "signaturestrending",
+        "disastersusing",
+        "easy1start",
+        "minutes2",
+        "daily2gain",
+        "audience500"
+      ],
+      "jsonLdRaw": [
+        "imageobject",
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "imageobject",
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 63.6,
+      "titleDiffers": false,
+      "rawTitle": "Change starts here · Change.org",
+      "renderedTitle": "Change starts here · Change.org",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

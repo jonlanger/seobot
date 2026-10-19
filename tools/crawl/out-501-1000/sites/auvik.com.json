@@ -1,0 +1,163 @@
+[
+  {
+    "domain": "auvik.com",
+    "rank": 1159,
+    "url": "https://auvik.com/",
+    "runAt": "2026-10-18T18:03:02.651Z",
+    "robots": {
+      "status": 200,
+      "bytes": 370,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.auvik.com/",
+      "bytes": 355148
+    },
+    "rendered": {
+      "title": "Auvik Networks: Best Network Management Software Solution",
+      "canonical": "https://www.auvik.com/",
+      "words": 1653,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "headings": 25,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 556,
+      "renderedWords": 1653,
+      "coverage": 32.7,
+      "rawOnlyTokens": 16,
+      "renderedOnlyTokens": 1113,
+      "renderedOnlySample": [
+        "consentdetails",
+        "iabv2settings",
+        "aboutour",
+        "website",
+        "uses",
+        "cookieswe",
+        "cookies",
+        "improve",
+        "experiences",
+        "analytical",
+        "purposes",
+        "learn",
+        "dsr",
+        "url",
+        "text",
+        "gpc",
+        "banner",
+        "icon",
+        "toast",
+        "consent",
+        "selectionnecessary",
+        "preferences",
+        "statistics",
+        "marketing",
+        "detailsdetailsnecessary"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 25,
+      "headingsAlsoInRaw": 24,
+      "headingsCoverage": 96,
+      "titleDiffers": false,
+      "rawTitle": "Auvik Networks: Best Network Management Software Solution",
+      "renderedTitle": "Auvik Networks: Best Network Management Software Solution",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

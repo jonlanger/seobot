@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "costco.com",
+    "rank": 1001,
+    "url": "https://costco.com/",
+    "runAt": "2026-10-18T17:57:06.690Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3997,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.costco.com/",
+      "bytes": 3185691
+    },
+    "rendered": {
+      "title": "Welcome to Costco Wholesale",
+      "canonical": "https://www.costco.com/",
+      "words": 582,
+      "jsonLdTypes": [
+        "corporation"
+      ],
+      "headings": 49,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 253,
+      "renderedWords": 582,
+      "coverage": 15.6,
+      "rawOnlyTokens": 162,
+      "renderedOnlyTokens": 491,
+      "renderedOnlySample": [
+        "contentpre-order",
+        "nowwhile",
+        "lastonline-onlytreasure",
+        "huntwhat's",
+        "newmember",
+        "favoritesrecommendations",
+        "youget",
+        "offerscustomer",
+        "serviceuswhat's",
+        "newwhile",
+        "lastget",
+        "serviceusaccountsign",
+        "registerorders",
+        "returnscartwarehousesaccountsign",
+        "registercartshopappliancesbabybeautyblack",
+        "fridayclothing",
+        "handbagscomputerscostco",
+        "directcyber",
+        "mondayelectronicsfloral",
+        "basketsfurnituregift",
+        "ticketsgrocery",
+        "essentialshealth",
+        "careholiday",
+        "seasonalhome",
+        "serviceshome"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "corporation"
+      ],
+      "jsonLdMissingFromRaw": [
+        "corporation"
+      ],
+      "headingsRendered": 49,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 16.3,
+      "titleDiffers": false,
+      "rawTitle": "Welcome to Costco Wholesale",
+      "renderedTitle": "Welcome to Costco Wholesale",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "ovh.com",
+    "rank": 1255,
+    "url": "https://ovh.com/",
+    "runAt": "2026-10-18T18:06:27.045Z",
+    "robots": {
+      "status": 200,
+      "bytes": 6531,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ovhcloud.com/en/",
+      "bytes": 1043678
+    },
+    "rendered": {
+      "title": "Cloud Computing & Web Hosting | OVHcloud Worldwide",
+      "canonical": "https://www.ovhcloud.com/en/",
+      "words": 1561,
+      "jsonLdTypes": [
+        "product",
+        "webpage"
+      ],
+      "headings": 20,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 977,
+      "renderedWords": 1561,
+      "coverage": 49.3,
+      "rawOnlyTokens": 207,
+      "renderedOnlyTokens": 791,
+      "renderedOnlySample": [
+        "skip",
+        "may",
+        "vary",
+        "selected",
+        "afghanistanåland",
+        "islandsalbaniaalgeriaamerican",
+        "samoaandorraangolaanguillaantarcticaantigua",
+        "barbudaargentinaarmeniaarubaaustraliaaustriaazerbaijanbahamasbahrainbangladeshbarbadosbelgiumbelizebeninbermudabhutanboliviabosnia",
+        "herzegovinabotswanabouvet",
+        "islandbrazilbritish",
+        "indian",
+        "ocean",
+        "territorybritish",
+        "virgin",
+        "islandsbruneibulgariaburkina",
+        "fasoburundicambodiacamerooncanadacape",
+        "verdecaribbean",
+        "netherlandscayman",
+        "islandscentral",
+        "african",
+        "republicchadchilechristmas",
+        "islandcocos",
+        "keeling",
+        "islandscolombiacomoroscongo",
+        "brazzavillecongo"
+      ],
+      "jsonLdRaw": [
+        "product",
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "product",
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 20,
+      "headingsAlsoInRaw": 19,
+      "headingsCoverage": 95,
+      "titleDiffers": true,
+      "rawTitle": "Cloud Computing &amp; Web Hosting | OVHcloud Worldwide",
+      "renderedTitle": "Cloud Computing & Web Hosting | OVHcloud Worldwide",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

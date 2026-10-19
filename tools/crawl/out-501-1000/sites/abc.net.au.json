@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "abc.net.au",
+    "rank": 1271,
+    "url": "https://abc.net.au/",
+    "runAt": "2026-10-18T18:07:13.893Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2311,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.abc.net.au/",
+      "bytes": 831620
+    },
+    "rendered": {
+      "title": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "canonical": "https://www.abc.net.au/",
+      "words": 1091,
+      "jsonLdTypes": [
+        "collectionpage",
+        "newsmediaorganization",
+        "website"
+      ],
+      "headings": 119,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 983,
+      "renderedWords": 1091,
+      "coverage": 68.2,
+      "rawOnlyTokens": 239,
+      "renderedOnlyTokens": 347,
+      "renderedOnlySample": [
+        "contentskip",
+        "searchexplore",
+        "abcnewsiviewlistenlog",
+        "inlog",
+        "inabc",
+        "newsjust",
+        "infor",
+        "youpoliticsworldbusinessanalysissportmoresearchsearch",
+        "abcstart",
+        "typing",
+        "suggestions",
+        "enter",
+        "choose",
+        "options",
+        "below",
+        "cancelnews",
+        "homejust",
+        "youanalysisruralwatch",
+        "livehealthindigenouspoliticssciencedeep",
+        "timeelectionsworldenvironmentinvestigationsbusinesslocal",
+        "newsquizzessportaflnrlfootballtenniscricketnetballlifestylewellbeingrelationships",
+        "familyfood",
+        "recipespersonal",
+        "financehome",
+        "gardenentertainmenttv"
+      ],
+      "jsonLdRaw": [
+        "collectionpage",
+        "newsmediaorganization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "collectionpage",
+        "newsmediaorganization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 119,
+      "headingsAlsoInRaw": 83,
+      "headingsCoverage": 69.7,
+      "titleDiffers": true,
+      "rawTitle": "ABC News &amp; Headlines – Australian Broadcasting Corporation",
+      "renderedTitle": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

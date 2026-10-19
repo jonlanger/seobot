@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "asurascans.com",
+    "rank": 1351,
+    "url": "https://asurascans.com/",
+    "runAt": "2026-10-18T18:10:24.745Z",
+    "robots": {
+      "status": 200,
+      "bytes": 312,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://asurascans.com/",
+      "bytes": 761189
+    },
+    "rendered": {
+      "title": "Asura Scans - Read Manga, Manhwa & Manhua Online",
+      "canonical": "https://asurascans.com/",
+      "words": 461,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "website"
+      ],
+      "headings": 42,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 328,
+      "renderedWords": 461,
+      "coverage": 43.8,
+      "rawOnlyTokens": 126,
+      "renderedOnlyTokens": 259,
+      "renderedOnlySample": [
+        "homenovels",
+        "sign",
+        "mythicnewevery",
+        "every",
+        "unlocked",
+        "unlimited",
+        "accessexclusive",
+        "badgecomment",
+        "background",
+        "coloursprofile",
+        "customisationeverything",
+        "premium",
+        "monthlogin",
+        "subscribeasura",
+        "subscribe",
+        "moreread",
+        "6the",
+        "home7",
+        "0the",
+        "expense9",
+        "3pick",
+        "mage9",
+        "saint8",
+        "7copying",
+        "0solo"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 42,
+      "headingsAlsoInRaw": 38,
+      "headingsCoverage": 90.5,
+      "titleDiffers": true,
+      "rawTitle": "Asura Scans - Read Manga, Manhwa &amp; Manhua Online",
+      "renderedTitle": "Asura Scans - Read Manga, Manhwa & Manhua Online",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

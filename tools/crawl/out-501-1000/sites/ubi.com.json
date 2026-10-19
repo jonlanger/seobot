@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "ubi.com",
+    "rank": 1031,
+    "url": "https://ubi.com/",
+    "runAt": "2026-10-18T17:58:12.415Z",
+    "robots": {
+      "status": 200,
+      "bytes": 632203,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ubisoft.com/en-us",
+      "bytes": 632203
+    },
+    "rendered": {
+      "title": "Ubisoft | Welcome to the official Ubisoft website",
+      "canonical": "https://www.ubisoft.com/en-us/",
+      "words": 333,
+      "jsonLdTypes": [],
+      "headings": 25,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 182,
+      "renderedWords": 333,
+      "coverage": 42.3,
+      "rawOnlyTokens": 41,
+      "renderedOnlyTokens": 192,
+      "renderedOnlySample": [
+        "websitetravel",
+        "hitsavailable",
+        "game5",
+        "agotravel",
+        "agoget",
+        "unitstom",
+        "clancy's",
+        "2pre-order",
+        "units4",
+        "agodoktor",
+        "siegereturn",
+        "doktor's",
+        "labdoktor",
+        "agosee",
+        "siegey11s3",
+        "notessee",
+        "agojust",
+        "agotom",
+        "unitspre-order4",
+        "more3",
+        "agoslides",
+        "5what's",
+        "assassin's",
+        "resyncedstandard",
+        "99preorderrayman"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 25,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 60,
+      "titleDiffers": false,
+      "rawTitle": "Ubisoft | Welcome to the official Ubisoft website",
+      "renderedTitle": "Ubisoft | Welcome to the official Ubisoft website",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

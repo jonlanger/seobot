@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "filmweb.pl",
+    "rank": 1387,
+    "url": "https://filmweb.pl/",
+    "runAt": "2026-10-18T18:11:39.347Z",
+    "robots": {
+      "status": 200,
+      "bytes": 426,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.filmweb.pl/",
+      "bytes": 456295
+    },
+    "rendered": {
+      "title": "Filmweb - filmy takie jak Ty!",
+      "canonical": "",
+      "words": 1257,
+      "jsonLdTypes": [],
+      "headings": 219,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1067,
+      "renderedWords": 1257,
+      "coverage": 79.2,
+      "rawOnlyTokens": 72,
+      "renderedOnlyTokens": 262,
+      "renderedOnlySample": [
+        "szanujemy",
+        "twoją",
+        "prywatnośćza",
+        "zgodą",
+        "zaufani",
+        "partnerzy",
+        "iab",
+        "1034",
+        "pozostali",
+        "używamy",
+        "plików",
+        "cookie",
+        "lub",
+        "podobnych",
+        "technologii",
+        "przechowywania",
+        "przetwarzania",
+        "danych",
+        "osobowych",
+        "uzyskiwania",
+        "dostępu",
+        "takich",
+        "informacje",
+        "wizycie",
+        "tej"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 219,
+      "headingsAlsoInRaw": 166,
+      "headingsCoverage": 75.8,
+      "titleDiffers": false,
+      "rawTitle": "Filmweb - filmy takie jak Ty!",
+      "renderedTitle": "Filmweb - filmy takie jak Ty!",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

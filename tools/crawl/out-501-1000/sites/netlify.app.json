@@ -1,0 +1,159 @@
+[
+  {
+    "domain": "netlify.app",
+    "rank": 884,
+    "url": "https://netlify.app/",
+    "runAt": "2026-10-18T17:52:03.465Z",
+    "robots": {
+      "status": 200,
+      "bytes": 147,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.netlify.com/",
+      "bytes": 415158
+    },
+    "rendered": {
+      "title": "Push your ideas to the web | Netlify",
+      "canonical": "https://www.netlify.com/",
+      "words": 613,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "softwareapplication",
+        "webpage",
+        "website"
+      ],
+      "headings": 34,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 442,
+      "renderedWords": 613,
+      "coverage": 70.5,
+      "rawOnlyTokens": 10,
+      "renderedOnlyTokens": 181,
+      "renderedOnlySample": [
+        "netlify's",
+        "searchclearask",
+        "aiget",
+        "answers",
+        "powered",
+        "actionstoggle",
+        "themeescto",
+        "closetabor",
+        "navigate",
+        "webcreate",
+        "failed",
+        "again",
+        "aistart",
+        "appsconnect",
+        "everywheredeploy",
+        "agentdescribe",
+        "gitauto-deploy",
+        "terminaldeploy",
+        "dropdrop",
+        "runnersconnect",
+        "gatewaydeploy",
+        "runnersreview",
+        "previewsoptimize",
+        "runnersdeploy",
+        "databasescale"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "softwareapplication",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "softwareapplication",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 34,
+      "headingsAlsoInRaw": 28,
+      "headingsCoverage": 82.4,
+      "titleDiffers": false,
+      "rawTitle": "Push your ideas to the web | Netlify",
+      "renderedTitle": "Push your ideas to the web | Netlify",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

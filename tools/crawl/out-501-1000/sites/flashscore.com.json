@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "flashscore.com",
+    "rank": 1011,
+    "url": "https://flashscore.com/",
+    "runAt": "2026-10-18T17:57:21.397Z",
+    "robots": {
+      "status": 200,
+      "bytes": 7185,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.flashscore.com/",
+      "bytes": 733867
+    },
+    "rendered": {
+      "title": "Football Live Scores, Latest Football Results | Flashscore.com",
+      "canonical": "https://www.flashscore.com/",
+      "words": 2650,
+      "jsonLdTypes": [],
+      "headings": 25,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 539,
+      "renderedWords": 2650,
+      "coverage": 20,
+      "rawOnlyTokens": 8,
+      "renderedOnlyTokens": 2119,
+      "renderedOnlySample": [
+        "advertisement",
+        "login",
+        "favorites0footballtennisbasketballhockeygolfformula",
+        "1baseballsnookermore",
+        "gamesalllive",
+        "gamesliveoddsfinishedscheduled18",
+        "supremier",
+        "leagueengland",
+        "standingsfinishedbournemouthsunderland20finishedbrightoncrystal",
+        "palace50finishedleedsmanchester",
+        "utd11finishednottinghamarsenal01ligue",
+        "1france",
+        "standingsfinishedangersmarseille25finishedle",
+        "havreauxerre13finishedlorientmonaco10finishedparis",
+        "fcrennes4314",
+        "45lyonnicepreviewbundesligagermany",
+        "standingsfinishedbayer",
+        "leverkusenfreiburg21finishedb",
+        "monchengladbachhoffenheim12serie",
+        "aitaly",
+        "standingsfinishedudineselecce03finishedfiorentinacomo13finishedac",
+        "milanatalanta3214",
+        "45juventuslazioprevieweredivisienetherlands",
+        "standingsfinishedzwolleg",
+        "eagles41finishedcambuuraz"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 25,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 8,
+      "titleDiffers": false,
+      "rawTitle": "Football Live Scores, Latest Football Results | Flashscore.com",
+      "renderedTitle": "Football Live Scores, Latest Football Results | Flashscore.com",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

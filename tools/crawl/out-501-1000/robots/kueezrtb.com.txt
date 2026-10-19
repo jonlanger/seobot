@@ -1,0 +1,766 @@
+<!DOCTYPE html><!-- Last Published: Sun Oct 18 2026 13:02:57 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="weare.kueez.com" data-wf-page="6822f8d5489c42a5572ed7de" data-wf-site="6822f8d5489c42a5572ed7d5" lang="en"><head><meta charset="utf-8"/><link href="https://cdn.prod.website-files.com" rel="preconnect" crossorigin="anonymous"/><title>We are Kueez</title><meta content="We Design a suite of innovative solutions, driving profitable scale and growth for publishers and performance marketers" name="description"/><meta content="We are Kueez" property="og:title"/><meta content="We Design a suite of innovative solutions, driving profitable scale and growth for publishers and performance marketers" property="og:description"/><meta content="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/685bfe9082770000556e7008_458e089ce69294070513309fae0348a5_pages%20SEO%20img.png" property="og:image"/><meta content="We are Kueez" name="twitter:title"/><meta content="We Design a suite of innovative solutions, driving profitable scale and growth for publishers and performance marketers" name="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/css/kueez.webflow.shared.8ff1f7206.css" rel="stylesheet" type="text/css" integrity="sha384-j/H3IGC9CBSUk9MGFGxiRNWRbzNwZDWTd1xrMUrpU4zm/UWRe80f7v+SW20XHnok" crossorigin="anonymous"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Gloock:300,400,500,600,700","Poppins:300,400,500,600,700"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/686239e98ef9b871c85e0cda_fav%20good.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/685bfd25998479bd469b1f50_web%202.png" rel="apple-touch-icon"/><script>(function(w,i,g){w[g]=w[g]||[];if(typeof w[g].push=='function')w[g].push.apply(w[g],Array.isArray(i)?i:[i]);})(window,['G-04727GE94H'],'google_tags_first_party');</script><script async="" src="/nvhc9u4gxsagNjgyMmY4ZDU0ODljNDJhNTU3MmVkN2Q1/hLCeE_mrV_bJbwK54KduB6n5vkg"></script><script type="text/javascript">window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('set', 'developer_id.dZGVlNj', true);gtag('set', 'developer_id.dYWYxNW', true);gtag('js', new Date());gtag('config', 'G-04727GE94H');</script><script src="https://web.cmp.usercentrics.eu/modules/autoblocker.js"></script>
+<script id="usercentrics-cmp" src="https://web.cmp.usercentrics.eu/ui/loader.js" data-settings-id="FSlc5KfsvR18Iw" async></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17755965889"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17755965889');
+</script>
+<!-- Start of HubSpot Embed Code -->
+<script type="text/javascript" id="hs-script-loader" async defer src="//js-eu1.hs-scripts.com/143527954.js"></script>
+<!-- End of HubSpot Embed Code -->
+<style>
+/* Default checkbox appearance */
+input.checkbox.product {
+    appearance: none !important;
+    -webkit-appearance: none !important;
+    width: 17px !important;
+    height: 17px !important;
+    min-width: 17px;
+    min-height: 17px;
+    margin-right: 5px !important;
+    border: 1px solid #4d4d4d !important;
+    border-radius: 50% !important;
+    background: transparent !important;
+    background-image: none !important;
+    box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    margin: 0;
+    opacity: 1;
+}
+
+/* Checked state */
+input.checkbox.product:checked {
+  appearance: none !important;
+  -webkit-appearance: none !important;
+  background: #456eff !important;
+  background-image: none !important;
+  border-color: #4d4d4d !important;
+}
+
+/* Focus state */
+input.checkbox.product:focus-visible {
+  outline: 2px solid #456eff;
+}
+  .navbar_wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 56px;
+  z-index: -2;
+  background-color: rgba(218, 228, 255, 0.2) !important; 
+  -webkit-backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(5px) !important;
+  pointer-events: none;
+}
+.nav_blurred-wrapper::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
+  background-color: rgba(218, 228, 255, 0.2) !important; 
+  -webkit-backdrop-filter: blur(5px) !important;
+  backdrop-filter: blur(5px) !important;
+  pointer-events: none;
+}
+@media only screen and (max-width:768px) {
+  .nav_blurred-wrapper::before {
+  background-color: transparent !important; 
+  -webkit-backdrop-filter: none !important;
+  backdrop-filter: none !important;
+}
+}
+</style><style>
+/* Technology card hover animation */
+.technology_card .image-grow {
+  scale: 1;
+  transition: scale 500ms ease;
+}
+.technology_card .tech-background {
+  opacity: 0;
+  transition: opacity 500ms ease;
+}
+.technology_card:hover .image-grow {
+  scale: 1.05;
+}
+.technology_card:hover .tech-background {
+  opacity: 1;
+}
+
+/* Enterprise card hover animation */
+.enterprise-card:not(.transparent.to-top) .enterprise-background-image {
+  scale: 1;
+  transition: scale 500ms ease;
+}
+.enterprise-card:not(.transparent.to-top):hover .enterprise-background-image {
+  scale: 1.05;
+}
+
+.enterprise-card.transparent.to-top .enterprise-background-image.secondary {
+  opacity: 0;
+  transition: opacity 500ms ease;
+}
+.enterprise-card.transparent.to-top:hover .enterprise-background-image.secondary {
+  opacity: 1;
+}
+@media (prefers-reduced-motion: reduce) {
+  .technology_card .image-grow,
+  .technology_card .tech-background {
+    transition: none;
+  }
+  .enterprise-card .enterprise-background-image {
+    transition: none;
+  }
+  .enterprise-card.transparent.to-top .enterprise-background-image.secondary {
+    transition: none;
+  }
+}
+
+</style>
+<!-- Kueez blog slider -->
+<style id="kueez-blog-slider-css">
+.blog-section { --blog-pill: var(--_kueez-tokens---pill-colors, #f7eab9); }
+.blog-section .case_study-navigation { display: none; }
+.blog-section > .section {
+  width: calc(100% - 48px); max-width: 1680px; margin: 0 auto;
+  padding: 75px 0; min-width: 0;
+}
+.blog-section > .section > .container { width: 100%; max-width: none; padding: 0; }
+.blog-section .swiper-top,
+.blog-section .blog_title-wrapper {
+  display: flex; justify-content: space-between; align-items: center; gap: 24px; margin-bottom: 32px;
+}
+.blog-section .swiper-button__wrap { display: flex; gap: 12px; flex-shrink: 0; }
+.blog-section .kueez-blog-viewport {
+  width: 100%; max-width: 100%; overflow-x: auto; overflow-y: hidden;
+  scroll-snap-type: x mandatory; overscroll-behavior-x: contain;
+  scrollbar-width: none; direction: ltr;
+}
+.blog-section .kueez-blog-viewport::-webkit-scrollbar { display: none; }
+.blog-section .kueez-blog-viewport[data-animating] { scroll-snap-type: none; }
+.blog-section .kueez-blog-track {
+  display: flex; flex-wrap: nowrap; align-items: stretch; gap: 24px;
+  width: 100%; margin: 0; padding: 0 0 20px; transform: none;
+}
+.blog-section .kueez-blog-slide {
+  flex: 0 0 calc((100% - 72px) / 4); width: calc((100% - 72px) / 4);
+  min-width: 0; max-width: none; margin: 0;
+  scroll-snap-align: start;
+}
+.blog-section .kueez-blog-slide .blog_item-wrapper,
+.blog-section .kueez-blog-slide .blog-card { width: 100%; height: 100%; min-width: 0; }
+.blog-section .kueez-blog-slide .blog-card { display: flex; flex-direction: column; overflow: hidden; }
+.blog-section .kueez-blog-slide .image-6 { width: 100%; aspect-ratio: 16 / 10; height: auto; object-fit: cover; }
+.blog-section .kueez-blog-slide .blog_card_content-wrapper { flex: 1; min-width: 0; }
+.blog-section .swiper-button {
+  position: relative; display: flex; align-items: center; justify-content: center;padding: 0; border: 0;
+  border-radius: 50%; background: var(--blog-pill) !important;
+  cursor: pointer; opacity: 1 !important; text-decoration: none;
+  transition: background-color 250ms ease, scale 250ms ease;
+}
+.blog-section .swiper-button > * { display: none !important; }
+.blog-section .swiper-button::after {
+  content: ""; display: block; width: 29px; height: 25px;
+  background: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjkiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAyOSAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxtYXNrIGlkPSJtYXNrMF8xXzE0MSIgc3R5bGU9Im1hc2stdHlwZTphbHBoYSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMCIgeT0iMCIgd2lkdGg9IjI5IiBoZWlnaHQ9IjI1Ij4KPHJlY3Qgd2lkdGg9IjI5IiBoZWlnaHQ9IjI1IiBmaWxsPSJ1cmwoI3BhdHRlcm4wXzFfMTQxKSIvPgo8L21hc2s+CjxnIG1hc2s9InVybCgjbWFzazBfMV8xNDEpIj4KPHJlY3QgeD0iLTAuMDEwNzQyMiIgeT0iMC4wMDg3ODkwNiIgd2lkdGg9IjI5LjAyMTciIGhlaWdodD0iMjUuMDE4NyIgZmlsbD0iIzAwMDAwMCIvPgo8L2c+CjxkZWZzPgo8cGF0dGVybiBpZD0icGF0dGVybjBfMV8xNDEiIHBhdHRlcm5Db250ZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94IiB3aWR0aD0iMSIgaGVpZ2h0PSIxIj4KPHVzZSB4bGluazpocmVmPSIjaW1hZ2UwXzFfMTQxIiB0cmFuc2Zvcm09Im1hdHJpeCgwLjAxMjg4NiAwIDAgMC4wMTQ2ODc1IC0wLjY0OTQwNiAtMC40NCkiLz4KPC9wYXR0ZXJuPgo8aW1hZ2UgaWQ9ImltYWdlMF8xXzE0MSIgd2lkdGg9IjEyOCIgaGVpZ2h0PSIxMjgiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiIHhsaW5rOmhyZWY9ImRhdGE6aW1hZ2UvcG5nO2Jhc2U2NCxpVkJPUncwS0dnb0FBQUFOU1VoRVVnQUFBSUFBQUFDQUNBWUFBQUREUG1ITEFBQUFCSE5DU1ZRSUNBZ0lmQWhraUFBQUFBbHdTRmx6QUFBRGRnQUFBM1lCZmRXQ3pBQUFBQmwwUlZoMFUyOW1kSGRoY21VQWQzZDNMbWx1YTNOallYQmxMbTl5WjV2dVBCb0FBQU5MU1VSQlZIaWM3ZDIvcWhWWEZJRHhiL2tYSzVFVUZwSkh5QnZZV2F1RnBnL0VNazNLeE9qMXZ6NkRqWVZCQk1IQ09wMWxIaUpkaXBBbWJVQ1d4VDFZeUwxek9mZWUyWHZQck84clp6YWNEZXNITTV4aWRtUW1WcmRUdlRkZ2ZSTkE4UVJRUEFFVVR3REZFMER4QkZBOEFSUlBBTVVUUVBFRVVEd0JGRThBeFJOQThRUlFQQUVVVHdERkUwRHhCRkE4QVJSUEFNVVRRUEVFVUR3QkZFOEF4Uk5BOFFSUVBBRVVUd0RGRTBEeEJOQ3hpRGdYRVJkNjdrRUFIWXFJU3hIeE8vQVA4RmRFL0J3Ulo3dnN4UTlFdEM4aW5nQjN2N3I4QWZnK00vOXZ1aGNCdEM4aS9nVytPZUJXY3dRK0F2cjA1eUhYYndEdkl1SmNxNDBJb0UrdkorNDFSU0NBRG1YbUcrRGh4SkptQ0FUUXFjeDh3QUFJQk5DeEVSQUlvSE1iQkk4bWxzeUtRQUFEbEpsN2RFSWdnRUhxaFVBQUE3VkI4SGhpeWM0UkNHQ3dNdk0rRFJFSVlNQmFJaERBb0cwUVBKbFlzaE1FQWhpNHpMekh6QWdFTUhoekl4REFBdG9nZURxeDVOZ0lCTENRTXZNM1prQWdnQVUxQndJQkxLd05nbWNUUzdaQ0lJQUZscGwzMlJFQ0FTeTBYU0VRd0lMYklIZytzZVJJQkFKWWVKbjVLeWRBSUlBVmRCSUVBbGhKR3dRdkpwWWNpRUFBS3lvemYyRkxCQUpZV2RzaUNQWVJYQWQrQXI2YmZZZldxc3RIM1A4QTNBN2dCK0RWN051eEVmdnhOUEFTdU5KN0o5YWxLNmZZZnd4WTBVNERuNENidlRkaVhib1h3Qm5nRnI0RXJxMkxSOXpmZnduMEF4SHJLeUllQUhzVFM3NThpTUwvQVZiV05zTUgvd2hhVmRzT0h3U3dtbzR6ZkJEQUtqcnU4RUVBaSs4a3d3Y0JMTHFURGg4RXNOaDJNWHdRd0NMYjFmQkJBSXRybDhNSEFTeXFYUThmQkxDWTVoZytDR0FSelRWOEVNRHd6VGw4RU1EUXpUMThFTUN3dFJnK0NHRElXZzBmQkRCY0xZY1BBaGlxMXNNSEFReFRqK0dEQUlhbzEvQkJBTjNyT1h3UVFOZDZEeDhFMEswUmhnOGVITm1saUxnRy9ER3hwTmtCa2dMb1VFUjhCSzRlY3J2cDZhRStBdnIwN1NIWFBUcTJTTzhQdU5ibDhPZ3pMWC9NdnZRQ09BL2NBZjRHM2dKN3JZY1B2Z04wTFNJdVp1Wi9YZmNnZ05yNURsQThBUlJQQU1VVFFQRUVVRHdCRkU4QXhSTkE4UVJRUEFFVVR3REZFMER4QkZBOEFSUlBBTVVUUVBFRVVEd0JGRThBeFJOQThRUlFQQUVVVHdERkUwRHhCRkE4QVJSUEFNVVRRUEVFVUR3QkZPOHpmSjVkYVk0WlUrMEFBQUFBU1VWT1JLNUNZSUk9Ii8+CjwvZGVmcz4KPC9zdmc+Cg==") center / contain no-repeat;
+  transform: none;
+}
+.blog-section .swiper-btn-prev::after { transform: rotate(180deg); }
+.blog-section .swiper-button[aria-disabled="true"] {
+  background: #fff !important; cursor: default; scale: 1;
+}
+.blog-section .swiper-button[aria-disabled="true"]::after {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjkiIGhlaWdodD0iMjUiIHZpZXdCb3g9IjAgMCAyOSAyNSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxtYXNrIGlkPSJtYXNrMF8xXzE0NiIgc3R5bGU9Im1hc2stdHlwZTphbHBoYSIgbWFza1VuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeD0iMCIgeT0iMCIgd2lkdGg9IjI5IiBoZWlnaHQ9IjI1Ij4KPHJlY3Qgd2lkdGg9IjI5IiBoZWlnaHQ9IjI1IiB0cmFuc2Zvcm09Im1hdHJpeCgtMSAwIDAgMSAyOSAwKSIgZmlsbD0idXJsKCNwYXR0ZXJuMF8xXzE0NikiLz4KPC9tYXNrPgo8ZyBtYXNrPSJ1cmwoI21hc2swXzFfMTQ2KSI+CjxyZWN0IHdpZHRoPSIyOS4wMjE3IiBoZWlnaHQ9IjI1LjAxODciIHRyYW5zZm9ybT0ibWF0cml4KC0xIDAgMCAxIDI5LjAxMDcgMC4wMDg3ODkwNikiIGZpbGw9IiNmN2VhYjkiLz4KPC9nPgo8ZGVmcz4KPHBhdHRlcm4gaWQ9InBhdHRlcm4wXzFfMTQ2IiBwYXR0ZXJuQ29udGVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgd2lkdGg9IjEiIGhlaWdodD0iMSI+Cjx1c2UgeGxpbms6aHJlZj0iI2ltYWdlMF8xXzE0NiIgdHJhbnNmb3JtPSJtYXRyaXgoMC4wMTI4ODYgMCAwIDAuMDE0Njg3NSAtMC42NDk0MDYgLTAuNDQpIi8+CjwvcGF0dGVybj4KPGltYWdlIGlkPSJpbWFnZTBfMV8xNDYiIHdpZHRoPSIxMjgiIGhlaWdodD0iMTI4IiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIiB4bGluazpocmVmPSJkYXRhOmltYWdlL3BuZztiYXNlNjQsaVZCT1J3MEtHZ29BQUFBTlNVaEVVZ0FBQUlBQUFBQ0FDQVlBQUFERFBtSExBQUFBQkhOQ1NWUUlDQWdJZkFoa2lBQUFBQWx3U0ZsekFBQURkZ0FBQTNZQmZkV0N6QUFBQUJsMFJWaDBVMjltZEhkaGNtVUFkM2QzTG1sdWEzTmpZWEJsTG05eVo1dnVQQm9BQUFOTFNVUkJWSGljN2QyL3FoVlhGSUR4Yi9rWEs1RVVGcEpIeUJ2WVdhdUZwZy9FTWszS3hPajF2ejZEallWQkJNSENPcDFsSGlKZGlwQW1iVUNXeFQxWXlMMXpPZmVlMlh2UHJPOHJaemFjRGVzSE01eGlkbVFtVnJkVHZUZGdmUk5BOFFSUVBBRVVUd0RGRTBEeEJGQThBUlJQQU1VVFFQRUVVRHdCRkU4QXhSTkE4UVJRUEFFVVR3REZFMER4QkZBOEFSUlBBTVVUUVBFRVVEd0JGRThBeFJOQThRUlFQQUVVVHdERkUwRHhCTkN4aURnWEVSZDY3a0VBSFlxSVN4SHhPL0FQOEZkRS9Cd1JaN3ZzeFE5RXRDOGluZ0IzdjdyOEFmZytNLzl2dWhjQnRDOGkvZ1crT2VCV2N3UStBdnIwNXlIWGJ3RHZJdUpjcTQwSW9FK3ZKKzQxUlNDQURtWG1HK0RoeEpKbUNBVFFxY3g4d0FBSUJOQ3hFUkFJb0hNYkJJOG1sc3lLUUFBRGxKbDdkRUlnZ0VIcWhVQUFBN1ZCOEhoaXljNFJDR0N3TXZNK0RSRUlZTUJhSWhEQW9HMFFQSmxZc2hNRUFoaTR6THpIekFnRU1IaHpJeERBQXRvZ2VEcXg1TmdJQkxDUU12TTNaa0FnZ0FVMUJ3SUJMS3dOZ21jVFM3WkNJSUFGbHBsMzJSRUNBU3kwWFNFUXdJTGJJSGcrc2VSSUJBSlllSm41S3lkQUlJQVZkQklFQWxoSkd3UXZKcFljaUVBQUt5b3pmMkZMQkFKWVdkc2lDUFlSWEFkK0FyNmJmWWZXcXN0SDNQOEEzQTdnQitEVjdOdXhFZnZ4TlBBU3VOSjdKOWFsSzZmWWZ3eFkwVTREbjRDYnZUZGlYYm9Yd0JuZ0ZyNEVycTJMUjl6ZmZ3bjBBeEhyS3lJZUFIc1RTNzU4aU1ML0FWYldOc01IL3doYVZkc09Id1N3bW80emZCREFLanJ1OEVFQWkrOGt3d2NCTExxVERoOEVzTmgyTVh3UXdDTGIxZkJCQUl0cmw4TUhBU3lxWFE4ZkJMQ1k1aGcrQ0dBUnpUVjhFTUR3elRsOEVNRFF6VDE4RU1Dd3RSZytDR0RJV2cwZkJEQmNMWWNQQWhpcTFzTUhBUXhUaitHREFJYW8xL0JCQU4zck9Yd1FRTmQ2RHg4RTBLMFJoZzhlSE5tbGlMZ0cvREd4cE5rQmtnTG9VRVI4Qks0ZWNydnA2YUUrQXZyMDdTSFhQVHEyU084UHVOYmw4T2d6TFgvTXZ2UUNPQS9jQWY0RzNnSjdyWWNQdmdOMExTSXVadVovWGZjZ2dOcjVEbEE4QVJSUEFNVVRRUEVFVUR3QkZFOEF4Uk5BOFFSUVBBRVVUd0RGRTBEeEJGQThBUlJQQU1VVFFQRUVVRHdCRkU4QXhSTkE4UVJRUEFFVVR3REZFMER4QkZBOEFSUlBBTVVUUVBFRVVEd0JGTzh6Zko1ZGFZNFpVKzBBQUFBQVNVVk9SSzVDWUlJPSIvPgo8L2RlZnM+Cjwvc3ZnPgo=");
+  transform: rotate(180deg);
+}
+.blog-section .swiper-btn-prev[aria-disabled="true"]::after { transform: none; }
+.blog-section .swiper-button:not([aria-disabled="true"]):hover { scale: 1.05; }
+.blog-section .swiper-button:focus-visible,
+.blog-section .kueez-blog-viewport:focus-visible { outline: 2px solid #222; outline-offset: 4px; }
+.blog-slider-status {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0;
+}
+@media (max-width: 991px) {
+  .blog-section .kueez-blog-slide { flex-basis: calc((100% - 24px) / 2); width: calc((100% - 24px) / 2); }
+}
+@media (max-width: 600px) {
+  .blog-section .blog_title-wrapper { flex-wrap: wrap; gap: 20px; }
+  .blog-section .blog_title-box { width: auto; min-width: 0; }
+  .blog-section > .section { width: calc(100% - 32px); padding: 48px 0; }
+  .blog-section .swiper-top { flex-wrap: wrap; gap: 20px; margin-bottom: 24px; }
+  .blog-section .kueez-blog-slide { flex-basis: 100%; width: 100%; }
+  .blog-section .kueez-blog-track { gap: 16px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .blog-section .swiper-button { transition: none; }
+}
+</style>
+<!-- Growth card animation: native Webflow styles define desktop states. -->
+<style id="kueez-growth-motion">
+.growth_partner-section .growth_card { cursor: pointer; }
+.growth_partner-section .growth_card:focus-visible {
+  outline: 3px solid #456eff; outline-offset: 5px;
+}
+.growth_partner-section .inner-content { pointer-events: none; }
+@media (max-width: 1100px) {
+  .growth_partner-section .growth_slider,
+  .growth_partner-section .growth_slider.expanded-first,
+  .growth_partner-section .growth_slider.expanded-last {
+    display: grid;
+    box-sizing: border-box; width: 100%; min-width: 0;
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-rows: repeat(3, 445px);
+    grid-auto-rows: 445px;
+    gap: 20px;
+    max-width: 666px; padding-left: 20px; padding-right: 20px;
+    transition: none;
+  }
+  .growth_partner-section .growth_card,
+  .growth_partner-section .growth_card.active {
+    box-sizing: border-box;
+    width: 100%; min-width: 0; max-width: 100%;
+    height: 445px; min-height: 445px; max-height: 445px;
+    flex: 0 0 auto; grid-column: auto; grid-row: auto;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .growth_partner-section .growth_slider,
+  .growth_partner-section .growth_card,
+  .growth_partner-section .img-bg,
+  .growth_partner-section .icon,
+  .growth_partner-section .step,
+  .growth_partner-section .growth_card-heading,
+  .growth_partner-section .growth_text { transition-duration: 0ms; }
+}
+</style>
+<style id="kueez-growth-content-responsive">
+@media (min-width: 1101px) and (max-width: 1453px) {
+  .growth_partner-section .inner-content {
+    width: calc((100vw - 120px) * 0.2503748 - 48px);
+    max-width: 270px;
+  }
+}
+@media (max-width: 1100px) {
+  .growth_partner-section .inner-content { width: min(270px, calc(100% - 48px)); max-width: 270px; }
+}
+</style>
+<style id="kueez-growth-content-alignment">
+.growth_partner-section .growth_card .inner-content {
+  left: 50%;
+  transform: translateX(-50%);
+  transition: left 600ms cubic-bezier(0.22, 1, 0.36, 1),
+              transform 600ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+.growth_partner-section .growth_card.active .inner-content {
+  left: 60px;
+  transform: translateX(0);
+}
+@media (max-width: 1100px) {
+  .growth_partner-section .growth_card.active .inner-content { left: 24px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .growth_partner-section .growth_card .inner-content { transition: none; }
+}
+</style>
+<!-- Kueez about image rotator -->
+<style id="kueez-about-rotator-css">
+.about-wrapper-right[data-about-rotator] {
+  position: relative; flex: 1 1 0; width: 100%; min-width: 0;
+  aspect-ratio: 1; align-self: center; overflow: hidden; isolation: isolate;
+}
+[data-about-rotator] > img {
+  position: absolute; inset: 0; display: none; width: 100%; height: 100%;
+  max-width: none; object-fit: cover; object-position: center;
+  opacity: 0; transform: scale(1.045);
+  transition: opacity 600ms ease, transform 2000ms ease;
+}
+[data-about-rotator] > img:first-of-type { display: block; opacity: 1; transform: scale(1); }
+[data-about-rotator][data-about-ready] > img:first-of-type { opacity: 0; transform: scale(1.045); }
+[data-about-rotator][data-about-ready] > img[data-active] { display: block; opacity: 1; transform: scale(1); z-index: 1; }
+[data-about-rotator] > img[data-prepared] { display: block; }
+@media (max-width: 767px) {
+ .about-wrapper-right[data-about-rotator] { flex: none; width: 100%; }
+}
+@media (prefers-reduced-motion: reduce) {
+ [data-about-rotator] > img { transition: none; transform: none !important; }
+}
+</style></head><body><div class="page-wrapper"><div class="home-hero-wrapper"><div class="header-wrapper"><div class="header-flex"><a href="/" aria-current="page" class="header-logo-wrapper w-inline-block w--current"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/6822f960cbd2121195050bd3_logo%20kueez.svg" loading="lazy" alt="Logo"/></a><div class="header-desktop-link-wrapper"><a href="/publishers" class="link-header">Kueez Monetization Suite</a><a href="/performance-marketing" class="link-header">End2End Marketing Platform</a><a href="/about" class="link-header">About Us</a><a href="/about#careers" class="link-header">Careers</a><a href="#" class="button-header-home">Contact Us</a></div><div class="manue-mobile-button-box"><div class="image-menu-top"><div>p</div></div><div class="menu-image-middle"><div class="text-block-3">p</div></div><div class="menu-image-button"><div class="text-block-2">p</div></div></div></div><div class="mobile-links-wrapper"><div class="header-links-wrapper-mobile"><a href="/publishers" class="link-menu-header-mobile">Kueez Monetization Suite</a><a href="/performance-marketing" class="link-menu-header-mobile">End2End Marketing Platform</a><a href="/about" class="link-menu-header-mobile">About us</a><a href="/about#careers" class="link-menu-header-mobile">Careers</a></div><a href="#" class="button-header-home">Contact us</a></div></div><div class="home-hero-box-content"><div class="w-layout-blockcontainer container home-hero w-container"><div class="box-here"><div class="code-embed w-embed"><div style="width: 100%; max-width: 1000px; margin: 0 auto;">
+  <h1 class="headline-home-hero">
+    <span class="bg-line-span">
+      We Design a suite of innovative solutions, driving profitable scale and growth for publishers and performance marketers
+    </span>
+  </h1>
+</div>
+
+<style>
+.headline-home-hero {
+  font-size: 65px;
+  line-height: 77px;
+  font-weight: 400;
+  font-family: 'Gloock', serif;
+  text-align: left;
+  margin: 0;
+}
+
+.bg-line-span {
+  background: rgba(255, 255, 255, 0.55);
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+  display: inline;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media screen and (max-width: 991px) {
+  .headline-home-hero {
+  font-size: 60px;
+  line-height: 72px;
+}
+}
+
+@media screen and (max-width: 767px) {
+  .headline-home-hero {
+  font-size: 45px;
+  line-height: 52px;
+}
+}
+
+@media screen and (max-width: 479px) {
+  .headline-home-hero {
+  font-size: 9vw;
+  line-height: 11vw;
+}
+}
+</style></div><h1 class="headlien-hero">Driving profitable growth for publishers and performance marketers</h1><div class="hero-buttons-wrapper"><a href="/publishers" class="hero-home-button w-inline-block"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684fe558cfb5a7da83eeb605_6058112d2c04ac4a60eabdf128e7872d_jg.svg" loading="lazy" alt="" class="icon-button-hero"/><div>Kueez Monetization Suite</div></a><a href="/performance-marketing" class="hero-home-button secundary w-inline-block"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684fe5582f5d325493c92629_kyfdcvbn.svg" loading="lazy" alt="" class="icon-button-hero"/><div>End2End Marketing Platform</div></a></div></div></div><div class="boc-hero-images"><div class="cover-box-images-hero"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d58ae1907491b2c46ab21_6fc5ec5dd4d70dd3aa366a55c6b1a277_hero%20img%203.avif" loading="eager" data-w-id="d42b5462-dda3-f779-f5f0-06a4b3912564" alt="" class="hero-img-3"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d58afe7d08995eec56404_heri%20img%201.avif" loading="eager" data-w-id="acd6922c-9829-f4d8-2aa2-9022819ee98a" sizes="(max-width: 878px) 100vw, 878px" alt="" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d58afe7d08995eec56404_heri%20img%201-p-500.png 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d58afe7d08995eec56404_heri%20img%201.avif 878w" class="img-hero-1"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d58af09ea06494d84cd83_e785bdc1efd863ecca29ba600ca7a9d1_hero%20img%202.avif" loading="eager" data-w-id="295200ad-1ce2-a45f-6d38-6c601b6880f4" alt="" class="hero-img-2"/></div></div></div></div><section class="hero-section-publishers"><div class="w-layout-blockcontainer container w-container"><div class="grid-hero-publishers"><div id="w-node-d313303f-9ead-ff33-1fcd-de849d3cea86-572ed7de" class="content-section-box"><h2 class="headline-section">Kueez Monetizations Suite</h2><div class="text-section">In a highly complex ecosystem, we simplify products, optimize them, and drive hassle-free, consistent revenue growth.</div><a href="/publishers" class="button-purple-section w-inline-block"><div>learn more</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/68596614ae817f61061da1bf_arrow%20btn.svg" loading="lazy" alt="" class="button-arrow"/></a></div><div class="publishers-carousell-images-hero"><div class="hero-publishers-carrousel-right-box"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac43317af4d1a9e559c4_img%205%20k.avif" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 830px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac43317af4d1a9e559c4_img%205%20k-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac43317af4d1a9e559c4_img%205%20k.avif 830w" alt="" class="img-carousel"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac42c60275602c05fc37_img%201.avif" loading="lazy" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 830px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac42c60275602c05fc37_img%201-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac42c60275602c05fc37_img%201.avif 830w" alt="" class="img-carousel"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4199511cf0aef47b38_img%2066.avif" loading="lazy" alt="" class="img-carousel"/></div><div class="hero-publishers-carousel-left-side"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4256d8965236399dc6_img%203%20kueez.avif" loading="eager" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 830px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4256d8965236399dc6_img%203%20kueez-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4256d8965236399dc6_img%203%20kueez.avif 830w" alt="" class="img-carousel"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4128992d2318b7f727_img%204%20k.avif" loading="eager" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 830px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4128992d2318b7f727_img%204%20k-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4128992d2318b7f727_img%204%20k.avif 830w" alt="" class="img-carousel"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4256d8965236399dc6_img%203%20kueez.avif" loading="eager" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 830px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4256d8965236399dc6_img%203%20kueez-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683cac4256d8965236399dc6_img%203%20kueez.avif 830w" alt="" class="img-carousel"/></div></div></div></div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683b6b9ff0b17dbd07727929_oiuy.png" loading="lazy" alt="" class="img-1-hero-publishers"/><div class="bg-publishers-hero"></div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683caf9f833af33b421cefc2_img%20Publishers%20hero.avif" loading="lazy" sizes="(max-width: 1022px) 100vw, 1022px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683caf9f833af33b421cefc2_img%20Publishers%20hero-p-500.png 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683caf9f833af33b421cefc2_img%20Publishers%20hero.avif 1022w" alt="" class="img-2-publishers-home"/></section><div class="box-bg-home-middle"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684932230d83846da3eac830_section%201%20img%20no%20margins.avif" loading="lazy" alt="" class="img-mrk-section-1"/><section class="section hero-mrk"><div class="w-layout-blockcontainer container w-container"><div class="grid-mrk-hero"><div id="w-node-_1cd87c9a-9831-91a3-7427-dbbd3539ca3a-572ed7de" class="div-block-6"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684827e94593e0ee2570c3b5_def40137699b14af8d63efcda9ba50d7_Group%20289406.avif" loading="eager" sizes="(max-width: 767px) 100vw, (max-width: 991px) 728px, 925px" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684827e94593e0ee2570c3b5_def40137699b14af8d63efcda9ba50d7_Group%20289406-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684827e94593e0ee2570c3b5_def40137699b14af8d63efcda9ba50d7_Group%20289406.avif 925w" alt="" class="max-width-image"/></div><div id="w-node-_1cd87c9a-9831-91a3-7427-dbbd3539ca3c-572ed7de" class="content-section-box"><h2 class="headline-section color-text-mrk">End2End Marketing Platform</h2><div class="text-section color-text-mrk">The most comprehensive solution for performance marketers that simplifies the integration of media buying platform and web page optimization, driving consistent scalable growth and profitability.</div><a href="/performance-marketing" class="button-yellow-section w-inline-block"><div>learn more</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/68596614ae817f61061da1bf_arrow%20btn.svg" loading="lazy" alt="" class="button-arrow"/></a></div></div></div></section><section class="section hero-mrk"><div class="w-layout-blockcontainer container w-container"><div class="grid-mrk-hero"><div id="w-node-b2dfb823-5502-f0cc-b775-1c9615b0129a-572ed7de"><h2 class="headline-section">Life at Kueez</h2><div class="text-section no-spacing">At Kueez, we blend performance, creativity, data, and tech to reach millions worldwide. We move fast, think big, and have fun doing it.  Join a passionate team where your ideas matter and your impact is real.</div><div class="button-wrapper-home-about"><a href="/about#careers" class="button-home-about w-inline-block"><div>Career Opportunites</div></a><a href="/about" class="button-home-about green w-inline-block"><div>Life at Kueez</div></a></div></div><div id="w-node-dd67f3ca-fa75-19bd-f242-ce19e1d25ac4-572ed7de" class="home-about-image-wrapper"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684bf76dff85fe7f3e87945d_img%20aboyt%20home.avif" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684bf76dff85fe7f3e87945d_img%20aboyt%20home-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684bf76dff85fe7f3e87945d_img%20aboyt%20home.avif 644w" alt=""/></div></div></div></section><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d3ef67b660c525a7229a1_img%20hero%20v2.avif" loading="lazy" alt="" class="image-11"/></div><div class="home-box-section-last"><section class="section hero-mrk"><div class="w-layout-blockcontainer container w-container"><div class="section-content-centered"><h2 class="headline-section">The Kueez Blog</h2></div><div class="div-block"><div class="w-dyn-list"><div fs-list-element="list" role="list" class="blog-grid w-dyn-items"><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/how-premium-publishers-rebuild-growth-in-the-post-organic-web" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a8aa7f6792d6b0860fd7a9c_Beller-Article-August-V2.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">How premium publishers rebuild growth in the post-organic web</h3><div>Publishers have played defense for years as the foundation behind their growth rapidly changes. Now there&#x27;s a new way forward: buying traffic safely, without being flagged as MFA.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 23, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/ai-search-is-pushing-publishers-toward-a-new-business-model" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a79a48a00644f419879d4cc_Newsweek%20fixed.jpeg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">AI Search Is Pushing Publishers Toward a New Business Model</h3><div>Kueez CRO, Ziv Mishan : argues that despite AI search reducing organic traffic, publishers can achieve sustainable growth by adopting responsible paid audience acquisition strategies that prioritize user experience, content alignment, and organic credibility.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 10, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/our-3-main-takeaways-from-the-first-big-sales-event-post-amazons-new-reporting-rollout" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72ef527e8b2ee88c34baa5_Amazon.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Performance </div></div><h3 class="headline-blog-card">Our 3 Main Takeaways from the first big sales event post Amazon’s new reporting rollout</h3><div>When Amazon&#x27;s reporting overhaul hit days before the Big Spring Sale, we turned the disruption into a competitive edge - and the results speak for themselves.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69eb6b7e5ad1587a6df9ceae_Liran%20Steiner_Head%20of%20eCom.png&quot;)" class="card-blog-img-box"></div><div>Liran Steiner</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Apr 24, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/the-internet-didnt-evolve-it-broke" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac27068f8a14b3e1d117651_image%207288.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">The internet didn’t evolve, it broke</h3><div>AI and zero-click search have already broken the old organic-traffic model, forcing publishers to either master profitable paid traffic or partner with someone who has</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Apr 16, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/amazons-new-reporting-changes-what-it-means-for-your-e-com-revenue" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f010b5e474c8c8ce9f0f_Amazon2.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Amazon’s New Reporting Changes: What It Means for Your E-com Revenue</h3><div>Amazon changed the rules - here’s what publishers need to do next</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69b38bff5328639035417dd7_Ido%20Ram_Webflow.png&quot;)" class="card-blog-img-box"></div><div>Ido Ram</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Mar 12, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/reinventing-the-revenue-river-a-conversation-with-kueez-ziv-mishan" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26fb3e1bdf8eccc450882_Group%202085664559.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Reinventing the revenue river: a conversation with Kueez’ Ziv Mishan</h3><div>In this Q&amp;A, Rob Beeler joins with Ziv Mishan, Kueez CRO, to unpack that challenge. Together, they explore what happens when a publisher’s “main river” begins to dry, how to identify and activate underutilized assets, and which strategic moves publishers should make before crisis forces their hand.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Feb 16, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/revenue-diversification-for-publishers" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26f6a6b8b36deaaa691ff_Group%202085664557.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Revenue Diversification for Publishers</h3><div>Relying on a single revenue stream is no longer sustainable for publishers. Revenue diversification is essential to reduce risk, offset traffic and CPM pressure, and build long-term resilience.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jan 27, 2026</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/diversity-and-focus-contradiction-connection-or-complement" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/688f3d8e51e2912c29ca9d0d__TOM9211_re_autoOrient_i.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Diversification and Focus: Conflicting Forces or a Strategic Match?</h3><div>How can we reconcile the tension between a company’s desire to diversify and its need to stay focused - and could people be the key to solving it?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 3, 2025</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/kpi-mythbbusting---adtechx-lecture" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26e4b92ef515c156df6e0_687cf21fade8c57402047fc0_Untitled_presentation_9.webp&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">KPI Mythbbusting - AdTechX Lecture</h3><div>Why relying on certain KPIs can be misleading </div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jul 20, 2025</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/kueez-on-cloud-9-with-inclusion-in-israels-10-fastest-growing-companies" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f1358761789e97ffecda_Image%204.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Kueez on cloud 9 with inclusion in Israel’s 10 fastest-growing companies</h3><div>Kueez was named one of Israel’s 10 fastest-growing companies by Globes and Statista.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 17, 2025</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/truth-about-cpms" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684eda02698b1ec7149375bd_Screenshot%202025-06-15%20at%2017.32.04.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">The Surprising Truth About CPMs: Why Low Can Mean High Performance</h3><div>Why low CPMs can actually mean higher performance</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 15, 2025</div></div></div></a></div><div role="listitem" class="collection-item w-dyn-item"><a href="/blog-posts/beyond-unique-demand" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ab8c6eef09e603983e5952a_web-without-walls.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Beyond Unique Demand: Resellers, Identity &amp; Revenue Shifts</h3><div>Can unique vlaue be more than just unique demand?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 15, 2025</div></div></div></a></div></div></div></div><div class="team-slider_component is-hidden"><div class="blog_collection_list_wrapper swiper w-dyn-list"><div role="list" class="blog_home_collection_lists swiper-wrapper w-dyn-items"><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://www.newsweek.com/ai-search-is-pushing-publishers-toward-a-new-business-model-12283345" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a79a48a00644f419879d4cc_Newsweek%20fixed.jpeg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">AI Search Is Pushing Publishers Toward a New Business Model</h3><div>Kueez CRO, Ziv Mishan : argues that despite AI search reducing organic traffic, publishers can achieve sustainable growth by adopting responsible paid audience acquisition strategies that prioritize user experience, content alignment, and organic credibility.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 5, 2026</div></div></div></a><a href="/blog-posts/ai-search-is-pushing-publishers-toward-a-new-business-model" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a79a48a00644f419879d4cc_Newsweek%20fixed.jpeg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">AI Search Is Pushing Publishers Toward a New Business Model</h3><div>Kueez CRO, Ziv Mishan : argues that despite AI search reducing organic traffic, publishers can achieve sustainable growth by adopting responsible paid audience acquisition strategies that prioritize user experience, content alignment, and organic credibility.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 5, 2026</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://www.beeler.tech/2026/08/13/reclaiming-distribution-how-premium-publishers-rebuild-growth-in-the-post-organic-web/" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a8aa7f6792d6b0860fd7a9c_Beller-Article-August-V2.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">How premium publishers rebuild growth in the post-organic web</h3><div>Publishers have played defense for years as the foundation behind their growth rapidly changes. Now there&#x27;s a new way forward: buying traffic safely, without being flagged as MFA.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>August 17, 2026 </div></div></div></a><a href="/blog-posts/how-premium-publishers-rebuild-growth-in-the-post-organic-web" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a8aa7f6792d6b0860fd7a9c_Beller-Article-August-V2.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">How premium publishers rebuild growth in the post-organic web</h3><div>Publishers have played defense for years as the foundation behind their growth rapidly changes. Now there&#x27;s a new way forward: buying traffic safely, without being flagged as MFA.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>August 17, 2026 </div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://www.beeler.tech/2026/03/16/the-internet-didnt-evolve-it-broke/" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac27068f8a14b3e1d117651_image%207288.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">The internet didn’t evolve, it broke</h3><div>AI and zero-click search have already broken the old organic-traffic model, forcing publishers to either master profitable paid traffic or partner with someone who has</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Apr 15, 2026</div></div></div></a><a href="/blog-posts/the-internet-didnt-evolve-it-broke" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac27068f8a14b3e1d117651_image%207288.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">The internet didn’t evolve, it broke</h3><div>AI and zero-click search have already broken the old organic-traffic model, forcing publishers to either master profitable paid traffic or partner with someone who has</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Apr 15, 2026</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://weare.kueez.com/blog-posts/our-3-main-takeaways-from-the-first-big-sales-event-post-amazons-new-reporting-rollout" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72ef527e8b2ee88c34baa5_Amazon.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Performance </div></div><h3 class="headline-blog-card">Our 3 Main Takeaways from the first big sales event post Amazon’s new reporting rollout</h3><div>When Amazon&#x27;s reporting overhaul hit days before the Big Spring Sale, we turned the disruption into a competitive edge - and the results speak for themselves.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69eb6b7e5ad1587a6df9ceae_Liran%20Steiner_Head%20of%20eCom.png&quot;)" class="card-blog-img-box"></div><div>Liran Steiner</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>April 24, 2026</div></div></div></a><a href="/blog-posts/our-3-main-takeaways-from-the-first-big-sales-event-post-amazons-new-reporting-rollout" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72ef527e8b2ee88c34baa5_Amazon.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Performance </div></div><h3 class="headline-blog-card">Our 3 Main Takeaways from the first big sales event post Amazon’s new reporting rollout</h3><div>When Amazon&#x27;s reporting overhaul hit days before the Big Spring Sale, we turned the disruption into a competitive edge - and the results speak for themselves.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69eb6b7e5ad1587a6df9ceae_Liran%20Steiner_Head%20of%20eCom.png&quot;)" class="card-blog-img-box"></div><div>Liran Steiner</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>April 24, 2026</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://weare.kueez.com/blog-posts/amazons-new-reporting-changes-what-it-means-for-your-e-com-revenue" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f010b5e474c8c8ce9f0f_Amazon2.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Amazon’s New Reporting Changes: What It Means for Your E-com Revenue</h3><div>Amazon changed the rules - here’s what publishers need to do next</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69b38bff5328639035417dd7_Ido%20Ram_Webflow.png&quot;)" class="card-blog-img-box"></div><div>Ido Ram</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>March 13, 2026</div></div></div></a><a href="/blog-posts/amazons-new-reporting-changes-what-it-means-for-your-e-com-revenue" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f010b5e474c8c8ce9f0f_Amazon2.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Amazon’s New Reporting Changes: What It Means for Your E-com Revenue</h3><div>Amazon changed the rules - here’s what publishers need to do next</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69b38bff5328639035417dd7_Ido%20Ram_Webflow.png&quot;)" class="card-blog-img-box"></div><div>Ido Ram</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>March 13, 2026</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://space.beeler.tech/all-public-resources/beelertech-originals/why-digital-publishers-should-invest-in-revenue-diversification" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26f6a6b8b36deaaa691ff_Group%202085664557.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Revenue Diversification for Publishers</h3><div>Relying on a single revenue stream is no longer sustainable for publishers. Revenue diversification is essential to reduce risk, offset traffic and CPM pressure, and build long-term resilience.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Dec. 11, 2025</div></div></div></a><a href="/blog-posts/revenue-diversification-for-publishers" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26f6a6b8b36deaaa691ff_Group%202085664557.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Revenue Diversification for Publishers</h3><div>Relying on a single revenue stream is no longer sustainable for publishers. Revenue diversification is essential to reduce risk, offset traffic and CPM pressure, and build long-term resilience.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Dec. 11, 2025</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://space.beeler.tech/all-public-resources/beelertech-originals/reinventing-the-revenue-river-a-conversation-with-kueez-ziv-mishan" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26fb3e1bdf8eccc450882_Group%202085664559.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Reinventing the revenue river: a conversation with Kueez’ Ziv Mishan</h3><div>In this Q&amp;A, Rob Beeler joins with Ziv Mishan, Kueez CRO, to unpack that challenge. Together, they explore what happens when a publisher’s “main river” begins to dry, how to identify and activate underutilized assets, and which strategic moves publishers should make before crisis forces their hand.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Dec 15. 2025</div></div></div></a><a href="/blog-posts/reinventing-the-revenue-river-a-conversation-with-kueez-ziv-mishan" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26fb3e1bdf8eccc450882_Group%202085664559.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Reinventing the revenue river: a conversation with Kueez’ Ziv Mishan</h3><div>In this Q&amp;A, Rob Beeler joins with Ziv Mishan, Kueez CRO, to unpack that challenge. Together, they explore what happens when a publisher’s “main river” begins to dry, how to identify and activate underutilized assets, and which strategic moves publishers should make before crisis forces their hand.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Dec 15. 2025</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://space.beeler.tech/all-public-resources/beelertech-originals/the-surprising-truth-about-cpms-why-low-can-mean-high-performance" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684eda02698b1ec7149375bd_Screenshot%202025-06-15%20at%2017.32.04.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">The Surprising Truth About CPMs: Why Low Can Mean High Performance</h3><div>Why low CPMs can actually mean higher performance</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 15, 2024</div></div></div></a><a href="/blog-posts/truth-about-cpms" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684eda02698b1ec7149375bd_Screenshot%202025-06-15%20at%2017.32.04.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">The Surprising Truth About CPMs: Why Low Can Mean High Performance</h3><div>Why low CPMs can actually mean higher performance</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 15, 2024</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://www.youtube.com/watch?v=XslqzJ6s-6U" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26e4b92ef515c156df6e0_687cf21fade8c57402047fc0_Untitled_presentation_9.webp&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">KPI Mythbbusting - AdTechX Lecture</h3><div>Why relying on certain KPIs can be misleading </div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Feb. 14, 2025</div></div></div></a><a href="/blog-posts/kpi-mythbbusting---adtechx-lecture" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26e4b92ef515c156df6e0_687cf21fade8c57402047fc0_Untitled_presentation_9.webp&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">KPI Mythbbusting - AdTechX Lecture</h3><div>Why relying on certain KPIs can be misleading </div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Feb. 14, 2025</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://www.mile.tech/podcast/beyond-unique-demand-resellers-identity-revenue-shifts#watch-podcast" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ab8c6eef09e603983e5952a_web-without-walls.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Beyond Unique Demand: Resellers, Identity &amp; Revenue Shifts</h3><div>Can unique vlaue be more than just unique demand?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Apr 11, 2024</div></div></div></a><a href="/blog-posts/beyond-unique-demand" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ab8c6eef09e603983e5952a_web-without-walls.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Beyond Unique Demand: Resellers, Identity &amp; Revenue Shifts</h3><div>Can unique vlaue be more than just unique demand?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Apr 11, 2024</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://weare.kueez.com/blog-posts/kueez-on-cloud-9-with-inclusion-in-israels-10-fastest-growing-companies" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f1358761789e97ffecda_Image%204.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Kueez on cloud 9 with inclusion in Israel’s 10 fastest-growing companies</h3><div>Kueez was named one of Israel’s 10 fastest-growing companies by Globes and Statista.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 12, 2023</div></div></div></a><a href="/blog-posts/kueez-on-cloud-9-with-inclusion-in-israels-10-fastest-growing-companies" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f1358761789e97ffecda_Image%204.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Kueez on cloud 9 with inclusion in Israel’s 10 fastest-growing companies</h3><div>Kueez was named one of Israel’s 10 fastest-growing companies by Globes and Statista.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Jun 12, 2023</div></div></div></a></div><div role="listitem" class="blog_home_collection_item swiper-slide w-dyn-item"><a href="https://weare.kueez.com/blog-posts/diversity-and-focus-contradiction-connection-or-complement" class="blog-card w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/688f3d8e51e2912c29ca9d0d__TOM9211_re_autoOrient_i.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Diversification and Focus: Conflicting Forces or a Strategic Match?</h3><div>How can we reconcile the tension between a company’s desire to diversify and its need to stay focused - and could people be the key to solving it?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 22, 2022</div></div></div></a><a href="/blog-posts/diversity-and-focus-contradiction-connection-or-complement" class="blog-card w-inline-block w-condition-invisible"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/688f3d8e51e2912c29ca9d0d__TOM9211_re_autoOrient_i.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Diversification and Focus: Conflicting Forces or a Strategic Match?</h3><div>How can we reconcile the tension between a company’s desire to diversify and its need to stay focused - and could people be the key to solving it?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" loading="lazy" alt=""/><div>Aug 22, 2022</div></div></div></a></div></div></div><div class="team-slider_btn_element is-next"><a href="#" class="button-slider-blog w-button"></a></div><div class="team-slider_btn_element left is-prev"><a href="#" class="button-slider-blog _2 w-button"></a></div></div><div class="swiper_main-wrapper"><div class="swiper is-home-blog-posts w-dyn-list"><div role="list" class="swiper-wrapper is-home-blog-posts w-dyn-items"><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://www.newsweek.com/ai-search-is-pushing-publishers-toward-a-new-business-model-12283345" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a79a48a00644f419879d4cc_Newsweek%20fixed.jpeg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">AI Search Is Pushing Publishers Toward a New Business Model</h3><div>Kueez CRO, Ziv Mishan : argues that despite AI search reducing organic traffic, publishers can achieve sustainable growth by adopting responsible paid audience acquisition strategies that prioritize user experience, content alignment, and organic credibility.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Aug 5, 2026</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a79a48a00644f419879d4cc_Newsweek%20fixed.jpeg&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://www.beeler.tech/2026/08/13/reclaiming-distribution-how-premium-publishers-rebuild-growth-in-the-post-organic-web/" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a8aa7f6792d6b0860fd7a9c_Beller-Article-August-V2.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">How premium publishers rebuild growth in the post-organic web</h3><div>Publishers have played defense for years as the foundation behind their growth rapidly changes. Now there&#x27;s a new way forward: buying traffic safely, without being flagged as MFA.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>August 17, 2026 </div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a8aa7f6792d6b0860fd7a9c_Beller-Article-August-V2.jpg&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://www.beeler.tech/2026/03/16/the-internet-didnt-evolve-it-broke/" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac27068f8a14b3e1d117651_image%207288.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">The internet didn’t evolve, it broke</h3><div>AI and zero-click search have already broken the old organic-traffic model, forcing publishers to either master profitable paid traffic or partner with someone who has</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Apr 15, 2026</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac27068f8a14b3e1d117651_image%207288.jpg&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://weare.kueez.com/blog-posts/our-3-main-takeaways-from-the-first-big-sales-event-post-amazons-new-reporting-rollout" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72ef527e8b2ee88c34baa5_Amazon.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Performance </div></div><h3 class="headline-blog-card">Our 3 Main Takeaways from the first big sales event post Amazon’s new reporting rollout</h3><div>When Amazon&#x27;s reporting overhaul hit days before the Big Spring Sale, we turned the disruption into a competitive edge - and the results speak for themselves.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69eb6b7e5ad1587a6df9ceae_Liran%20Steiner_Head%20of%20eCom.png&quot;)" class="card-blog-img-box"></div><div>Liran Steiner</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>April 24, 2026</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72ef527e8b2ee88c34baa5_Amazon.avif&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://weare.kueez.com/blog-posts/amazons-new-reporting-changes-what-it-means-for-your-e-com-revenue" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f010b5e474c8c8ce9f0f_Amazon2.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Amazon’s New Reporting Changes: What It Means for Your E-com Revenue</h3><div>Amazon changed the rules - here’s what publishers need to do next</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/69b38bff5328639035417dd7_Ido%20Ram_Webflow.png&quot;)" class="card-blog-img-box"></div><div>Ido Ram</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>March 13, 2026</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f010b5e474c8c8ce9f0f_Amazon2.avif&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://space.beeler.tech/all-public-resources/beelertech-originals/why-digital-publishers-should-invest-in-revenue-diversification" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26f6a6b8b36deaaa691ff_Group%202085664557.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Revenue Diversification for Publishers</h3><div>Relying on a single revenue stream is no longer sustainable for publishers. Revenue diversification is essential to reduce risk, offset traffic and CPM pressure, and build long-term resilience.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Dec. 11, 2025</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26f6a6b8b36deaaa691ff_Group%202085664557.jpg&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://space.beeler.tech/all-public-resources/beelertech-originals/reinventing-the-revenue-river-a-conversation-with-kueez-ziv-mishan" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26fb3e1bdf8eccc450882_Group%202085664559.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Strategy</div></div><h3 class="headline-blog-card">Reinventing the revenue river: a conversation with Kueez’ Ziv Mishan</h3><div>In this Q&amp;A, Rob Beeler joins with Ziv Mishan, Kueez CRO, to unpack that challenge. Together, they explore what happens when a publisher’s “main river” begins to dry, how to identify and activate underutilized assets, and which strategic moves publishers should make before crisis forces their hand.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Dec 15. 2025</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26fb3e1bdf8eccc450882_Group%202085664559.jpg&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://space.beeler.tech/all-public-resources/beelertech-originals/the-surprising-truth-about-cpms-why-low-can-mean-high-performance" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684eda02698b1ec7149375bd_Screenshot%202025-06-15%20at%2017.32.04.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">The Surprising Truth About CPMs: Why Low Can Mean High Performance</h3><div>Why low CPMs can actually mean higher performance</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Jun 15, 2024</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684eda02698b1ec7149375bd_Screenshot%202025-06-15%20at%2017.32.04.avif&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://www.youtube.com/watch?v=XslqzJ6s-6U" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26e4b92ef515c156df6e0_687cf21fade8c57402047fc0_Untitled_presentation_9.webp&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Measurement </div></div><h3 class="headline-blog-card">KPI Mythbbusting - AdTechX Lecture</h3><div>Why relying on certain KPIs can be misleading </div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Feb. 14, 2025</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ac26e4b92ef515c156df6e0_687cf21fade8c57402047fc0_Untitled_presentation_9.webp&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://www.mile.tech/podcast/beyond-unique-demand-resellers-identity-revenue-shifts#watch-podcast" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ab8c6eef09e603983e5952a_web-without-walls.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Beyond Unique Demand: Resellers, Identity &amp; Revenue Shifts</h3><div>Can unique vlaue be more than just unique demand?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Apr 11, 2024</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6ab8c6eef09e603983e5952a_web-without-walls.avif&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://weare.kueez.com/blog-posts/kueez-on-cloud-9-with-inclusion-in-israels-10-fastest-growing-companies" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f1358761789e97ffecda_Image%204.avif&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>News</div></div><h3 class="headline-blog-card">Kueez on cloud 9 with inclusion in Israel’s 10 fastest-growing companies</h3><div>Kueez was named one of Israel’s 10 fastest-growing companies by Globes and Statista.</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685120b5280b8bae2449b12d_Ziv%20Mishan.png&quot;)" class="card-blog-img-box"></div><div>Ziv Mishan</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Jun 12, 2023</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6a72f1358761789e97ffecda_Image%204.avif&quot;)" class="home-blog-posts_image-wrapper"></div></a></div><div role="listitem" class="swiper-slide is-home-blog-posts w-dyn-item"><a href="https://weare.kueez.com/blog-posts/diversity-and-focus-contradiction-connection-or-complement" class="swiper-block is-home-blog-posts w-inline-block"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/688f3d8e51e2912c29ca9d0d__TOM9211_re_autoOrient_i.jpg&quot;)" class="blog-thumbnail-card"></div><div class="blog-card-content-wrapper"><div class="card-blog-content-up"><div class="category-blog-box"><div>Leadership</div></div><h3 class="headline-blog-card">Diversification and Focus: Conflicting Forces or a Strategic Match?</h3><div>How can we reconcile the tension between a company’s desire to diversify and its need to stay focused - and could people be the key to solving it?</div></div><div class="crad-blog-author-wrapper"><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/684fe0b1b2c62402bae0f50e_Ori%20Mendi%20Image.avif&quot;)" class="card-blog-img-box"></div><div>Ori Mendi</div><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683d753b9489aa264980f707_line%20card%20blog%20kueez.svg" alt=""/><div>Aug 22, 2022</div></div></div><div class="home-blog-posts_content-wrapper"></div><div style="background-image:url(&quot;https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/688f3d8e51e2912c29ca9d0d__TOM9211_re_autoOrient_i.jpg&quot;)" class="home-blog-posts_image-wrapper"></div></a></div></div></div><div class="swiper-button swiper-btn-prev is-home-blog-posts is-next"><div href="#" class="button-slider-blog _2"></div></div><div class="swiper-button swiper-btn-next is-home-blog-posts is-next"><div class="button-slider-blog"></div></div><div class="swiper-pagination is-home-blog-posts"><div></div></div><div class="swiper_embed-code w-embed w-script"><!-- Swiper Slide - Home Testimonials 
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  // Home Testimonials Slide (Swiper)
+  const swiperTestimonials = new Swiper('.swiper.is-testimonials', {
+    slidesPerView: 1,
+    spaceBetween: 0,
+    speed: 800,
+    loop: true,
+
+    // ✅ Autoplay
+    autoplay: {
+      delay: 5000, // 5 segundos entre os slides
+      disableOnInteraction: false, // continua mesmo após interação
+      pauseOnMouseEnter: true, // pausa se o usuário passar o mouse
+    },
+
+    pagination: {
+      el: '.swiper-pagination',
+      bulletClass: 'swiper-bullet',
+      bulletActiveClass: 'is-active',
+      clickable: true,
+    },
+
+    navigation: {
+      nextEl: '.swiper-btn-next',
+      prevEl: '.swiper-btn-prev',
+    },
+
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+
+    breakpoints: {
+      320: {
+        slidesPerView: 1,
+        spaceBetween: 16
+      },
+      480: {
+        slidesPerView: 1,
+        spaceBetween: 16
+      },
+      640: {
+        slidesPerView: 1,
+        spaceBetween: 16
+      },
+    },
+  });
+</script>
+--></div></div></div></section><section class="section home-logos"><div class="w-layout-blockcontainer container w-container"><div class="clients-flex home"><h2 class="headlien-logos">Trusted by</h2><div class="wrapper_logos_hide_margins w-dyn-list"><div role="list" class="logos-clients-images w-dyn-items"><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6873c2c946cd1912f3845621_WikiHow_logo_1200px-2014.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6873c2c946cd1912f3845621_WikiHow_logo_1200px-2014-p-500.png 500w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6873c2c946cd1912f3845621_WikiHow_logo_1200px-2014-p-800.png 800w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6873c2c946cd1912f3845621_WikiHow_logo_1200px-2014-p-1080.png 1080w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6873c2c946cd1912f3845621_WikiHow_logo_1200px-2014.png 1200w" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683e938e60cfb90637cc0e06_LOGO.svg" loading="lazy" alt="" class="loog-image w-dyn-bind-empty"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685510d0964cdbbb1b3fea9b_Magnite-logo-black.svg.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685510d0964cdbbb1b3fea9b_Magnite-logo-black.svg-p-500.png 500w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685510d0964cdbbb1b3fea9b_Magnite-logo-black.svg-p-800.png 800w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685510d0964cdbbb1b3fea9b_Magnite-logo-black.svg.png 1200w" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/685510bc3f22fd1a76813552_encyclopedia-britannica-logo-png_seeklogo-500680.png" loading="lazy" alt="" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6855102020f8b77c393ef65e_taboola-logo.png" loading="lazy" alt="" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6855100a05c77581352b9311_sovrn-logo-fi4.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6855100a05c77581352b9311_sovrn-logo-fi4-p-500.png 500w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6855100a05c77581352b9311_sovrn-logo-fi4-p-800.png 800w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6855100a05c77581352b9311_sovrn-logo-fi4-p-1080.png 1080w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6855100a05c77581352b9311_sovrn-logo-fi4.png 1200w" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fed7ddebe741661c223_PubMatic_Logo.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fed7ddebe741661c223_PubMatic_Logo-p-500.png 500w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fed7ddebe741661c223_PubMatic_Logo-p-800.png 800w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fed7ddebe741661c223_PubMatic_Logo-p-1080.png 1080w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fed7ddebe741661c223_PubMatic_Logo.png 1859w" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fcb80d65097192d2aae_lg-6733f5e832c53-Teads.webp" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fcb80d65097192d2aae_lg-6733f5e832c53-Teads-p-500.webp 500w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/68550fcb80d65097192d2aae_lg-6733f5e832c53-Teads.webp 750w" class="loog-image"/></div><div role="listitem" class="collection-item-2 w-dyn-item"><img src="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg.png" loading="lazy" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg-p-500.png 500w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg-p-800.png 800w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg-p-1080.png 1080w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg-p-1600.png 1600w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg-p-2000.png 2000w, https://cdn.prod.website-files.com/683d7651cc7ff0085fb02ea9/6852c628b0ae59677c7a1623_Google_2015_logo.svg.png 2560w" class="loog-image"/></div></div></div></div></div></section><section class="section-footer"><div class="footer-wrapper"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683e997c575b49457580f80f_igm%202%20footer.avif" loading="lazy" data-w-id="3379a320-3c3f-b0f2-45ed-f60d0c19b4ea" alt="" class="image-footer-3"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683e997c35bd18d00e9925ab_img%203%20footer.avif" loading="lazy" data-w-id="3379a320-3c3f-b0f2-45ed-f60d0c19b4eb" alt="" class="img-1-footer"/><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683e997c028c0a3d15e69698_img%201%20footer.avif" loading="lazy" data-w-id="3379a320-3c3f-b0f2-45ed-f60d0c19b4ec" alt="" class="image-footer-2"/><div class="footer-wrapper-content"><div class="footer-flex-box-top"><div class="footer-top-link-wrapper"><a href="/publishers" class="footer-link">Kueez Monetization Suite</a><a href="/performance-marketing" class="footer-link">End2End Marketing Platform</a><a href="/about" class="footer-link">About Us</a><a href="/about#careers" class="footer-link">Careers</a><a href="/legal-center/terms" class="footer-link">Legal Center</a></div><div class="social-icons-box"><a href="https://www.instagram.com/we_are_kueez/" target="_blank" class="footer-social-icon-box w-inline-block"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684e8601e6ee52c931abe517_484b6b49373434179201fa03973eb327_ig%20vs%5D.svg" loading="lazy" alt="" class="icon-footer"/></a><a href="https://www.linkedin.com/company/kueez" target="_blank" class="footer-social-icon-box w-inline-block"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684e8530bdc878a95094e9b8_linkedin%20footer%20icon.svg" loading="lazy" alt="" class="icon-footer"/></a></div></div><div class="footer-flex-bottom"><a href="/" aria-current="page" class="footer-brand-box w-inline-block w--current"><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/683e976366bcae9bbdb762fe_kueez%20footer%20logo.svg" loading="lazy" alt=""/></a><div class="footer-top-link-wrapper _2"><a href="/privacy-policy" class="link-footer-bottom">Privacy Policy</a><a href="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/6849856e23bd1f6f2638c5fc_DSR.pdf" class="link-footer-bottom">DSR</a><a href="/legal-center/ccpa" class="link-footer-bottom">Do not sell or share my personal information</a></div><div>Kueez © 2026</div></div></div></div></section><img src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d4b910ae0042123c13dfb_oiutvb.avif" loading="lazy" sizes="100vw" srcset="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d4b910ae0042123c13dfb_oiutvb-p-500.avif 500w, https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/684d4b910ae0042123c13dfb_oiutvb.avif 1161w" alt="" class="image12"/></div></div><div class="pop-up-wrapper"><div class="pop-up-box-content"><div class="popup-wrappper-box"><div class="pop_up-box"><div class="form-pop-up-home"><div class="w-form"><form id="Contact-Form-Home" name="email-form" data-name="Email Form" method="get" data-wf-page-id="6822f8d5489c42a5572ed7de" data-wf-element-id="76ea5003-98eb-4c89-8e47-42c611d9842a" data-turnstile-sitekey="0x4AAAAAAAQTptj2So4dx43e"><div class="fild-wrapper"><label for="First-Name" class="field-headline">First Name<span class="req">*</span></label><input class="text-field home w-input" maxlength="256" name="First-Name" data-name="First Name" placeholder="" type="text" id="First-Name" required=""/></div><div class="fild-wrapper"><label for="Last-Name" class="field-headline">Last Name<span class="req">*</span></label><input class="text-field home w-input" maxlength="256" name="Last-Name" data-name="Last Name" placeholder="" type="text" id="Last-Name" required=""/></div><div class="fiels-wrapper-in-2"><div class="field-box"><label for="Company-Name" class="field-headline">Company Name</label><input class="text-field home w-input" maxlength="256" name="Company-Name" data-name="Company Name" placeholder="" type="text" id="Company-Name"/></div><div class="field-box"><label for="website-url" class="field-headline">Website URL (optional)</label><input class="text-field home w-input" maxlength="256" name="website-url" data-name="website-url" placeholder="" type="text" id="website-url"/></div></div><div class="fild-wrapper"><label for="Email-Address" class="field-headline">Business Email Address<span class="req">*</span></label><input class="text-field home w-input" maxlength="256" name="Email-Address" data-name="Email Address" placeholder="" type="email" id="Email-Address" required=""/></div><div class="fild-wrapper"><div class="field-headline">Interested in<span class="req">*</span>:</div><label class="w-checkbox checkbox-field-2"><input type="checkbox" id="Compliant-Audience-Acquisition" name="Compliant-Audience-Acquisition" data-name="Compliant Audience Acquisition" class="w-checkbox-input checkbox product"/><span class="w-form-label" for="Compliant-Audience-Acquisition">Compliant Audience Acquisition</span></label><label class="w-checkbox checkbox-field-2"><input type="checkbox" id="Commerce-Scaling" name="Commerce-Scaling" data-name="Commerce Scaling" class="w-checkbox-input checkbox product"/><span class="w-form-label" for="Commerce-Scaling">Commerce Scaling</span></label><label class="w-checkbox checkbox-field-2"><input type="checkbox" id="KueezRTB" name="KueezRTB" data-name="KueezRTB" class="w-checkbox-input checkbox product"/><span class="w-form-label" for="KueezRTB">KueezRTB</span></label></div><div class="fild-wrapper last"><label for="Message-Form" class="field-headline">Your Message (optional)</label><textarea id="Message-Form" name="Message-Form" maxlength="5000" data-name="Message Form" placeholder="" class="mesage-form-field home w-input"></textarea></div><label class="w-checkbox checkbox-field"><div class="w-checkbox-input w-checkbox-input--inputType-custom checkbox home w--redirected-checked"></div><input type="checkbox" name="Checkbox-Terms" id="Checkbox-Terms" data-name="Checkbox-Terms" required="" style="opacity:0;position:absolute;z-index:-1" checked=""/><span class="checkbox-label w-form-label" for="Checkbox-Terms">I agree with Kueez&#x27;s <a href="#" class="link-green">Privacy Statement</a> &amp; <a href="#" class="link-green">Terms of Service</a>.</span></label><input type="submit" data-wait="Please wait..." class="button-from-home green w-button" value="Get in touch"/></form><div class="success-message w-form-done"><div>Thank you! Your submission has been received!</div></div><div class="w-form-fail"><div>Oops! Something went wrong while submitting the form.</div></div></div></div></div><a data-w-id="19260c84-37d8-9686-f44c-562a4bf12f0b" href="#" class="popup-close-btn w-inline-block"><img loading="lazy" src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/68597157cce2c0ba62dd46e3_close%20form.svg" alt="" class="close-popul-form"/></a></div></div></div><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6822f8d5489c42a5572ed7d5" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/js/webflow.schunk.d76609de49800cd6.js" type="text/javascript" integrity="sha384-goNBGgT10Um4s8tWK6t6QVyz60UIOpApHeTE8/7L1e4+eVmoPtx679PFuBtPB4qB" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/js/webflow.schunk.39f41eb3e7db6ab3.js" type="text/javascript" integrity="sha384-XNwoe9laPhQ3hU6WDh10XpcZ9z1JNq37CnWf050UvmgxtDFQe22o38PAzysMZEP/" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/6822f8d5489c42a5572ed7d5/js/webflow.2fa95b11.3bd598b7d687be95.js" type="text/javascript" integrity="sha384-r6VmqD5mi13RQDwuItgk7rPPJVt3MZwgp4YlciPhnLcpHvzaSKppEU3OKI7j6owO" crossorigin="anonymous"></script><script>
+// Corrected Version - Fixes the "blank screen" issue
+document.addEventListener("DOMContentLoaded", function() {
+
+  // ====================================================================
+  // Part 1: Automatic injection of basic styles
+  // ====================================================================
+  const styleSheet = document.createElement('style');
+  styleSheet.id = 'webflow-loop-styles';
+  document.head.appendChild(styleSheet);
+
+  // ====================================================================
+  // Part 2: The main logic of the carousel
+  // ====================================================================
+  const wrapper = document.querySelector('.wrapper_logos_hide_margins');
+  const logosContainer = document.querySelector('.logos-clients-images');
+
+  if (!wrapper || !logosContainer) {
+    console.warn("Carousel elements not found. Check classes: .wrapper_logos_hide_margins, .logos-clients-images");
+    return;
+  }
+
+  const originalItemsHTML = logosContainer.innerHTML;
+  let isAnimating = false;
+
+  const setupCarousel = () => {
+    // We wait for one frame so the browser correctly calculates widths after reset
+    requestAnimationFrame(() => {
+      const wrapperWidth = wrapper.offsetWidth;
+      // Measure the width of the ORIGINAL set of logos
+      const originalLogosWidth = logosContainer.scrollWidth;
+
+      // --- CONDITION: Start the animation only if the logos don’t fit ---
+      if (originalLogosWidth > wrapperWidth) {
+        if (isAnimating) return; // If already animating, do nothing
+        isAnimating = true;
+
+        // --- CLONING: Duplicate the content to fill the gap ---
+        const originalItems = Array.from(logosContainer.children);
+        originalItems.forEach(item => {
+          const clone = item.cloneNode(true);
+          clone.setAttribute('aria-hidden', 'true');
+          logosContainer.appendChild(clone);
+        });
+
+        // --- CORRECT ANIMATION ---
+        // 1. Define the exact movement distance
+        const moveDistance = originalLogosWidth;
+
+        // 2. Calculate a proportional duration for constant speed
+        // You can change the number '40' to make the animation faster or slower
+        const duration = moveDistance / 40;
+
+        // 3. Create and inject the @keyframes animation rule
+        const animationName = `scroll_left_${Date.now()}`;
+        const keyframes = `
+          @keyframes ${animationName} {
+            from {
+              transform: translateX(0);
+            }
+            to {
+              transform: translateX(-${moveDistance}px);
+            }
+          }
+        `;
+        styleSheet.innerHTML = keyframes;
+
+        // 4. Apply the animation to the element
+        logosContainer.style.animation = `${animationName} ${duration}s linear infinite`;
+
+      } else {
+        // --- STOP: If the logos fit, stop everything ---
+        if (!isAnimating) return;
+        isAnimating = false;
+        logosContainer.style.animation = '';
+        logosContainer.innerHTML = originalItemsHTML; // Reset to original state
+      }
+    });
+  };
+
+  // Use ResizeObserver to automatically recalculate everything on resize
+  const observer = new ResizeObserver(() => {
+     // Completely reset state before recalculating
+     isAnimating = false;
+     logosContainer.style.animation = '';
+     logosContainer.innerHTML = originalItemsHTML;
+     setupCarousel();
+  });
+
+  observer.observe(wrapper);
+
+});
+</script>
+<script type="text/javascript">
+_linkedin_partner_id = "7910009";
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+</script><script type="text/javascript">
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=7910009&fmt=gif" />
+</noscript>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const emailInput = document.getElementById("Email-Address");
+  if (!emailInput) return;
+
+  const form = emailInput.closest("form");
+  if (!form) return;
+
+  // Free and personal email providers
+  const blockedDomains = new Set([
+    "gmail.com",
+    "googlemail.com",
+    "yahoo.com",
+    "yahoo.co.uk",
+    "yahoo.co.in",
+    "yahoo.fr",
+    "yahoo.de",
+    "ymail.com",
+    "rocketmail.com",
+    "hotmail.com",
+    "hotmail.co.uk",
+    "hotmail.fr",
+    "outlook.com",
+    "outlook.co.uk",
+    "live.com",
+    "live.co.uk",
+    "live.fr",
+    "msn.com",
+    "aol.com",
+    "icloud.com",
+    "me.com",
+    "mac.com",
+    "proton.me",
+    "protonmail.com",
+    "pm.me",
+    "mail.com",
+    "email.com",
+    "gmx.com",
+    "gmx.net",
+    "gmx.de",
+    "web.de",
+    "mail.ru",
+    "bk.ru",
+    "list.ru",
+    "inbox.ru",
+    "yandex.ru",
+    "yandex.com",
+    "ya.ru",
+    "rambler.ru",
+    "zoho.com",
+    "zohomail.com",
+    "tutanota.com",
+    "tuta.com",
+    "fastmail.com",
+    "fastmail.fm",
+    "qq.com",
+    "163.com",
+    "126.com",
+    "naver.com",
+    "daum.net",
+    "walla.co.il",
+    "walla.com",
+    "012.net.il",
+    "bezeqint.net",
+    "netvision.net.il",
+    "10minutemail.com",
+    "guerrillamail.com",
+    "mailinator.com",
+    "tempmail.com",
+    "temp-mail.org",
+    "yopmail.com",
+    "trashmail.com",
+    "dispostable.com",
+    "getnada.com"
+  ]);
+
+  const errorMessage = "Please enter a valid business email address.";
+
+  // Create error message
+  const error = document.createElement("div");
+  error.className = "business-email-error";
+  error.textContent = errorMessage;
+  error.style.cssText = `
+    display: none;
+    color: #d32f2f;
+    font-size: 13px;
+    line-height: 1.4;
+    margin-top: 6px;
+    margin-bottom: 8px;
+  `;
+
+  const errorId = "business-email-error";
+  error.id = errorId;
+  emailInput.insertAdjacentElement("afterend", error);
+
+  emailInput.setAttribute("aria-describedby", errorId);
+
+  function validateBusinessEmail() {
+    const value = emailInput.value.trim().toLowerCase();
+    const domain = value.includes("@")
+      ? value.split("@").pop()
+      : "";
+
+    const isBlocked = blockedDomains.has(domain);
+
+    if (isBlocked) {
+      emailInput.setCustomValidity(errorMessage);
+      emailInput.style.borderColor = "#d32f2f";
+      emailInput.setAttribute("aria-invalid", "true");
+      error.style.display = "block";
+      return false;
+    }
+
+    emailInput.setCustomValidity("");
+    emailInput.style.borderColor = "";
+    emailInput.removeAttribute("aria-invalid");
+    error.style.display = "none";
+    return true;
+  }
+
+  // Validate as the user types
+  emailInput.addEventListener("input", validateBusinessEmail);
+
+  // Validate when leaving the field
+  emailInput.addEventListener("blur", validateBusinessEmail);
+
+  // Prevent invalid form submissions
+  form.addEventListener("submit", function (event) {
+    if (!validateBusinessEmail()) {
+      event.preventDefault();
+      event.stopImmediatePropagation();
+      emailInput.focus();
+      emailInput.reportValidity();
+    }
+  }, true);
+});
+</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+
+<script>
+
+ document.addEventListener("DOMContentLoaded", () => {
+  // 1) Find all slider nav anchors and make them inert
+  document.querySelectorAll('.team-slider_btn_element a').forEach((a) => {
+    a.setAttribute('href', 'javascript:void(0)');
+    a.setAttribute('role', 'button');
+    a.addEventListener('click', (e) => e.preventDefault());
+  });
+
+  // 2) Site-wide safeguard for any stray '#' or empty href
+ document.addEventListener('click', (e) => {
+    const a = e.target.closest('a[href="#"], a[href=""]');
+    if (a) e.preventDefault();
+  }, true);
+
+  // 3) Initialize each Swiper component
+  document.querySelectorAll(".team-slider_component").forEach((component) => {
+    const cmsWrap = component.querySelector(".swiper");
+    if (!cmsWrap) return;
+
+    const swiper = new Swiper(cmsWrap, {
+      slidesPerView: "auto",
+      followFinger: false,
+      loop: true,                    // infinite
+      freeMode: false,
+      slideToClickedSlide: false,
+      centeredSlides: false,
+      autoHeight: false,
+      speed: 300,
+      slideActiveClass: "is-active",
+      slideDuplicateActiveClass: "is-active",
+      mouseWheel: {
+        forceToAxis: true,
+      },
+      keyboard: {
+        enabled: true,
+        onlyInViewport: true,
+      },
+      navigation: {
+        nextEl: component.querySelector(".team-slider_btn_element.is-next"),
+        prevEl: component.querySelector(".team-slider_btn_element.is-prev"),
+      },
+      pagination: {
+        el: component.querySelector(".team-slider_bullet_wrap"),
+        bulletActiveClass: "is-active",
+        bulletClass: "team-slider_bullet_item",
+        bulletElement: "button",
+        clickable: true,
+      },
+      scrollbar: {
+        el: component.querySelector(".team-slider_draggable_wrap"),
+        draggable: true,
+        dragClass: "team-slider_draggable_handle",
+        snapOnRelease: true,
+      },
+    });
+  });
+});
+</script>
+
+<!-- Swiper Slide - Home Testimonials -->
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script>
+  // Home Testimonials Slide (Swiper)
+  const swiperTestimonials = new Swiper('.swiper.is-home-blog-posts', {
+    slidesPerView: 1,
+    spaceBetween: 0,
+    speed: 800,
+    loop: true,
+
+    // ✅ Autoplay
+    autoplay: {
+      delay: 5000, // 5 segundos entre os slides
+      disableOnInteraction: false, // continua mesmo após interação
+      pauseOnMouseEnter: true, // pausa se o usuário passar o mouse
+    },
+
+    pagination: {
+      el: '.swiper-pagination',
+      bulletClass: 'swiper-bullet',
+      bulletActiveClass: 'is-active',
+      clickable: true,
+    },
+
+    navigation: {
+      nextEl: '.swiper-btn-next.is-home-blog-posts',
+      prevEl: '.swiper-btn-prev.is-home-blog-posts',
+    },
+
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+
+    breakpoints: {
+      320: {
+        slidesPerView: 1.2,
+        spaceBetween: 16
+      },
+      480: {
+        slidesPerView: 1.2,
+        spaceBetween: 16
+      },
+      640: {
+        slidesPerView: 3,
+        spaceBetween: 16
+      },
+    },
+  });
+</script>
+</body></html>

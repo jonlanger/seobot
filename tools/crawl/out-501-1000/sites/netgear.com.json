@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "netgear.com",
+    "rank": 1077,
+    "url": "https://netgear.com/",
+    "runAt": "2026-10-18T17:59:38.887Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2122,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.netgear.com/",
+      "bytes": 501426
+    },
+    "rendered": {
+      "title": "NETGEAR: Advanced WiFi & Networking",
+      "canonical": "https://www.netgear.com/",
+      "words": 228,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 233,
+      "renderedWords": 228,
+      "coverage": 75.9,
+      "rawOnlyTokens": 60,
+      "renderedOnlyTokens": 55,
+      "renderedOnlySample": [
+        "contententerpriseavhome",
+        "wifimobile",
+        "wifisupportshop",
+        "dealsabout",
+        "netgearwe",
+        "everywherefrom",
+        "homefor",
+        "businessconnected",
+        "homeevery",
+        "allmeet",
+        "orbifast",
+        "770certified",
+        "productssave",
+        "nowsmarter",
+        "enterprisesat",
+        "enterpriseenterprise-grade",
+        "businesseslearn",
+        "morenetgear",
+        "avpurpose-built",
+        "latencylearn",
+        "morethree",
+        "mostwe",
+        "usconnect",
+        "ussign",
+        "addresssubmityou"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 50,
+      "titleDiffers": true,
+      "rawTitle": "NETGEAR: Advanced WiFi &amp; Networking",
+      "renderedTitle": "NETGEAR: Advanced WiFi & Networking",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

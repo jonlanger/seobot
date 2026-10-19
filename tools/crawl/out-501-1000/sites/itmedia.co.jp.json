@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "itmedia.co.jp",
+    "rank": 1185,
+    "url": "https://itmedia.co.jp/",
+    "runAt": "2026-10-18T18:03:44.379Z",
+    "robots": {
+      "status": 200,
+      "bytes": 85662,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.itmedia.co.jp/",
+      "bytes": 85662
+    },
+    "rendered": {
+      "title": "IT総合情報ポータル「ITmedia」Home",
+      "canonical": "https://www.itmedia.co.jp/",
+      "words": 3039,
+      "jsonLdTypes": [],
+      "headings": 88,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 206,
+      "renderedWords": 3039,
+      "coverage": 0,
+      "rawOnlyTokens": 206,
+      "renderedOnlyTokens": 3039,
+      "renderedOnlySample": [
+        "メデ",
+        "ディ",
+        "ィア",
+        "マイ",
+        "イペ",
+        "ペー",
+        "ージ",
+        "to",
+        "op",
+        "st",
+        "or",
+        "ri",
+        "ie",
+        "es",
+        "20",
+        "02",
+        "26",
+        "6年",
+        "年1",
+        "10",
+        "0月",
+        "月1",
+        "18",
+        "8日",
+        "11"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 88,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 9.1,
+      "titleDiffers": true,
+      "rawTitle": "IT�������|�[�^���uITmedia�vHome",
+      "renderedTitle": "IT総合情報ポータル「ITmedia」Home",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "clever.com",
+    "rank": 1017,
+    "url": "https://clever.com/",
+    "runAt": "2026-10-18T17:57:31.991Z",
+    "robots": {
+      "status": 200,
+      "bytes": 164,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.clever.com/",
+      "bytes": 136966
+    },
+    "rendered": {
+      "title": "Clever",
+      "canonical": "https://www.clever.com/",
+      "words": 363,
+      "jsonLdTypes": [],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 211,
+      "renderedWords": 363,
+      "coverage": 57.6,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 154,
+      "renderedOnlySample": [
+        "accessfree",
+        "classroomfree",
+        "centerfree24",
+        "libraryexplore",
+        "academyfreefree",
+        "releasesthe",
+        "cookie",
+        "preference",
+        "centerwhen",
+        "you",
+        "visit",
+        "any",
+        "website",
+        "may",
+        "retrieve",
+        "information",
+        "browser",
+        "mostly",
+        "form",
+        "cookies",
+        "might",
+        "preferences",
+        "device",
+        "used",
+        "make"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 73.7,
+      "titleDiffers": false,
+      "rawTitle": "Clever",
+      "renderedTitle": "Clever",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

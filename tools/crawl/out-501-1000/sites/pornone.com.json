@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "pornone.com",
+    "rank": 1330,
+    "url": "https://pornone.com/",
+    "runAt": "2026-10-18T18:09:44.570Z",
+    "robots": {
+      "status": 200,
+      "bytes": 744,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://pornone.com/",
+      "bytes": 256049
+    },
+    "rendered": {
+      "title": "Watch Free Porn & HD Porno Videos — PornOne ex vPorn",
+      "canonical": "https://pornone.com/",
+      "words": 522,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 511,
+      "renderedWords": 522,
+      "coverage": 93.5,
+      "rawOnlyTokens": 23,
+      "renderedOnlyTokens": 34,
+      "renderedOnlySample": [
+        "displayurl",
+        "ctatext",
+        "list",
+        "girlfriend's",
+        "annmanson",
+        "charlotterivers",
+        "marlyshalas",
+        "leslyanderson",
+        "annakosyta",
+        "raquellehanks",
+        "alyssasantorini",
+        "abigailbeaut",
+        "cecilystalley",
+        "bobbierepsher",
+        "zenyasin",
+        "lexysimpson",
+        "moreshorts",
+        "wife's",
+        "cheerleader's",
+        "confissões",
+        "íntimas",
+        "here's",
+        "videossort",
+        "allhd",
+        "susan"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 6,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Watch Free Porn &amp; HD Porno Videos &mdash; PornOne ex vPorn",
+      "renderedTitle": "Watch Free Porn & HD Porno Videos — PornOne ex vPorn",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

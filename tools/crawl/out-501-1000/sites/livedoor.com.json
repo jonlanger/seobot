@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "livedoor.com",
+    "rank": 1263,
+    "url": "https://livedoor.com/",
+    "runAt": "2026-10-18T18:06:46.469Z",
+    "robots": {
+      "status": 200,
+      "bytes": 33,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.livedoor.com/",
+      "bytes": 26289
+    },
+    "rendered": {
+      "title": "livedoor",
+      "canonical": "https://www.livedoor.com/",
+      "words": 1044,
+      "jsonLdTypes": [],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 892,
+      "renderedWords": 1044,
+      "coverage": 85.3,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 153,
+      "renderedOnlySample": [
+        "解n",
+        "業n",
+        "加護",
+        "護亜",
+        "亜依",
+        "依の",
+        "タバ",
+        "バコ",
+        "コ吸",
+        "吸わ",
+        "わな",
+        "仏暴",
+        "暴徒",
+        "徒化",
+        "もう",
+        "うデ",
+        "デモ",
+        "モじ",
+        "じゃ",
+        "ゃな",
+        "新着",
+        "jf",
+        "fa",
+        "a公",
+        "式ア"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "livedoor",
+      "renderedTitle": "livedoor",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

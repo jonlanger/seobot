@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "cbc.ca",
+    "rank": 1165,
+    "url": "https://cbc.ca/",
+    "runAt": "2026-10-18T18:03:15.306Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2195,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.cbc.ca/",
+      "bytes": 465796
+    },
+    "rendered": {
+      "title": "CBC.ca - watch, listen, and discover with Canada's Public Broadcaster",
+      "canonical": "https://www.cbc.ca/",
+      "words": 779,
+      "jsonLdTypes": [],
+      "headings": 45,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 650,
+      "renderedWords": 779,
+      "coverage": 62.5,
+      "rawOnlyTokens": 163,
+      "renderedOnlyTokens": 292,
+      "renderedOnlySample": [
+        "advertisement-reportskip",
+        "contentaccessibility",
+        "helpmenucbc",
+        "gemcbc",
+        "listensearchsearchsign",
+        "inquick",
+        "linksnewssportsradiomusiclisten",
+        "livetvwatchnewssportsall",
+        "localslatest",
+        "newspm",
+        "albertashould",
+        "here's",
+        "dofreeland",
+        "defeatdoing",
+        "relatablemore",
+        "newscbc",
+        "canada's",
+        "loadedcbc",
+        "homepageexplore",
+        "cbcyour",
+        "moretop",
+        "homepagelivecarney",
+        "wainwrightprime",
+        "moviesyou",
+        "mindlifefirst"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 45,
+      "headingsAlsoInRaw": 36,
+      "headingsCoverage": 80,
+      "titleDiffers": true,
+      "rawTitle": "CBC.ca - watch, listen, and discover with Canada&#x27;s Public Broadcaster",
+      "renderedTitle": "CBC.ca - watch, listen, and discover with Canada's Public Broadcaster",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

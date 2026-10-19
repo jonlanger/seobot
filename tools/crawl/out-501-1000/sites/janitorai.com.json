@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "janitorai.com",
+    "rank": 1213,
+    "url": "https://janitorai.com/",
+    "runAt": "2026-10-18T18:04:50.211Z",
+    "robots": {
+      "status": 200,
+      "bytes": 227,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://janitorai.com/",
+      "bytes": 522884
+    },
+    "rendered": {
+      "title": "janitor - Build, share, and explore",
+      "canonical": "https://janitorai.com/",
+      "words": 646,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 26,
+      "renderedWords": 646,
+      "coverage": 1.2,
+      "rawOnlyTokens": 18,
+      "renderedOnlyTokens": 638,
+      "renderedOnlySample": [
+        "home",
+        "kloginregisterbe",
+        "anyone",
+        "build",
+        "anything",
+        "join",
+        "15m",
+        "users",
+        "crafting",
+        "living",
+        "storiesloginregisterfollowinglogin",
+        "see",
+        "characters",
+        "followed",
+        "creatorsfavoriteslogin",
+        "favorite",
+        "characterspopularexplore",
+        "allbotspopular",
+        "mafia",
+        "boss40m165",
+        "kloomsy",
+        "boss",
+        "who",
+        "thinks",
+        "have"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "website"
+      ],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Security Verification",
+      "renderedTitle": "janitor - Build, share, and explore",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

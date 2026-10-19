@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "elconfidencial.com",
+    "rank": 1196,
+    "url": "https://elconfidencial.com/",
+    "runAt": "2026-10-18T18:04:11.763Z",
+    "robots": {
+      "status": 200,
+      "bytes": 10124,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.elconfidencial.com/",
+      "bytes": 595814
+    },
+    "rendered": {
+      "title": "El Confidencial - El diario de los lectores influyentes",
+      "canonical": "https://www.elconfidencial.com/",
+      "words": 1943,
+      "jsonLdTypes": [
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "website"
+      ],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1856,
+      "renderedWords": 1943,
+      "coverage": 83.6,
+      "rawOnlyTokens": 231,
+      "renderedOnlyTokens": 318,
+      "renderedOnlySample": [
+        "eres",
+        "inicia",
+        "sesiónutilizamos",
+        "propias",
+        "terceros",
+        "garantizar",
+        "correcto",
+        "funcionamiento",
+        "portal",
+        "recoger",
+        "uso",
+        "mejorar",
+        "nuestros",
+        "mostrarte",
+        "publicidad",
+        "personalizada",
+        "basándonos",
+        "navegación",
+        "compartimos",
+        "continuas",
+        "navegando",
+        "consideramos",
+        "aceptas",
+        "configurar",
+        "rechazar"
+      ],
+      "jsonLdRaw": [
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "El Confidencial - El diario de los lectores influyentes",
+      "renderedTitle": "El Confidencial - El diario de los lectores influyentes",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

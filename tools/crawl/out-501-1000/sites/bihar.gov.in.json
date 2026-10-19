@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "bihar.gov.in",
+    "rank": 1331,
+    "url": "https://bihar.gov.in/",
+    "runAt": "2026-10-18T18:09:45.110Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://bihar.gov.in/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://bihar.gov.in/\nCall log:\n  - navigating to \"https://bihar.gov.in/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

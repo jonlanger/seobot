@@ -1,0 +1,162 @@
+[
+  {
+    "domain": "nationalgeographic.com",
+    "rank": 1015,
+    "url": "https://nationalgeographic.com/",
+    "runAt": "2026-10-18T17:57:30.152Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1396,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.nationalgeographic.com/",
+      "bytes": 575561
+    },
+    "rendered": {
+      "title": "National Geographic",
+      "canonical": "https://www.nationalgeographic.com/",
+      "words": 772,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 474,
+      "renderedWords": 772,
+      "coverage": 44.6,
+      "rawOnlyTokens": 130,
+      "renderedOnlyTokens": 428,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "contentanimalstopics",
+        "profilespetsendangered",
+        "speciesanimal",
+        "behaviorsanimal",
+        "discoveriesall",
+        "animalslatest",
+        "momentit",
+        "momenthow",
+        "strikeshow",
+        "strikeswhat",
+        "photographers16",
+        "photographersnat",
+        "recommends",
+        "yearshistory",
+        "culturetopics",
+        "historic",
+        "sitesarchaeologyancient",
+        "historyhistorical",
+        "mysteriesreligionholidays",
+        "traditionsall",
+        "culturelatest",
+        "alivethe",
+        "afloatthe"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 18,
+      "headingsCoverage": 75,
+      "titleDiffers": false,
+      "rawTitle": "National Geographic",
+      "renderedTitle": "National Geographic",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

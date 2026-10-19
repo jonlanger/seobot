@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "tgju.org",
+    "rank": 1385,
+    "url": "https://tgju.org/",
+    "runAt": "2026-10-18T18:11:35.388Z",
+    "robots": {
+      "status": 200,
+      "bytes": 772,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.tgju.org/",
+      "bytes": 1508304
+    },
+    "rendered": {
+      "title": "قیمت طلا, قیمت سکه, قیمت دلار - شبکه اطلاع رسانی طلا و ارز",
+      "canonical": "https://www.tgju.org/",
+      "words": 3427,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 64,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4026,
+      "renderedWords": 3427,
+      "coverage": 93.5,
+      "rawOnlyTokens": 823,
+      "renderedOnlyTokens": 224,
+      "renderedOnlySample": [
+        "مشاهدهاز",
+        "مشاهدهپلاتین",
+        "مشاهدهقیمت",
+        "مشاهدهسیگنال",
+        "مشاهدهطلای",
+        "مشاهدهیواس",
+        "نظارت",
+        "اتحادیه",
+        "مشاهدهواردات",
+        "مشاهدهرشد",
+        "مشاهدهطلا",
+        "مشاهدهاس",
+        "مشاهدهدلار",
+        "مشاهدهبیشترین",
+        "امسال",
+        "مشاهدهمدیرعامل",
+        "انویدیا",
+        "موقتی",
+        "مشاهدهتحلیل",
+        "مشاهدهاونس",
+        "مشاهدهصف",
+        "پناهگاه",
+        "مشاهدهنرخ",
+        "مشاهدهخط",
+        "خالی"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 64,
+      "headingsAlsoInRaw": 64,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "قیمت طلا, قیمت سکه, قیمت دلار - شبکه اطلاع رسانی طلا و ارز",
+      "renderedTitle": "قیمت طلا, قیمت سکه, قیمت دلار - شبکه اطلاع رسانی طلا و ارز",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

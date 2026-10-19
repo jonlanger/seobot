@@ -1,0 +1,127 @@
+[
+  {
+    "domain": "thisvid.com",
+    "rank": 1345,
+    "url": "https://thisvid.com/",
+    "runAt": "2026-10-18T18:10:11.317Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2001,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://thisvid.com/",
+      "bytes": 98303
+    },
+    "rendered": {
+      "title": "Public sex, homemade porn, free sex videos, free porn movies at ThisVid!",
+      "canonical": "https://thisvid.com/",
+      "words": 383,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 379,
+      "renderedWords": 383,
+      "coverage": 97.1,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 11,
+      "renderedOnlySample": [
+        "cookies",
+        "help",
+        "deliver",
+        "our",
+        "using",
+        "website",
+        "agree",
+        "use",
+        "learn",
+        "moregot",
+        "123456789"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 3,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Public sex, homemade porn, free sex videos, free porn movies at ThisVid!",
+      "renderedTitle": "Public sex, homemade porn, free sex videos, free porn movies at ThisVid!",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

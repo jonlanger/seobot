@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "rings.solutions",
+    "rank": 1120,
+    "url": "https://rings.solutions/",
+    "runAt": "2026-10-18T18:00:53.534Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://rings.solutions/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://rings.solutions/\nCall log:\n  - navigating to \"https://rings.solutions/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

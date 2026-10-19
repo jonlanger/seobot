@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "irs.gov",
+    "rank": 1321,
+    "url": "https://irs.gov/",
+    "runAt": "2026-10-18T18:09:31.715Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3899,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.irs.gov/",
+      "bytes": 147305
+    },
+    "rendered": {
+      "title": "Internal Revenue Service | An official website of the United States government",
+      "canonical": "https://www.irs.gov/",
+      "words": 512,
+      "jsonLdTypes": [],
+      "headings": 61,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 442,
+      "renderedWords": 512,
+      "coverage": 83.8,
+      "rawOnlyTokens": 13,
+      "renderedOnlyTokens": 83,
+      "renderedOnlySample": [
+        "español中文",
+        "한국어русскийtiếng",
+        "việtkreyòl",
+        "employee's",
+        "employer's",
+        "overviewinformation",
+        "individualsbusiness",
+        "self-employedcharities",
+        "nonprofitsinternational",
+        "filersretirementgovernments",
+        "bondsindian",
+        "governmentsfiling",
+        "individualshow",
+        "filewhen",
+        "filewhere",
+        "fileupdate",
+        "informationpopulartax",
+        "returnidentity",
+        "overviewpay",
+        "bybank",
+        "popularyour",
+        "accounttax",
+        "estimatorestimated",
+        "taxespenalties",
+        "overviewabout"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 61,
+      "headingsAlsoInRaw": 59,
+      "headingsCoverage": 96.7,
+      "titleDiffers": false,
+      "rawTitle": "Internal Revenue Service | An official website of the United States government",
+      "renderedTitle": "Internal Revenue Service | An official website of the United States government",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

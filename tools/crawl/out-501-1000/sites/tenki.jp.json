@@ -1,0 +1,162 @@
+[
+  {
+    "domain": "tenki.jp",
+    "rank": 1362,
+    "url": "https://tenki.jp/",
+    "runAt": "2026-10-18T18:10:42.131Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1139,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://tenki.jp/",
+      "bytes": 174223
+    },
+    "rendered": {
+      "title": "日本気象協会 tenki.jp / 全国の天気予報・地震・台風",
+      "canonical": "https://tenki.jp/",
+      "words": 1226,
+      "jsonLdTypes": [
+        "collectionpage",
+        "dataset",
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 955,
+      "renderedWords": 1226,
+      "coverage": 77.6,
+      "rawOnlyTokens": 4,
+      "renderedOnlyTokens": 275,
+      "renderedOnlySample": [
+        "新規",
+        "規登",
+        "登録",
+        "録ロ",
+        "ログ",
+        "グイ",
+        "期注",
+        "意警",
+        "幌2",
+        "路1",
+        "39",
+        "台2",
+        "46",
+        "潟2",
+        "71",
+        "京2",
+        "95",
+        "沢2",
+        "91",
+        "屋2",
+        "07",
+        "阪2",
+        "08",
+        "知2",
+        "島2"
+      ],
+      "jsonLdRaw": [
+        "collectionpage",
+        "dataset",
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "collectionpage",
+        "dataset",
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 6,
+      "headingsCoverage": 54.5,
+      "titleDiffers": false,
+      "rawTitle": "日本気象協会 tenki.jp / 全国の天気予報・地震・台風",
+      "renderedTitle": "日本気象協会 tenki.jp / 全国の天気予報・地震・台風",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "terra.com.br",
+    "rank": 1092,
+    "url": "https://terra.com.br/",
+    "runAt": "2026-10-18T18:00:10.540Z",
+    "robots": {
+      "status": 200,
+      "bytes": 92,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.terra.com.br/",
+      "bytes": 331746
+    },
+    "rendered": {
+      "title": "Terra - Seu Portal de Notícias, Diversão, Esportes e Vida e Estilo",
+      "canonical": "https://www.terra.com.br/",
+      "words": 360,
+      "jsonLdTypes": [
+        "newsmediaorganization",
+        "organization",
+        "website"
+      ],
+      "headings": 60,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 317,
+      "renderedWords": 360,
+      "coverage": 87.2,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 46,
+      "renderedOnlySample": [
+        "terrasairaproveite",
+        "configure",
+        "suas",
+        "preferênciasconteúdos",
+        "portalfutebolhoróscopoclimaconfigurações",
+        "portalinscreva-se",
+        "whatsapp",
+        "terraterra",
+        "serviçosacesse",
+        "seus",
+        "serviços",
+        "aproveite",
+        "máximo",
+        "benefícios",
+        "oferecidosacessar",
+        "assinanteacessar",
+        "astralacessar",
+        "terrafale",
+        "terra2ª",
+        "via",
+        "boletocompre",
+        "whatsappconheça",
+        "nossos",
+        "produtosvoltartema",
+        "corescolha"
+      ],
+      "jsonLdRaw": [
+        "newsmediaorganization",
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "newsmediaorganization",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 60,
+      "headingsAlsoInRaw": 59,
+      "headingsCoverage": 98.3,
+      "titleDiffers": false,
+      "rawTitle": "Terra - Seu Portal de Notícias, Diversão, Esportes e Vida e Estilo",
+      "renderedTitle": "Terra - Seu Portal de Notícias, Diversão, Esportes e Vida e Estilo",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

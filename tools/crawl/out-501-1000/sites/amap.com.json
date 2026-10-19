@@ -1,0 +1,85 @@
+[
+  {
+    "domain": "amap.com",
+    "rank": 1247,
+    "url": "https://amap.com/",
+    "runAt": "2026-10-18T18:06:17.829Z",
+    "robots": {
+      "status": 200,
+      "bytes": 18850,
+      "wildcardVerdict": "block",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "classification": "robots_excluded",
+    "skipped": "wildcard group disallows /"
+  }
+]

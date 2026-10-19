@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "meethue.com",
+    "rank": 1152,
+    "url": "https://meethue.com/",
+    "runAt": "2026-10-18T18:02:53.723Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5895,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.philips-hue.com/en-us",
+      "bytes": 583652
+    },
+    "rendered": {
+      "title": "Smart lights and home security | Philips Hue",
+      "canonical": "https://www.philips-hue.com/",
+      "words": 303,
+      "jsonLdTypes": [
+        "itemlist",
+        "organization",
+        "videoobject",
+        "website"
+      ],
+      "headings": 47,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 295,
+      "renderedWords": 303,
+      "coverage": 86.1,
+      "rawOnlyTokens": 34,
+      "renderedOnlyTokens": 42,
+      "renderedOnlySample": [
+        "get",
+        "promotionscreate",
+        "kitlighting",
+        "outletnewexclusives",
+        "bulbsstarter",
+        "kitsspotlight",
+        "bulbsdecorative",
+        "filamentsedison",
+        "lightsstring",
+        "lights360",
+        "lampstable",
+        "lightstrack",
+        "lightingpendant",
+        "lightsrecessed",
+        "lightswall",
+        "workshue",
+        "appworks",
+        "withhue",
+        "guide",
+        "tv-light",
+        "options",
+        "nanoleaf",
+        "visible",
+        "please",
+        "change"
+      ],
+      "jsonLdRaw": [
+        "itemlist",
+        "organization",
+        "videoobject",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "itemlist",
+        "organization",
+        "videoobject",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 47,
+      "headingsAlsoInRaw": 43,
+      "headingsCoverage": 91.5,
+      "titleDiffers": false,
+      "rawTitle": "Smart lights and home security | Philips Hue",
+      "renderedTitle": "Smart lights and home security | Philips Hue",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

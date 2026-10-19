@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "cspserver.net",
+    "rank": 1164,
+    "url": "https://cspserver.net/",
+    "runAt": "2026-10-18T18:03:11.226Z",
+    "robots": {
+      "status": 404,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 404,
+      "finalUrl": "https://cspserver.net/",
+      "bytes": 0
+    },
+    "rendered": {
+      "title": "",
+      "canonical": "",
+      "words": 0,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 0,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "",
+      "renderedTitle": "",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

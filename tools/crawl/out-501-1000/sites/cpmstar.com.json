@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "cpmstar.com",
+    "rank": 1356,
+    "url": "https://cpmstar.com/",
+    "runAt": "2026-10-18T18:10:32.023Z",
+    "robots": {
+      "status": 200,
+      "bytes": 68,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.cpmstar.com/",
+      "bytes": 222715
+    },
+    "rendered": {
+      "title": "Maximize Ad Performance with SSP & DSP Solutions | CPMStar",
+      "canonical": "",
+      "words": 109,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 111,
+      "renderedWords": 109,
+      "coverage": 67.9,
+      "rawOnlyTokens": 37,
+      "renderedOnlyTokens": 35,
+      "renderedOnlySample": [
+        "press",
+        "option",
+        "screen-reader",
+        "mode",
+        "cancelaccessibility",
+        "guide",
+        "feedback",
+        "issue",
+        "reporting",
+        "new",
+        "windowpublishersadvertisersaboutcase",
+        "studiesblogloginget",
+        "startedpublishersadvertisersaboutcase",
+        "startedmaximize",
+        "performanceforget",
+        "moreget",
+        "touchpowers",
+        "over700",
+        "partners4",
+        "7bpage",
+        "views1bunique",
+        "visitorsssp",
+        "publisherswith",
+        "servicesour",
+        "bygetting"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 3,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Maximize Ad Performance with SSP &amp; DSP Solutions | CPMStar",
+      "renderedTitle": "Maximize Ad Performance with SSP & DSP Solutions | CPMStar",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

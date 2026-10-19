@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "ultimate-guitar.com",
+    "rank": 1166,
+    "url": "https://ultimate-guitar.com/",
+    "runAt": "2026-10-18T18:03:15.395Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2184,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ultimate-guitar.com/",
+      "bytes": 175809
+    },
+    "rendered": {
+      "title": "ULTIMATE GUITAR TABS - 1M+ songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!",
+      "canonical": "https://www.ultimate-guitar.com/",
+      "words": 804,
+      "jsonLdTypes": [],
+      "headings": 9,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 12,
+      "renderedWords": 804,
+      "coverage": 0.7,
+      "rawOnlyTokens": 6,
+      "renderedOnlyTokens": 798,
+      "renderedOnlySample": [
+        "halloween",
+        "sale",
+        "access",
+        "0days",
+        "23hrs",
+        "59min",
+        "56sec",
+        "get",
+        "special",
+        "offertabscoursessongbooksarticlesforums",
+        "publish",
+        "tabpro",
+        "search",
+        "learn",
+        "easier",
+        "fastertop",
+        "hitsclassic",
+        "rock90s",
+        "alternativeperfected",
+        "sheeraned",
+        "sheeranperfectsam",
+        "smithtoo",
+        "good",
+        "goodbyescamila",
+        "cabellohavanaimagine"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 9,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "ULTIMATE GUITAR TABS - 1M+ songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!",
+      "renderedTitle": "ULTIMATE GUITAR TABS - 1M+ songs catalog with free Chords, Guitar Tabs, Bass Tabs, Ukulele Chords and Guitar Pro Tabs!",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "bol.com",
+    "rank": 1027,
+    "url": "https://bol.com/",
+    "runAt": "2026-10-18T17:57:59.908Z",
+    "robots": {
+      "status": 200,
+      "bytes": 6805,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.bol.com/",
+      "bytes": 12639
+    },
+    "rendered": {
+      "title": "bol",
+      "canonical": "",
+      "words": 100,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 100,
+      "renderedWords": 100,
+      "coverage": 100,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "bol",
+      "renderedTitle": "bol",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "sites": [
+    {"domain":"github.com"},
+    {"domain":"microsoft.com"},
+    {"domain":"apple.com"},
+    {"domain":"cloudflare.com"},
+    {"domain":"stripe.com"},
+    {"domain":"shopify.com"},
+    {"domain":"notion.so"},
+    {"domain":"webflow.com"},
+    {"domain":"figma.com"},
+    {"domain":"bbc.com"},
+    {"domain":"theguardian.com"},
+    {"domain":"wikipedia.org"}
+  ]
+}

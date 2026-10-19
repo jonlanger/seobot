@@ -1,0 +1,66 @@
+# robots.txt — Seobot marketing site
+#
+# Policy: maximum AI search visibility. Public marketing content is open to
+# search, answer, and training crawlers; only internal endpoints are closed.
+# The app is served from its own domain (app.seobot.example) and is noindexed there.
+#
+# Rationale + sources: src/content/ai-crawlers.ts and docs/geo-research.md §8.
+# TODO(launch): replace "seobot.example" with the production domain before deploy.
+
+# --- AI search / answer crawlers — required for citation visibility ---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+# --- Training crawlers — allowed on purpose (public content is our marketing) ---
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+# --- Aggressive crawler with no citation value to us ---
+User-agent: Bytespider
+Disallow: /
+
+# --- Default: public pages open, internal endpoints closed ---
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://seobot.example/sitemap.xml

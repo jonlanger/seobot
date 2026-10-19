@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "id.me",
+    "rank": 1343,
+    "url": "https://id.me/",
+    "runAt": "2026-10-18T18:10:09.664Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5884,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://id.me/",
+      "bytes": 5854
+    },
+    "rendered": {
+      "title": "Simple, secure login | ID.me",
+      "canonical": "https://www.id.me/",
+      "words": 174,
+      "jsonLdTypes": [
+        "corporation"
+      ],
+      "headings": 17,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 174,
+      "coverage": 0.6,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 173,
+      "renderedOnlySample": [
+        "opens",
+        "new",
+        "window",
+        "external",
+        "website",
+        "this",
+        "utilizes",
+        "technologies",
+        "such",
+        "cookies",
+        "enable",
+        "essential",
+        "site",
+        "functionality",
+        "well",
+        "for",
+        "analytics",
+        "personalization",
+        "and",
+        "targeted",
+        "advertising",
+        "learn",
+        "more",
+        "view",
+        "the"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "corporation"
+      ],
+      "jsonLdMissingFromRaw": [
+        "corporation"
+      ],
+      "headingsRendered": 17,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Simple, secure login | ID.me",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

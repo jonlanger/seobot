@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "kickstarter.com",
+    "rank": 1154,
+    "url": "https://kickstarter.com/",
+    "runAt": "2026-10-18T18:02:56.765Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5919,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.kickstarter.com/",
+      "bytes": 5889
+    },
+    "rendered": {
+      "title": "Kickstarter",
+      "canonical": "https://www.kickstarter.com/",
+      "words": 1686,
+      "jsonLdTypes": [],
+      "headings": 58,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 1686,
+      "coverage": 0.1,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1685,
+      "renderedOnlySample": [
+        "for",
+        "creatorsfor",
+        "creatorslog",
+        "incategoriesartartceramicsconceptual",
+        "artdigital",
+        "artillustrationinstallationsmixed",
+        "mediapaintingperformance",
+        "artpublic",
+        "artsculpturesocial",
+        "practicetextilesvideo",
+        "artfilter",
+        "byprojects",
+        "lovetrendingnearly",
+        "fundedjust",
+        "launchedprojects",
+        "near",
+        "youupcoming",
+        "projectscomicscomicsanthologiescomic",
+        "bookseventsgraphic",
+        "novelswebcomicsfilter",
+        "projectscraftscraftscandlescrochetdiyembroideryglassknittingpotteryprintingquiltsstationeryweavingwoodworkingfilter",
+        "projectsdancedanceperformancesspacesworkshopsfilter",
+        "projectsdesigndesignarchitecturecivic",
+        "designgraphic",
+        "designinteractive"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 58,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Kickstarter",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

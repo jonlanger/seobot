@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 44" role="img" aria-label="Seobot">
+  <g transform="translate(4 7.6) scale(0.85)">
+    <path d="M 10.6 30.8 L 22.03 19.83 Q 22.9 19 24.1 19 L 27.2 19 Q 28.4 19 29.06 18 L 35.7 8 L 25.1 0 L 17.8 11 L 12.3 11 L 0 22.8 Z" fill="#23b392" />
+    <path d="M 22.9 19 L 27.2 19 Q 28.4 19 29.06 18 L 35.7 8 L 25.1 0 L 17.8 11 L 12.3 11 Z" fill="#87e1c5" />
+    <path d="M 35.7 8 L 35.7 10.8 L 25.1 2.8 L 25.1 0 Z" fill="#169477" />
+    <path d="M 10.6 30.8 L 10.6 33.6 L 0 25.6 L 0 22.8 Z" fill="#185142" />
+    <path d="M 10.6 30.8 L 22.03 19.83 Q 22.9 19 24.1 19 L 27.2 19 Q 28.4 19 29.06 18 L 35.7 8 L 35.7 10.8 L 29.06 20.8 Q 28.4 21.8 27.2 21.8 L 24.1 21.8 Q 22.9 21.8 22.03 22.63 L 10.6 33.6 Z" fill="#0b7c63" />
+  </g>
+  <!-- Production note: outline this text before shipping to environments without Geist. -->
+  <text
+    x="41"
+    y="31.5"
+    textLength="92"
+    lengthAdjust="spacingAndGlyphs"
+    font-family="'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="27"
+    font-weight="900"
+    letter-spacing="-1.35"
+    fill="#0f1319"
+  >seobot</text>
+  <circle cx="138.6" cy="28" r="3.5" fill="#23b392" />
+</svg>

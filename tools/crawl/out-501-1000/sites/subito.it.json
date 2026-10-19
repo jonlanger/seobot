@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "subito.it",
+    "rank": 1342,
+    "url": "https://subito.it/",
+    "runAt": "2026-10-18T18:10:06.442Z",
+    "robots": {
+      "status": 403,
+      "bytes": 381,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.subito.it/",
+      "bytes": 367
+    },
+    "rendered": {
+      "title": "Subito - Compra e vendi gratis in sicurezza",
+      "canonical": "",
+      "words": 406,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 22,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 19,
+      "renderedWords": 406,
+      "coverage": 0.2,
+      "rawOnlyTokens": 18,
+      "renderedOnlyTokens": 405,
+      "renderedOnlySample": [
+        "continua",
+        "senza",
+        "accettare",
+        "questo",
+        "sito",
+        "suoi",
+        "partners",
+        "fanno",
+        "uso",
+        "cookie",
+        "tecnici",
+        "analitici",
+        "altre",
+        "tecnologie",
+        "per",
+        "archiviare",
+        "accedere",
+        "elaborare",
+        "dati",
+        "personali",
+        "incluse",
+        "geolocalizzazione",
+        "identificazione",
+        "del",
+        "dispositivo"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization"
+      ],
+      "headingsRendered": 22,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Subito - Compra e vendi gratis in sicurezza",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

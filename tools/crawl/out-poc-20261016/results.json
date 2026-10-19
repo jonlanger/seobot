@@ -1,0 +1,1374 @@
+{
+  "generatedAt": "2026-10-17T01:53:55.446Z",
+  "sites": [
+    {
+      "domain": "nytimes.com",
+      "url": "https://nytimes.com/",
+      "startedAt": "2026-10-17T01:52:32.953Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 403,
+        "finalUrl": "https://www.nytimes.com/",
+        "bytes": 771
+      },
+      "rendered": {
+        "status": 200,
+        "title": "nytimes.com",
+        "description": "",
+        "canonical": "",
+        "words": 0,
+        "jsonLdTypes": [],
+        "headings": 0,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 8,
+        "renderedWords": 0,
+        "coverage": 0,
+        "rawOnlyTokens": 8,
+        "renderedOnlyTokens": 0,
+        "renderedOnlySample": [],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 0,
+        "headingsAlsoInRaw": 0,
+        "headingsCoverage": null,
+        "titleDiffers": false,
+        "rawTitle": "nytimes.com"
+      },
+      "classification": "both_blocked"
+    },
+    {
+      "domain": "bbc.com",
+      "url": "https://bbc.com/",
+      "startedAt": "2026-10-17T01:52:36.794Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.bbc.com/",
+        "bytes": 683835
+      },
+      "rendered": {
+        "status": 200,
+        "title": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video & Audio",
+        "description": "Visit BBC for trusted reporting on the latest world and US news, sports, business, climate, innovation, culture and much more.",
+        "canonical": "https://www.bbc.com/",
+        "words": 1300,
+        "jsonLdTypes": [
+          "webpage"
+        ],
+        "headings": 161,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 1245,
+        "renderedWords": 1300,
+        "coverage": 79.3,
+        "rawOnlyTokens": 214,
+        "renderedOnlyTokens": 269,
+        "renderedOnlySample": [
+          "contentwatch",
+          "livesubscribesign",
+          "inhomenewssportbusinesstechnologyhealthcultureartstravelearthaudiovideolivedocumentariessite",
+          "searchhomenewssportbusinesstechnologyhealthcultureartstravelearthaudiovideolivedocumentariesweathernewsletterswatch",
+          "liveoregon",
+          "times'the",
+          "agous",
+          "canadakatie",
+          "jobher",
+          "canadaanalysis",
+          "trumpthe",
+          "bbc's",
+          "canadainside",
+          "rolethe",
+          "ukraine's",
+          "agoeuropejudge",
+          "busfieldthe",
+          "canadapalestinians",
+          "attackthe",
+          "agoworldtoxic",
+          "wouldn't",
+          "switchaustralia",
+          "agoaustraliaweekend",
+          "readsthe",
+          "nudeslavinia"
+        ],
+        "jsonLdRaw": [
+          "webpage"
+        ],
+        "jsonLdRendered": [
+          "webpage"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 161,
+        "headingsAlsoInRaw": 119,
+        "headingsCoverage": 73.9,
+        "titleDiffers": true,
+        "rawTitle": "BBC Home - Breaking News, World News, US News, Sports, Business, Innovation, Climate, Culture, Travel, Video &amp; Audio"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "theguardian.com",
+      "url": "https://theguardian.com/",
+      "startedAt": "2026-10-17T01:52:41.686Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.theguardian.com/us",
+        "bytes": 1450892
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Latest news, sport and opinion from the Guardian",
+        "description": "Latest US news, world news, sports, business, opinion, analysis and reviews from the Guardian, the world's leading liberal voice",
+        "canonical": "https://www.theguardian.com/",
+        "words": 1492,
+        "jsonLdTypes": [],
+        "headings": 193,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 1402,
+        "renderedWords": 1492,
+        "coverage": 75,
+        "rawOnlyTokens": 283,
+        "renderedOnlyTokens": 373,
+        "renderedOnlySample": [
+          "contentskip",
+          "navigationsupport",
+          "guardianfund",
+          "independent",
+          "journalism",
+          "per",
+          "monthsupport",
+          "ussupport",
+          "usprint",
+          "subscriptionsnewsletters",
+          "inmehdi",
+          "hasannaza",
+          "israel's",
+          "defendersthe",
+          "filterthe",
+          "vettedour",
+          "earthfor",
+          "disasteranalysisrussia's",
+          "unliveablea",
+          "risehow",
+          "illegalusus",
+          "editionuk",
+          "editionaustralia",
+          "editioneurope",
+          "editioninternational"
+        ],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 193,
+        "headingsAlsoInRaw": 40,
+        "headingsCoverage": 20.7,
+        "titleDiffers": false,
+        "rawTitle": "Latest news, sport and opinion from the Guardian"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "medium.com",
+      "url": "https://medium.com/",
+      "startedAt": "2026-10-17T01:52:46.080Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 403,
+        "finalUrl": "https://medium.com/",
+        "bytes": 5838
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Medium: Read and write stories.",
+        "description": "On Medium, anyone can share insightful perspectives, useful knowledge, and life wisdom with the world.",
+        "canonical": "https://medium.com/",
+        "words": 16,
+        "jsonLdTypes": [
+          "organization"
+        ],
+        "headings": 2,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 2,
+        "renderedWords": 16,
+        "coverage": 0,
+        "rawOnlyTokens": 2,
+        "renderedOnlyTokens": 16,
+        "renderedOnlySample": [
+          "sitemapour",
+          "storymembershipwritesign",
+          "inget",
+          "startedhuman",
+          "stories",
+          "ideasa",
+          "place",
+          "read",
+          "write",
+          "and",
+          "deepen",
+          "your",
+          "understandingstart",
+          "readingstart",
+          "readingabouthelptermsprivacyhelpstatusaboutcareerspressblogstoreprivacyrulestermstext",
+          "speech"
+        ],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [
+          "organization"
+        ],
+        "jsonLdMissingFromRaw": [
+          "organization"
+        ],
+        "headingsRendered": 2,
+        "headingsAlsoInRaw": 0,
+        "headingsCoverage": 0,
+        "titleDiffers": true,
+        "rawTitle": "Just a moment..."
+      },
+      "classification": "both_blocked"
+    },
+    {
+      "domain": "amazon.com",
+      "url": "https://amazon.com/",
+      "startedAt": "2026-10-17T01:52:50.022Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.amazon.com/",
+        "bytes": 2183
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Amazon.com. Spend less. Smile more.",
+        "description": "Free shipping on millions of items. Get the best of Shopping and Entertainment with Prime. Enjoy low prices and great deals on the largest selection of everyday essentials and other products, including fashion, home, beauty, electronics, Alexa Devices, sporting goods, toys, automotive, pets, baby, books, video games, musical instruments, office supplies, and more.",
+        "canonical": "https://www.amazon.com/",
+        "words": 498,
+        "jsonLdTypes": [],
+        "headings": 22,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 0,
+        "renderedWords": 498,
+        "coverage": 0,
+        "rawOnlyTokens": 0,
+        "renderedOnlyTokens": 498,
+        "renderedOnlySample": [
+          "skip",
+          "main",
+          "content",
+          "keyboard",
+          "shortcuts",
+          "search",
+          "alt",
+          "cart",
+          "shift",
+          "home",
+          "orders",
+          "show",
+          "hide",
+          "move",
+          "between",
+          "items",
+          "use",
+          "your",
+          "keyboard's",
+          "down",
+          "arrows",
+          "delivering",
+          "nashville",
+          "37217",
+          "update"
+        ],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 22,
+        "headingsAlsoInRaw": 0,
+        "headingsCoverage": 0,
+        "titleDiffers": true,
+        "rawTitle": "&nbsp;"
+      },
+      "classification": "raw_blocked"
+    },
+    {
+      "domain": "walmart.com",
+      "url": "https://walmart.com/",
+      "startedAt": "2026-10-17T01:52:54.305Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.walmart.com/",
+        "bytes": 445155
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Walmart | Save Money. Live better.",
+        "description": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store & free shipping with no order minimum. Start your free 30-day trial now!",
+        "canonical": "https://www.walmart.com/",
+        "words": 221,
+        "jsonLdTypes": [
+          "organization",
+          "website"
+        ],
+        "headings": 9,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 218,
+        "renderedWords": 221,
+        "coverage": 67.4,
+        "rawOnlyTokens": 69,
+        "renderedOnlyTokens": 72,
+        "renderedOnlySample": [
+          "contentpickup",
+          "cancelreordermy",
+          "itemsreorderlistsregistriessign",
+          "inaccountsign",
+          "accountpurchase",
+          "historywalmart",
+          "subscriptionslanguage",
+          "deliverytry",
+          "nowtry",
+          "nowfall",
+          "doorstepfind",
+          "styleshop",
+          "nowshop",
+          "nowtrick",
+          "impresstop",
+          "costumesshop",
+          "dealsup",
+          "offview",
+          "allsoontrans",
+          "00optionsprice",
+          "00now",
+          "6162",
+          "00soontrans",
+          "pinksave",
+          "extrasave"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "website"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 9,
+        "headingsAlsoInRaw": 9,
+        "headingsCoverage": 100,
+        "titleDiffers": false,
+        "rawTitle": "Walmart | Save Money. Live better."
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "etsy.com",
+      "url": "https://etsy.com/",
+      "startedAt": "2026-10-17T01:52:58.820Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 403,
+        "finalUrl": "https://www.etsy.com/",
+        "bytes": 776
+      },
+      "rendered": {
+        "status": 200,
+        "title": "etsy.com",
+        "description": "",
+        "canonical": "",
+        "words": 0,
+        "jsonLdTypes": [],
+        "headings": 0,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 8,
+        "renderedWords": 0,
+        "coverage": 0,
+        "rawOnlyTokens": 8,
+        "renderedOnlyTokens": 0,
+        "renderedOnlySample": [],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 0,
+        "headingsAlsoInRaw": 0,
+        "headingsCoverage": null,
+        "titleDiffers": false,
+        "rawTitle": "etsy.com"
+      },
+      "classification": "both_blocked"
+    },
+    {
+      "domain": "shopify.com",
+      "url": "https://shopify.com/",
+      "startedAt": "2026-10-17T01:53:02.660Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.shopify.com/",
+        "bytes": 668001
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify",
+        "description": "Try Shopify free. Build or grow your business fast with AI. Get more than ecommerce software with tools to manage every part of your business.",
+        "canonical": "https://www.shopify.com/",
+        "words": 460,
+        "jsonLdTypes": [
+          "corporation"
+        ],
+        "headings": 21,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 472,
+        "renderedWords": 460,
+        "coverage": 59.3,
+        "rawOnlyTokens": 199,
+        "renderedOnlyTokens": 187,
+        "renderedOnlySample": [
+          "contentwhy",
+          "shopifybackget",
+          "fastyou",
+          "shopifyget",
+          "brandsno",
+          "storeworld's",
+          "checkoutproven",
+          "sidekickyour",
+          "productsbackbuild",
+          "websitewebsite",
+          "builderthemesdomainscustomer",
+          "accountssidekicksell",
+          "anywhereonlineai",
+          "chatspoint",
+          "saleshop",
+          "appsocial",
+          "marketplacesglobalb2bacross",
+          "marketsmarketing",
+          "analyticsadvertising",
+          "campaignsemail",
+          "chatdiscountsanalyticstest",
+          "launchrun",
+          "businessorders",
+          "inventoryshippingfinances",
+          "fundingworkflow"
+        ],
+        "jsonLdRaw": [
+          "corporation"
+        ],
+        "jsonLdRendered": [
+          "corporation"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 21,
+        "headingsAlsoInRaw": 9,
+        "headingsCoverage": 42.9,
+        "titleDiffers": false,
+        "rawTitle": "Shopify: The All-in-One Commerce Platform for Businesses - Shopify"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "github.com",
+      "url": "https://github.com/",
+      "startedAt": "2026-10-17T01:53:06.412Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://github.com/",
+        "bytes": 572271
+      },
+      "rendered": {
+        "status": 200,
+        "title": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub",
+        "description": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity.",
+        "canonical": "https://github.com/",
+        "words": 486,
+        "jsonLdTypes": [],
+        "headings": 27,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 458,
+        "renderedWords": 486,
+        "coverage": 64,
+        "rawOnlyTokens": 147,
+        "renderedOnlyTokens": 175,
+        "renderedOnlySample": [
+          "menusign",
+          "inplatformai",
+          "creationgithub",
+          "copilotwrite",
+          "aigithub",
+          "appdirect",
+          "mergemcp",
+          "registryintegrate",
+          "toolsdeveloper",
+          "workflowsactionsautomate",
+          "workflowcodespacesinstant",
+          "environmentsissuesplan",
+          "workcode",
+          "reviewmanage",
+          "changescode",
+          "qualityenforce",
+          "mergeapplication",
+          "securitygithub",
+          "securityfind",
+          "vulnerabilitiescode",
+          "securitysecure",
+          "buildsecret",
+          "protectionstop",
+          "startexplorewhy",
+          "githubdocumentationblogchangelogmarketplaceview"
+        ],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 27,
+        "headingsAlsoInRaw": 26,
+        "headingsCoverage": 96.3,
+        "titleDiffers": false,
+        "rawTitle": "GitHub · Change is constant. GitHub keeps you ahead. · GitHub · GitHub"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "microsoft.com",
+      "url": "https://microsoft.com/",
+      "startedAt": "2026-10-17T01:53:10.386Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.microsoft.com/en-us",
+        "bytes": 277372
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps",
+        "description": "Explore Microsoft products and services and support for your home or business. Shop Microsoft 365, Copilot, Teams, Xbox, Windows, Azure, Surface and more.",
+        "canonical": "https://www.microsoft.com/en-us",
+        "words": 391,
+        "jsonLdTypes": [
+          "website"
+        ],
+        "headings": 33,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 371,
+        "renderedWords": 391,
+        "coverage": 80.6,
+        "rawOnlyTokens": 56,
+        "renderedOnlyTokens": 76,
+        "renderedOnlySample": [
+          "365azurecopilotwindowssurfacexboxdealssmall",
+          "businesssupport",
+          "appsoutlookonedrivemicrosoft",
+          "teamsonenotemicrosoft",
+          "edgemoving",
+          "pcs",
+          "computersshop",
+          "xboxaccessoriesvr",
+          "realitycertified",
+          "refurbishedtrade-in",
+          "entertainment",
+          "ultimatepc",
+          "passxbox",
+          "gamespc",
+          "aimicrosoft",
+          "securitydynamics",
+          "365microsoft",
+          "businessmicrosoft",
+          "platformwindows",
+          "365small",
+          "businessdigital",
+          "azuremicrosoft",
+          "developermicrosoft",
+          "learnsupport",
+          "appsmicrosoft"
+        ],
+        "jsonLdRaw": [
+          "website"
+        ],
+        "jsonLdRendered": [
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 33,
+        "headingsAlsoInRaw": 29,
+        "headingsCoverage": 87.9,
+        "titleDiffers": true,
+        "rawTitle": "Microsoft – AI, Cloud, Productivity, Computing, Gaming &amp; Apps"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "apple.com",
+      "url": "https://apple.com/",
+      "startedAt": "2026-10-17T01:53:16.513Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.apple.com/",
+        "bytes": 326653
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Apple",
+        "description": "",
+        "canonical": "https://www.apple.com/",
+        "words": 791,
+        "jsonLdTypes": [
+          "organization",
+          "webpage",
+          "website"
+        ],
+        "headings": 55,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 633,
+        "renderedWords": 791,
+        "coverage": 79.3,
+        "rawOnlyTokens": 6,
+        "renderedOnlyTokens": 164,
+        "renderedOnlySample": [
+          "applestoreshopshop",
+          "latestmacipadiphoneapple",
+          "watchapple",
+          "proairpodshomeaccessoriesquick",
+          "linksfind",
+          "storeorder",
+          "statusapple",
+          "upgradeapple",
+          "infinancingpersonal",
+          "setupshop",
+          "storescertified",
+          "refurbishededucationbusinessveterans",
+          "militarygovernmentmacexplore",
+          "macexplore",
+          "macmacbook",
+          "neomacbook",
+          "airmacbook",
+          "proimacmac",
+          "minimac",
+          "studiodisplayscompare",
+          "macswitch",
+          "macshop",
+          "machelp",
+          "choosemac",
+          "accessoriesapple"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "webpage",
+          "website"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "webpage",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 55,
+        "headingsAlsoInRaw": 8,
+        "headingsCoverage": 14.5,
+        "titleDiffers": false,
+        "rawTitle": "Apple"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "cloudflare.com",
+      "url": "https://cloudflare.com/",
+      "startedAt": "2026-10-17T01:53:20.993Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.cloudflare.com/",
+        "bytes": 1334316
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Cloudflare: Build for the agent era",
+        "description": "Welcome to Cloudflare - Powering the next generation of applications",
+        "canonical": "https://www.cloudflare.com/",
+        "words": 551,
+        "jsonLdTypes": [
+          "organization",
+          "webpage",
+          "website"
+        ],
+        "headings": 18,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 433,
+        "renderedWords": 551,
+        "coverage": 65.9,
+        "rawOnlyTokens": 70,
+        "renderedOnlyTokens": 188,
+        "renderedOnlySample": [
+          "productssolutionsresourcespricing",
+          "fasterfaster",
+          "310bdaily",
+          "shopifycharacter",
+          "aiintercomdoordashdiscordzendesklovablenpmsitegptliveblocksleaguedseatedpeopleshopifycharacter",
+          "aiintercompause",
+          "tobuild",
+          "egress",
+          "costs",
+          "just",
+          "doubled",
+          "this",
+          "week",
+          "caching",
+          "working",
+          "edge",
+          "fix",
+          "eod",
+          "unresolved2931",
+          "open",
+          "incidents2931",
+          "incidentsp0high",
+          "150",
+          "250ms",
+          "rtt"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "webpage",
+          "website"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "webpage",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 18,
+        "headingsAlsoInRaw": 15,
+        "headingsCoverage": 83.3,
+        "titleDiffers": false,
+        "rawTitle": "Cloudflare: Build for the agent era"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "stripe.com",
+      "url": "https://stripe.com/",
+      "startedAt": "2026-10-17T01:53:25.073Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://stripe.com/",
+        "bytes": 667362
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Stripe | Financial Infrastructure to Grow Your Revenue",
+        "description": "Stripe is a financial services platform that helps all types of businesses accept payments, build flexible billing models, and manage money movement.",
+        "canonical": "https://stripe.com/",
+        "words": 755,
+        "jsonLdTypes": [
+          "organization",
+          "website"
+        ],
+        "headings": 31,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 663,
+        "renderedWords": 755,
+        "coverage": 70.2,
+        "rawOnlyTokens": 133,
+        "renderedOnlyTokens": 225,
+        "renderedOnlySample": [
+          "productssolutionsdevelopersresourcespricingsign",
+          "insee",
+          "productsexplore",
+          "catalogstart",
+          "nowcontact",
+          "salesbacksign",
+          "incontact",
+          "salesglobal",
+          "73353340",
+          "startedsign",
+          "googleflexible",
+          "personpay",
+          "roasterycartsy",
+          "bezahlenshowflix",
+          "に支払うpay",
+          "roastery",
+          "46tap",
+          "insert",
+          "swipe",
+          "payzum",
+          "bezahlen",
+          "karte",
+          "auflegen",
+          "einführen",
+          "oder"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "website"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 31,
+        "headingsAlsoInRaw": 30,
+        "headingsCoverage": 96.8,
+        "titleDiffers": false,
+        "rawTitle": "Stripe | Financial Infrastructure to Grow Your Revenue"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "vercel.com",
+      "url": "https://vercel.com/",
+      "startedAt": "2026-10-17T01:53:29.062Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://vercel.com/",
+        "bytes": 624335
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Agentic Infrastructure - Vercel",
+        "description": "The autonomous stack for every app and agent.",
+        "canonical": "https://vercel.com/",
+        "words": 190,
+        "jsonLdTypes": [
+          "organization",
+          "service",
+          "softwareapplication"
+        ],
+        "headings": 18,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 236,
+        "renderedWords": 190,
+        "coverage": 50,
+        "rawOnlyTokens": 141,
+        "renderedOnlyTokens": 95,
+        "renderedOnlySample": [
+          "contentcopy",
+          "wordmarkcopy",
+          "logodownload",
+          "assetsbrand",
+          "guidelinesproductsagent",
+          "stackai",
+          "sdkai",
+          "gatewaysandboxpassportconnectevecore",
+          "platformsecuritycontent",
+          "deliveryfluid",
+          "computeobservabilityworkflowsci",
+          "cdtoolsnext",
+          "jsvercel",
+          "agentvercel",
+          "pluginopen",
+          "sourcedomains",
+          "resourceslearndocsaboutblogchangelogknowledge",
+          "basebuildai",
+          "appsweb",
+          "appsmarketing",
+          "sitesplatformscommerceexplorecustomersmarketplacepartner",
+          "finderawscommunity",
+          "enterprisepricingget",
+          "demolog",
+          "insign"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "service",
+          "softwareapplication"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "service",
+          "softwareapplication"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 18,
+        "headingsAlsoInRaw": 17,
+        "headingsCoverage": 94.4,
+        "titleDiffers": false,
+        "rawTitle": "Agentic Infrastructure - Vercel"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "notion.so",
+      "url": "https://notion.so/",
+      "startedAt": "2026-10-17T01:53:33.191Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.notion.com/",
+        "bytes": 210160
+      },
+      "rendered": {
+        "status": 200,
+        "title": "The AI workspace that works for you. | Notion",
+        "description": "Build Custom Agents, search across all your apps, and automate busywork. The AI workspace where teams get more done, faster.",
+        "canonical": "https://www.notion.com/",
+        "words": 172,
+        "jsonLdTypes": [
+          "organization",
+          "softwareapplication",
+          "website"
+        ],
+        "headings": 16,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 184,
+        "renderedWords": 172,
+        "coverage": 69.2,
+        "rawOnlyTokens": 65,
+        "renderedOnlyTokens": 53,
+        "renderedOnlySample": [
+          "productfeaturessee",
+          "capturebring",
+          "findget",
+          "automatekeep",
+          "resourcesnotion",
+          "forenterprisesmall",
+          "businessesstartupsdevelopersdiscoverwhat's",
+          "newcustomer",
+          "storieswebinarstemplatesconsultantslearnacademyproduct",
+          "tourshelp",
+          "centerpricingrequest",
+          "demolog",
+          "inget",
+          "freewhere",
+          "freerequest",
+          "demopausethe",
+          "knowledgebring",
+          "answersget",
+          "busyworkkeep",
+          "truellco-founder",
+          "ceonotion",
+          "solorzanosr",
+          "designnotion",
+          "levickhead",
+          "aig2"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "softwareapplication",
+          "website"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "softwareapplication",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 16,
+        "headingsAlsoInRaw": 10,
+        "headingsCoverage": 62.5,
+        "titleDiffers": false,
+        "rawTitle": "The AI workspace that works for you. | Notion"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "webflow.com",
+      "url": "https://webflow.com/",
+      "startedAt": "2026-10-17T01:53:37.375Z",
+      "robots": {
+        "status": 0,
+        "allowed": true,
+        "reason": "no robots.txt"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://webflow.com/",
+        "bytes": 524193
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Webflow: The agentic web platform for modern businesses",
+        "description": "Design, build, optimize, and rank in AI search — all in Webflow. Enterprise-grade security, CMS, hosting, and AEO built in. Trusted by over 300k teams.",
+        "canonical": "https://webflow.com/",
+        "words": 846,
+        "jsonLdTypes": [
+          "organization",
+          "softwareapplication",
+          "webpage",
+          "website"
+        ],
+        "headings": 63,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 716,
+        "renderedWords": 846,
+        "coverage": 70,
+        "rawOnlyTokens": 124,
+        "renderedOnlyTokens": 254,
+        "renderedOnlySample": [
+          "contentplatform",
+          "backbuilddesignedit",
+          "contentinteractionscollaborationpage",
+          "managecmshostinglocalizesecurityshared",
+          "convertanalyzeoptimizeseoaeo",
+          "newextendappsfigma",
+          "webflowwebflow",
+          "clouddevlinkmcp",
+          "newplatform",
+          "overviewexplore",
+          "platformlearn",
+          "platformwebflow",
+          "aielevate",
+          "ailearn",
+          "aii'm",
+          "amarketermarketerdesignerdeveloperagencyappearancelight",
+          "modedark",
+          "modeauto",
+          "sourcesolutions",
+          "backmarketingbrandperformancedigital",
+          "experienceopsengineeringengineering",
+          "leadersdevelopersservice",
+          "providersagenciesfreelancersglobal",
+          "alliancesenterpriseadvanced",
+          "enterpriseaeoshow"
+        ],
+        "jsonLdRaw": [
+          "organization",
+          "softwareapplication",
+          "webpage",
+          "website"
+        ],
+        "jsonLdRendered": [
+          "organization",
+          "softwareapplication",
+          "webpage",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 63,
+        "headingsAlsoInRaw": 61,
+        "headingsCoverage": 96.8,
+        "titleDiffers": false,
+        "rawTitle": "Webflow: The agentic web platform for modern businesses"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "figma.com",
+      "url": "https://figma.com/",
+      "startedAt": "2026-10-17T01:53:42.535Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "wildcard group explicitly allows"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://www.figma.com/",
+        "bytes": 1801449
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Figma: The collaborative canvas for design, code, and AI",
+        "description": "Figma is the canvas where design, code, and AI come together. From first idea to shipped product — go from concept to production with your whole team, in one place.",
+        "canonical": "https://www.figma.com/",
+        "words": 289,
+        "jsonLdTypes": [
+          "organization"
+        ],
+        "headings": 33,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 282,
+        "renderedWords": 289,
+        "coverage": 52.9,
+        "rawOnlyTokens": 129,
+        "renderedOnlyTokens": 136,
+        "renderedOnlySample": [
+          "contentcheck",
+          "out",
+          "everything",
+          "launched",
+          "config",
+          "indiaread",
+          "moreproductswhat",
+          "figmadesign",
+          "explorebuild",
+          "productsexplore",
+          "productsfigma",
+          "designdesign",
+          "placefigma",
+          "makeprompt",
+          "imaginefigma",
+          "weaveai",
+          "moredev",
+          "modetranslate",
+          "codefigma",
+          "motionnewanimate",
+          "designsfigma",
+          "specsbetacapture",
+          "contextfigjamcollaborate",
+          "whiteboardfigma",
+          "slidesco-create"
+        ],
+        "jsonLdRaw": [
+          "organization"
+        ],
+        "jsonLdRendered": [
+          "organization"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 33,
+        "headingsAlsoInRaw": 32,
+        "headingsCoverage": 97,
+        "titleDiffers": false,
+        "rawTitle": "Figma: The collaborative canvas for design, code, and AI"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "en.wikipedia.org",
+      "url": "https://en.wikipedia.org/",
+      "startedAt": "2026-10-17T01:53:47.202Z",
+      "robots": {
+        "status": 200,
+        "allowed": true,
+        "reason": "no wildcard block"
+      },
+      "raw": {
+        "status": 200,
+        "finalUrl": "https://en.wikipedia.org/wiki/Main_Page",
+        "bytes": 246804
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Wikipedia, the free encyclopedia",
+        "description": "",
+        "canonical": "https://en.wikipedia.org/wiki/Main_Page",
+        "words": 837,
+        "jsonLdTypes": [
+          "article"
+        ],
+        "headings": 10,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 1039,
+        "renderedWords": 837,
+        "coverage": 82.8,
+        "rawOnlyTokens": 346,
+        "renderedOnlyTokens": 144,
+        "renderedOnlySample": [
+          "pagecontentscurrent",
+          "eventsrandom",
+          "articleabout",
+          "wikipediacontact",
+          "helplearn",
+          "editcommunity",
+          "portalrecent",
+          "changesupload",
+          "filespecial",
+          "historic",
+          "win",
+          "participate",
+          "world's",
+          "photography",
+          "competition",
+          "month",
+          "hererelated",
+          "filepermanent",
+          "linkpage",
+          "informationcite",
+          "pageget",
+          "urlswitch",
+          "interlanguage",
+          "pdfprintable",
+          "wikipediawikimedia"
+        ],
+        "jsonLdRaw": [
+          "article"
+        ],
+        "jsonLdRendered": [
+          "article"
+        ],
+        "jsonLdMissingFromRaw": [],
+        "headingsRendered": 10,
+        "headingsAlsoInRaw": 9,
+        "headingsCoverage": 90,
+        "titleDiffers": false,
+        "rawTitle": "Wikipedia, the free encyclopedia"
+      },
+      "classification": "measured"
+    },
+    {
+      "domain": "reddit.com",
+      "url": "https://reddit.com/",
+      "startedAt": "2026-10-17T01:53:50.956Z",
+      "robots": {
+        "status": 200,
+        "allowed": false,
+        "reason": "wildcard group disallows /"
+      },
+      "skipped": "robots.txt disallows wildcard",
+      "classification": "robots_excluded"
+    },
+    {
+      "domain": "stackoverflow.com",
+      "url": "https://stackoverflow.com/",
+      "startedAt": "2026-10-17T01:53:51.554Z",
+      "robots": {
+        "status": 418,
+        "allowed": true,
+        "reason": "no robots.txt"
+      },
+      "raw": {
+        "status": 403,
+        "finalUrl": "https://stackoverflow.com/questions",
+        "bytes": 5284
+      },
+      "rendered": {
+        "status": 200,
+        "title": "Newest Questions - Stack Overflow",
+        "description": "",
+        "canonical": "",
+        "words": 1353,
+        "jsonLdTypes": [
+          "organization",
+          "website"
+        ],
+        "headings": 61,
+        "challengeLike": false
+      },
+      "metrics": {
+        "rawWords": 2,
+        "renderedWords": 1353,
+        "coverage": 0.1,
+        "rawOnlyTokens": 0,
+        "renderedOnlyTokens": 1351,
+        "renderedOnlySample": [
+          "join",
+          "stack",
+          "overflow",
+          "clicking",
+          "sign",
+          "you",
+          "agree",
+          "our",
+          "terms",
+          "service",
+          "and",
+          "acknowledge",
+          "have",
+          "read",
+          "privacy",
+          "policy",
+          "with",
+          "google",
+          "github",
+          "email",
+          "password",
+          "already",
+          "account",
+          "log",
+          "skip"
+        ],
+        "jsonLdRaw": [],
+        "jsonLdRendered": [
+          "organization",
+          "website"
+        ],
+        "jsonLdMissingFromRaw": [
+          "organization",
+          "website"
+        ],
+        "headingsRendered": 61,
+        "headingsAlsoInRaw": 0,
+        "headingsCoverage": 0,
+        "titleDiffers": true,
+        "rawTitle": "Just a moment..."
+      },
+      "classification": "raw_blocked"
+    }
+  ]
+}

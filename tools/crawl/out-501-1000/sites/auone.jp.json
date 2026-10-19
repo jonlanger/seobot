@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "auone.jp",
+    "rank": 1348,
+    "url": "https://auone.jp/",
+    "runAt": "2026-10-18T18:10:15.861Z",
+    "robots": {
+      "status": 200,
+      "bytes": 87032,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://portal.auone.jp/",
+      "bytes": 87044
+    },
+    "rendered": {
+      "title": "au Webポータル | 最新の国内外ニュースをリアルタイムに配信",
+      "canonical": "",
+      "words": 2518,
+      "jsonLdTypes": [],
+      "headings": 75,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 152,
+      "renderedWords": 2518,
+      "coverage": 6,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 2366,
+      "renderedOnlySample": [
+        "ン検",
+        "索a",
+        "索サ",
+        "ー未",
+        "定m",
+        "域2",
+        "26",
+        "18",
+        "気3",
+        "30",
+        "ー1",
+        "1位",
+        "位お",
+        "おと",
+        "とめ",
+        "め座",
+        "座他",
+        "スプ",
+        "報ゲ",
+        "ム毎",
+        "ャ乗",
+        "内メ",
+        "ルト",
+        "プm",
+        "域芸"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 75,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 6.7,
+      "titleDiffers": false,
+      "rawTitle": "au Webポータル | 最新の国内外ニュースをリアルタイムに配信",
+      "renderedTitle": "au Webポータル | 最新の国内外ニュースをリアルタイムに配信",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

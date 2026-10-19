@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "adguard-vpn.online",
+    "rank": 1252,
+    "url": "https://adguard-vpn.online/",
+    "runAt": "2026-10-18T18:06:25.112Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://adguard-vpn.online/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://adguard-vpn.online/\nCall log:\n  - navigating to \"https://adguard-vpn.online/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

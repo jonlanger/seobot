@@ -1,0 +1,122 @@
+[
+  {
+    "domain": "archiveofourown.org",
+    "rank": 1107,
+    "url": "https://archiveofourown.org/",
+    "runAt": "2026-10-18T18:00:28.829Z",
+    "robots": {
+      "status": 200,
+      "bytes": 872,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://archiveofourown.org/",
+      "bytes": 24770
+    },
+    "rendered": {
+      "title": "Home | Archive of Our Own",
+      "canonical": "",
+      "words": 272,
+      "jsonLdTypes": [],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 267,
+      "renderedWords": 272,
+      "coverage": 97.8,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 6,
+      "renderedOnlySample": [
+        "0007",
+        "you've",
+        "organization's",
+        "otw's",
+        "works'",
+        "close"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 83.3,
+      "titleDiffers": false,
+      "rawTitle": "Home | Archive of Our Own",
+      "renderedTitle": "Home | Archive of Our Own",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "eporner.com",
+    "rank": 965,
+    "url": "https://eporner.com/",
+    "runAt": "2026-10-18T17:54:54.787Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4679,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.eporner.com/",
+      "bytes": 304118
+    },
+    "rendered": {
+      "title": "HD Porn Videos - Full High Definition Movies | EPORNER",
+      "canonical": "https://www.eporner.com/",
+      "words": 1196,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 10,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1134,
+      "renderedWords": 1196,
+      "coverage": 69.3,
+      "rawOnlyTokens": 305,
+      "renderedOnlyTokens": 367,
+      "renderedOnlySample": [
+        "englishfilipinodeutschpolskifrançaisespañolportuguêsitalianonederlandse日本",
+        "registerupload",
+        "ratedplaylists4k",
+        "pornhd",
+        "1080p60",
+        "fpsvr",
+        "uncensoredjoigothrussianczech",
+        "3dfemdommusic",
+        "frenchromantic",
+        "zsee",
+        "markslana",
+        "rhoadesmia",
+        "khalifaava",
+        "addamsalexis",
+        "fawxpayton",
+        "presleemanuel",
+        "ferraradani",
+        "min0",
+        "max1h",
+        "015m30m45m1h",
+        "categories0",
+        "4k60fpsvr",
+        "720p6ac807657598040",
+        "2885",
+        "450we34523dfwe"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 10,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "HD Porn Videos - Full High Definition Movies | EPORNER",
+      "renderedTitle": "HD Porn Videos - Full High Definition Movies | EPORNER",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "xbox.com",
+    "rank": 915,
+    "url": "https://xbox.com/",
+    "runAt": "2026-10-18T17:52:40.267Z",
+    "robots": {
+      "status": 200,
+      "bytes": 289,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.xbox.com/en-US/",
+      "bytes": 464932
+    },
+    "rendered": {
+      "title": "XBOX Official Site: Play Games Anywhere | XBOX",
+      "canonical": "https://www.xbox.com/en-US/",
+      "words": 355,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 26,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 185,
+      "renderedWords": 355,
+      "coverage": 31,
+      "rawOnlyTokens": 75,
+      "renderedOnlyTokens": 245,
+      "renderedOnlySample": [
+        "passbrowse",
+        "gamesdeals",
+        "passxbox",
+        "homeshop",
+        "gamesshop",
+        "gamescloud",
+        "gamesxbox",
+        "anywherefree-to-play",
+        "gamesoptimized",
+        "soptimized",
+        "handheldsbackward",
+        "gamessales",
+        "specialsredeem",
+        "sxbox",
+        "xxbox",
+        "sshop",
+        "consolescompare",
+        "consoleshelp",
+        "consolewhere",
+        "accessoriescontrollersdesign",
+        "controllerheadsetshard",
+        "storagemobile",
+        "accessorieswhere",
+        "pcxbox",
+        "handheldsxbox"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 26,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 15.4,
+      "titleDiffers": false,
+      "rawTitle": "XBOX Official Site: Play Games Anywhere | XBOX",
+      "renderedTitle": "XBOX Official Site: Play Games Anywhere | XBOX",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "novinky.cz",
+    "rank": 1374,
+    "url": "https://novinky.cz/",
+    "runAt": "2026-10-18T18:11:12.696Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1280,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.novinky.cz/?noredirect=1",
+      "bytes": 913776
+    },
+    "rendered": {
+      "title": "Novinky.cz - nejčtenější zprávy na českém internetu",
+      "canonical": "https://www.novinky.cz/",
+      "words": 1131,
+      "jsonLdTypes": [],
+      "headings": 95,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1013,
+      "renderedWords": 1131,
+      "coverage": 63.7,
+      "rawOnlyTokens": 292,
+      "renderedOnlyTokens": 410,
+      "renderedOnlySample": [
+        "czvyhledatosobní",
+        "menuseznam",
+        "czhlavní",
+        "menuzavřít",
+        "menuhlavní",
+        "stránkamoje",
+        "sledovanéstalo",
+        "sedomácívolbykomunální",
+        "volbyvolby",
+        "senátuparlamentní",
+        "volbykrajské",
+        "volbyprezidentské",
+        "volbyeurovolbyvolby",
+        "usazahraničníevropablízký",
+        "východamerikasvětválka",
+        "ukrajiněkomentářekrimikulturafilmhudbatv",
+        "streamingknihydivadloekonomikalifestyledítě",
+        "rodinazdravísex",
+        "vztahymóda",
+        "kosmetikaosobnostigastroreceptybydlenízahradajak",
+        "tokoktejlinternet",
+        "pchardwaresoftwaretestyhry",
+        "systémymobilbezpečnostaiautomototestyrallye",
+        "dakarautosalon",
+        "ženevaautosalon"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 95,
+      "headingsAlsoInRaw": 42,
+      "headingsCoverage": 44.2,
+      "titleDiffers": false,
+      "rawTitle": "Novinky.cz - nejčtenější zprávy na českém internetu",
+      "renderedTitle": "Novinky.cz - nejčtenější zprávy na českém internetu",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

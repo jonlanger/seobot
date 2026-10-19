@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "kleinanzeigen.de",
+    "rank": 937,
+    "url": "https://kleinanzeigen.de/",
+    "runAt": "2026-10-18T17:53:28.921Z",
+    "robots": {
+      "status": 200,
+      "bytes": 11141,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.kleinanzeigen.de/",
+      "bytes": 340269
+    },
+    "rendered": {
+      "title": "Kleinanzeigen – früher eBay Kleinanzeigen. Anzeigen gratis inserieren mit Kleinanzeigen",
+      "canonical": "https://www.kleinanzeigen.de/",
+      "words": 528,
+      "jsonLdTypes": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 43,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 469,
+      "renderedWords": 528,
+      "coverage": 18.2,
+      "rawOnlyTokens": 373,
+      "renderedOnlyTokens": 432,
+      "renderedOnlySample": [
+        "willkommen",
+        "bei",
+        "kleinanzeigenmit",
+        "werbung",
+        "tracking",
+        "wie",
+        "gewohntmit",
+        "deiner",
+        "einwilligung",
+        "nutzen",
+        "wir",
+        "unsere",
+        "304",
+        "cookies",
+        "ähnliche",
+        "technologien",
+        "das",
+        "speichern",
+        "zugriff",
+        "einem",
+        "endgerät",
+        "sowie",
+        "analyse-",
+        "tracking-",
+        "profiling-zwecke"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 43,
+      "headingsAlsoInRaw": 16,
+      "headingsCoverage": 37.2,
+      "titleDiffers": false,
+      "rawTitle": "Kleinanzeigen – früher eBay Kleinanzeigen. Anzeigen gratis inserieren mit Kleinanzeigen",
+      "renderedTitle": "Kleinanzeigen – früher eBay Kleinanzeigen. Anzeigen gratis inserieren mit Kleinanzeigen",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

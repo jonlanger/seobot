@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "mediaexpert.pl",
+    "rank": 1346,
+    "url": "https://mediaexpert.pl/",
+    "runAt": "2026-10-18T18:10:13.892Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3013,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://mediaexpert.pl/",
+      "bytes": 536690
+    },
+    "rendered": {
+      "title": "Media Expert | Sklep internetowy RTV, AGD, komputery",
+      "canonical": "https://www.mediaexpert.pl/",
+      "words": 1012,
+      "jsonLdTypes": [
+        "onlinestore",
+        "website"
+      ],
+      "headings": 73,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 60,
+      "renderedWords": 1012,
+      "coverage": 3.7,
+      "rawOnlyTokens": 23,
+      "renderedOnlyTokens": 975,
+      "renderedOnlySample": [
+        "przejdź",
+        "głównej",
+        "zawartości",
+        "wyszukiwarki",
+        "kontaktu",
+        "darmowa",
+        "dostawa",
+        "odbiór",
+        "godzinę",
+        "jutro",
+        "dzisiaj",
+        "raty",
+        "leasing",
+        "znajdź",
+        "sklep",
+        "aplikacja",
+        "mobilna",
+        "pomoc",
+        "kontakt",
+        "status",
+        "zamówienia",
+        "reklamacji",
+        "reklamacje",
+        "zwroty",
+        "centrum"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "onlinestore",
+        "website"
+      ],
+      "headingsRendered": 73,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Media Expert",
+      "renderedTitle": "Media Expert | Sklep internetowy RTV, AGD, komputery",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

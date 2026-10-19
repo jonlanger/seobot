@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "haberler.com",
+    "rank": 1360,
+    "url": "https://haberler.com/",
+    "runAt": "2026-10-18T18:10:37.514Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1511,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.haberler.com/",
+      "bytes": 389396
+    },
+    "rendered": {
+      "title": "Haberler.com - Son Dakika Haberler ve Güncel Haberler",
+      "canonical": "https://www.haberler.com/",
+      "words": 1621,
+      "jsonLdTypes": [
+        "itemlist",
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "headings": 199,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1519,
+      "renderedWords": 1621,
+      "coverage": 91.5,
+      "rawOnlyTokens": 36,
+      "renderedOnlyTokens": 138,
+      "renderedOnlySample": [
+        "marmara'da",
+        "fenerbahçe-alanyaspor",
+        "deniliyordubakanlıktan",
+        "kavgasıtaşınmıştı",
+        "çağrıldınato",
+        "kararbulaşık",
+        "bereketidenize",
+        "12345678910111213141516171819202122232425",
+        "dolar49",
+        "euro55",
+        "altın6",
+        "bitcoin81",
+        "borsa11",
+        "günün",
+        "öne",
+        "çıkan",
+        "geçgeldost",
+        "toruntelefonda",
+        "pizanuçan",
+        "kudatcoffeetainer",
+        "gödeoğlukadıköy",
+        "sağıroğluedremi",
+        "ünekkekliğin",
+        "samurtürkiye",
+        "karacafon"
+      ],
+      "jsonLdRaw": [
+        "itemlist",
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "itemlist",
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 199,
+      "headingsAlsoInRaw": 199,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Haberler.com - Son Dakika Haberler ve Güncel Haberler",
+      "renderedTitle": "Haberler.com - Son Dakika Haberler ve Güncel Haberler",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

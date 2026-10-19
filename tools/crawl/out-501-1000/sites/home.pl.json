@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "home.pl",
+    "rank": 1192,
+    "url": "https://home.pl/",
+    "runAt": "2026-10-18T18:04:01.230Z",
+    "robots": {
+      "status": 200,
+      "bytes": 82,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://home.pl/",
+      "bytes": 562574
+    },
+    "rendered": {
+      "title": "home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, Sklepy",
+      "canonical": "https://home.pl/",
+      "words": 409,
+      "jsonLdTypes": [],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 376,
+      "renderedWords": 409,
+      "coverage": 50.9,
+      "rawOnlyTokens": 168,
+      "renderedOnlyTokens": 201,
+      "renderedOnlySample": [
+        "pomocmoje",
+        "kontopoczta",
+        "kontopulse",
+        "aidomenyhostingserwerywordpressstrony",
+        "wwwe-sklepysslpoczta",
+        "365programyasystent",
+        "ainowośćnarzędzia",
+        "aiszukaj",
+        "aihosting",
+        "aisklep",
+        "aikreator",
+        "aidomeny",
+        "internetoweprzenieś",
+        "domenęhosting",
+        "wwwhosting",
+        "wordpressanowośćhosting",
+        "prestashopmanaged",
+        "hostingusługi",
+        "informatyczneprzenieś",
+        "hostingserwery",
+        "linuxpromocjaserwery",
+        "windowsserwery",
+        "dedykowanepromocjapoznaj",
+        "homecloudporównaj",
+        "vpswsparcie"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, Sklepy",
+      "renderedTitle": "home.pl: Nr 1 w Polsce. Domeny, Hosting, Serwery WWW, Strony, Sklepy",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

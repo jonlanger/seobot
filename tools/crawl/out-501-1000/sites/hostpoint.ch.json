@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "hostpoint.ch",
+    "rank": 1325,
+    "url": "https://hostpoint.ch/",
+    "runAt": "2026-10-18T18:09:37.746Z",
+    "robots": {
+      "status": 200,
+      "bytes": 161,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.hostpoint.ch/",
+      "bytes": 306268
+    },
+    "rendered": {
+      "title": "Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!",
+      "canonical": "https://www.hostpoint.ch/",
+      "words": 403,
+      "jsonLdTypes": [
+        "corporation"
+      ],
+      "headings": 23,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 420,
+      "renderedWords": 403,
+      "coverage": 93.1,
+      "rawOnlyTokens": 45,
+      "renderedOnlyTokens": 28,
+      "renderedOnlySample": [
+        "transferneu",
+        "jobs2",
+        "mitki-website-assistent",
+        "wordpressmit",
+        "kostenlosloslegen",
+        "tagetelefon-support",
+        "ermöglichen",
+        "managedflex",
+        "verständlichen",
+        "kontinuität",
+        "lösungen",
+        "leistungsfähige",
+        "unterstützen",
+        "führende",
+        "providerfür",
+        "online-präsenz",
+        "firmen-standort",
+        "zürich",
+        "erfüllen",
+        "höchste",
+        "sicherheitsansprüche",
+        "gültige",
+        "wünschen",
+        "nächstes",
+        "schaltfläche"
+      ],
+      "jsonLdRaw": [
+        "corporation"
+      ],
+      "jsonLdRendered": [
+        "corporation"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 23,
+      "headingsAlsoInRaw": 16,
+      "headingsCoverage": 69.6,
+      "titleDiffers": false,
+      "rawTitle": "Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!",
+      "renderedTitle": "Hostpoint | Domains, Webhosting, Managed Server, E-Mail und mehr!",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

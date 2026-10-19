@@ -1,0 +1,157 @@
+[
+  {
+    "domain": "twilio.com",
+    "rank": 1326,
+    "url": "https://twilio.com/",
+    "runAt": "2026-10-18T18:09:38.118Z",
+    "robots": {
+      "status": 200,
+      "bytes": 976,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.twilio.com/en-us",
+      "bytes": 725454
+    },
+    "rendered": {
+      "title": "Conversational AI and APIs for SMS, Email, Voice | Twilio",
+      "canonical": "https://www.twilio.com/en-us",
+      "words": 610,
+      "jsonLdTypes": [
+        "organization",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 609,
+      "renderedWords": 610,
+      "coverage": 92.1,
+      "rawOnlyTokens": 47,
+      "renderedOnlyTokens": 48,
+      "renderedOnlySample": [
+        "cpaas1",
+        "results",
+        "website",
+        "uses",
+        "cookies",
+        "similar",
+        "technologies",
+        "collect",
+        "information",
+        "provide",
+        "sites",
+        "improve",
+        "analyze",
+        "performance",
+        "traffic",
+        "assist",
+        "efforts",
+        "share",
+        "third-party",
+        "partners",
+        "change",
+        "cookie",
+        "here",
+        "continuing",
+        "browse"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "videoobject",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "webpage"
+      ],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 13,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Conversational AI and APIs for SMS, Email, Voice | Twilio",
+      "renderedTitle": "Conversational AI and APIs for SMS, Email, Voice | Twilio",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

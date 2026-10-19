@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "riotgames.com",
+    "rank": 1157,
+    "url": "https://riotgames.com/",
+    "runAt": "2026-10-18T18:03:01.935Z",
+    "robots": {
+      "status": 200,
+      "bytes": 34,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.riotgames.com/en",
+      "bytes": 230989
+    },
+    "rendered": {
+      "title": "Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports. | Riot Games",
+      "canonical": "https://www.riotgames.com/en",
+      "words": 136,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 134,
+      "renderedWords": 136,
+      "coverage": 51.5,
+      "rawOnlyTokens": 64,
+      "renderedOnlyTokens": 66,
+      "renderedOnlySample": [
+        "opens",
+        "new",
+        "window",
+        "external",
+        "website",
+        "utilizes",
+        "technologies",
+        "such",
+        "cookies",
+        "enable",
+        "essential",
+        "site",
+        "functionality",
+        "well",
+        "analytics",
+        "personalization",
+        "targeted",
+        "advertising",
+        "view",
+        "following",
+        "link",
+        "manage",
+        "storage",
+        "contentjump",
+        "navigationwho"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 9,
+      "headingsCoverage": 81.8,
+      "titleDiffers": false,
+      "rawTitle": "Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports. | Riot Games",
+      "renderedTitle": "Riot Games. Developer of League of Legends, VALORANT, Teamfight Tactics, Legends of Runeterra, and Wild Rift. Creators of Arcane. Home of LOL and VALORANT Esports. | Riot Games",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

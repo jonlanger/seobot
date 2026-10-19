@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "indiamart.com",
+    "rank": 1198,
+    "url": "https://indiamart.com/",
+    "runAt": "2026-10-18T18:04:14.987Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3011,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 429,
+      "finalUrl": "https://indiamart.com/",
+      "bytes": 142
+    },
+    "rendered": {
+      "title": "429",
+      "canonical": "",
+      "words": 4,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4,
+      "renderedWords": 4,
+      "coverage": 100,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "429",
+      "renderedTitle": "429",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

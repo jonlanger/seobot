@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "repubblica.it",
+    "rank": 964,
+    "url": "https://repubblica.it/",
+    "runAt": "2026-10-18T17:54:49.946Z",
+    "robots": {
+      "status": 200,
+      "bytes": 7367,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.repubblica.it/",
+      "bytes": 443875
+    },
+    "rendered": {
+      "title": "la Repubblica - Ultime notizie di Cronaca, Politica, Economia, Sport, Esteri",
+      "canonical": "https://www.repubblica.it/",
+      "words": 1690,
+      "jsonLdTypes": [
+        "newsmediaorganization"
+      ],
+      "headings": 214,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1587,
+      "renderedWords": 1690,
+      "coverage": 93.7,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 106,
+      "renderedOnlySample": [
+        "vai",
+        "contenuto",
+        "principale",
+        "accedi",
+        "gestione",
+        "privacycookie",
+        "powered",
+        "ricordiamo",
+        "l'accesso",
+        "soggetto",
+        "consenso",
+        "l'utilizzo",
+        "finalità",
+        "profilazione",
+        "indicate",
+        "accetti",
+        "potrai",
+        "navigare",
+        "liberamente",
+        "accesso",
+        "premium",
+        "potremo",
+        "erogarti",
+        "personalizzati",
+        "attraverso"
+      ],
+      "jsonLdRaw": [
+        "newsmediaorganization"
+      ],
+      "jsonLdRendered": [
+        "newsmediaorganization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 214,
+      "headingsAlsoInRaw": 207,
+      "headingsCoverage": 96.7,
+      "titleDiffers": false,
+      "rawTitle": "la Repubblica - Ultime notizie di Cronaca, Politica, Economia, Sport, Esteri",
+      "renderedTitle": "la Repubblica - Ultime notizie di Cronaca, Politica, Economia, Sport, Esteri",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#13624f" />
+    <title>Seobot</title>
+    <script>
+      // Apply the stored theme before first paint to avoid a flash.
+      // ?theme=light|dark forces a theme (demo embeds, screenshots); ?view= deep-links a demo view.
+      // Legacy ?view= deep links → real paths (src/routes.ts), before hydration.
+      try {
+        var legacy = new URLSearchParams(window.location.search).get("view");
+        var paths = { dashboard: "/dashboard", "seo-check": "/seo-check", "semantics-study": "/research/semantics", components: "/design/components", foundations: "/design/foundations", brand: "/design/brand" };
+        if (legacy && paths[legacy]) window.location.replace(paths[legacy] + window.location.hash);
+        if (legacy === "company") {
+          var d = new URLSearchParams(window.location.search).get("domain");
+          if (d) window.location.replace("/company/" + encodeURIComponent(d));
+        }
+      } catch (e) {}
+      try {
+        var params = new URLSearchParams(window.location.search);
+        var forced = params.get("theme");
+        var stored = localStorage.getItem("seobot-theme");
+        var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+        var theme = forced === "dark" || forced === "light" ? forced : stored;
+        if (theme === "dark" || (theme !== "light" && prefersDark)) {
+          document.documentElement.classList.add("dark");
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

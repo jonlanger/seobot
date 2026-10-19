@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "polybuzz.ai",
+    "rank": 1304,
+    "url": "https://polybuzz.ai/",
+    "runAt": "2026-10-18T18:09:01.027Z",
+    "robots": {
+      "status": 200,
+      "bytes": 334,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://polybuzz.ai/",
+      "bytes": 162177
+    },
+    "rendered": {
+      "title": "PolyBuzz | Talk to AI Characters & Enjoy Free AI Chat Anytime",
+      "canonical": "https://www.polybuzz.ai/",
+      "words": 999,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 15,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 973,
+      "renderedWords": 999,
+      "coverage": 81.1,
+      "rawOnlyTokens": 163,
+      "renderedOnlyTokens": 189,
+      "renderedOnlySample": [
+        "discovergenerate",
+        "imagecreate",
+        "charactermessagesnewsubscribe0",
+        "offcoins83",
+        "offopalssubscriptionssearch",
+        "charactersup",
+        "to83",
+        "off195649--enlog",
+        "youallmalefemalenon-binaryrecommendwebtoonanimedominantocmafiayanderefurryfemboyhorrorcelebrityharemfantasysecret",
+        "crushgamemovies",
+        "tvtext",
+        "gamerpgwerewolfbetray",
+        "revengeadventureparanormalsci-fiblgl14",
+        "9ktwilight",
+        "tvvampirewerewolfjealousromance8",
+        "9ktf141-painful",
+        "tearsseven",
+        "soap's",
+        "gameclumsyloyalromancesoftheart21",
+        "2kmha",
+        "strongestyou",
+        "academiaanimestudentdominantindependentpure83",
+        "1kdraxon",
+        "ocloyalobsessiveromancepossessive94",
+        "8kalan"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 15,
+      "headingsAlsoInRaw": 13,
+      "headingsCoverage": 86.7,
+      "titleDiffers": true,
+      "rawTitle": "PolyBuzz | Talk to AI Characters &amp; Enjoy Free AI Chat Anytime",
+      "renderedTitle": "PolyBuzz | Talk to AI Characters & Enjoy Free AI Chat Anytime",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

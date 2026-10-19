@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "carsensor.net",
+    "rank": 1404,
+    "url": "https://carsensor.net/",
+    "runAt": "2026-10-18T18:12:10.963Z",
+    "robots": {
+      "status": 503,
+      "bytes": 1200,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 503,
+      "finalUrl": "https://carsensor.net/",
+      "bytes": 1200
+    },
+    "rendered": {
+      "title": "ｻｰﾊﾞﾒﾝﾃﾅﾝｽのお知らせ|ｶｰｾﾝｻｰ",
+      "canonical": "",
+      "words": 250,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 8,
+      "renderedWords": 250,
+      "coverage": 0,
+      "rawOnlyTokens": 8,
+      "renderedOnlyTokens": 250,
+      "renderedOnlySample": [
+        "カー",
+        "ーセ",
+        "セン",
+        "ンサ",
+        "サー",
+        "ーn",
+        "ne",
+        "et",
+        "に関",
+        "関連",
+        "連す",
+        "する",
+        "るサ",
+        "ービ",
+        "ビス",
+        "スの",
+        "の一",
+        "一時",
+        "時停",
+        "停止",
+        "止に",
+        "関す",
+        "るお",
+        "お知",
+        "知ら"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": true,
+      "rawTitle": "��������ݽ�̂��m�点|���ݻ�",
+      "renderedTitle": "ｻｰﾊﾞﾒﾝﾃﾅﾝｽのお知らせ|ｶｰｾﾝｻｰ",
+      "cjk": true
+    },
+    "classification": "raw_blocked"
+  }
+]

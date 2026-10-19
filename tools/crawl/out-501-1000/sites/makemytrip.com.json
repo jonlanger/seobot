@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "makemytrip.com",
+    "rank": 1284,
+    "url": "https://makemytrip.com/",
+    "runAt": "2026-10-18T18:07:35.657Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://makemytrip.com/",
+      "bytes": 0,
+      "error": "This operation was aborted"
+    },
+    "renderError": "page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://makemytrip.com/\nCall log:\n  - navigating to \"https://makemytrip.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

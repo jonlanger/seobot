@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "aftonbladet.se",
+    "rank": 1148,
+    "url": "https://aftonbladet.se/",
+    "runAt": "2026-10-18T18:02:46.226Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1704,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.aftonbladet.se/",
+      "bytes": 525561
+    },
+    "rendered": {
+      "title": "Aftonbladet",
+      "canonical": "https://www.aftonbladet.se/",
+      "words": 339,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 41,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 348,
+      "renderedWords": 339,
+      "coverage": 49.3,
+      "rawOnlyTokens": 181,
+      "renderedOnlyTokens": 172,
+      "renderedOnlySample": [
+        "innehållsöndag",
+        "oktober",
+        "2026dagens",
+        "namn",
+        "lukasköppluslogga",
+        "inlogga",
+        "aftonbladetnyhetsbrevplusöversiktdigitala",
+        "magasinerbjudandenhistoriska",
+        "arkivethantera",
+        "prenumerationkundsupportinställningarkontoinställningarljust",
+        "lägesekretessinställningarinställningar",
+        "cookiesfortsätt",
+        "nejjalogga",
+        "utplussa",
+        "plusdu",
+        "schibsted-kontookej",
+        "oinloggadditt",
+        "personuppgiftspolicystartsportnöjeradioplustipsatvkulturledarenyheteraftonbladet",
+        "direktaftonbladet",
+        "klimathejkolumnistermin",
+        "ekonomiradio",
+        "aftonbladetsvenska",
+        "hjältartvsportf1-bloggenfotbollfotbollsresanhockeyhockeyresankampsportlive-tvmanagerspelmotorsportnhl-bloggenpodcastssilly",
+        "seasonspeltipssportbladet",
+        "livetv-guidetravnöjefilmmelodifestivalenmusikrockbjörnenschlagerbloggenspelaså"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 41,
+      "headingsAlsoInRaw": 27,
+      "headingsCoverage": 65.9,
+      "titleDiffers": false,
+      "rawTitle": "Aftonbladet",
+      "renderedTitle": "Aftonbladet",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

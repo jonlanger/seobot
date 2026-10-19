@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "cdiscount.com",
+    "rank": 1272,
+    "url": "https://cdiscount.com/",
+    "runAt": "2026-10-18T18:07:14.206Z",
+    "robots": {
+      "status": 200,
+      "bytes": 8268,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.cdiscount.com/",
+      "bytes": 14109
+    },
+    "rendered": {
+      "title": "Cdiscount : des prix bas qui ont de la voix !",
+      "canonical": "https://www.cdiscount.com/",
+      "words": 888,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 17,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1,
+      "renderedWords": 888,
+      "coverage": 0.1,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 887,
+      "renderedOnlySample": [
+        "aller",
+        "contenu",
+        "principalaller",
+        "recherchealler",
+        "pied",
+        "pagemenucdiscountrechercherrechercherse",
+        "connectermon",
+        "paniermenupromosnoëlvoyagesforfait",
+        "mobilepaiement",
+        "10xreconditionnéprogramme",
+        "fidélitémenu",
+        "principalfermer",
+        "menu",
+        "dès",
+        "d'achat",
+        "pour",
+        "toute",
+        "1ère",
+        "commande",
+        "avec",
+        "code",
+        "hello10",
+        "les",
+        "incontournables",
+        "téléphonie"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "website"
+      ],
+      "headingsRendered": 17,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 5.9,
+      "titleDiffers": true,
+      "rawTitle": "Cdiscount",
+      "renderedTitle": "Cdiscount : des prix bas qui ont de la voix !",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

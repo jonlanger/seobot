@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "digitaloceanspaces.com",
+    "rank": 1108,
+    "url": "https://digitaloceanspaces.com/",
+    "runAt": "2026-10-18T18:00:29.181Z",
+    "robots": {
+      "status": 200,
+      "bytes": 297308,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.digitalocean.com/",
+      "bytes": 297308
+    },
+    "rendered": {
+      "title": "AI-Native Cloud | DigitalOcean",
+      "canonical": "https://www.digitalocean.com/",
+      "words": 616,
+      "jsonLdTypes": [],
+      "headings": 35,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 482,
+      "renderedWords": 616,
+      "coverage": 57.3,
+      "rawOnlyTokens": 129,
+      "renderedOnlyTokens": 263,
+      "renderedOnlySample": [
+        "dropletsblogdocscareersget",
+        "supportcontact",
+        "salesdigitaloceanproductsfeatured",
+        "productscomputebuild",
+        "resourcescontainers",
+        "imagessafely",
+        "backupsmanaged",
+        "databasesfully",
+        "enginesmanagement",
+        "toolscontrol",
+        "insightsnetworkingsecure",
+        "appssecurityhelp",
+        "featuresstoragestore",
+        "cloudbrowse",
+        "productsfeatured",
+        "productsmanaged",
+        "agentsrun",
+        "accessnewlearning",
+        "servicesimprove",
+        "evidencenewdata",
+        "servicesstore",
+        "retrieve",
+        "surface",
+        "needinference",
+        "enginerun"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 35,
+      "headingsAlsoInRaw": 35,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "AI-Native Cloud | DigitalOcean",
+      "renderedTitle": "AI-Native Cloud | DigitalOcean",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

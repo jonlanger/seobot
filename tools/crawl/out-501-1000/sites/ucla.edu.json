@@ -1,0 +1,124 @@
+[
+  {
+    "domain": "ucla.edu",
+    "rank": 1303,
+    "url": "https://ucla.edu/",
+    "runAt": "2026-10-18T18:08:58.270Z",
+    "robots": {
+      "status": 200,
+      "bytes": 94,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ucla.edu/",
+      "bytes": 108129
+    },
+    "rendered": {
+      "title": "A World Leader in Education and Research Excellence | UCLA",
+      "canonical": "https://www.ucla.edu/",
+      "words": 924,
+      "jsonLdTypes": [],
+      "headings": 27,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 918,
+      "renderedWords": 924,
+      "coverage": 99.1,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 8,
+      "renderedOnlySample": [
+        "edusearch",
+        "ucla's",
+        "center's",
+        "uclatlán's",
+        "knaul's",
+        "what's",
+        "world's",
+        "magazine's"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 27,
+      "headingsAlsoInRaw": 26,
+      "headingsCoverage": 96.3,
+      "titleDiffers": false,
+      "rawTitle": "A World Leader in Education and Research Excellence | UCLA",
+      "renderedTitle": "A World Leader in Education and Research Excellence | UCLA",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

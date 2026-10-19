@@ -1,0 +1,10 @@
+# Seobot
+
+> Seobot is an SEO research site and free SEO check. It measures how Google and AI search crawlers read the web, starting with a two-pass crawl of top sites from a pinned Tranco list (plain HTTP versus headless Chromium), and turns the findings into a prioritized fix list for your own site.
+
+## Core pages
+
+- [Home](https://seobot.example/): What Seobot is, the study's headline numbers, and how the free check works.
+- [Free SEO check](https://seobot.example/seo-check): A 2-minute, in-browser SEO assessment — what's broken and what to fix first. Nothing is uploaded.
+- [Study dashboard](https://seobot.example/dashboard): Interactive charts of AI-crawler access, robots.txt policies, and raw versus rendered content for every crawled site, readable or not. Data is CC BY 4.0.
+- [Semantic HTML study](https://seobot.example/research/semantics): First-party audit of landmarks, heading hierarchy, schema, and metadata on top sites.

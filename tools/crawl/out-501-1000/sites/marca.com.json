@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "marca.com",
+    "rank": 1105,
+    "url": "https://marca.com/",
+    "runAt": "2026-10-18T18:00:28.489Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5011,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.marca.com/",
+      "bytes": 750270
+    },
+    "rendered": {
+      "title": "MARCA - Diario online líder en información deportiva",
+      "canonical": "https://www.marca.com/",
+      "words": 1244,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "newsmediaorganization"
+      ],
+      "headings": 101,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1025,
+      "renderedWords": 1244,
+      "coverage": 73.8,
+      "rawOnlyTokens": 107,
+      "renderedOnlyTokens": 326,
+      "renderedOnlySample": [
+        "sociedadreal",
+        "sevillacelta",
+        "alavésreal",
+        "horariomarc",
+        "márquezsergio",
+        "ramoslesiones",
+        "barcelonadavid",
+        "morajuan",
+        "valsalsa",
+        "tomateclint",
+        "eastwoodmavi",
+        "doñateniño",
+        "becerraprecio",
+        "hoyfútbol",
+        "hoyportada",
+        "hoycarvajal",
+        "marcacerrar",
+        "máscerrar",
+        "2026actualizado",
+        "máscerrarfútbolmotorbaloncestopolideportivotiramillasgamingmarca",
+        "cochesbazar",
+        "regalosportadaequipos",
+        "áfrica",
+        "américa",
+        "vídeos"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "newsmediaorganization"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "newsmediaorganization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 101,
+      "headingsAlsoInRaw": 100,
+      "headingsCoverage": 99,
+      "titleDiffers": false,
+      "rawTitle": "MARCA - Diario online líder en información deportiva",
+      "renderedTitle": "MARCA - Diario online líder en información deportiva",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

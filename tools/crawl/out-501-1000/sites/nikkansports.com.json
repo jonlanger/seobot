@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "nikkansports.com",
+    "rank": 1377,
+    "url": "https://nikkansports.com/",
+    "runAt": "2026-10-18T18:11:21.051Z",
+    "robots": {
+      "status": 200,
+      "bytes": 429,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.nikkansports.com/",
+      "bytes": 188145
+    },
+    "rendered": {
+      "title": "日刊スポーツ : nikkansports.com",
+      "canonical": "",
+      "words": 2030,
+      "jsonLdTypes": [],
+      "headings": 43,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1851,
+      "renderedWords": 2030,
+      "coverage": 91.2,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 179,
+      "renderedOnlySample": [
+        "にｘ",
+        "ｘ怒",
+        "始４",
+        "４分",
+        "平石",
+        "石洋",
+        "洋介",
+        "トバ",
+        "クな",
+        "なぜ",
+        "ぜ強",
+        "強い",
+        "他球",
+        "団深",
+        "深刻",
+        "刻に",
+        "に受",
+        "教え",
+        "えて",
+        "マエ",
+        "エケ",
+        "ケン",
+        "ンさ",
+        "本球",
+        "球界"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 43,
+      "headingsAlsoInRaw": 38,
+      "headingsCoverage": 88.4,
+      "titleDiffers": false,
+      "rawTitle": "日刊スポーツ : nikkansports.com",
+      "renderedTitle": "日刊スポーツ : nikkansports.com",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

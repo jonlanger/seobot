@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "drweb.ru",
+    "rank": 1339,
+    "url": "https://drweb.ru/",
+    "runAt": "2026-10-18T18:09:59.059Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1453,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.drweb.ru/",
+      "bytes": 216062
+    },
+    "rendered": {
+      "title": "Dr.Web - скачать антивирусную программу",
+      "canonical": "",
+      "words": 303,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 246,
+      "renderedWords": 303,
+      "coverage": 53.1,
+      "rawOnlyTokens": 85,
+      "renderedOnlyTokens": 142,
+      "renderedOnlySample": [
+        "лицензиисо",
+        "839",
+        "736",
+        "обязательное",
+        "обновление",
+        "сертифицированных",
+        "фстэк",
+        "продуктов",
+        "компания",
+        "сообщает",
+        "выпуске",
+        "обновления",
+        "версий",
+        "enterprise",
+        "suite",
+        "сертификат",
+        "3509",
+        "industrial",
+        "4903",
+        "tl4",
+        "5003",
+        "рамках",
+        "релиза",
+        "оперативно",
+        "устранена"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 9,
+      "headingsCoverage": 69.2,
+      "titleDiffers": false,
+      "rawTitle": "Dr.Web - скачать антивирусную программу",
+      "renderedTitle": "Dr.Web - скачать антивирусную программу",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

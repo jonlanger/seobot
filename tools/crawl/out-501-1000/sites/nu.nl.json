@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "nu.nl",
+    "rank": 1194,
+    "url": "https://nu.nl/",
+    "runAt": "2026-10-18T18:04:07.175Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2486,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.nu.nl/",
+      "bytes": 1677962
+    },
+    "rendered": {
+      "title": "NU - Het laatste nieuws het eerst op NU.nl",
+      "canonical": "https://www.nu.nl/",
+      "words": 715,
+      "jsonLdTypes": [],
+      "headings": 16,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 647,
+      "renderedWords": 715,
+      "coverage": 64.5,
+      "rawOnlyTokens": 186,
+      "renderedOnlyTokens": 254,
+      "renderedOnlySample": [
+        "inhoudvoorpaginanet",
+        "binnenvoor",
+        "joualgemeeneconomiesportmedia",
+        "achterklapshopmeer",
+        "subpagina's",
+        "voorpaginanet",
+        "binnenbinnenlandbuitenlandpolitiekvideopodcastweereconomieklimaattechsportvoetbalformule",
+        "1wielrennensport",
+        "overigscorebordmedia",
+        "achterklapfilms",
+        "seriesmuziekboek",
+        "cultuurmediaachterklapkoningshuistv-gidsoverigdierennujijopmerkelijkwetenschapgoed",
+        "nieuwsspellenvoor",
+        "jouvan",
+        "redactienushopadverteren",
+        "spellenvier",
+        "legerbasisajax",
+        "psvajax",
+        "psvcornald",
+        "voorziencornald",
+        "voorzienterwijl",
+        "uurterwijl",
+        "uur0",
+        "44video",
+        "droneaanvalvideo"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 16,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 87.5,
+      "titleDiffers": false,
+      "rawTitle": "NU - Het laatste nieuws het eerst op NU.nl",
+      "renderedTitle": "NU - Het laatste nieuws het eerst op NU.nl",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "livescore.com",
+    "rank": 1265,
+    "url": "https://livescore.com/",
+    "runAt": "2026-10-18T18:06:57.729Z",
+    "robots": {
+      "status": 200,
+      "bytes": 435,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.livescore.com/en/",
+      "bytes": 95415
+    },
+    "rendered": {
+      "title": "LiveScore | Today's Live Football Scores, Fixtures & Results",
+      "canonical": "https://www.livescore.com/en/",
+      "words": 387,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 138,
+      "renderedWords": 387,
+      "coverage": 26.4,
+      "rawOnlyTokens": 36,
+      "renderedOnlyTokens": 285,
+      "renderedOnlySample": [
+        "scoresnewsfavouritesbettingbetting",
+        "sitesbetting",
+        "appscasino",
+        "sitesfootballhockeybasketballtenniscricketteamsmanchester",
+        "unitedenglandliverpoolenglandarsenalenglandreal",
+        "madridspainbarcelonaspaincompetitionsmlsusausl",
+        "oneusapremier",
+        "leagueenglandbundesligagermanylaligaspainregionenglandchampions",
+        "leaguespainitalygermanylivetodaypremier",
+        "leagueenglandftbournemouthsunderland20ftbrightoncrystal",
+        "palace50ftleedsman",
+        "utd11ftnottm",
+        "forestarsenal01laligaspainftosasunaracing",
+        "santander20ftcelta",
+        "vigodeportivo",
+        "alaves2179'malagareal",
+        "sociedad25favourites15",
+        "00real",
+        "madridsevillafavouritestoday's",
+        "resultslivescore",
+        "tableskeep",
+        "footballpremier",
+        "scoresefl",
+        "scoresscottish",
+        "scoreslaliga"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 20,
+      "titleDiffers": true,
+      "rawTitle": "LiveScore | Today&#x27;s Live Football Scores, Fixtures &amp; Results",
+      "renderedTitle": "LiveScore | Today's Live Football Scores, Fixtures & Results",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

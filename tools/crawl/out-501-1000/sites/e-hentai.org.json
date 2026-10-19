@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "e-hentai.org",
+    "rank": 1375,
+    "url": "https://e-hentai.org/",
+    "runAt": "2026-10-18T18:11:16.685Z",
+    "robots": {
+      "status": 200,
+      "bytes": 220,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://e-hentai.org/",
+      "bytes": 67772
+    },
+    "rendered": {
+      "title": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
+      "canonical": "",
+      "words": 390,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 378,
+      "renderedWords": 390,
+      "coverage": 49.5,
+      "rawOnlyTokens": 185,
+      "renderedOnlyTokens": 197,
+      "renderedOnlySample": [
+        "pagewatchedpopulartorrentsfavoritesmy",
+        "homemy",
+        "uploadstoplistsbountiesnewsforumswikihentaiverse",
+        "systemdoujinshimangaartist",
+        "cggame",
+        "cgwesternnon-himage",
+        "setcosplayasian",
+        "pornmisc",
+        "prevjump",
+        "seeknext",
+        "minimalminimal",
+        "compactextendedthumbnail",
+        "publishedtitleuploadermiscmisc2026-10-18",
+        "1066",
+        "pages2026-10-18",
+        "generatedrtyrtyui66",
+        "pagesmiscmisc2026-10-18",
+        "1029",
+        "possiblekim",
+        "possiblef",
+        "femalef",
+        "stockingsai",
+        "generateduncensoredangulite29",
+        "1048",
+        "spanishtranslatedharry"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
+      "renderedTitle": "E-Hentai Galleries - The Free Hentai Doujinshi, Manga and Image Gallery System",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

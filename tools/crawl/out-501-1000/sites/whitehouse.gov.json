@@ -1,0 +1,152 @@
+[
+  {
+    "domain": "whitehouse.gov",
+    "rank": 1053,
+    "url": "https://whitehouse.gov/",
+    "runAt": "2026-10-18T17:58:50.595Z",
+    "robots": {
+      "status": 200,
+      "bytes": 111,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.whitehouse.gov/",
+      "bytes": 298466
+    },
+    "rendered": {
+      "title": "The White House",
+      "canonical": "https://www.whitehouse.gov/",
+      "words": 384,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "governmentorganization",
+        "imageobject",
+        "webpage",
+        "website"
+      ],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 370,
+      "renderedWords": 384,
+      "coverage": 95.3,
+      "rawOnlyTokens": 4,
+      "renderedOnlyTokens": 18,
+      "renderedOnlySample": [
+        "contentdownload",
+        "real-time",
+        "direct",
+        "line",
+        "america's",
+        "october",
+        "sunmontuewedthufrisat12345678910111213141516171819202122232425262728293031",
+        "browse",
+        "tap",
+        "highlighted",
+        "49t",
+        "355k",
+        "aboutadministration",
+        "medianews",
+        "initiativesfreedom",
+        "are",
+        "blocked",
+        "settings"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "governmentorganization",
+        "imageobject",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "governmentorganization",
+        "imageobject",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "The White House",
+      "renderedTitle": "The White House",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

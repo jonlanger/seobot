@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "fwmrm.net",
+    "rank": 904,
+    "url": "https://fwmrm.net/",
+    "runAt": "2026-10-18T17:52:28.570Z",
+    "robots": {
+      "status": 200,
+      "bytes": 191,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.freewheel.com/",
+      "bytes": 54959
+    },
+    "rendered": {
+      "title": "Direct Connections to Streaming Video Inventory | FreeWheel",
+      "canonical": "https://www.freewheel.com/",
+      "words": 374,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 201,
+      "renderedWords": 374,
+      "coverage": 52.9,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 176,
+      "renderedOnlySample": [
+        "preferences",
+        "preferenceslike",
+        "many",
+        "companies",
+        "use",
+        "cookies",
+        "other",
+        "common",
+        "tracking",
+        "technologies",
+        "optimize",
+        "analyze",
+        "serve",
+        "ads",
+        "relevant",
+        "interests",
+        "may",
+        "choose",
+        "which",
+        "allow",
+        "change",
+        "any",
+        "time",
+        "this",
+        "device"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 66.7,
+      "titleDiffers": false,
+      "rawTitle": "Direct Connections to Streaming Video Inventory | FreeWheel",
+      "renderedTitle": "Direct Connections to Streaming Video Inventory | FreeWheel",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

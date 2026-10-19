@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "lichess.org",
+    "rank": 1220,
+    "url": "https://lichess.org/",
+    "runAt": "2026-10-18T18:05:09.895Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2965,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://lichess.org/",
+      "bytes": 40011
+    },
+    "rendered": {
+      "title": "lichess.org • Free Online Chess",
+      "canonical": "",
+      "words": 295,
+      "jsonLdTypes": [],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 290,
+      "renderedWords": 295,
+      "coverage": 62,
+      "rawOnlyTokens": 107,
+      "renderedOnlyTokens": 112,
+      "renderedOnlySample": [
+        "modeyour",
+        "orgplaylichess",
+        "orgcreate",
+        "gamearena",
+        "tournamentsswiss",
+        "tournamentssimultaneous",
+        "exhibitionsdonatepuzzlespuzzlespuzzle",
+        "themespuzzle",
+        "dashboardpuzzle",
+        "streakpuzzle",
+        "stormpuzzle",
+        "racerlearnchess",
+        "basicspracticecoordinatesstudycoacheswatchbroadcastslichess",
+        "tvcurrent",
+        "gamesstreamersvideo",
+        "librarycommunityplayersteamsforumblogtoolsanalysis",
+        "boardopeningsboard",
+        "editorimport",
+        "gameadvanced",
+        "searchdonatesign",
+        "inregisterwim",
+        "lessonsstreamers",
+        "bundesliga500",
+        "playersplaying",
+        "noweuropean"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "lichess.org • Free Online Chess",
+      "renderedTitle": "lichess.org • Free Online Chess",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

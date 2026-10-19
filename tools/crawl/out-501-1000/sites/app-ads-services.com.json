@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "app-ads-services.com",
+    "rank": 978,
+    "url": "https://app-ads-services.com/",
+    "runAt": "2026-10-18T17:55:57.577Z",
+    "robots": {
+      "status": 200,
+      "bytes": 6624,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.google.com/",
+      "bytes": 247382
+    },
+    "rendered": {
+      "title": "Google",
+      "canonical": "",
+      "words": 58,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 51,
+      "renderedWords": 58,
+      "coverage": 39.7,
+      "rawOnlyTokens": 28,
+      "renderedOnlyTokens": 35,
+      "renderedOnlySample": [
+        "aboutstoregmailimagessign",
+        "imagesadd",
+        "imagescanvasai",
+        "createremove",
+        "imagescanvasremove",
+        "canvaschoose",
+        "what",
+        "you",
+        "giving",
+        "onsee",
+        "moredelete",
+        "i'm",
+        "feeling",
+        "curiousi'm",
+        "hungryi'm",
+        "adventurousi'm",
+        "playfuli'm",
+        "stellari'm",
+        "doodleyi'm",
+        "trendyi'm",
+        "artistici'm",
+        "funnyi'm",
+        "mindful",
+        "advertisingbusiness",
+        "googleprivacytermssettingssearch"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Google",
+      "renderedTitle": "Google",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

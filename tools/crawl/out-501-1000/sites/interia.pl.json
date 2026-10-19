@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "interia.pl",
+    "rank": 1218,
+    "url": "https://interia.pl/",
+    "runAt": "2026-10-18T18:05:03.062Z",
+    "robots": {
+      "status": 200,
+      "bytes": 62,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.interia.pl/",
+      "bytes": 687688
+    },
+    "rendered": {
+      "title": "Interia - Polska i świat: informacje, sport, gwiazdy.",
+      "canonical": "https://www.interia.pl/",
+      "words": 2722,
+      "jsonLdTypes": [],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2217,
+      "renderedWords": 2722,
+      "coverage": 81.3,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 510,
+      "renderedOnlySample": [
+        "warszawa",
+        "wyczyść",
+        "zlokalizuj",
+        "białystok",
+        "podlaskie",
+        "bielsko",
+        "biała",
+        "śląskie",
+        "bydgoszcz",
+        "kujawsko-pomorskie",
+        "gdańsk",
+        "pomorskie",
+        "gorzów",
+        "wlk",
+        "lubuskie",
+        "kielce",
+        "świętokrzyskie",
+        "małopolskie",
+        "lublin",
+        "lubelskie",
+        "łódzkie",
+        "olsztyn",
+        "warmińsko-mazurskie",
+        "opole",
+        "opolskie"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 22,
+      "headingsCoverage": 91.7,
+      "titleDiffers": false,
+      "rawTitle": "Interia - Polska i świat: informacje, sport, gwiazdy.",
+      "renderedTitle": "Interia - Polska i świat: informacje, sport, gwiazdy.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

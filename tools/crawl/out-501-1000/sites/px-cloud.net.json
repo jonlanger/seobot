@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "px-cloud.net",
+    "rank": 905,
+    "url": "https://px-cloud.net/",
+    "runAt": "2026-10-18T17:52:28.612Z",
+    "robots": {
+      "status": 404,
+      "bytes": 18,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 404,
+      "finalUrl": "https://px-cloud.net/",
+      "bytes": 18
+    },
+    "rendered": {
+      "title": "",
+      "canonical": "",
+      "words": 4,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4,
+      "renderedWords": 4,
+      "coverage": 100,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "",
+      "renderedTitle": "",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

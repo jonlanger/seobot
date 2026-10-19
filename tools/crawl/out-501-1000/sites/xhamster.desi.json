@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "xhamster.desi",
+    "rank": 1178,
+    "url": "https://xhamster.desi/",
+    "runAt": "2026-10-18T18:03:33.770Z",
+    "robots": {
+      "status": 200,
+      "bytes": 13130,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://xhamster.desi/",
+      "bytes": 478946
+    },
+    "rendered": {
+      "title": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "canonical": "https://xhamster.desi/",
+      "words": 614,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 643,
+      "renderedWords": 614,
+      "coverage": 58.6,
+      "rawOnlyTokens": 283,
+      "renderedOnlyTokens": 254,
+      "renderedOnlySample": [
+        "first",
+        "time",
+        "fart",
+        "inexperience",
+        "soffipinkk",
+        "hotel",
+        "sweetfantasy131",
+        "woman",
+        "xtime",
+        "grannies",
+        "19k",
+        "bareback",
+        "swinger",
+        "bull",
+        "hotsexcpl69",
+        "shows",
+        "lingerie",
+        "haul",
+        "brianna",
+        "beach",
+        "alex",
+        "adams",
+        "squirter",
+        "wanilianna",
+        "40k"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos &amp; XXX Movies: Sex Videos Tube | xHamster",
+      "renderedTitle": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

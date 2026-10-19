@@ -1,0 +1,78 @@
+[
+  {
+    "domain": "flashtalking.com",
+    "rank": 936,
+    "url": "https://flashtalking.com/",
+    "runAt": "2026-10-18T17:53:26.564Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://flashtalking.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "rendered": {
+      "title": "The premier global independent, omnichannel advertising platform | Innovid",
+      "canonical": "https://www.innovid.com/",
+      "words": 411,
+      "jsonLdTypes": [
+        "corporation"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 411,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 411,
+      "renderedOnlySample": [
+        "clicking",
+        "accept",
+        "all",
+        "cookies",
+        "you",
+        "agree",
+        "the",
+        "storing",
+        "your",
+        "device",
+        "enhance",
+        "site",
+        "navigation",
+        "analyze",
+        "usage",
+        "and",
+        "for",
+        "marketing",
+        "advertising",
+        "purposes",
+        "privacy",
+        "policy",
+        "not",
+        "sell",
+        "share"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "corporation"
+      ],
+      "jsonLdMissingFromRaw": [
+        "corporation"
+      ],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "The premier global independent, omnichannel advertising platform | Innovid",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "economist.com",
+    "rank": 1174,
+    "url": "https://economist.com/",
+    "runAt": "2026-10-18T18:03:29.544Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2664,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.economist.com/",
+      "bytes": 5823
+    },
+    "rendered": {
+      "title": "economist.com",
+      "canonical": "",
+      "words": 0,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 0,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "economist.com",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "olx.pl",
+    "rank": 1048,
+    "url": "https://olx.pl/",
+    "runAt": "2026-10-18T17:58:39.223Z",
+    "robots": {
+      "status": 200,
+      "bytes": 658,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.olx.pl/",
+      "bytes": 919
+    },
+    "rendered": {
+      "title": "Ogłoszenia - Sprzedam, kupię na OLX.pl",
+      "canonical": "https://www.olx.pl/",
+      "words": 384,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 45,
+      "renderedWords": 384,
+      "coverage": 0,
+      "rawOnlyTokens": 45,
+      "renderedOnlyTokens": 384,
+      "renderedOnlySample": [
+        "przejdź",
+        "głównej",
+        "częściprzejdź",
+        "stopkiczatpowiadomieniatwoje",
+        "kontododaj",
+        "ogłoszeniedla",
+        "biznesuopens",
+        "new",
+        "tabsprzedajesz",
+        "oferujesz",
+        "usługi",
+        "lub",
+        "rekrutujesz",
+        "pracowników",
+        "zobacz",
+        "jak",
+        "dzięki",
+        "naszym",
+        "rozwiązaniom",
+        "dla",
+        "firm",
+        "możesz",
+        "dotrzeć",
+        "milionów",
+        "użytkowników"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [
+        "webpage"
+      ],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "ERROR: The request could not be satisfied",
+      "renderedTitle": "Ogłoszenia - Sprzedam, kupię na OLX.pl",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

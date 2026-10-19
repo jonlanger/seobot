@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "netkeiba.com",
+    "rank": 1295,
+    "url": "https://netkeiba.com/",
+    "runAt": "2026-10-18T18:08:35.556Z",
+    "robots": {
+      "status": 404,
+      "bytes": 196,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://netkeiba.com/",
+      "bytes": 61446
+    },
+    "rendered": {
+      "title": "netkeiba ネットケイバ - 日本最大の競馬情報サービス",
+      "canonical": "https://www.netkeiba.com/",
+      "words": 1295,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 30,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 813,
+      "renderedWords": 1295,
+      "coverage": 60.8,
+      "rawOnlyTokens": 26,
+      "renderedOnlyTokens": 508,
+      "renderedOnlySample": [
+        "戸崎",
+        "崎騎",
+        "手ら",
+        "秋華",
+        "華賞",
+        "賞各",
+        "各陣",
+        "陣営",
+        "営レ",
+        "ス後",
+        "後コ",
+        "京都",
+        "都1",
+        "1r",
+        "rの",
+        "の第",
+        "第3",
+        "1回",
+        "回秋",
+        "3歳",
+        "歳g",
+        "gi",
+        "牝馬",
+        "芝2",
+        "0m"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 30,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 36.7,
+      "titleDiffers": false,
+      "rawTitle": "netkeiba ネットケイバ - 日本最大の競馬情報サービス",
+      "renderedTitle": "netkeiba ネットケイバ - 日本最大の競馬情報サービス",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

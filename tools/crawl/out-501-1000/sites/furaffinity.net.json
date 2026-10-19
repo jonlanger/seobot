@@ -1,0 +1,122 @@
+[
+  {
+    "domain": "furaffinity.net",
+    "rank": 1236,
+    "url": "https://furaffinity.net/",
+    "runAt": "2026-10-18T18:05:58.639Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5326,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.furaffinity.net/",
+      "bytes": 123761
+    },
+    "rendered": {
+      "title": "Index -- Fur Affinity [dot] net",
+      "canonical": "",
+      "words": 470,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 472,
+      "renderedWords": 470,
+      "coverage": 98.7,
+      "rawOnlyTokens": 8,
+      "renderedOnlyTokens": 6,
+      "renderedOnlySample": [
+        "doesn't",
+        "one's",
+        "we're",
+        "i'll",
+        "7's",
+        "don't"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 84.6,
+      "titleDiffers": false,
+      "rawTitle": "Index -- Fur Affinity [dot] net",
+      "renderedTitle": "Index -- Fur Affinity [dot] net",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "hbr.org",
+    "rank": 903,
+    "url": "https://hbr.org/",
+    "runAt": "2026-10-18T17:52:25.319Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1016,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://hbr.org/",
+      "bytes": 361460
+    },
+    "rendered": {
+      "title": "Harvard Business Review - Ideas and Advice for Leaders",
+      "canonical": "",
+      "words": 506,
+      "jsonLdTypes": [],
+      "headings": 71,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 437,
+      "renderedWords": 506,
+      "coverage": 57.3,
+      "rawOnlyTokens": 147,
+      "renderedOnlyTokens": 216,
+      "renderedOnlySample": [
+        "contentsubscribesign",
+        "inlatestmagazinetopicspodcastsstorereading",
+        "listsdata",
+        "visualscase",
+        "selectionshbr",
+        "executivesearch",
+        "orgsubscribelatestpodcaststhe",
+        "magazinestorewebinarsnewslettersall",
+        "topicsreading",
+        "executivemy",
+        "libraryaccount",
+        "settingssign",
+        "inexplore",
+        "hbrlatestthe",
+        "magazinepodcastsstorewebinarsnewsletterspopular",
+        "topicsmanaging",
+        "yourselfleadershipstrategymanaging",
+        "teamsgenderinnovationwork-life",
+        "balanceall",
+        "topicsfor",
+        "subscribersreading",
+        "executivesubscribemy",
+        "accountmy",
+        "librarytopic",
+        "feedsordersaccount"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 71,
+      "headingsAlsoInRaw": 67,
+      "headingsCoverage": 94.4,
+      "titleDiffers": false,
+      "rawTitle": "Harvard Business Review - Ideas and Advice for Leaders",
+      "renderedTitle": "Harvard Business Review - Ideas and Advice for Leaders",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "xhspot.com",
+    "rank": 1320,
+    "url": "https://xhspot.com/",
+    "runAt": "2026-10-18T18:09:28.853Z",
+    "robots": {
+      "status": 200,
+      "bytes": 13130,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://xhspot.com/",
+      "bytes": 475483
+    },
+    "rendered": {
+      "title": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "canonical": "https://xhspot.com/",
+      "words": 666,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 623,
+      "renderedWords": 666,
+      "coverage": 57.1,
+      "rawOnlyTokens": 243,
+      "renderedOnlyTokens": 286,
+      "renderedOnlySample": [
+        "wants",
+        "know",
+        "looks",
+        "s18",
+        "moms",
+        "teach",
+        "70s",
+        "kitty",
+        "s3e1",
+        "nubilefilms",
+        "pregnant",
+        "still",
+        "swinger",
+        "parties",
+        "solve",
+        "variable",
+        "strokes",
+        "371",
+        "really",
+        "want",
+        "hubby",
+        "casting",
+        "polly",
+        "yangs",
+        "buried"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos &amp; XXX Movies: Sex Videos Tube | xHamster",
+      "renderedTitle": "Free Porn Videos & XXX Movies: Sex Videos Tube | xHamster",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

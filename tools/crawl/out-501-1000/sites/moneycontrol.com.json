@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "moneycontrol.com",
+    "rank": 1069,
+    "url": "https://moneycontrol.com/",
+    "runAt": "2026-10-18T17:59:26.358Z",
+    "robots": {
+      "status": 403,
+      "bytes": 388,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.moneycontrol.com/",
+      "bytes": 374
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 20,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 20,
+      "coverage": 95,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "5d8c417f"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

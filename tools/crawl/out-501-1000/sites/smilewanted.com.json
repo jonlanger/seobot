@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "smilewanted.com",
+    "rank": 956,
+    "url": "https://smilewanted.com/",
+    "runAt": "2026-10-18T17:54:14.946Z",
+    "robots": {
+      "status": 200,
+      "bytes": 176144,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.smilewanted.com/",
+      "bytes": 176144
+    },
+    "rendered": {
+      "title": "Smile Wanted – Supply Intelligence",
+      "canonical": "https://www.smilewanted.com/",
+      "words": 458,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 15,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 317,
+      "renderedWords": 458,
+      "coverage": 67.5,
+      "rawOnlyTokens": 8,
+      "renderedOnlyTokens": 149,
+      "renderedOnlySample": [
+        "your",
+        "use",
+        "cookies",
+        "enhance",
+        "browsing",
+        "experience",
+        "serve",
+        "personalized",
+        "analyze",
+        "traffic",
+        "clicking",
+        "accept",
+        "all",
+        "consent",
+        "cookie",
+        "customize",
+        "reject",
+        "preferences",
+        "navigate",
+        "efficiently",
+        "perform",
+        "certain",
+        "functions",
+        "find",
+        "detailed"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 15,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 80,
+      "titleDiffers": true,
+      "rawTitle": "Smile Wanted &#8211; Supply Intelligence",
+      "renderedTitle": "Smile Wanted – Supply Intelligence",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

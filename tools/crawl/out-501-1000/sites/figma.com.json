@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "figma.com",
+    "rank": 883,
+    "url": "https://figma.com/",
+    "runAt": "2026-10-18T17:52:02.738Z",
+    "robots": {
+      "status": 200,
+      "bytes": 399184,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.figma.com/",
+      "bytes": 1801505
+    },
+    "rendered": {
+      "title": "Figma: The collaborative canvas for design, code, and AI",
+      "canonical": "https://www.figma.com/",
+      "words": 289,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 33,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 282,
+      "renderedWords": 289,
+      "coverage": 52.9,
+      "rawOnlyTokens": 129,
+      "renderedOnlyTokens": 136,
+      "renderedOnlySample": [
+        "contentcheck",
+        "out",
+        "everything",
+        "launched",
+        "config",
+        "indiaread",
+        "moreproductswhat",
+        "figmadesign",
+        "explorebuild",
+        "productsexplore",
+        "productsfigma",
+        "designdesign",
+        "placefigma",
+        "makeprompt",
+        "imaginefigma",
+        "weaveai",
+        "moredev",
+        "modetranslate",
+        "codefigma",
+        "motionnewanimate",
+        "designsfigma",
+        "specsbetacapture",
+        "contextfigjamcollaborate",
+        "whiteboardfigma",
+        "slidesco-create"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 33,
+      "headingsAlsoInRaw": 32,
+      "headingsCoverage": 97,
+      "titleDiffers": false,
+      "rawTitle": "Figma: The collaborative canvas for design, code, and AI",
+      "renderedTitle": "Figma: The collaborative canvas for design, code, and AI",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

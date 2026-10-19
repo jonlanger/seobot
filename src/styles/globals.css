@@ -1,0 +1,518 @@
+@import "tailwindcss";
+
+/* Class-based dark mode: toggled on <html> by the ThemeProvider. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ----------------------------------------------------------------------------
+ * Layer 1 — Primitives
+ * Raw palette values. Components never use these directly; they consume the
+ * semantic tokens below so themes can be swapped without touching markup.
+ * ------------------------------------------------------------------------- */
+@theme {
+  /* Brand — "signal green", a green-teal tuned for data products. */
+  --color-brand-50: oklch(0.977 0.014 172);
+  --color-brand-100: oklch(0.951 0.033 172);
+  --color-brand-200: oklch(0.906 0.064 172);
+  --color-brand-300: oklch(0.846 0.096 172);
+  --color-brand-400: oklch(0.766 0.119 172);
+  --color-brand-500: oklch(0.688 0.126 172);
+  --color-brand-600: oklch(0.596 0.111 172);
+  --color-brand-700: oklch(0.523 0.099 172);
+  --color-brand-800: oklch(0.446 0.08 172);
+  --color-brand-900: oklch(0.393 0.064 172);
+  --color-brand-950: oklch(0.29 0.05 172);
+
+  /* Typography */
+  --font-sans: "Geist Variable", ui-sans-serif, system-ui, -apple-system,
+    "Segoe UI", sans-serif;
+  --font-mono: "Geist Mono Variable", ui-monospace, "SF Mono", Menlo,
+    Consolas, monospace;
+
+  /* Display type scale — the "Brand display" role from src/content/brand.ts:
+     Geist, weight 800–900, −5% tracking. Fluid (clamp) so hero headlines and
+     big data figures fill the viewport without breakpoint juggling. */
+  --text-display-sm: clamp(1.875rem, 1.55rem + 1.1vw, 2.5rem);
+  --text-display-sm--line-height: 1.12;
+  --text-display-sm--letter-spacing: -0.05em;
+  --text-display-md: clamp(2.5rem, 2rem + 1.8vw, 3.5rem);
+  --text-display-md--line-height: 1.06;
+  --text-display-md--letter-spacing: -0.05em;
+  --text-display-lg: clamp(3.25rem, 2.5rem + 2.8vw, 4.75rem);
+  --text-display-lg--line-height: 1.03;
+  --text-display-lg--letter-spacing: -0.05em;
+  --text-display-xl: clamp(4rem, 2.9rem + 4.2vw, 6.75rem);
+  --text-display-xl--line-height: 1;
+  --text-display-xl--letter-spacing: -0.05em;
+
+  /* Elevation — soft, layered, low-opacity shadows. */
+  --shadow-2xs: 0 1px 1px 0 oklch(0 0 0 / 0.035);
+  --shadow-xs: 0 1px 2px 0 oklch(0 0 0 / 0.05), 0 1px 1px -0.5px oklch(0 0 0 / 0.04);
+  --shadow-sm: 0 2px 4px -1px oklch(0 0 0 / 0.06), 0 1px 2px -1px oklch(0 0 0 / 0.05);
+  --shadow-md: 0 6px 16px -4px oklch(0 0 0 / 0.1), 0 2px 6px -2px oklch(0 0 0 / 0.05);
+  --shadow-lg: 0 14px 32px -8px oklch(0 0 0 / 0.13), 0 4px 12px -4px oklch(0 0 0 / 0.07);
+  --shadow-xl: 0 24px 52px -12px oklch(0 0 0 / 0.17), 0 8px 20px -8px oklch(0 0 0 / 0.09);
+
+  /* Motion — three registers (docs/design-system.md §4 "Motion"):
+     micro (120–250ms, UI feedback), entrance (≤ 600ms, one-shot on load),
+     ambient (≥ 20s, slow loops). Entrances and ambient loop only. */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in-out-soft: cubic-bezier(0.45, 0, 0.55, 1);
+  --animate-fade-in: fade-in 0.25s ease-out both;
+  --animate-rise-in: rise-in 0.55s var(--ease-out-expo) both;
+  --animate-grow-x: grow-x 1s var(--ease-out-expo) both;
+  --animate-grow-y: grow-y 1s var(--ease-out-expo) both;
+  --animate-card-lift: card-lift 4s var(--ease-in-out-soft) infinite;
+  --animate-card-flicker: card-flicker 2.4s steps(2, end) infinite;
+  --animate-card-fade: card-fade 3.2s var(--ease-in-out-soft) infinite;
+  --animate-dialog-in: dialog-in 0.2s var(--ease-out-expo) both;
+  --animate-dialog-backdrop-in: dialog-backdrop-in 0.2s ease-out both;
+  --animate-toast-in: toast-in 0.3s var(--ease-out-expo) both;
+  --animate-drift: drift 26s var(--ease-in-out-soft) infinite alternate;
+  --animate-marquee: marquee 48s linear infinite;
+  --animate-scan-x: scan-x 7s var(--ease-in-out-soft) infinite;
+  --animate-ring-out: ring-out 3.2s var(--ease-out-expo) infinite;
+
+  @keyframes fade-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes rise-in {
+    from {
+      opacity: 0;
+      transform: translateY(14px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes grow-x {
+    from {
+      transform: scaleX(0);
+    }
+    to {
+      transform: scaleX(1);
+    }
+  }
+
+  @keyframes grow-y {
+    from {
+      transform: scaleY(0);
+    }
+    to {
+      transform: scaleY(1);
+    }
+  }
+
+  @keyframes card-lift {
+    0%, 100% {
+      transform: translate3d(0, 0, 0);
+    }
+    50% {
+      transform: translate3d(0, -10px, 46px);
+    }
+  }
+
+  @keyframes card-flicker {
+    0%, 100% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0.3;
+    }
+  }
+
+  @keyframes card-fade {
+    0%, 100% {
+      opacity: 0.9;
+    }
+    50% {
+      opacity: 0.15;
+    }
+  }
+  @keyframes dialog-in {
+    from {
+      opacity: 0;
+      transform: translateY(8px) scale(0.98);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+  @keyframes dialog-backdrop-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  @keyframes toast-in {
+    from {
+      opacity: 0;
+      transform: translateY(12px) scale(0.97);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+  }
+  @keyframes drift {
+    from {
+      transform: translate3d(-4%, -2%, 0) scale(1);
+    }
+    to {
+      transform: translate3d(4%, 3%, 0) scale(1.08);
+    }
+  }
+  @keyframes scan-x {
+    0% {
+      transform: translateX(-12%);
+      opacity: 0;
+    }
+    15%, 85% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateX(112%);
+      opacity: 0;
+    }
+  }
+  @keyframes ring-out {
+    0% {
+      transform: scale(1);
+      opacity: 0.55;
+    }
+    70%, 100% {
+      transform: scale(1.7);
+      opacity: 0;
+    }
+  }
+  @keyframes marquee {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+}
+
+/* ----------------------------------------------------------------------------
+ * Layer 2 — Semantic tokens
+ * The public API of the design system. Everything in the UI reads from these.
+ * ------------------------------------------------------------------------- */
+:root {
+  color-scheme: light;
+
+  --background: oklch(0.993 0.002 250);
+  --foreground: oklch(0.185 0.014 258);
+
+  --surface: oklch(1 0 0);
+  --surface-foreground: var(--foreground);
+
+  --muted: oklch(0.968 0.004 250);
+  --muted-foreground: oklch(0.492 0.015 252);
+
+  --accent: oklch(0.957 0.005 250);
+  --accent-foreground: oklch(0.26 0.015 258);
+
+  --border: oklch(0.916 0.005 250);
+  --input: oklch(0.872 0.006 250);
+  --ring: oklch(0.6 0.104 172);
+
+  --primary: oklch(0.523 0.099 172);
+  --primary-hover: oklch(0.472 0.09 172);
+  --primary-foreground: oklch(0.99 0.008 172);
+  --primary-soft: oklch(0.958 0.03 172);
+  --primary-soft-foreground: oklch(0.44 0.088 172);
+
+  --destructive: oklch(0.553 0.196 27);
+  --destructive-foreground: oklch(0.99 0.005 27);
+  --destructive-soft: oklch(0.958 0.022 27);
+  --destructive-soft-foreground: oklch(0.474 0.168 27);
+
+  --success: oklch(0.545 0.135 152);
+  --success-foreground: oklch(0.99 0.005 152);
+  --success-soft: oklch(0.958 0.03 152);
+  --success-soft-foreground: oklch(0.44 0.11 152);
+
+  --warning: oklch(0.7 0.145 72);
+  --warning-foreground: oklch(0.24 0.05 72);
+  --warning-soft: oklch(0.962 0.032 82);
+  --warning-soft-foreground: oklch(0.47 0.1 68);
+
+  --info: oklch(0.55 0.145 248);
+  --info-foreground: oklch(0.99 0.005 248);
+  --info-soft: oklch(0.958 0.025 248);
+  --info-soft-foreground: oklch(0.47 0.13 248);
+
+  --chart-1: oklch(0.596 0.111 172);
+  --chart-2: oklch(0.62 0.11 218);
+  --chart-3: oklch(0.578 0.15 288);
+  --chart-4: oklch(0.655 0.145 72);
+  --chart-5: oklch(0.6 0.16 12);
+  --chart-6: oklch(0.6 0.145 330);
+  --chart-7: oklch(0.665 0.135 48);
+  --chart-8: oklch(0.585 0.125 258);
+
+  /* Sequential ramp — brand-derived steps for heatmaps, treemaps, and
+     intensity encodings. Step 1 is subtlest, 8 the strongest; the direction
+     flips in dark mode so the strongest step is always the branded end. */
+  --seq-1: var(--color-brand-100);
+  --seq-2: var(--color-brand-200);
+  --seq-3: var(--color-brand-300);
+  --seq-4: var(--color-brand-400);
+  --seq-5: var(--color-brand-500);
+  --seq-6: var(--color-brand-600);
+  --seq-7: var(--color-brand-700);
+  --seq-8: var(--color-brand-800);
+}
+
+.dark {
+  color-scheme: dark;
+
+  --background: oklch(0.153 0.012 255);
+  --foreground: oklch(0.955 0.004 250);
+
+  --surface: oklch(0.187 0.013 255);
+  --surface-foreground: var(--foreground);
+
+  --muted: oklch(0.238 0.013 255);
+  --muted-foreground: oklch(0.705 0.012 252);
+
+  --accent: oklch(0.258 0.014 255);
+  --accent-foreground: oklch(0.93 0.006 250);
+
+  --border: oklch(0.268 0.013 255);
+  --input: oklch(0.315 0.013 255);
+  --ring: oklch(0.68 0.105 172);
+
+  --primary: oklch(0.72 0.112 172);
+  --primary-hover: oklch(0.765 0.105 172);
+  --primary-foreground: oklch(0.17 0.035 172);
+  --primary-soft: oklch(0.285 0.05 172);
+  --primary-soft-foreground: oklch(0.83 0.095 172);
+
+  --destructive: oklch(0.66 0.165 25);
+  --destructive-foreground: oklch(0.16 0.04 25);
+  --destructive-soft: oklch(0.285 0.06 25);
+  --destructive-soft-foreground: oklch(0.82 0.1 25);
+
+  --success: oklch(0.71 0.125 152);
+  --success-foreground: oklch(0.17 0.04 152);
+  --success-soft: oklch(0.285 0.055 152);
+  --success-soft-foreground: oklch(0.83 0.1 152);
+
+  --warning: oklch(0.79 0.125 78);
+  --warning-foreground: oklch(0.19 0.04 78);
+  --warning-soft: oklch(0.3 0.055 78);
+  --warning-soft-foreground: oklch(0.86 0.095 82);
+
+  --info: oklch(0.68 0.125 248);
+  --info-foreground: oklch(0.16 0.04 248);
+  --info-soft: oklch(0.29 0.055 248);
+  --info-soft-foreground: oklch(0.82 0.09 248);
+
+  --chart-1: oklch(0.7 0.11 172);
+  --chart-2: oklch(0.72 0.1 218);
+  --chart-3: oklch(0.7 0.13 288);
+  --chart-4: oklch(0.8 0.12 82);
+  --chart-5: oklch(0.7 0.13 12);
+  --chart-6: oklch(0.72 0.125 330);
+  --chart-7: oklch(0.79 0.12 55);
+  --chart-8: oklch(0.7 0.115 262);
+
+  --seq-1: var(--color-brand-950);
+  --seq-2: var(--color-brand-900);
+  --seq-3: var(--color-brand-800);
+  --seq-4: var(--color-brand-700);
+  --seq-5: var(--color-brand-600);
+  --seq-6: var(--color-brand-500);
+  --seq-7: var(--color-brand-400);
+  --seq-8: var(--color-brand-300);
+}
+
+/* Expose semantic tokens as Tailwind utilities: bg-background, text-muted-foreground, … */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-foreground: var(--surface-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary-soft: var(--primary-soft);
+  --color-primary-soft-foreground: var(--primary-soft-foreground);
+
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-destructive-soft: var(--destructive-soft);
+  --color-destructive-soft-foreground: var(--destructive-soft-foreground);
+
+  --color-success: var(--success);
+  --color-success-foreground: var(--success-foreground);
+  --color-success-soft: var(--success-soft);
+  --color-success-soft-foreground: var(--success-soft-foreground);
+
+  --color-warning: var(--warning);
+  --color-warning-foreground: var(--warning-foreground);
+  --color-warning-soft: var(--warning-soft);
+  --color-warning-soft-foreground: var(--warning-soft-foreground);
+
+  --color-info: var(--info);
+  --color-info-foreground: var(--info-foreground);
+  --color-info-soft: var(--info-soft);
+  --color-info-soft-foreground: var(--info-soft-foreground);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-chart-6: var(--chart-6);
+  --color-chart-7: var(--chart-7);
+  --color-chart-8: var(--chart-8);
+
+  --color-seq-1: var(--seq-1);
+  --color-seq-2: var(--seq-2);
+  --color-seq-3: var(--seq-3);
+  --color-seq-4: var(--seq-4);
+  --color-seq-5: var(--seq-5);
+  --color-seq-6: var(--seq-6);
+  --color-seq-7: var(--seq-7);
+  --color-seq-8: var(--seq-8);
+}
+
+/* ----------------------------------------------------------------------------
+ * Base
+ * ------------------------------------------------------------------------- */
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-background font-sans text-foreground antialiased;
+    font-feature-settings: "cv11", "ss01";
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background-color: var(--color-brand-200);
+    color: var(--color-brand-950);
+  }
+
+  .dark ::selection {
+    background-color: var(--color-brand-800);
+    color: var(--color-brand-50);
+  }
+}
+
+/* ----------------------------------------------------------------------------
+ * Custom utilities
+ * ------------------------------------------------------------------------- */
+
+/* Page container: centered, max-w-7xl, responsive gutters. */
+@utility container {
+  margin-inline: auto;
+  width: 100%;
+  max-width: 80rem;
+  padding-inline: 1.25rem;
+
+  @media (width >= 40rem) {
+    padding-inline: 2rem;
+  }
+  @media (width >= 80rem) {
+    padding-inline: 2.5rem;
+  }
+}
+
+/* Consistent keyboard-focus treatment for interactive elements. */
+@utility focus-ring {
+  @apply outline-none focus-visible:ring-[3px] focus-visible:ring-ring/40;
+}
+
+/* Data figures: tabular numerals so digits align across rows, tables, and
+   live counters. Pair with font-mono — the "Data & code" type role. */
+@utility numeric {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Subtle blueprint grid background (hero, empty states, previews). */
+@utility bg-grid {
+  background-image: linear-gradient(
+      to right,
+      color-mix(in oklab, var(--color-border) 70%, transparent) 1px,
+      transparent 1px
+    ),
+    linear-gradient(
+      to bottom,
+      color-mix(in oklab, var(--color-border) 70%, transparent) 1px,
+      transparent 1px
+    );
+  background-size: 3.5rem 3.5rem;
+}
+
+/* Radial fade mask, used together with bg-grid. */
+@utility mask-fade-edges {
+  mask-image: radial-gradient(
+    ellipse 80% 65% at 50% 35%,
+    black 30%,
+    transparent 100%
+  );
+}
+
+/* Horizontal fade mask for marquee edges (coverage strip). */
+@utility mask-fade-x {
+  mask-image: linear-gradient(
+    to right,
+    transparent,
+    black 10%,
+    black 90%,
+    transparent
+  );
+}
+
+/* ----------------------------------------------------------------------------
+ * Reduced motion — one kill-switch for the whole system. Loop animations and
+ * entrance transitions collapse to their final state; nothing moves.
+ * ------------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ----------------------------------------------------------------------------
+ * Native dialog: entrance animation + backdrop (top layer needs plain CSS).
+ * ------------------------------------------------------------------------- */
+dialog[data-slot="dialog"][open] {
+  animation: var(--animate-dialog-in);
+}
+
+dialog[data-slot="dialog"][open]::backdrop {
+  animation: var(--animate-dialog-backdrop-in);
+  background-color: color-mix(in oklab, var(--foreground) 45%, transparent);
+  backdrop-filter: blur(3px);
+}

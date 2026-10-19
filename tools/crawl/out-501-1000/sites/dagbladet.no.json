@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "dagbladet.no",
+    "rank": 1382,
+    "url": "https://dagbladet.no/",
+    "runAt": "2026-10-18T18:11:28.924Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4167,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.dagbladet.no/",
+      "bytes": 805225
+    },
+    "rendered": {
+      "title": "Nyheter i dag: Dagbladet med dagens nyheter 24 timer i døgnet",
+      "canonical": "https://www.dagbladet.no/",
+      "words": 537,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 160,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 619,
+      "renderedWords": 537,
+      "coverage": 58.3,
+      "rawOnlyTokens": 306,
+      "renderedOnlyTokens": 224,
+      "renderedOnlySample": [
+        "hovedinnholdetsport",
+        "livesiste",
+        "nyttlogg",
+        "tvtips",
+        "osskjøp",
+        "seksjonernyhetersportmeningerkjendisdagbladet",
+        "bokplussforsideneavissøk",
+        "arkivetkjøp",
+        "abonnementbedriftsabonnementkundeservicedagbladet",
+        "tvforsidenunderholdningnyheterrød",
+        "løpertv-sportennon",
+        "stopsport",
+        "spilloddstips",
+        "tjenesterinvestering",
+        "innholdsnarveiernyhetsstudiokjendisstudiosportsstudiofotballstudiofotball-vmnorgesferiedinside",
+        "nobørsen",
+        "kvittmagefettet",
+        "dagerber",
+        "omå",
+        "døannonsørinnholdvenninnegjengentestet",
+        "annonsørinnholdvant",
+        "millioner-",
+        "dehagen-venninna",
+        "anneelisabeths",
+        "skjebnenekter"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 160,
+      "headingsAlsoInRaw": 43,
+      "headingsCoverage": 26.9,
+      "titleDiffers": false,
+      "rawTitle": "Nyheter i dag: Dagbladet med dagens nyheter 24 timer i døgnet",
+      "renderedTitle": "Nyheter i dag: Dagbladet med dagens nyheter 24 timer i døgnet",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "azure-devices.net",
+    "rank": 882,
+    "url": "https://azure-devices.net/",
+    "runAt": "2026-10-18T17:52:02.737Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://azure-devices.net/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://azure-devices.net/\nCall log:\n  - navigating to \"https://azure-devices.net/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

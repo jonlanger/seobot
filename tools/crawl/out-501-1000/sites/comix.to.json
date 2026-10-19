@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "comix.to",
+    "rank": 1372,
+    "url": "https://comix.to/",
+    "runAt": "2026-10-18T18:11:07.971Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5844,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://comix.to/",
+      "bytes": 5814
+    },
+    "rendered": {
+      "title": "Just a moment...",
+      "canonical": "",
+      "words": 29,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 29,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 29,
+      "renderedOnlySample": [
+        "comix",
+        "toperforming",
+        "security",
+        "verificationthis",
+        "website",
+        "uses",
+        "service",
+        "protect",
+        "against",
+        "malicious",
+        "bots",
+        "this",
+        "page",
+        "displayed",
+        "while",
+        "the",
+        "verifies",
+        "you",
+        "are",
+        "not",
+        "bot",
+        "verification",
+        "successful",
+        "waiting",
+        "for"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Just a moment...",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,117 @@
+[
+  {
+    "domain": "adblockplus.org",
+    "rank": 1085,
+    "url": "https://adblockplus.org/",
+    "runAt": "2026-10-18T17:59:59.542Z",
+    "robots": {
+      "status": 200,
+      "bytes": 793,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://adblockplus.org/",
+      "bytes": 49332
+    },
+    "rendered": {
+      "title": "Adblock Plus | The world's #1 free ad blocker",
+      "canonical": "https://adblockplus.org/",
+      "words": 253,
+      "jsonLdTypes": [],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 256,
+      "renderedWords": 253,
+      "coverage": 99.6,
+      "rawOnlyTokens": 4,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "we've"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 90.9,
+      "titleDiffers": true,
+      "rawTitle": "Adblock Plus | The world&#39;s #1 free ad blocker",
+      "renderedTitle": "Adblock Plus | The world's #1 free ad blocker",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

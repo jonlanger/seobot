@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "readthedocs.io",
+    "rank": 910,
+    "url": "https://readthedocs.io/",
+    "runAt": "2026-10-18T17:52:35.967Z",
+    "robots": {
+      "status": 200,
+      "bytes": 33494,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://about.readthedocs.com/?ref=app.readthedocs.org",
+      "bytes": 33494
+    },
+    "rendered": {
+      "title": "Full featured documentation deployment platform - Read the Docs",
+      "canonical": "",
+      "words": 302,
+      "jsonLdTypes": [],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 305,
+      "renderedWords": 302,
+      "coverage": 100,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 78.6,
+      "titleDiffers": false,
+      "rawTitle": "Full featured documentation deployment platform - Read the Docs",
+      "renderedTitle": "Full featured documentation deployment platform - Read the Docs",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

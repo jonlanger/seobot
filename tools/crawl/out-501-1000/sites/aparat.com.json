@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "aparat.com",
+    "rank": 1123,
+    "url": "https://aparat.com/",
+    "runAt": "2026-10-18T18:00:59.057Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1471,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.aparat.com/home",
+      "bytes": 178735
+    },
+    "rendered": {
+      "title": "آپارات - سرویس اشتراک ویدیو",
+      "canonical": "",
+      "words": 504,
+      "jsonLdTypes": [],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4,
+      "renderedWords": 504,
+      "coverage": 0.4,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 502,
+      "renderedOnlySample": [
+        "برو",
+        "محتوای",
+        "اصلیجستجوی",
+        "صوتیدسترسی",
+        "میکروفونلطفا",
+        "اجازه",
+        "دسترسی",
+        "میکروفون",
+        "بدهید",
+        "ورود",
+        "آپاراتخانهپخش",
+        "زنده357مرور",
+        "کانال",
+        "هابرای",
+        "شمابرای",
+        "دنبال",
+        "کردن",
+        "مشاهده",
+        "ویدیوهای",
+        "پیشنهادی",
+        "مطابق",
+        "سلیقه",
+        "شما",
+        "تجربه",
+        "کاربری"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "آپارات - سرویس اشتراک ویدیو",
+      "renderedTitle": "آپارات - سرویس اشتراک ویدیو",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

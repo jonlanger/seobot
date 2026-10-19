@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "your-server.de",
+    "rank": 1289,
+    "url": "https://your-server.de/",
+    "runAt": "2026-10-18T18:08:16.982Z",
+    "robots": {
+      "status": 404,
+      "bytes": 301,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 404,
+      "finalUrl": "https://your-server.de/",
+      "bytes": 301
+    },
+    "rendered": {
+      "title": "404 Not Found",
+      "canonical": "",
+      "words": 12,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 13,
+      "renderedWords": 12,
+      "coverage": 100,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "404 Not Found",
+      "renderedTitle": "404 Not Found",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

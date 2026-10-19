@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "kwai.com",
+    "rank": 1003,
+    "url": "https://kwai.com/",
+    "runAt": "2026-10-18T17:57:08.382Z",
+    "robots": {
+      "status": 200,
+      "bytes": 231,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.kwai.com/",
+      "bytes": 67116
+    },
+    "rendered": {
+      "title": "Make Everyone Shine",
+      "canonical": "https://www.kwai.com/",
+      "words": 112,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 32,
+      "renderedWords": 112,
+      "coverage": 24.1,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 85,
+      "renderedOnlySample": [
+        "log",
+        "for",
+        "you",
+        "film",
+        "comedy",
+        "liferecord",
+        "sports",
+        "specialsnew",
+        "jailson",
+        "dias361",
+        "follow",
+        "jalpari",
+        "ele",
+        "era",
+        "família",
+        "six",
+        "city",
+        "gta",
+        "pode",
+        "ter",
+        "duas",
+        "formas",
+        "diferentes",
+        "jogar",
+        "resident"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "Make Everyone Shine",
+      "renderedTitle": "Make Everyone Shine",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

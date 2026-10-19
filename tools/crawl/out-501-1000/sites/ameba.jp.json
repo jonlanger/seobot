@@ -1,0 +1,142 @@
+[
+  {
+    "domain": "ameba.jp",
+    "rank": 1066,
+    "url": "https://ameba.jp/",
+    "runAt": "2026-10-18T17:59:15.648Z",
+    "robots": {
+      "status": 200,
+      "bytes": 337,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://ameba.jp/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "rendered": {
+      "title": "Ameba (アメーバ)｜ブログ&ゲーム 1万人以上の芸能人ブログや定番アメーバピグで遊ぼう♪",
+      "canonical": "",
+      "words": 1388,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 1388,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 1388,
+      "renderedOnlySample": [
+        "ブロ",
+        "ログ",
+        "グ管",
+        "管理",
+        "理ブ",
+        "グジ",
+        "ジャ",
+        "ャン",
+        "ンル",
+        "ル芸",
+        "芸能",
+        "能人",
+        "有名",
+        "名人",
+        "人ニ",
+        "ニュ",
+        "ュー",
+        "ース",
+        "スマ",
+        "マン",
+        "ンガ",
+        "ガピ",
+        "ピグ",
+        "グ自",
+        "自分"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Ameba (アメーバ)｜ブログ&ゲーム 1万人以上の芸能人ブログや定番アメーバピグで遊ぼう♪",
+      "cjk": true
+    },
+    "classification": "raw_blocked"
+  }
+]

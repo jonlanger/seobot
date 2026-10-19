@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "fmkorea.com",
+    "rank": 1206,
+    "url": "https://fmkorea.com/",
+    "runAt": "2026-10-18T18:04:38.017Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2987,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.fmkorea.com/",
+      "bytes": 68832
+    },
+    "rendered": {
+      "title": "에펨코리아 펨코 - 유머, 축구, 게임, 풋볼매니저",
+      "canonical": "https://www.fmkorea.com/",
+      "words": 954,
+      "jsonLdTypes": [],
+      "headings": 29,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 794,
+      "renderedWords": 954,
+      "coverage": 80.9,
+      "rawOnlyTokens": 22,
+      "renderedOnlyTokens": 182,
+      "renderedOnlySample": [
+        "크o",
+        "no",
+        "크광",
+        "영어",
+        "어와",
+        "그림",
+        "림으",
+        "복음",
+        "전파",
+        "tt",
+        "tp",
+        "je",
+        "eb",
+        "bs",
+        "kr",
+        "r영",
+        "어로",
+        "땅끝",
+        "끝까",
+        "까지",
+        "쉽게",
+        "성인",
+        "인영",
+        "채근",
+        "근담"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 29,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 24.1,
+      "titleDiffers": false,
+      "rawTitle": "에펨코리아 펨코 - 유머, 축구, 게임, 풋볼매니저",
+      "renderedTitle": "에펨코리아 펨코 - 유머, 축구, 게임, 풋볼매니저",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

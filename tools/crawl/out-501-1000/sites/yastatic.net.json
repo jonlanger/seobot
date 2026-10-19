@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "yastatic.net",
+    "rank": 1167,
+    "url": "https://yastatic.net/",
+    "runAt": "2026-10-18T18:03:19.745Z",
+    "robots": {
+      "status": 200,
+      "bytes": 22,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://yandex.ru/showcaptcha?cc=1&form-fb-hint=2.74&mt=32558A982B5C6692BDC7037687AD93D4B1431690B23B84DF1735C4E31ADA4B6F7E6B771F1272B1D3A9D120707358283F8AC3021D273C2988A02CB86A77387316FA5AB6A9EB73798A276BEE24E50BD312BE1FD136A8AEF044E9F81858D91ED003BE8DB51D1AD8AF5E7539448E07375DBFCB30B78E2B8386D815CFA1631CDB6B499114C0AC0D&retpath=aHR0cHM6Ly95YW5kZXgucnUvZGV2L2pzbGlicw%2C%2C_7bef96c652e0dd5b43be139915e59128&t=2%252F1792346601%252F78a4d512d216b553decec91a7d4d2880&u=9601879870951093223&s=d7b42cb2f05ff9d54c8b4d377d720944",
+      "bytes": 14093
+    },
+    "rendered": {
+      "title": "Are you not a robot?",
+      "canonical": "",
+      "words": 112,
+      "jsonLdTypes": [],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 32,
+      "renderedWords": 112,
+      "coverage": 0.9,
+      "rawOnlyTokens": 31,
+      "renderedOnlyTokens": 111,
+      "renderedOnlySample": [
+        "please",
+        "confirm",
+        "that",
+        "you",
+        "are",
+        "not",
+        "robotwe're",
+        "sorry",
+        "but",
+        "looks",
+        "like",
+        "requests",
+        "sent",
+        "from",
+        "your",
+        "device",
+        "automated",
+        "why",
+        "might",
+        "this",
+        "happen",
+        "i'm",
+        "robot",
+        "press",
+        "continueyandex"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Вы не робот?",
+      "renderedTitle": "Are you not a robot?",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "psychologytoday.com",
+    "rank": 1313,
+    "url": "https://psychologytoday.com/",
+    "runAt": "2026-10-18T18:09:20.309Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4915,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.psychologytoday.com/us",
+      "bytes": 176887
+    },
+    "rendered": {
+      "title": "Psychology Today: Health, Help, Happiness + Find a Therapist",
+      "canonical": "https://www.psychologytoday.com/us",
+      "words": 937,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 45,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 883,
+      "renderedWords": 937,
+      "coverage": 93.4,
+      "rawOnlyTokens": 8,
+      "renderedOnlyTokens": 62,
+      "renderedOnlySample": [
+        "third-party",
+        "cookies",
+        "analyze",
+        "site",
+        "usage",
+        "store",
+        "preferences",
+        "deliver",
+        "relevant",
+        "ads",
+        "opt",
+        "anytime",
+        "selecting",
+        "clicking",
+        "save",
+        "uncheck",
+        "option",
+        "details",
+        "handle",
+        "please",
+        "read",
+        "policy",
+        "informationcancel",
+        "preferencesyour",
+        "opt-out"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 45,
+      "headingsAlsoInRaw": 38,
+      "headingsCoverage": 84.4,
+      "titleDiffers": false,
+      "rawTitle": "Psychology Today: Health, Help, Happiness + Find a Therapist",
+      "renderedTitle": "Psychology Today: Health, Help, Happiness + Find a Therapist",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

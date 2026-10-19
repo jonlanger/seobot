@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "ruliweb.com",
+    "rank": 1240,
+    "url": "https://ruliweb.com/",
+    "runAt": "2026-10-18T18:06:04.569Z",
+    "robots": {
+      "status": 200,
+      "bytes": 284,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://bbs.ruliweb.com/",
+      "bytes": 503214
+    },
+    "rendered": {
+      "title": "루리웹 RULIWEB",
+      "canonical": "https://www.ruliweb.com/",
+      "words": 3748,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 37,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 3761,
+      "renderedWords": 3748,
+      "coverage": 96.1,
+      "rawOnlyTokens": 159,
+      "renderedOnlyTokens": 146,
+      "renderedOnlySample": [
+        "쿠폰",
+        "사정",
+        "정게",
+        "s4",
+        "딥슬",
+        "슬립",
+        "편안",
+        "안한",
+        "수면",
+        "부드",
+        "드러",
+        "러운",
+        "면테",
+        "의료",
+        "료용",
+        "실리",
+        "리콘",
+        "점착",
+        "착제",
+        "파오",
+        "쿨",
+        "히든",
+        "든밴",
+        "밴딩",
+        "슬림"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 37,
+      "headingsAlsoInRaw": 35,
+      "headingsCoverage": 94.6,
+      "titleDiffers": false,
+      "rawTitle": "루리웹 RULIWEB",
+      "renderedTitle": "루리웹 RULIWEB",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

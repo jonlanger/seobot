@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "litnet.com",
+    "rank": 1285,
+    "url": "https://litnet.com/",
+    "runAt": "2026-10-18T18:07:39.216Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1937,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://litnet.com/",
+      "bytes": 430953
+    },
+    "rendered": {
+      "title": "Читать книги онлайн бесплатно полностью, скачать в fb2, epub, mobi — «Литнет»",
+      "canonical": "https://litnet.com/ru",
+      "words": 622,
+      "jsonLdTypes": [],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 243,
+      "renderedWords": 622,
+      "coverage": 36.2,
+      "rawOnlyTokens": 18,
+      "renderedOnlyTokens": 397,
+      "renderedOnlySample": [
+        "топ",
+        "разных",
+        "жанрах",
+        "лидеры",
+        "эксклюзивпочти",
+        "разводе",
+        "начнём",
+        "сначала",
+        "лена",
+        "грин690закончена18",
+        "эксклюзивдругая",
+        "семья",
+        "военного",
+        "канцлера",
+        "драконаелена",
+        "солт2",
+        "6к16",
+        "окт16",
+        "2эксклюзивотказная",
+        "невеста",
+        "его",
+        "величестваадель",
+        "хайд2",
+        "2к17",
+        "окт18"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 25,
+      "titleDiffers": false,
+      "rawTitle": "Читать книги онлайн бесплатно полностью, скачать в fb2, epub, mobi — «Литнет»",
+      "renderedTitle": "Читать книги онлайн бесплатно полностью, скачать в fb2, epub, mobi — «Литнет»",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

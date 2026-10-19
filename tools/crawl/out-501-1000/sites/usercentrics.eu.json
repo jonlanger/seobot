@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "usercentrics.eu",
+    "rank": 1121,
+    "url": "https://usercentrics.eu/",
+    "runAt": "2026-10-18T18:00:53.980Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1135,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://usercentrics.com/",
+      "bytes": 660695
+    },
+    "rendered": {
+      "title": "Data Privacy Compliance and User Trust with Usercentrics",
+      "canonical": "https://usercentrics.com/us/",
+      "words": 860,
+      "jsonLdTypes": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 713,
+      "renderedWords": 860,
+      "coverage": 74.3,
+      "rawOnlyTokens": 74,
+      "renderedOnlyTokens": 221,
+      "renderedOnlySample": [
+        "loginsusercentrics",
+        "cmpprivacy",
+        "generatorserver-side",
+        "taggingpreference",
+        "managermcp",
+        "englishenglish",
+        "deutschespañolfrançaisitalianoportuguês",
+        "age",
+        "verification",
+        "cipa",
+        "cpra",
+        "cpa",
+        "colorado",
+        "pipeda",
+        "laws",
+        "mean",
+        "risk",
+        "scale",
+        "notices",
+        "opt-outs",
+        "turn",
+        "advantage",
+        "global",
+        "freeexplore",
+        "erinn"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 78.6,
+      "titleDiffers": true,
+      "rawTitle": "Usercentrics | Leading in Data Privacy &amp; Compliance",
+      "renderedTitle": "Data Privacy Compliance and User Trust with Usercentrics",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

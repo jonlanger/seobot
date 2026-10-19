@@ -1,0 +1,40 @@
+[
+  {
+    "id": "ai-retrieval",
+    "label": "AI search & retrieval",
+    "blurb": "Retrieval crawlers and browsing agents behind ChatGPT, Claude, Perplexity, and Alexa answers — these decide what AI surfaces can read and quote.",
+    "tokens": [
+      "OAI-SearchBot",
+      "ChatGPT-User",
+      "Claude-SearchBot",
+      "Claude-User",
+      "PerplexityBot",
+      "Perplexity-User",
+      "Amazonbot"
+    ]
+  },
+  {
+    "id": "training-policy",
+    "label": "Training & content policy",
+    "blurb": "Corpus crawlers that feed model training, plus the provider-level controls (Google-Extended, Applebot-Extended) that govern AI use of crawled content.",
+    "tokens": [
+      "GPTBot",
+      "ClaudeBot",
+      "CCBot",
+      "Bytespider",
+      "Meta-ExternalAgent",
+      "anthropic-ai",
+      "Google-Extended",
+      "Applebot-Extended"
+    ]
+  },
+  {
+    "id": "classic-search",
+    "label": "Classic search",
+    "blurb": "Traditional search crawlers, for context. Googlebot renders JavaScript; the AI retrieval crawlers above mostly do not — that gap is what this study measures.",
+    "tokens": [
+      "Googlebot",
+      "Bingbot"
+    ]
+  }
+]

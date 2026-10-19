@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "mundodeportivo.com",
+    "rank": 1277,
+    "url": "https://mundodeportivo.com/",
+    "runAt": "2026-10-18T18:07:23.385Z",
+    "robots": {
+      "status": 200,
+      "bytes": 149288,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.mundodeportivo.com/",
+      "bytes": 526717
+    },
+    "rendered": {
+      "title": "Mundo Deportivo | Noticias deportivas: Fútbol, motor, tenis y más",
+      "canonical": "https://www.mundodeportivo.com/",
+      "words": 1551,
+      "jsonLdTypes": [
+        "itemlist"
+      ],
+      "headings": 174,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1438,
+      "renderedWords": 1551,
+      "coverage": 72.7,
+      "rawOnlyTokens": 311,
+      "renderedOnlyTokens": 424,
+      "renderedOnlySample": [
+        "obtener",
+        "información",
+        "acceso",
+        "sitio",
+        "sujeto",
+        "consentimiento",
+        "uso",
+        "suscripción",
+        "alternativas",
+        "permiten",
+        "brindar",
+        "diariamente",
+        "calidad",
+        "través",
+        "nuestros",
+        "profesionales",
+        "periodismo",
+        "recogida",
+        "determinadas",
+        "categorías",
+        "tecnologías",
+        "similares",
+        "constituye",
+        "directa",
+        "indirectamente"
+      ],
+      "jsonLdRaw": [
+        "itemlist"
+      ],
+      "jsonLdRendered": [
+        "itemlist"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 174,
+      "headingsAlsoInRaw": 171,
+      "headingsCoverage": 98.3,
+      "titleDiffers": false,
+      "rawTitle": "Mundo Deportivo | Noticias deportivas: Fútbol, motor, tenis y más",
+      "renderedTitle": "Mundo Deportivo | Noticias deportivas: Fútbol, motor, tenis y más",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

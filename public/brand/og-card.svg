@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="Seobot — grow organic traffic on autopilot">
+  <defs>
+    <pattern id="grid" width="56" height="56" patternUnits="userSpaceOnUse">
+      <path d="M56 0H0V56" fill="none" stroke="#ffffff" stroke-opacity="0.05" />
+    </pattern>
+    <radialGradient id="glow" cx="82%" cy="4%" r="70%">
+      <stop offset="0" stop-color="#23b392" stop-opacity="0.28" />
+      <stop offset="1" stop-color="#23b392" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#080c11" />
+  <rect width="1200" height="630" fill="url(#grid)" />
+  <rect width="1200" height="630" fill="url(#glow)" />
+
+  <g transform="translate(80 96) scale(3.5)">
+    <path d="M 10.6 30.8 L 22.03 19.83 Q 22.9 19 24.1 19 L 27.2 19 Q 28.4 19 29.06 18 L 35.7 8 L 25.1 0 L 17.8 11 L 12.3 11 L 0 22.8 Z" fill="#23b392" />
+    <path d="M 22.9 19 L 27.2 19 Q 28.4 19 29.06 18 L 35.7 8 L 25.1 0 L 17.8 11 L 12.3 11 Z" fill="#87e1c5" />
+    <path d="M 35.7 8 L 35.7 10.8 L 25.1 2.8 L 25.1 0 Z" fill="#169477" />
+    <path d="M 10.6 30.8 L 10.6 33.6 L 0 25.6 L 0 22.8 Z" fill="#185142" />
+    <path d="M 10.6 30.8 L 22.03 19.83 Q 22.9 19 24.1 19 L 27.2 19 Q 28.4 19 29.06 18 L 35.7 8 L 35.7 10.8 L 29.06 20.8 Q 28.4 21.8 27.2 21.8 L 24.1 21.8 Q 22.9 21.8 22.03 22.63 L 10.6 33.6 Z" fill="#0b7c63" />
+  </g>
+
+  <!-- Production note: outline this text (Geist Black) before shipping. -->
+  <text
+    x="80"
+    y="388"
+    textLength="590"
+    lengthAdjust="spacingAndGlyphs"
+    font-family="'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="200"
+    font-weight="900"
+    letter-spacing="-10"
+    fill="#fcfdfe"
+  >seobot</text>
+  <circle cx="691" cy="375" r="13" fill="#52cbaa" />
+
+  <text
+    x="84"
+    y="468"
+    font-family="'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="34"
+    font-weight="500"
+    fill="#87e1c5"
+  >Grow organic traffic on autopilot.</text>
+
+  <line x1="80" y1="536" x2="1120" y2="536" stroke="#ffffff" stroke-opacity="0.08" />
+
+  <text
+    x="80"
+    y="576"
+    font-family="'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="22"
+    font-weight="500"
+    fill="#9ba1a7"
+  >Site audits · Keywords · Content briefs</text>
+
+  <text
+    x="1120"
+    y="576"
+    text-anchor="end"
+    font-family="'Geist Variable', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif"
+    font-size="22"
+    font-weight="600"
+    fill="#9ba1a7"
+  >seobot.example</text>
+</svg>

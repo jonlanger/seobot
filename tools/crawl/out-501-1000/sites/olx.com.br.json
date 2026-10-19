@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "olx.com.br",
+    "rank": 1082,
+    "url": "https://olx.com.br/",
+    "runAt": "2026-10-18T17:59:51.241Z",
+    "robots": {
+      "status": 200,
+      "bytes": 12916,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.olx.com.br/",
+      "bytes": 5841
+    },
+    "rendered": {
+      "title": "OLX - O Maior Site de Compra e Venda do Brasil",
+      "canonical": "https://www.olx.com.br/",
+      "words": 721,
+      "jsonLdTypes": [
+        "article",
+        "itemlist",
+        "organization",
+        "website"
+      ],
+      "headings": 197,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 74,
+      "renderedWords": 721,
+      "coverage": 0.6,
+      "rawOnlyTokens": 70,
+      "renderedOnlyTokens": 717,
+      "renderedOnlySample": [
+        "para",
+        "menu",
+        "principalir",
+        "conteúdo",
+        "páginair",
+        "rodapépágina",
+        "inicialcampo",
+        "buscabrbrspmgrjbarsprpecepamascgopbesamalpirnmtdfmsserotoacaprrbuscarplano",
+        "profissionalmeus",
+        "anúncioschatnotificaçõesentrarentrarchatmeus",
+        "anúnciosminhas",
+        "vendasplano",
+        "profissionalminhas",
+        "comprasanunciar",
+        "grátisiníciobuscaranunciarchatmenutodos",
+        "estadoscategoriasfavoritoscuponstudoimóveisautosautopeçascelularesdecoraçãomóveiseletroconstruçãoinformáticagamestvsáudiocâmerasmodacomércioescritóriohobbiesesportesinfantilpetsagroserviçosvagas",
+        "empregofestas",
+        "casamentosolx",
+        "maior",
+        "compra",
+        "venda",
+        "brasilpublicidademais",
+        "recentes",
+        "apartamentosimóvel",
+        "tem"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "article",
+        "itemlist",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "article",
+        "itemlist",
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 197,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Attention Required! | Cloudflare",
+      "renderedTitle": "OLX - O Maior Site de Compra e Venda do Brasil",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

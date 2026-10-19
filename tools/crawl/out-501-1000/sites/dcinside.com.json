@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "dcinside.com",
+    "rank": 1199,
+    "url": "https://dcinside.com/",
+    "runAt": "2026-10-18T18:04:17.688Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1137,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.dcinside.com/",
+      "bytes": 102213
+    },
+    "rendered": {
+      "title": "## CONNECTING HEARTS! 디시인사이드입니다. ##",
+      "canonical": "https://www.dcinside.com/",
+      "words": 1869,
+      "jsonLdTypes": [],
+      "headings": 16,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1489,
+      "renderedWords": 1869,
+      "coverage": 68.8,
+      "rawOnlyTokens": 203,
+      "renderedOnlyTokens": 583,
+      "renderedOnlySample": [
+        "목록",
+        "록이",
+        "후",
+        "가능",
+        "능합",
+        "베라",
+        "베랭",
+        "57",
+        "키움",
+        "히어",
+        "어로",
+        "로즈",
+        "추억",
+        "억짤",
+        "짤로",
+        "달린",
+        "난",
+        "걍",
+        "우진",
+        "진이",
+        "기전",
+        "전까",
+        "박준",
+        "준현",
+        "하현"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 16,
+      "headingsAlsoInRaw": 13,
+      "headingsCoverage": 81.3,
+      "titleDiffers": false,
+      "rawTitle": "## CONNECTING HEARTS! 디시인사이드입니다. ##",
+      "renderedTitle": "## CONNECTING HEARTS! 디시인사이드입니다. ##",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

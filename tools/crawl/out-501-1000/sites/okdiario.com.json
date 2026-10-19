@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "okdiario.com",
+    "rank": 1391,
+    "url": "https://okdiario.com/",
+    "runAt": "2026-10-18T18:11:43.269Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2678,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://okdiario.com/",
+      "bytes": 2095105
+    },
+    "rendered": {
+      "title": "Okdiario, el digital de Eduardo Inda",
+      "canonical": "https://okdiario.com/",
+      "words": 2243,
+      "jsonLdTypes": [
+        "itemlist",
+        "newsmediaorganization",
+        "sitenavigationelement",
+        "website"
+      ],
+      "headings": 208,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2207,
+      "renderedWords": 2243,
+      "coverage": 97,
+      "rawOnlyTokens": 31,
+      "renderedOnlyTokens": 67,
+      "renderedOnlySample": [
+        "okupasóscar",
+        "palaceteóscar",
+        "empresasdecretos",
+        "sánchezex",
+        "puentewhatsapps",
+        "puentecuánto",
+        "davidovichdavidovich",
+        "okdiariortve",
+        "puigdemontprecio",
+        "andalucíahorario",
+        "sevillaalineación",
+        "madridprecio",
+        "madridok",
+        "kodavidovich",
+        "jódarviñeta",
+        "pueblaúltimas",
+        "pérdidaboe",
+        "noviembrechinches",
+        "alejarlasjubilada",
+        "eurosla",
+        "extraalces",
+        "000pablo",
+        "vidacarlos",
+        "navarroelsa",
+        "parejakarol"
+      ],
+      "jsonLdRaw": [
+        "itemlist",
+        "newsmediaorganization",
+        "sitenavigationelement",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "itemlist",
+        "newsmediaorganization",
+        "sitenavigationelement",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 208,
+      "headingsAlsoInRaw": 203,
+      "headingsCoverage": 97.6,
+      "titleDiffers": false,
+      "rawTitle": "Okdiario, el digital de Eduardo Inda",
+      "renderedTitle": "Okdiario, el digital de Eduardo Inda",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

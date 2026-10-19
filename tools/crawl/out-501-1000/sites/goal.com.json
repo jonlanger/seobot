@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "goal.com",
+    "rank": 1083,
+    "url": "https://goal.com/",
+    "runAt": "2026-10-18T17:59:53.596Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1558,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.goal.com/en-us",
+      "bytes": 1942573
+    },
+    "rendered": {
+      "title": "Soccer News, Live Scores, Results & Transfers | Goal.com US",
+      "canonical": "https://www.goal.com/en-us",
+      "words": 1357,
+      "jsonLdTypes": [],
+      "headings": 81,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 983,
+      "renderedWords": 1357,
+      "coverage": 46.1,
+      "rawOnlyTokens": 357,
+      "renderedOnlyTokens": 731,
+      "renderedOnlySample": [
+        "adsyes",
+        "olderno",
+        "24age-restricted",
+        "contentyou",
+        "homepageliveticketsscoreslatestnews",
+        "featuresnewstransfersopinionanalysispower",
+        "rankingsplayer",
+        "ratingswinners",
+        "losersgoal",
+        "socialthe",
+        "youtubeinstagramtiktokxfacebookgoal",
+        "socialyoutubeinstagramtiktokxfacebookculture",
+        "lifestylegoal",
+        "championsgoal",
+        "editionsculturekitsbootsbuyers'",
+        "guidesgamingquizzestickets",
+        "travelcompetitionsleagues",
+        "cupsmlspremier",
+        "leaguela",
+        "ligaserie",
+        "abundesligaligue",
+        "1liga",
+        "mxuefa",
+        "leaguechampionshipusl",
+        "championshipclubsinter"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 81,
+      "headingsAlsoInRaw": 60,
+      "headingsCoverage": 74.1,
+      "titleDiffers": true,
+      "rawTitle": "Soccer News, Live Scores, Results &amp; Transfers | Goal.com US",
+      "renderedTitle": "Soccer News, Live Scores, Results & Transfers | Goal.com US",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "rightmove.co.uk",
+    "rank": 1229,
+    "url": "https://rightmove.co.uk/",
+    "runAt": "2026-10-18T18:05:38.684Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4823,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.rightmove.co.uk/",
+      "bytes": 337268
+    },
+    "rendered": {
+      "title": "Rightmove - UK's number one property website for properties for sale and to rent",
+      "canonical": "",
+      "words": 211,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 179,
+      "renderedWords": 211,
+      "coverage": 75.4,
+      "rawOnlyTokens": 20,
+      "renderedOnlyTokens": 52,
+      "renderedOnlySample": [
+        "itwith",
+        "homesbuyrentsoldsearch",
+        "buysearchsearch",
+        "rentsearchsearch",
+        "pricessearchstay",
+        "accountsave",
+        "accountvaluationfree",
+        "valuationfind",
+        "home's",
+        "expertget",
+        "valuationproperty",
+        "newscould",
+        "here's",
+        "lookfirst-time",
+        "buyersfirst-time",
+        "guidesfeel",
+        "lookoverseas",
+        "propertysearch",
+        "movesearch",
+        "nowcommercial",
+        "uksearch",
+        "nowinstant",
+        "valuationthe",
+        "worthget",
+        "our"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 92.3,
+      "titleDiffers": true,
+      "rawTitle": "Rightmove - UK&#x27;s number one property website for properties for sale and to rent",
+      "renderedTitle": "Rightmove - UK's number one property website for properties for sale and to rent",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

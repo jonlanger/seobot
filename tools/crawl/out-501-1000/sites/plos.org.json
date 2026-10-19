@@ -1,0 +1,159 @@
+[
+  {
+    "domain": "plos.org",
+    "rank": 1183,
+    "url": "https://plos.org/",
+    "runAt": "2026-10-18T18:03:40.431Z",
+    "robots": {
+      "status": 200,
+      "bytes": 166,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://plos.org/",
+      "bytes": 255318
+    },
+    "rendered": {
+      "title": "Leading the future of open science publishing - PLOS",
+      "canonical": "https://plos.org/",
+      "words": 316,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 9,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 285,
+      "renderedWords": 316,
+      "coverage": 88.6,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 36,
+      "renderedOnlySample": [
+        "preference",
+        "centerour",
+        "website",
+        "uses",
+        "different",
+        "types",
+        "cookies",
+        "optional",
+        "only",
+        "set",
+        "your",
+        "consent",
+        "may",
+        "withdraw",
+        "this",
+        "any",
+        "time",
+        "below",
+        "can",
+        "register",
+        "preferences",
+        "accept",
+        "cookiescustomize",
+        "strictly",
+        "necessaryalways"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 9,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 77.8,
+      "titleDiffers": false,
+      "rawTitle": "Leading the future of open science publishing - PLOS",
+      "renderedTitle": "Leading the future of open science publishing - PLOS",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

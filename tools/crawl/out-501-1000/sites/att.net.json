@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "att.net",
+    "rank": 968,
+    "url": "https://att.net/",
+    "runAt": "2026-10-18T17:55:01.098Z",
+    "robots": {
+      "status": 200,
+      "bytes": 250,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://currently.att.yahoo.com/",
+      "bytes": 1179985
+    },
+    "rendered": {
+      "title": "Currently.com - AT&T Yahoo Email, News, Sports & More",
+      "canonical": "https://currently.att.yahoo.com/",
+      "words": 963,
+      "jsonLdTypes": [],
+      "headings": 101,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 703,
+      "renderedWords": 963,
+      "coverage": 54,
+      "rawOnlyTokens": 183,
+      "renderedOnlyTokens": 443,
+      "renderedOnlySample": [
+        "newstoday's",
+        "newsuspoliticsworldtechweatherclimate",
+        "changehealthscienceoriginalsgameslifehealthparentinghoroscopesshoppingfoodtraveltechautoslocalgift",
+        "ideasbuying",
+        "guidesentertainmentcelebritytvmoviesmusichow",
+        "watchinterviewsvideosnonfiction",
+        "hotlistfinancemy",
+        "portfoliowatchlistsmarketsnewsvideosscreenerspersonal",
+        "financecryptosectorsindustriessportsfantasydaily",
+        "fantasynflnbamlbnhlcollege",
+        "footballcollege",
+        "basketballsoccernfl",
+        "draftshow",
+        "allat",
+        "servicestry",
+        "emailmyat",
+        "tat",
+        "dealsphones",
+        "devicesat",
+        "wirelessmyat",
+        "appat",
+        "internetget",
+        "supportoriginal",
+        "storiesver",
+        "websearch"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 101,
+      "headingsAlsoInRaw": 69,
+      "headingsCoverage": 68.3,
+      "titleDiffers": true,
+      "rawTitle": "Currently.com - AT&amp;T Yahoo Email, News, Sports &amp; More",
+      "renderedTitle": "Currently.com - AT&T Yahoo Email, News, Sports & More",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

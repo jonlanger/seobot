@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "garmin.com",
+    "rank": 1059,
+    "url": "https://garmin.com/",
+    "runAt": "2026-10-18T17:59:03.869Z",
+    "robots": {
+      "status": 200,
+      "bytes": 783,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.garmin.com/en-US/",
+      "bytes": 243923
+    },
+    "rendered": {
+      "title": "Garmin Official Site",
+      "canonical": "https://www.garmin.com/en-US/",
+      "words": 390,
+      "jsonLdTypes": [],
+      "headings": 31,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 289,
+      "renderedWords": 390,
+      "coverage": 53.3,
+      "rawOnlyTokens": 81,
+      "renderedOnlyTokens": 182,
+      "renderedOnlySample": [
+        "linkssmartwatches",
+        "smartwatchesmaps",
+        "locatoraccessories",
+        "plansdiscover",
+        "finderfēnix",
+        "9the",
+        "smartwatchsports",
+        "findercommunities",
+        "athletesfēnix",
+        "smartwatchapproach",
+        "s72our",
+        "smartwatchoutdoor",
+        "equinemaps",
+        "gazetteeraccessories",
+        "accountdiscover",
+        "adventurefēnix",
+        "smartwatchenduro",
+        "4ultraperformance",
+        "smartwatchauto",
+        "audiomaps",
+        "mapsaccessories",
+        "plansoem",
+        "rvdiscover",
+        "navigatorssimplify",
+        "displaysgarmin"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 31,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 48.4,
+      "titleDiffers": false,
+      "rawTitle": "Garmin Official Site",
+      "renderedTitle": "Garmin Official Site",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

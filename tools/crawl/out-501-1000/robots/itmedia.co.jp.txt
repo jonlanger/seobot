@@ -1,0 +1,1845 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="ja" id="masterChannel-top"><head>
+<meta name="facebook-domain-verification" content="zq54k16jqxhtqyya91r57gtig1xtb4" />
+<meta http-equiv="content-type" content="text/html;charset=shift_jis">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="content-script-type" content="text/javascript">
+
+<meta name="referrer" content="no-referrer-when-downgrade">
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+<script>var swspv = '(none)';var cms_summary_flag = '(none)';</script>
+<script src="/js/spv/movePC2SP.js?date=250916104008"></script>
+<!-- FIX DMOZ -->
+
+	<!-- masterType = top -->
+	<meta name="robots" content="noodp">
+	<meta name="robots" content="noydir">
+	<meta name="msvalidate.01" content="A0217C685F39C036AA269B48F707167C">
+
+
+	<!-- masterType ne article -->
+
+
+
+
+
+
+
+
+
+
+<meta name="build" content="2026�N10��18�� 11��00��">
+<meta name="keywords" content="IT,�j���[�X,�G���^�[�v���C�Y,���o�C��,���C�t�X�^�C��,PC,�Q�[��,blog">
+<meta name="description" content="�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB">
+<meta name="adpath" content="root/ITmedia/top">
+<meta name="verify-v1" content="qWxR2mkYfreZ4abj9sVAHK4PuZxSDd1biwQncTvLhEA=">
+<meta name="google-site-verification" content="zQguCQHPB5SxnBZQBeCTqbv5zFWGI1I_EgfnqL-zu2o">
+<title>IT�������|�[�^���uITmedia�vHome</title>
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@topitmedia">
+<meta name="twitter:creator" content="@topitmedia">
+<meta property="og:site_name" content="ITmedia">
+<meta property="og:title" content="IT�������|�[�^���uITmedia�vHome">
+<meta property="og:description" content="�e�N�m���W�[�֘A�̃j���[�X�y�ё���𒆐S�ɁA���r���[����W�L�����f�ځB">
+<meta property="og:url" content="https://www.itmedia.co.jp/">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://image.itmedia.co.jp/images/logo/1200x630_500x500_top.gif">
+<meta property="fb:app_id" content="127564034422715">
+<link rel="canonical" href="https://www.itmedia.co.jp/">
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.itmedia.co.jp/spv/">
+<meta name="viewport" content="width=device-width">
+
+<link rel="alternate" type="application/rss+xml" title="ITmedia TOP STORIES" href="https://rss.itmedia.co.jp/rss/2.0/topstory.xml">
+
+
+<link rel="stylesheet" href="https://www.itmedia.co.jp/css/base.css?202509161104" type="text/css" media="all">
+<link rel="stylesheet" href="https://www.itmedia.co.jp/css/top/base.css?202604271121" type="text/css" media="all">
+
+
+
+
+
+<script src="//fc.itmedia.co.jp/fpcookie?site_id=itm_"></script>
+
+
+
+
+<script type="text/javascript" src="/js/base_v2.js?202501291050"></script>
+
+<script src="https://cdn.cxense.com/cx.js"></script>
+<script src="/js/lib/cx_v2.js?202604301030"></script>
+<script>
+var cx_segments = '';
+cx_segments = cX.getUserSegmentIds({persistedQueryId:'32780b6d6fb51c7b1fefeb67a7e3305b165e5c6a'});
+</script>
+<!-- GAM�ݒ� -->
+<script async="async" src="https://flux-cdn.com/client/00046/itmedia_01591.min.js"></script>
+<script src="/js/gamServerEnvironment.js?date=202107151140"></script>
+<script>
+window.googletag = window.googletag || {};
+window.googletag.cmd = window.googletag.cmd || [];
+</script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+// ���ʏ���
+window.gam_logop = {};
+window.gam_media = 'top';
+// Key-Value�ݒ�
+const gam_keyvalueSet = function(){
+	const gam_server = gam_serverenvironment();
+	const gam_host = location.protocol + '\/\/' + location.host;
+	const gam_url = location.pathname.replace(/\/index.html$/, '\/');
+	if(cx_segments.length >= 200) cx_segments = cx_segments.slice(0, 200);
+	const gam_composite = String((new Date().getTime() % 12) + 1);
+	const gam_tdall = {
+		'server':gam_server,
+		'host':gam_host,
+		'url':gam_url,
+		'CxSegments':cx_segments,
+		'composite':gam_composite,
+		'media':gam_media,
+		'itm_adpath_4':'top'
+	};
+	return gam_tdall;
+}
+// �z�M�ݒ�
+const gamDeliveryCheck = function(){
+	googletag.pubads().addEventListener('slotRenderEnded',function(e){
+		const gam_slotid = e.slot.getSlotElementId();
+		const gam_slotdiv = document.getElementById(gam_slotid);
+// �z�M�󋵃��O
+		if(gam_logop) gam_logop[gam_slotid] = e;
+// �z�M�A���z�M����
+		const gam_delivery = e.isEmpty;
+// �T�C�Y����
+		const gam_wpsize = /(WallPaper)/.test(gam_slotid);
+		const gam_sbsize = /(SuperBanner)/.test(gam_slotid);
+// 1�g�ړ��e����
+		const gam_firstset = /(_headline$|_1$)/;
+		const gam_firstcheck = gam_firstset.test(gam_slotid);
+// SB�T�C�Y�w��
+		const gam_sb = /(PC_SuperBanner)/.test(gam_slotid);
+		if(gam_sb) document.getElementById('PC_SuperBanner').style.minHeight = e.size[1] + 'px';
+// ����L���Ή�
+		if(gam_wpsize||gam_firstcheck){
+			let gam_noadflag = gam_delivery ? 'noad' : 'delivery';
+			const gam_adposition = gam_wpsize ? gam_slotdiv.closest('.WallPaperIn') : gam_slotdiv.parentNode;
+			const gam_adpch = gam_adposition.children[0];
+			const gam_adpchcheck = gam_adpch.classList.contains('adnotation');
+			const gam_hlcheck = gam_adpch.classList.contains('gam_headline');
+			const gam_hedline = {
+				'PC_TopBox-ITS_1': 'IT���i�ESaaS�I�с@from IT�Z���N�g',
+				'PC_OwnedAd_1': 'PR-Features',
+				'PC_upp-BrandText_1': '<p>Special Contents</p>',
+				'PC_low-BrandText_1': '<p>Brand Topics</p>'
+			};
+			let gam_hltext = gam_hedline[gam_slotdiv.id] || 'Special';
+			gam_hltext += '<span class="gam_prmark">PR</span>';
+			if(gam_hlcheck && gam_noadflag == 'delivery' && gam_adpch.innerHTML == '') gam_adpch.innerHTML = gam_hltext;
+			gam_adposition.classList.add(gam_noadflag);
+			if(gam_wpsize && e.size){
+				if(e.size != '1,1'){
+					if(e.size[0] > 1) gam_adposition.style.width = e.size[0] + 'px';
+					if(e.size[1] > 1) gam_adposition.style.height = e.size[1] + 'px';
+					if(/(_left$)/.test(gam_slotid)) gam_adposition.style.left = '-' + (e.size[0] + 8) + 'px';
+					if(/(_right$)/.test(gam_slotid)) gam_adposition.style.right = '-' + (e.size[0] + 8) + 'px';
+					const mb = document.getElementById('masterBody');
+					if(mb) mb.classList.add('WpSet');
+				} else {
+					gam_adposition.style.display = 'none';
+				}
+			}
+			if(gam_hlcheck && gam_noadflag == 'noad') gam_adpch.innerHTML = '';
+		}
+		if(gam_sbsize && e.size != '1,1'){
+			if(e.size[0] < 970) gam_slotdiv.style.minWidth = e.size[0] + 'px';
+			if(e.size[1] < 250) gam_slotdiv.style.minHeight = e.size[1] + 'px';
+		}
+	});
+};
+// refresh
+const refreshGam = function(slot,dc){
+	googletag.cmd.push(function(){
+		let gframe = '';
+		if(slot == 'WallPaper') gframe = [gam_wpl,gam_wpr,gam_spb];
+		if(slot == 'TopicsarchiveAd') gframe = [gam_ifn11,gam_ifn12,gam_tx1,gam_tx2,gam_tx3];
+		if(slot == 'TopicsarchiveBtmAd') gframe = [gam_ifn2,gam_tb1,gam_tb2,gam_tb3,gam_tb4,gam_tbi1,gam_tbi2,gam_om1,gam_om2,gam_om3];
+		if(slot == 'BrandText') gframe = [gam_ubt1,gam_ubt2,gam_ubt3,gam_ubt4,gam_ubt5,gam_lbt1,gam_lbt2,gam_lbt3,gam_lbt4,gam_lbt5,gam_lbt6,gam_lbt7,gam_lbt8,gam_lbt9,gam_lbt10];
+		if(slot == 'SideLink') gframe = [gam_sl1,gam_sl2,gam_sl3,gam_sl4,gam_sl5,gam_sl6,gam_sl7,gam_sl8,gam_sl9,gam_sl10,gam_sl11,gam_sl12,gam_sl13,gam_sl14,gam_sl15,gam_sl16,gam_sl17,gam_sl18,gam_sl19,gam_sl20];
+		if(slot == 'RcolRectangle2') gframe = [gam_rct1,gam_rct2];
+		if(gframe) googletag.pubads().refresh(gframe);
+		if(dc) gamDeliveryCheck();
+	});
+};
+// refresh����
+// ����
+var gam_wpl,gam_wpr,gam_spb,gam_ifn11,gam_ifn12,gam_tx1,gam_tx2,gam_tx3,gam_ifn2,gam_tb1,gam_tb2,gam_tb3,gam_tb4,gam_om1,gam_om2,gam_om3,gam_ubt1,gam_ubt2,gam_ubt3,gam_ubt4,gam_ubt5,gam_lbt1,gam_lbt2,gam_lbt3,gam_lbt4,gam_lbt5,gam_lbt6,gam_lbt7,gam_lbt8,gam_lbt9,gam_lbt10,gam_rct1,gam_rct2,gam_sl1,gam_sl2,gam_sl3,gam_sl4,gam_sl5,gam_sl6,gam_sl7,gam_sl8,gam_sl9,gam_sl10,gam_sl11,gam_sl12,gam_sl13,gam_sl14,gam_sl15,gam_sl16,gam_sl17,gam_sl18,gam_sl19,gam_sl20,gam_tbi1,gam_tbi2;
+googletag.cmd.push(function(){
+	const sd = '/43042345/top/';
+	gam_wpl = googletag.defineSlot(sd + 'PC_WallPaper-left',[[160,600],[160,1024],[1,1]],'PC_WallPaper_left').addService(googletag.pubads());
+	gam_wpr = googletag.defineSlot(sd + 'PC_WallPaper-right',[[160,600],[160,1024],[1,1]],'PC_WallPaper_right').addService(googletag.pubads());
+	gam_spb = googletag.defineSlot(sd + 'PC_SuperBanner',[[728,90],[970,90],[728,180],[970,250],[970,400],[1,1]],'PC_SuperBanner').addService(googletag.pubads());
+	for(let i=1;i<=2;i++){
+		window['gam_ifn1' + i] = googletag.defineSlot(sd + 'PC_upp-in-feed-Native',[[670,114]],'PC_upp-in-feed-Native_' + i).addService(googletag.pubads());
+		window['gam_ifn1' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	for(let i=1;i<=3;i++){
+		window['gam_tx' + i] = googletag.defineSlot(sd + 'PC_lcol-Text',[[670,32]],'PC_lcol-Text_' + i).addService(googletag.pubads());
+		window['gam_tx' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	gam_ifn2 = googletag.defineSlot(sd + 'PC_low-in-feed-Native',[[670,114]],'PC_low-in-feed-Native').addService(googletag.pubads());
+	for(let i=1;i<=4;i++){
+		window['gam_tb' + i] = googletag.defineSlot(sd + 'PC_TopBox',[[670,106]],'PC_TopBox_' + i).addService(googletag.pubads());
+		window['gam_tb' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	for(let i=1;i<=3;i++){
+		window['gam_om' + i] = googletag.defineSlot(sd + 'PC_OwnedAd',[[670,106]],'PC_OwnedAd_' + i).addService(googletag.pubads());
+		window['gam_om' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	for(let i=1;i<=2;i++){
+		window['gam_tbi' + i] = googletag.defineSlot(sd + 'PC_TopBox-ITS',[[670,106]],'PC_TopBox-ITS_' + i).addService(googletag.pubads());
+		window['gam_tbi' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	for(let i=1;i<=5;i++){
+		window['gam_ubt' + i] = googletag.defineSlot(sd + 'PC_upp-BrandText',[[670,24]],'PC_upp-BrandText_' + i).addService(googletag.pubads());
+		window['gam_ubt' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	for(let i=1;i<=10;i++){
+		window['gam_lbt' + i] = googletag.defineSlot(sd + 'PC_low-BrandText',[[670,24]],'PC_low-BrandText_' + i).addService(googletag.pubads());
+		window['gam_lbt' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+	gam_rct1 = googletag.defineSlot(sd + 'PC_rcol-Rectangle',[[300,600],[300,250],[300,300]],'PC_rcol_Rectangle').addService(googletag.pubads());
+	gam_rct2 = googletag.defineSlot(sd + 'PC_rcol-Rectangle2',[[300,600],[300,250],[300,300],[160,600],[120,600],'fluid'],'PC_rcol_Rectangle2').addService(googletag.pubads());
+	for(let i=1;i<=20;i++){
+		window['gam_sl' + i] = googletag.defineSlot(sd + 'PC_SideLink',[[300,76]],'PC_SideLink_' + i).addService(googletag.pubads());
+		window['gam_sl' + i].setConfig({targeting:{'slot_pos':String(i)}});
+	}
+// �y�[�W���x���ݒ�
+	googletag.setConfig({
+		targeting:gam_keyvalueSet(),
+		disableInitialLoad:true,
+		singleRequest:true,
+		collapseDiv:'ON_NO_FILL'
+	});
+	googletag.enableServices();
+});
+</script>
+<!--tr_cx_api-->
+
+<script src="//cx.api.itmedia.co.jp/v1.js"></script>
+<script src="//tr.api.itmedia.co.jp/cc/v1.js"></script>
+
+<!--/tr_cx_api-->
+<script>
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cx_push_iitt();
+cX.callQueue.push(['setSiteId','1139581027321622182']);
+var cx_k_param = cx_api_itm('ad');
+cx_push_cxapi('7afa26d5cf882cbdf1133ef0a74bc60ab5581d17');
+cX.callQueue.push(['sync','aam']);
+cx_click_map('1141827478709654509');
+window.addEventListener('DOMContentLoaded',function(){
+	cx_add_meta();
+	cx_add_comment();
+	cx_push_readable('7afa26d5cf882cbdf1133ef0a74bc60ab5581d17');
+},false);
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W3CLTQN');</script>
+<!-- End Google Tag Manager -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MRB2FX6H');</script>
+<!-- End Google Tag Manager -->
+<script>
+/* �^�u�؂�ւ� */
+function changeTab (pos,num,cnt) {
+	if(!pos || !num) return false;
+	var target = document.getElementById(pos);
+	var targetNodes = target.childNodes;
+	var selector = document.getElementById(pos + 'Selector');
+	var selectorTag = selector.getElementsByTagName('li');
+	for(var i = 0; i < targetNodes.length; i++) {
+		if(!targetNodes[i].className) continue;
+		if(!targetNodes[i].className.match(/colBoxTab/)) {
+			continue;
+		} else if(targetNodes[i].className.match('colBoxTab' + num)) {
+			targetNodes[i].style.display = 'block';
+		} else {
+			targetNodes[i].style.display = 'none';
+		}
+	}
+	for(var i = 0; i < selectorTag.length; i++) {
+		if(selectorTag[i].title.match('colBoxTab' + num)) {
+			if(!selectorTag[i].className) selectorTag[i].className += 'colBoxLlistActive';
+		} else {
+			selectorTag[i].className = '';
+		}
+	}
+	return true;
+}
+</script>
+
+
+</head><body id="masterType-top">
+
+<!-- masterType = top : no use FB SDK -->
+
+
+
+
+
+
+<script type="text/javascript">
+var dcl_start = new Date();
+attachBodyClass();
+function masterChannel(){return 'top';}
+function masterType(){return 'top';}
+function prFlag(){return '';}
+function spFlag(){return '';}
+</script>
+
+<!--ITWL-->
+
+	
+		
+		<div id="WallPaper">
+			<div id="WallPaperLeft" class="WallPaperIn"><div class="WallPaperSet"><div id="PC_WallPaper_left"></div></div></div>
+			<div id="WallPaperRight" class="WallPaperIn"><div class="WallPaperSet"><div id="PC_WallPaper_right"></div></div></div>
+			<script>refreshGam('WallPaper',true);</script>
+		</div>
+		
+	
+
+<!--/ITWL-->
+
+
+
+<div id="masterBody"><div id="masterBodyOut"><div id="masterBodyIn">
+
+
+
+<link rel="stylesheet" href="//www.itmedia.co.jp/css/gnavi.css?date=202604271121">
+<div id="g_nav" data-theme="dark">
+<div id="g_nav_o">
+<!-- parts_warning -->
+
+<div id="g_nav_i">
+	<div class="g_nav_box">
+		<div class="g_btn" id="g_btn_menu" data-menu="0">
+			<div class="g_float g_float_left"></div>
+			<div class="g_inbtn">
+				<div class="g_lines">
+					<div class="g_line"></div>
+					<div class="g_line"></div>
+					<div class="g_line"></div>
+					<div class="g_line"></div>
+				</div>
+				<div class="g_txt">���f�B�A</div>
+			</div>
+		</div>
+	</div>
+<div class="g_nav_box _flex"><h1 id="g_logo"><a href="//www.itmedia.co.jp/"><img src="https://image.itmedia.co.jp/images/logo/pcvheader_top.png" width="110" height="28" alt="ITmedia"></a></h1></div>
+
+<div class="g_nav_box">
+<div class="g_btn" id="g_btn_member" data-menu="0">
+<div class="g_float g_float_right"></div>
+<a class="g_inbtn" href="javascript:void(0);">
+<div class="g_circles">
+<div class="g_circle"></div><div class="g_circle"></div><div class="g_circle"></div>
+</div>
+<div class="g_txt"></div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/js/gnavi.js?202609151110" async></script>
+
+<div id="masterBodyOuter"><!----><div id="masterBodyInner">
+
+<div id="masterHeader"><div id="globalHeader">
+<div id="globalHeaderMiddle">
+
+<div id="SuperBanner">
+<div id="PC_SuperBanner" style="min-width:970px;max-width:970px;min-height:250px;margin:0 auto;"></div>
+</div>
+
+</div>
+</div>
+</div>
+
+<div id="masterContents"><div id="globalContents">
+<div id="masterMain">
+
+<!---->
+
+<!--EDIT IT-->
+<!-- topStories -->
+<div class="colBox colBoxTopStories">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2>TOP STORIES <span>�i2026�N10��18�� 11��00�� �X�V�j</span></h2></div>
+<div class="colBoxSelector" id="colBoxTopStoriesSelector">
+<ul>
+<li title="colBoxTab1" class="colBoxLlistActive"><span onclick="changeTab('colBoxTopStories',1,'tab_TopStories_�V���L��');">�V���L��</span></li>
+<li title="colBoxTab2"><span onclick="changeTab('colBoxTopStories',2,'tab_TopStories_�o�b�N�i���o�[');">�o�b�N�i���o�[</span></li>
+<li title="colBoxTab3"><span onclick="changeTab('colBoxTopStories',3,'tab_TopStories_�L�[���[�h');">�L�[���[�h</span></li>
+</ul>
+</div>
+<div class="colBoxInner" id="colBoxTopStories">
+<!-- CMS index -->
+<div class="colBoxTab1" id="colBoxTopStoriesTop">
+
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html"><img src="https://image.itmedia.co.jp/mobile/articles/2610/17/top_news001.jpg" width="120" height="90" alt="icon"></a></div>
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html">�X�}�z�ɁumicroSD�X���b�g�v�͂܂��K�v�H�@�����ɍ������f�[�^�̕ۑ����@���l���悤</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/news/article/2610/18/2000002348/"><img src="https://www.itmedia.co.jp/news/article/thumbnail/2610/18/2000002348/10009673/360" width="120" height="74" alt="icon"></a></div>
+
+<div class="colBoxSubTitle">�T�_�^���[�̂����ƃ}���K����</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/18/2000002348/">�j�E�A�ڍĊJ�I�@�u�L���v�e�����v��D���}���K�Ƃɂ��ŐV�ƒ�p�Q�[���g���̃v���[���h</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+</div><!-- /colBoxTab1 -->
+
+<!-- static_topicsarchive_ad -->
+<div id="UppInFeedNative">
+	<div id="PC_upp-in-feed-Native_1" style="min-width:670px;min-height:114px;"></div>
+	<div id="PC_upp-in-feed-Native_2" style="min-width:670px;min-height:114px;"></div>
+</div>
+<div id="TopText">
+	<div id="PC_lcol-Text_1"></div>
+	<div id="PC_lcol-Text_2"></div>
+	<div id="PC_lcol-Text_3"></div>
+	<script>refreshGam('TopicsarchiveAd');</script>
+</div>
+<!-- /static_topicsarchive_ad -->
+
+<div class="colBoxTab1" id="colBoxTopStoriesBtm">
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html"><img src="https://image.itmedia.co.jp/pcuser/articles/2610/18/top_news005.jpg" width="120" height="90" alt="icon"></a></div>
+
+<div class="colBoxSubTitle">�T���́u�C�ɂȂ�j���[�X�v��C�ǂ݁I�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html">�uGemini 4 Argon�v�̈�ʒ񋟃X�^�[�g�^Meta���uMuse Wonder�v�V���[�Y�𔭕\</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html"><img src="https://image.itmedia.co.jp/mobile/articles/2610/18/top_news001.jpg" width="120" height="90" alt="icon"></a></div>
+
+<div class="colBoxSubTitle">�R���N�G�̊C�O���o�C���T�K�L�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html">�܂肽���߂Ȃ��g�����C�h�h��ʂ�Huawei�uPura X View�v</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/news/article/2610/16/2000002339/"><img src="https://www.itmedia.co.jp/news/article/thumbnail/2610/16/2000002339/10009619/360" width="120" height="74" alt="icon"></a></div>
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/16/2000002339/">���}�g�^�A�A������Z���Ȃǌv530���������R�����@�u�N���l�R����㕥���v�s���A�N�Z�X��</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+
+<!-- htmlgen -->
+<script>
+(function(){
+  const topStoriesList = document.querySelectorAll('.js-topstories-item');
+  if( topStoriesList[0] ){
+    const baseutm = 'utm_source=itm_tot&utm_medium=content-text&utm_campaign=topstories';
+    const anchors = topStoriesList[0].querySelectorAll('a');
+    anchors.forEach( function( e ) {
+      e.href = e.href + ( /\?/.test( e.href ) ? '&' : '?' ) + baseutm;
+    } );
+  }
+})();
+</script>
+<!-- /htmlgen -->
+
+</div><!-- /colBoxTab1 -->
+<div class="colBoxTab2" style="display:none;" id="colBoxTopStoriesBacknum">
+
+
+<div class="colBoxInnerHead"><p>2026�N10��18��</p></div>
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html">�X�}�z�ɁumicroSD�X���b�g�v�͂܂��K�v�H�@�����ɍ������f�[�^�̕ۑ����@���l���悤</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+<!--topstoriesIndex1-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�T�_�^���[�̂����ƃ}���K����</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/18/2000002348/">�j�E�A�ڍĊJ�I�@�u�L���v�e�����v��D���}���K�Ƃɂ��ŐV�ƒ�p�Q�[���g���̃v���[���h</a></h3></div>
+</div>
+<!--/topstoriesIndex1-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�T���́u�C�ɂȂ�j���[�X�v��C�ǂ݁I�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html">�uGemini 4 Argon�v�̈�ʒ񋟃X�^�[�g�^Meta���uMuse Wonder�v�V���[�Y�𔭕\</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�R���N�G�̊C�O���o�C���T�K�L�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html">�܂肽���߂Ȃ��g�����C�h�h��ʂ�Huawei�uPura X View�v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<div class="colBoxInnerHead"><p>2026�N10��17��</p></div>
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�Ζ쏃���Mobile Eye�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news022.html">�h�R���AKDDI�A�\�t�g�o���N�A�y�V���o�C��������AI����̃C���t���헪�@����́u���v�u��x���v���d�v��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">Mobile Weekly Top10�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news018.html">Apple���X�}�[�g�f�B�X�v���C�uHomeView�v�𔭕\��������{�ł̔����͖���@���������o��̂��H</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news002.html">�ꕔiPhone�Łu�C���J�����̃V���b�^�[���v��������H�@iOS 27�Ŋm�F�A���ӓ_��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/17/news003.html">�u���{�͐��E�ōł��d�v�ȃO�������s��v�@Trip.com���������A�C���o�E���h�Ɓg�H�̗��h�̏��Z</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�Óc�Y��̏T���A�L�o����F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/17/news016.html">1��6�L�[�����2��7500�~�I�@���ʎd�l��ROG�~�j�`���A�L�[�L���b�v�Z�b�g���A�L�o�ɍ~��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news017.html">�ً}�n�k����́u����������剹�ʁv�\�\�����Ƃ̐�SNS�Ɂ@�C�ے��u�K�v�ɉ����Č����͍s���ׂ��v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<div class="colBoxInnerHead"><p>2026�N10��16��</p></div>
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/16/news011.html">NVIDIA�̐VSoC�uRTX Spark�v�͉����������H�@Blackwell�{Grace�����Ŕ��^PC���g�g�[�N�������H��h�ɕς�闝�R</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/16/news111.html">NVIDIA�uRTX Spark�v���ڃm�[�gPC�̎��͂́H�@ASUS�uProArt P14�v���@���r���[�@3D�`���RTX 5070 Laptop������</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/16/2000002339/">���}�g�^�A�A������Z���Ȃǌv530���������R�����@�u�N���l�R����㕥���v�s���A�N�Z�X��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/16/news042.html">�g�q����iPad��n���̂��|���h�������@�w�g�C�E�X�g�[���[5�x��Lilypad�ɂȂ��ABelkin��iPad�P�[�X������</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/">Meta�A�u�č����ōō����\�v�̃I�[�v�����f���uMuse Spark Open�v���\�@Apple Silicon�ɍœK���AMac Studio�~2�Ń��[�J������</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">���R�[�����i���F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/16/news068.html">�p�i�\�j�b�N�̃h����������@64���䒴���R�[���A������6���̔����^���Ύ���</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">IT�Y�Ƃ̃g�����h���[�_�[�ɕ����I�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/16/news006.html">ASUS �W���j�[�E�V�[������uAI����ɃG���W�j�A���ς��Ă͂����Ȃ����́v�����v�l�̓A�E�g�\�[�X�ł��Ă��A�����͂ł��Ȃ�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/16/2000002323/">Tesla�A�V�^�uRoadster�v���\�@SpaceX�Z�p�Łg��ׂ�h���f�����@���{�ł��\���t��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">��15�� IPA �����H�w�Z�~�i�[ in ���� 2026�i2�j�F</div>
+<div class="colBoxTitle"><h3><a href="https://built.itmedia.co.jp/bt/articles/2610/16/news067.html">�������̂œ��H�זv�΍�̑O�񂪕���H�@����E�K�싳�����x����炷�u�g������h�̐V�펯�v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/16/2000002316/">Amazon�ABee�̐VAI�f�o�C�X2�@�픭�\�@���X�g�o���h�^�ƃX�}�z�����^�A��b��v�񂵁uAlexa+�v�ƘA�g</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/16/2000002315/">Anthropic�AMETR�̕]���`�[�����Г��ɏ풓�����g�]�ƈ����݁h�̃A�N�Z�X�t�^�@���\�ɋ��ی��Ȃ�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/">�uClaude Haiku 5.5�v�͖{���ɃR�X�p�������̂��H�@3�̓��{��^�X�N�Ō��؂��Ă݂�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�f�U�C���̗́F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/16/news038.html">���t����z�M�܂ŁA�h�����̉\�����L���郄�}�n�uEAD50�v���O�b�h�f�U�C�����</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html">�u�F�B�����v�̂͂����A�Ȃ�X�Ŋg�U�H�@�Ō�t�̊��ҎB�e���悪���o�����usetlog�v�́g�������h��BeReal�Ƃ̈Ⴂ</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">FA�C�x���g���|�[�g�F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html">���{�ɖ{���ɏ����؂͂���̂��@�q���[�}�m�C�h�u��U�v�Ō��钆���̋����Ɖۑ�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/16/news022.html">���̃X�g���X�A��c�́u���vor�u�����v�A�ǂ����������H�@�C�g�[�L�~�������������A�����Ă������Ԃ�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/16/news007.html">�y���n���|�z�Ȃ��h�C�c�̒n���s�s���uAI�x���`���[�̐��n�v�ɁH�@���H�������ꂪ�N�Ƌ��_�A���̔M�C�̎���</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/16/news026.html">AI�́u�d�C�̔����v���̑�ϊv�@�����d��CIO�����AAI���g�����Ȃ����߂́u�l�Ԃ݂̍���v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">MONOist20���N�L�O�u���邽�v���W�F�N�g�v�i6�j�F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/16/news003.html">�Â����� �Ȃ������ �g���₷���\�\�����Ɓg���邠��h���邽�y�͍s�z�G�D���J!!</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">IT�Y�Ƃ̃g�����h���[�_�[�ɕ����I�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/16/news006.html">ASUS �W���j�[�E�V�[������uAI����ɃG���W�j�A���ς��Ă͂����Ȃ����́v�����v�l�̓A�E�g�\�[�X�ł��Ă��A�����͂ł��Ȃ�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<div class="colBoxInnerHead"><p>2026�N10��15��</p></div>
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/15/news033.html">�Ȃ��u�����񂤂ǂ�v�͋����̂��@��p1���X�������A�В��ɕ��������؂�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/15/news074.html">AppleCare+�Ȃ��ŏC����ő�27�����́uiPhone Duo�v�����Ȃ�H�@�N��2���������o��A�X�}�z�ی����������Ă݂�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�X�}�[�g�E�H�b�` �i�r�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/15/news067.html">�uPixel Watch 5�v�͔������H�@�g4�h����̏�芷���Ǝ��s���Ȃ��T�C�Y�I�т̓S��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/14/news007.html">���{��������3�܂�X�}�z����EV�A����ȁu���B���v�������_�܂Ł\�\Huawei�[�Z���E���΋��_�����</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/15/2000002287/">�uYouTube Music�v�A����AI�ō��ꂽ�y�ȂɃ��x���\��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/15/2000002285/">SpaceX�A�E�N���C�i�R�́uStarshield�v�Ɉړ����x�����@�}�X�N���u���߂�͕̂ČR�Ƒ哝�́v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/">����Web�T�C�g�ւ�AI�G�[�W�F���g�U�����ϑ��@�u8���Ԏ�v�������U���̐��ڂ����J�@�����Z�L�����e�B�x���_�[</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/15/2000002283/">�����҃O���[�v�A����Tencent�̃N���E�h��́g��E�hAI�G�[�W�F���g�Q�ƌ�M�@�񍐏��̉B���e�L�X�g�ŌĂэ���</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�R�Y�P���́g���݂��݁h�Șb�i206�j�F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/15/news019.html">�C�`����S������Ă݂悤�i37�j�������V�s�Ńv���O���~���O�̍l�����𐮗�����</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/15/news037.html">�ٗ�́uiPhone Air�v��������͂Ȃ��N���Ă���H�@�艿29.5���~��1TB���f�����A����18.4���~�Ŕ�����3�̗��R</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">CEATEC 2026�F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/15/news053.html">���{���t�B�W�J��AI�ŏ����߂ɉ����K�v���@�����A���ŁANEC�A����Ȃǂ����</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/15/news051.html">�uiPhone Duo�v��AppleCare+�Ȃ��C����p�����炩�Ɂ@�ő�27���~���A�܂肽���݉�ʂ̑�����18���~����</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<div class="colBoxInnerHead"><p>2026�N10��14��</p></div>
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/14/news081.html">�y�V���o�C���̃I���W�i��Android�[���Ƀp�b�`���񋟂̐Ǝ㐫�@�Ώے[���̗��p�҂ɂ͋@��ύX�𐄏�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002278/">�f�W�n����A�uClaude�v��S�w�����ք����������A�g�񐔋C�ɂ����h�g�������</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">��15�� IPA �����H�w�Z�~�i�[ in ���� 2026�i1�j�F</div>
+<div class="colBoxTitle"><h3><a href="https://built.itmedia.co.jp/bt/articles/2610/14/news078.html">�����̓��H�זv���̂����ۈ����w��ő����@���H�זv���J�j�Y���ƍŐV�Z�p�ɂ�镜���̑S�e</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/">�uAI��AI������悤�ɂȂ�m����2027�N��50%���v�@Anthropic�����n�Ǝ҂��\����O�|���A�u���������s�́g�Г��ؕ�&amp;quot;�v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002257/">�f���}�[�N��880���l�����o�A�����̓p�X���[�h�u123456�v�@�n�b�J�[�u�N���͓���Ȃ������v�@���n��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/">Google�̐V���f���uGemini 4 Argon�v��ʒ񋟊J�n�@�g����v�����A���i</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/mobile/articles/2610/14/news026.html">SpaceX���č��Ŏ��O�̌g�уT�[�r�X��ڎw���@�q�����͂��ɂ���������800MHz�тŕ₤</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002246/">PayPay�،��A��Q���畜���@���{���EETF�̎�����ĊJ�@�����݂͂��ُ،��̎󔭒��V�X�e��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">IT�Y�Ƃ̃g�����h���[�_�[�ɕ����I�F</div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/pcuser/articles/2610/14/news010.html">�}�U�[�{�[�h���瑍��AI��Ƃք���ASUS �W���j�[�E�V�[������35�N�̋O�ՁA�uAll in on AI�v�̃r�W�����Ɠ��{�s��ł̏��Z</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">�����e�i���X�E���W���G���X2026�F</div>
+<div class="colBoxTitle"><h3><a href="https://built.itmedia.co.jp/bt/articles/2610/14/news058.html">�w�����b�g�����Łu�[���̉��v��\���@��Ƃ̎ז��ɂȂ炸���x�������M���ǃZ���T�[</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/14/news027.html">�Ȃ��uUsed in Japan�v�ɐ��E���M���H�@�����J���u�C�O���4�N��19�{�v���i���̃E����</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/">Google�̐V���f���uGemini 4 Argon�v��ʒ񋟊J�n�@�g����v�����A���i</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002240/">�uGoogle Play�v�AAI Studio�ō��������A�v���������̒[���Ŏ��s�\�Ɂ@AI�ŃQ�[����T���@�\��</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002238/">Character.ai�A�ĘA�M�j�Y�@11����\���@Disney�n���ꕔIP�̃��C�Z���X�擾�Ő�s���D</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">���܂��畷���Ȃ� �����̌�H���i3�j�F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/14/news011.html">�u�E�G�n�[��؂�v�����ł͂Ȃ��A�_�C�V���O�H���̒m��ꂴ�鐢�E</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002236/">OpenAI�]�ƈ��A������c���ɘ^�����u���d�|�����^����FBI���ߕ�</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/business/articles/2610/14/news022.html">�uAI������4�����ڍ�����v�����@�c�[���𑝂₷�قǌڋq��������g�̌��j��h�͂Ȃ��N����H</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle"></div>
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/news/article/2610/14/2000002235/">Apple�A�uWelcome home�v�C�x���g�Ŕ��\���ꂽ���Ƃ܂Ƃ߁@���{�ł�2���i�\��J�n</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+<!--topstoriesIndex2-->
+<div class="colBoxIndex topstories-item">
+
+<div class="colBoxSubTitle">CAE�ŋt��������g���u���f�f�̎v�l�@�i6�j�F</div>
+<div class="colBoxTitle"><h3><a href="https://monoist.itmedia.co.jp/mn/articles/2610/14/news004.html">CAE�͊���b���铹��\�\5�̔j����������f����u�f�f�}�b�v�v</a></h3></div>
+</div>
+<!--/topstoriesIndex2-->
+
+</div><!-- /colBoxTab2 -->
+<div class="colBoxTab3" style="display:none;" id="colBoxTopStoriesKeywords">
+<div class="colBoxTabInner1">
+<div class="colBoxInnerHead"><p>�L�[���[�h�����L���OTOP10</p></div>
+<div class="colBoxIndex colBoxKeywordRank">
+<div class="colBoxUlist">
+<ul>
+<li class="rank1"><a href="https://www.itmedia.co.jp/keywords/semiconductor.html" title="      ������    ">      ������    </a></li>
+<li class="rank2"><a href="https://www.itmedia.co.jp/keywords/costcut.html" title="      �R�X�g�팸    ">      �R�X�g�팸    </a></li>
+<li class="rank3"><a href="https://www.itmedia.co.jp/keywords/ai.html" title="      �l�H�m�\    ">      �l�H�m�\    </a></li>
+<li class="rank4"><a href="https://www.itmedia.co.jp/keywords/pcb.html" title="      �v�����g���    ">      �v�����g���    </a></li>
+<li class="rank5"><a href="https://www.itmedia.co.jp/keywords/robot.html" title="      ���{�b�g    ">      ���{�b�g    </a></li>
+<li class="rank6"><a href="https://www.itmedia.co.jp/keywords/sales.html" title="      ����    ">      ����    </a></li>
+<li class="rank7"><a href="https://www.itmedia.co.jp/keywords/disaster.html" title="      �ЊQ    ">      �ЊQ    </a></li>
+<li class="rank8"><a href="https://www.itmedia.co.jp/keywords/businessimprovement.html" title="      �Ɩ����P    ">      �Ɩ����P    </a></li>
+<li class="rank9"><a href="https://www.itmedia.co.jp/keywords/rental.html" title="      �����^��    ">      �����^��    </a></li>
+<li class="rank10"><a href="https://www.itmedia.co.jp/keywords/apple.html" title="      Apple    ">      Apple    </a></li>
+</ul>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxClear h20px"></div>
+</div>
+</div>
+<div class="colBoxTabInner2">
+<div class="colBoxInnerHead"><p>���̑����ڂ̃L�[���[�h</p></div>
+<div class="colBoxIndex colBoxKeywordList">
+<div class="colBoxUlist">
+<ul>
+<li><a href="https://www.itmedia.co.jp/keywords/newtechnology.html" title="      �V�Z�p    ">      �V�Z�p    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/constructions.html" title="      ���z    ">      ���z    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/smartphone.html" title="      �X�}�[�g�t�H��    ">      �X�}�[�g�t�H��    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/communications.html" title="      �ʐM    ">      �ʐM    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/inkjet.html" title="      �C���N�W�F�b�g    ">      �C���N�W�F�b�g    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/windows.html" title="      Windows    ">      Windows    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/sangyo_robot.html" title="      �Y�Ɨp���{�b�g    ">      �Y�Ɨp���{�b�g    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/datacenter.html" title="      �f�[�^�Z���^�[    ">      �f�[�^�Z���^�[    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/epson.html" title="      �Z�C�R�[�G�v�\��    ">      �Z�C�R�[�G�v�\��    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/mono_medical_news.html" title="      ��Ë@��j���[�X    ">      ��Ë@��j���[�X    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/mac.html" title="      Mac    ">      Mac    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/microsoft.html" title="      Microsoft    ">      Microsoft    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/panasonic.html" title="      �p�i�\�j�b�N    ">      �p�i�\�j�b�N    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/hdd.html" title="      HDD    ">      HDD    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/systemfailure.html" title="      �V�X�e����Q    ">      �V�X�e����Q    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/electric_battery.html" title="      �d�r    ">      �d�r    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/kyoukarahajimeru.html" title="      ��������n�߂�f�W�J���B�e�p    ">      ��������n�߂�f�W�J���B�e�p    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/iphone.html" title="      iPhone    ">      iPhone    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/index.html" title="      �L�[���[�h�ꗗ - ITmedia Keywords    ">      �L�[���[�h�ꗗ - ITmedia Keywords    </a></li>
+<li><a href="https://www.itmedia.co.jp/keywords/pc.html" title="      PC    ">      PC    </a></li>
+</ul>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxClear h20px"></div>
+</div>
+</div>
+</div><!-- /colBoxTab3 -->
+</div>
+</div>
+</div>
+<div class="colBoxClear"></div>
+<!-- /topStories -->
+<!-- AD -->
+<div id="LowInFeedNative">
+	<div id="PC_low-in-feed-Native" style="min-width:670px;min-height:114px;"></div>
+</div>
+<div id="TopBox">
+	<div class="gam_headline"></div>
+	<div id="PC_TopBox_1" style="min-width:670px;min-height:106px;"></div>
+	<div id="PC_TopBox_2" style="min-width:670px;min-height:106px;"></div>
+	<div id="PC_TopBox_3" style="min-width:670px;min-height:106px;"></div>
+	<div id="PC_TopBox_4" style="min-width:670px;min-height:106px;"></div>
+</div>
+<div id="TopBoxITS">
+	<div class="gam_headline"></div>
+	<div id="PC_TopBox-ITS_1" style="min-width:670px;min-height:106px;"></div>
+	<div id="PC_TopBox-ITS_2" style="min-width:670px;min-height:106px;"></div>
+</div>
+<div id="OwnedAd">
+	<div class="gam_headline"></div>
+	<div id="PC_OwnedAd_1"></div>
+	<div id="PC_OwnedAd_2"></div>
+	<div id="PC_OwnedAd_3"></div>
+	<script>refreshGam('TopicsarchiveBtmAd');</script>
+</div>
+<!-- /AD -->
+<!-- �V���L�� -->
+<div class="colBox colBoxNewArt">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2>�V���L���ꗗ</h2></div>
+<div class="colBoxSelector" id="colBoxNewArtSelector">
+<ul>
+<li title="colBoxTab1" class="colBoxLlistActive"><span onclick="changeTab('colBoxNewArt',1,'tab_�V���L���ꗗ_�e�[�}��');">�e�[�}��</span></li>
+<li title="colBoxTab2"><span onclick="changeTab('colBoxNewArt',2,'tab_�V���L���ꗗ_���f�B�A��');">���f�B�A��</span></li>
+</ul>
+</div>
+<div class="colBoxInner" id="colBoxNewArt">
+<div class="colBoxTab1" id="colBoxNewArtTheme">
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>AI���p</h3><span class="colBoxInfo">from <a href="//www.itmedia.co.jp/aiplus/">AI�{</a></span></div><!-- CMS index -->
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/" title="Meta�A�u�č����ōō����\�v�̃I�[�v�����f���uMuse Spark Open�v���\�@Apple Silicon�ɍœK���AMac Studio�~2�Ń��[�J������"><img src="/aiplus/article/thumbnail/2610/16/2000002328/10009581/120" width="" height="" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/">Meta�A�u�č����ōō����\�v�̃I�[�v�����f���uMuse Spark Open�v���\�@Apple Silicon�ɍœK���AMac Studio�~2�Ń��[�J������</a></li>
+
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/">�u���܂ł��ȒP�������v�\�\����AI���p�ɐV�w�j�A���o�A�@���Ǝ҂ɋ��߂�Ή���</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/">�uClaude Haiku 5.5�v�͖{���ɃR�X�p�������̂��H�@3�̓��{��^�X�N�Ō��؂��Ă݂�</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/">����Web�T�C�g�ւ�AI�G�[�W�F���g�U�����ϑ��@�u8���Ԏ�v�������U���̐��ڂ����J�@�����Z�L�����e�B�x���_�[</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/15/2000002280/">AI�̈��S������u�������v����{�ł��\�\AISI���㏊���ɕ����W�]�@�������T�C�o�[�U���ւ̑Ή���</a></li>
+<!-- CMS index end -->
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>�b��̃g�s�b�N</h3><span class="colBoxInfo">from <a href="//www.itmedia.co.jp/news/">NEWS</a></span></div><!-- CMS index -->
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/news/article/2610/18/2000002348/" title="�j�E�A�ڍĊJ�I�@�u�L���v�e�����v��D���}���K�Ƃɂ��ŐV�ƒ�p�Q�[���g���̃v���[���h"><img src="/news/article/thumbnail/2610/18/2000002348/10009673/120" width="" height="" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/18/2000002348/">�j�E�A�ڍĊJ�I�@�u�L���v�e�����v��D���}���K�Ƃɂ��ŐV�ƒ�p�Q�[���g���̃v���[���h</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/17/2000002350/">�uskyticket�v�N���J�������o�A�J�[�h�ԍ��ȂǍő�6140�l���@�u���o�Ȃ��v�̏�������</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/16/2000002346/">�^�C���Y�J�[�A�މ���7�N�ԕۊǂ��Ă����Ƌ��؉摜��S�폜�ց@��660���A�J�E���g���̘R������</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/17/2000002349/">BASE�q��Ђ̘R�����A��2335���l���Ɂ@209���l���̓N���J�ԍ��u�擪6���Ɖ�4���v�u�L�������v��</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/16/2000002345/">�R�~�b�N�V�[���A�A����̃��[���A�h���X�␶�N�����ȂǗ��o�@�����͐�����</a></li>
+<!-- CMS index end -->
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div id="UppBrandText">
+	<div class="gam_headline"></div>
+	<div id="PC_upp-BrandText_1" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_upp-BrandText_2" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_upp-BrandText_3" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_upp-BrandText_4"></div>
+	<div id="PC_upp-BrandText_5"></div>
+</div>
+<!-- htmlgen -->
+<!-- /htmlgen -->
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>��ƌ���IT</h3>
+<span class="colBoxInfo">from <a href="//www.itmedia.co.jp/enterprise/">�G���^�[�v���C�Y</a><span>|</span><a href="//mag.executive.itmedia.co.jp/">�G�O�[�N�e�B�u</a><span>|</span><a href="//marketing.itmedia.co.jp/">�}�[�P�e�B���O</a><span>|</span><a href="//techtarget.itmedia.co.jp/">TechTarget</a><span>|</span><a href="//kn.itmedia.co.jp/">�L�[�}���Y�l�b�g</a></span>
+</div><!-- CMS index -->
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html" title="�s���A�N�Z�X�����AGartner�����{��ƂɁu7�̃A�N�V�����v���ً}��"><img src="https://image.itmedia.co.jp/enterprise/articles/2610/16/top_news048.jpg" width="120" height="90" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html">�s���A�N�Z�X�����AGartner�����{��ƂɁu7�̃A�N�V�����v���ً}��</a></li>
+<li>�E<a href="https://mag.executive.itmedia.co.jp/executive/article/2610/16/2000002317/">���邤�b�A���N5���ɔp�~�@���ۓx�ʍt����Ō���@�ʐM�Ԃ���V�X�e���̏�Q�h�~��</a></li>
+<li>�E<a href="https://mag.executive.itmedia.co.jp/executive/article/2610/16/2000002309/">��2��FDX�̋��P�AAX�̌���</a></li>
+<!-- CMS index end -->
+<!-- CMS index -->
+<li>�E<a href="https://marketing.itmedia.co.jp/mm/articles/2505/23/news041.html">�����𕥂��΃e���r�ɏo����H�@�L���_���u�����c�Ɓv�̎���</a></li>
+<!-- CMS index end -->
+
+<!-- CMS index -->
+
+<li>�E<a href="https://techtarget.itmedia.co.jp/tt/article/2610/17/2000002334/">�u�p��m��ׂ����v�@AI�f�[�^�Z���^�[���Ή^�������������Ǝ҂̔閧��`</a></li>
+<li>�E<a href="https://techtarget.itmedia.co.jp/tt/article/2610/16/2000002303/">Copilot�����Ŋׂ�g�ړI���h�̗��Ƃ����@�蒅�̌��́u��荞�܂Ȃ��v����</a></li>
+<!-- CMS index end -->
+
+<!-- htmlgen -->
+<li><a href="https://kn.itmedia.co.jp/kn/article/2610/14/2000002212/?utm_source=kn-tot">�E�u�x���A�Â��v���ǁA��50�N�����ꂽ�u�`����CPU�v����������𓾂Ȃ��������P</a></li><!-- /htmlgen -->
+
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>�X�}�[�g�t�H�����ʐM</h3><span class="colBoxInfo">from  <a href="//www.itmedia.co.jp/mobile/">Mobile</a></span></div><!-- CMS index -->
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news009.html" title="�����Ȃ��[���w���v���O�����̎c�������u���[���Łv�c�_�\�\�L�����A�ōw������X�}�z�͂���Ɂu�����ɂ����v�Ȃ�̂�"><img src="https://image.itmedia.co.jp/mobile/articles/2610/18/top_news009.jpg" width="120" height="90" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news009.html">�����Ȃ��[���w���v���O�����̎c�������u���[���Łv�c�_�\�\�L�����A�ōw������X�}�z�͂���Ɂu�����ɂ����v�Ȃ�̂�</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html">�X�}�z�́u�[�d80���~�߂Œ������v�u�}�����ςȂ��[�dNG�v�͖{���H�@�����Ō������ӊO�Ȍ���</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html">�X�}�z�ɁumicroSD�X���b�g�v�͂܂��K�v�H�@�����ɍ������f�[�^�̕ۑ����@���l���悤</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news008.html">�h�R�������u3�|�[�gAC�A�_�v�^02M�v��20���I�t�@�m�[�gPC���[�d�ł���</a></li>
+<!-- CMS index end -->
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>PC</h3><span class="colBoxInfo">from <a href="//www.itmedia.co.jp/pcuser/">PC USER</a></span></div>
+<!-- CMS index -->
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html" title="�uGemini 4 Argon�v�̈�ʒ񋟃X�^�[�g�^Meta���uMuse Wonder�v�V���[�Y�𔭕\"><img src="https://image.itmedia.co.jp/pcuser/articles/2610/18/top_news005.jpg" width="120" height="90" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html">�uGemini 4 Argon�v�̈�ʒ񋟃X�^�[�g�^Meta���uMuse Wonder�v�V���[�Y�𔭕\</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/pcuser/articles/2610/17/news023.html">�H�̖钷�ɉ��K�Ȓ������͂��\�\PFU�uHHKB�v�V���[�Y���Z�[����2��3560�~����I</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/pcuser/articles/2610/17/news021.html">38���I�t��8��9800�~�̃m�[�gPC���@ASUS�̈ꉟ��PC���u�v���C�����ӍՁv�ł���</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/pcuser/articles/2610/17/news020.html">�v���C�����ӍՂŃ}�E�X��PC���f�B�X�v���C�������I�@Core Ultra 5 225���ڂ́uG TUNE�v��27��9880�~��</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/pcuser/articles/2610/17/news016.html">1��6�L�[�����2��7500�~�I�@���ʎd�l��ROG�~�j�`���A�L�[�L���b�v�Z�b�g���A�L�o�ɍ~��</a></li>
+<!-- CMS index end -->
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>�r�W�l�X</h3><span class="colBoxInfo">from <a href="//www.itmedia.co.jp/business/">�r�W�l�X�I�����C��</a></span></div><!-- CMS index -->
+<div class="colBoxIcon"><a href="https://www.itmedia.co.jp/business/articles/2610/17/news019.html" title="EC�T�C�g�^�c�x���u�V���b�v�T�[�u�v�Ŗ�2335���l�̏��R�����@�N���J�����ꕔ���o"><img src="https://image.itmedia.co.jp/business/articles/2610/17/top_news019.png" width="120" height="90" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/17/news019.html">EC�T�C�g�^�c�x���u�V���b�v�T�[�u�v�Ŗ�2335���l�̏��R�����@�N���J�����ꕔ���o</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/17/news012.html">���c��`�A���Ƃ����́uAI�����T�[�r�X�v�����@�X�^�b�t�̕��S�y��</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/17/news013.html">JR���C�A�V�����u�̂��݁v�w��Ȃ�l�グ�@�O�H�В��̐����́H</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/17/news003.html">�u���{�͐��E�ōł��d�v�ȃO�������s��v�@Trip.com���������A�C���o�E���h�Ɓg�H�̗��h�̏��Z</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/16/news113.html">�^�C���Y�J�[�A10��23���ɑΉ����j���ē��@�Ƌ��؉摜�u���폜�v��</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/16/news109.html">�u�s���A�N�Z�X���󂯂������vIPA�����k�������J�݁@�����Ή����T�|�[�g�A�󂯂���x���́H</a></li>
+<!-- CMS index end -->
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div id="LowBrandText">
+	<div class="gam_headline"></div>
+	<div id="PC_low-BrandText_1" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_low-BrandText_2" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_low-BrandText_3" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_low-BrandText_4" style="min-width:670px;min-height:24px;"></div>
+	<div id="PC_low-BrandText_5"></div>
+	<div id="PC_low-BrandText_6"></div>
+	<div id="PC_low-BrandText_7"></div>
+	<div id="PC_low-BrandText_8"></div>
+	<div id="PC_low-BrandText_9"></div>
+	<div id="PC_low-BrandText_10"></div>
+	<script>refreshGam('BrandText');</script>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>�f�x���b�p�[���G���W�j�A</h3><span class="colBoxInfo">from <a href="//techfactory.itmedia.co.jp/">TechFactory</a><span>|</span><a href="//monoist.itmedia.co.jp/">MONOist</a><span>|</span><a href="//eetimes.itmedia.co.jp/">EE Times Japan</a><span>|</span><a href="//edn.itmedia.co.jp/">EDN Japan</a><span>|</span><a href="//www.itmedia.co.jp/smartjapan/">�X�}�[�g�W���p��</a><span>|</span><a href="//atmarkit.itmedia.co.jp/">��IT</a></span></div>
+<!-- CMS index -->
+<div class="colBoxIcon"><a href="https://eetimes.itmedia.co.jp/ee/articles/2610/17/news011.html" title="�����̂̕č���A�������@���{���ő�3.3���~������"><img src="https://image.itmedia.co.jp/ee/articles/2610/17/top_news011.jpg" width="120" height="90" align="left" hspace="2" vspace="2" border="0" alt="icon"></a></div>
+<div class="colBoxUlist">
+<ul>
+<li>�E<a href="https://eetimes.itmedia.co.jp/ee/articles/2610/17/news011.html">�����̂̕č���A�������@���{���ő�3.3���~������</a></li>
+<li>�E<a href="https://monoist.itmedia.co.jp/mn/articles/2610/17/news004.html">CEATEC�ɔr�����X����@��S�W���P���H�@�t�B�W�J��AI���񂭖���</a></li>
+<li>�E<a href="https://monoist.itmedia.co.jp/mn/articles/2610/17/news015.html">�O�H�d�@�����C�Ǝ����ԋ@�펖�Ƃ������^�c�A�q��Њ���50����1150���~�ŏ��n</a></li>
+<li>�E<a href="https://eetimes.itmedia.co.jp/ee/articles/2610/16/news112.html">�j�f�b�N��v�s���A�i�玁����В���9�l�Ɂu���Q�����ӔC�v</a></li>
+<!-- CMS index end -->
+<!-- CMS index -->
+<li>�E<a href="https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html">�u11��~�߂��̂ɖ{��DB���������v�@AI�G�[�W�F���g�g6�̖\���h�ƁA�l�Ԃ̏��F�𑝂₵�Ă��h���Ȃ����R</a></li>
+<li>�E<a href="https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news003.html">���C���t���[���E�p�A�Ȃ��u2027�N�����ߐ؂�v�ɁH�@�x���_�[�P�ނ���ɗ���g�l�̊����h</a></li>
+<!-- CMS index end -->
+
+</ul>
+</div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3>�u���O</h3><span class="colBoxInfo">from <a href="http://blogs.itmedia.co.jp/">�I���^�i�e�B�u�E�u���O</a><span>|</span><a href="http://el.jibun.atmarkit.co.jp/">�G���W�j�A���C�t</a></span></div>
+<div class="colBoxUlist">
+<ul>
+
+<script type="text/javascript" src="/js/top/rss_channelArt_altblog.js"></script>
+
+
+<li>�E<a href="https://el.jibun.atmarkit.co.jp/pythonlove/2026/10/4929.html">�s���A�N�Z�X���o�́g����9���h</a></li>
+<li>�E<a href="https://el.jibun.atmarkit.co.jp/pressenter/2026/10/_21_4.html">�C�m�E�[�̑I���i21�j�₽��Ȃ��ʐM</a></li>
+
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+</div><!-- /colBoxTab1 -->
+<div class="colBoxTab2" style="display:none;" id="colBoxNewArtMedia">
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="https://www.itmedia.co.jp/aiplus/">AI���p</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002328/">Meta�A�u�č����ōō����\�v�̃I�[�v�����f���uMuse Spark Open�v���\�@Apple Silicon�ɍœK���AMac Studio�~2�Ń��[�J������</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002320/">�u���܂ł��ȒP�������v�\�\����AI���p�ɐV�w�j�A���o�A�@���Ǝ҂ɋ��߂�Ή���</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/aiplus/article/2610/16/2000002313/">�uClaude Haiku 5.5�v�͖{���ɃR�X�p�������̂��H�@3�̓��{��^�X�N�Ō��؂��Ă݂�</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="https://www.itmedia.co.jp/news/">�j���[�X</a></h3>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/18/2000002348/">�j�E�A�ڍĊJ�I�@�u�L���v�e�����v��D���}���K�Ƃɂ��ŐV�ƒ�p�Q�[���g���̃v���[���h</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/17/2000002350/">�uskyticket�v�N���J�������o�A�J�[�h�ԍ��ȂǍő�6140�l���@�u���o�Ȃ��v�̏�������</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/news/article/2610/17/2000002349/">BASE�q��Ђ̘R�����A��2335���l���Ɂ@209���l���̓N���J�ԍ��u�擪6���Ɖ�4���v�u�L�������v��</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="https://www.itmedia.co.jp/enterprise/">�G���^�[�v���C�Y</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul>
+<!-- CMS index -->
+<li>�E<a href="https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html">�s���A�N�Z�X�����AGartner�����{��ƂɁu7�̃A�N�V�����v���ً}��</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/enterprise/articles/2610/16/news014.html">Microsoft�A10���̌���X�V�ŐƎ㐫1413���ɑΉ��@���p�m�F�ς݂̐Ǝ㐫��</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/enterprise/articles/2610/16/news036.html">�uFirefox Enterprise�v���\�@�u���E�U�Ǘ����g�N���E�h�C���h�ɂ��Ȃ��I����</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//mag.executive.itmedia.co.jp/">�G�O�[�N�e�B�u</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://mag.executive.itmedia.co.jp/executive/article/2610/16/2000002317/">���邤�b�A���N5���ɔp�~�@���ۓx�ʍt����Ō���@�ʐM�Ԃ���V�X�e���̏�Q�h�~��</a></li>
+<li>�E<a href="https://mag.executive.itmedia.co.jp/executive/article/2610/16/2000002309/">��2��FDX�̋��P�AAX�̌���</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="http://blogs.itmedia.co.jp/">�I���^�i�e�B�u�E�u���O</a></h3>
+</div>
+<div class="colBoxUlist"><ul>
+
+<script type="text/javascript" src="/js/top/rss_channelArt_altblog.js"></script>
+
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="https://techtarget.itmedia.co.jp/">TechTarget</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul>
+<!-- CMS index -->
+
+<li>�E<a href="https://techtarget.itmedia.co.jp/tt/article/2610/17/2000002334/">�u�p��m��ׂ����v�@AI�f�[�^�Z���^�[���Ή^�������������Ǝ҂̔閧��`</a></li>
+<li>�E<a href="https://techtarget.itmedia.co.jp/tt/article/2610/16/2000002303/">Copilot�����Ŋׂ�g�ړI���h�̗��Ƃ����@�蒅�̌��́u��荞�܂Ȃ��v����</a></li>
+<!-- CMS index end -->
+
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="https://kn.itmedia.co.jp/">�L�[�}���Y�l�b�g</a></h3>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxUlist"><ul>
+<li>�E<a href="https://kn.itmedia.co.jp/kn/article/2610/16/2000002304/">Microsoft�́g���̃L�����h���܂����̕����H�@�����uX�v�����莖���̒������F901st Lap</a></li>
+<li>�E<a href="https://kn.itmedia.co.jp/kn/article/2610/16/2000002308/">����AI�����Ɏ��s�����Ɓu6�̋��ʓ_�v�@��V�X�w���v�f�X�N�̕��S�����炷�݌v�Ƃ�</a></li>
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="//marketing.itmedia.co.jp/">�}�[�P�e�B���O</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://marketing.itmedia.co.jp/mm/articles/2505/27/news017.html">�u�T�C�g�������v���u���C�u�`���b�g�v�����TOP5�i2025�N5���j</a></li>
+<li>�E<a href="https://marketing.itmedia.co.jp/mm/articles/2505/20/news027.html">�uEC�v���b�g�t�H�[���v�����TOP10�i2025�N5���j</a></li>
+<li>�E<a href="https://marketing.itmedia.co.jp/mm/articles/2505/13/news023.html">�u�p�[�\�i���C�[�[�V�����v���uA�^B�e�X�g�v�c�[�������TOP5�i2025�N5���j</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//www.itmedia.co.jp/pcuser/">PC USER</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li><a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html">�E�uGemini 4 Argon�v�̈�ʒ񋟃X�^�[�g�^Meta���uMuse Wonder�v�V���[�Y�𔭕\</a></li>
+<li><a href="https://www.itmedia.co.jp/pcuser/articles/2610/17/news023.html">�E�H�̖钷�ɉ��K�Ȓ������͂��\�\PFU�uHHKB�v�V���[�Y���Z�[����2��3560�~����I</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//www.itmedia.co.jp/mobile/">Mobile</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul>
+<!-- CMS index -->
+<li>�E<a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news009.html">�����Ȃ��[���w���v���O�����̎c�������u���[���Łv�c�_�\�\�L�����A�ōw������X�}�z�͂���Ɂu�����ɂ����v�Ȃ�̂�</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html">�X�}�z�́u�[�d80���~�߂Œ������v�u�}�����ςȂ��[�dNG�v�͖{���H�@�����Ō������ӊO�Ȍ���</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="//www.itmedia.co.jp/business/">�r�W�l�X�I�����C��</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/17/news019.html">EC�T�C�g�^�c�x���u�V���b�v�T�[�u�v�Ŗ�2335���l�̏��R�����@�N���J�����ꕔ���o</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/business/articles/2610/17/news013.html">JR���C�A�V�����u�̂��݁v�w��Ȃ�l�グ�@�O�H�В��̐����́H</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="https://www.itmedia.co.jp/smartjapan/">�X�}�[�g�W���p��</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://www.itmedia.co.jp/smartjapan/articles/2610/16/news023.html">�^�A����̏ȃG�l�𐄐i�@����׎�����ɂ��u���Ǝ҃N���X�����]�����x�v�𓱓���</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/smartjapan/articles/2610/14/news017.html">�I���������ƒ�p�~�d�V�X�e���̐V���f���@�p���R��1��ő��z���E�~�d�r�EEV�ɑΉ�</a></li>
+<li>�E<a href="https://www.itmedia.co.jp/smartjapan/articles/2610/13/news053.html">�}������ሳ�n���p�~�d�r�A�����ݒu�ɂ��K������΍��������</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle">
+<h3><a href="//atmarkit.itmedia.co.jp/">��IT</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul>
+<!-- CMS index -->
+<li>�E<a href="https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html">�u11��~�߂��̂ɖ{��DB���������v�@AI�G�[�W�F���g�g6�̖\���h�ƁA�l�Ԃ̏��F�𑝂₵�Ă��h���Ȃ����R</a></li>
+<li>�E<a href="https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news003.html">���C���t���[���E�p�A�Ȃ��u2027�N�����ߐ؂�v�ɁH�@�x���_�[�P�ނ���ɗ���g�l�̊����h</a></li>
+<li>�E<a href="https://atmarkit.itmedia.co.jp/ait/articles/2610/17/news007.html">�u���������e��AI�Ȃ�ĕK�v�Ȃ��v�@65�Έȏ�̐���AI���p�A�q�����7�������ۂ��闝�R</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//techfactory.itmedia.co.jp/">TechFactory</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://techfactory.itmedia.co.jp/tf/article/2609/24/2000001448/">�uChatGPT�ɋc���^�𗊂񂾂����v���A�Ȃ���Ђ̑���ɂȂ�́H</a></li>
+<li>�E<a href="https://techfactory.itmedia.co.jp/tf/article/2609/11/2000001388/">ams OSRAM���J��o���u�U�߂̈��v�@�}�C�N��LED�ő_���V�V�n</a></li>
+<li>�E<a href="https://techfactory.itmedia.co.jp/tf/article/2609/10/2000001389/">GaN�s���Infineon��5�ʂ���2�ʂɋ}����@AI���ς��鐨�͐}</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//monoist.itmedia.co.jp/">MONOist</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul><!-- CMS index -->
+<li>�E<a href="https://monoist.itmedia.co.jp/mn/articles/2610/17/news004.html">CEATEC�ɔr�����X����@��S�W���P���H�@�t�B�W�J��AI���񂭖���</a></li>
+<li>�E<a href="https://monoist.itmedia.co.jp/mn/articles/2610/17/news015.html">�O�H�d�@�����C�Ǝ����ԋ@�펖�Ƃ������^�c�A�q��Њ���50����1150���~�ŏ��n</a></li>
+<li>�E<a href="https://monoist.itmedia.co.jp/mn/articles/2610/16/news099.html">�V�^�uCX-5�v�̓��C���n�[�l�X��ސ���8���팸�A�}�c�_�Ɩ�葍�Ƃ̋��n������</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//eetimes.itmedia.co.jp/">EE Times</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul>
+<!-- CMS index -->
+<li>�E<a href="https://eetimes.itmedia.co.jp/ee/articles/2610/17/news011.html">�����̂̕č���A�������@���{���ő�3.3���~������</a></li>
+<li>�E<a href="https://eetimes.itmedia.co.jp/ee/articles/2610/16/news112.html">�j�f�b�N��v�s���A�i�玁����В���9�l�Ɂu���Q�����ӔC�v</a></li>
+<li>�E<a href="https://eetimes.itmedia.co.jp/ee/articles/2610/16/news016.html">Micron��2026��v�N�x�͔��㍂��2�N�A���ŉߋ��ō����X�V</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="//edn.itmedia.co.jp/">EDN Japan</a></h3>
+</div>
+<div class="colBoxUlist">
+<ul>
+<!-- CMS index -->
+<li>�E<a href="https://edn.itmedia.co.jp/edn/articles/2610/16/news012.html">���wMEMS�}�C�N32���ڂ̃G�b�WAI�]���L�b�g</a></li>
+<li>�E<a href="https://edn.itmedia.co.jp/edn/articles/2610/16/news039.html">����D��S�A����1.8V�Ή�eFuse �m�[�gPC��Q�[���@��</a></li>
+<li>�E<a href="https://edn.itmedia.co.jp/edn/articles/2610/15/news020.html">�ő�100GbE�ɑΉ��A��x���ʐM����������FPGA����IP���i�Q</a></li>
+<!-- CMS index end -->
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+
+<div class="colBoxIndex">
+<div class="colBoxTitle"><h3><a href="http://el.jibun.atmarkit.co.jp/">�G���W�j�A���C�t</a></h3>
+<div class="colBoxClear"></div>
+</div>
+<div class="colBoxUlist">
+<ul>
+<li><a href="https://el.jibun.atmarkit.co.jp/humancybersecurity/2026/10/post_68.html?ref=rss">�E�l�Ԃ�u���Ă��ڂ�ɂ��Ȃ��T�C�o�[�Z�L�����e�B��</a></li><li><a href="https://el.jibun.atmarkit.co.jp/searchman/2026/10/ai_12.html?ref=rss">�E�X�N���v�g�������Ă����������AAI�Ȃ�u���ނ����v�ł����B</a></li>
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+</div><!-- /colBoxTab2 -->
+</div>
+</div>
+</div>
+<div class="colBoxClear h10px"></div>
+<!-- /�V���L�� -->
+<div class="colBox colBoxPress" id="colBoxPress">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2>�A�C�e�B���f�B�A����̂��m�点</h2></div>
+<div class="colBoxInner">
+<!-- htmlgen -->
+<div class="colBoxIndex">
+<div class="colBoxUlist">
+<ul>
+<li><a href="https://corp.itmedia.co.jp/ir/">�yIR�z2027�N3���� ��1�l���� ���Z�𔭕\���܂���</a>�i8/3�j</li>
+<li><a href="https://corp.itmedia.co.jp/pr/">�y�v���X�����[�X�z�s�C.�s�C.�R�~���j�P�[�V�����Y�A2026�N�㔼���̎�v�C�O�W����|�[�g�����J �`�Y��AI�A�����̃T�v���C�`�F�[���A������ʐM�ȂǁA���E�����[�h�����[�Z�p�̎������������n��ށ`</a>�i10/5�j</li>
+<li><a href="https://corp.itmedia.co.jp/recruit/">�y�̗p���z �L�����A�̗p�i�ҏW�A�L���c�Ɓj�^�A���o�C�g�̗p�i�ҏW�j�^����̗p �ق�</a>�i1/17�j</li>
+</ul></div>
+<div class="colBoxClear h10px"></div>
+</div>
+<!-- /htmlgen -->
+</div>
+</div>
+</div>
+<div class="colBoxClear h10px"></div>
+
+
+<!---->
+
+</div>
+
+	
+	<div id="masterSub"><div id="globalSearch">
+<script>
+(function() {
+	var cx = '000492183644671384608:6dff3odaltq';
+	var gcse = document.createElement('script');
+	gcse.type = 'text/javascript';
+	gcse.async = true;
+	gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+	var s = document.getElementsByTagName('script')[0];
+	s.parentNode.insertBefore(gcse, s);
+})();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+
+<div id="RcolRectangle">
+	<div id="PC_rcol_Rectangle" style="min-width:300px;min-height:250px;"></div>
+</div>
+<!-- static_rc_totspecial.html -->
+<!-- ���f���W�g -->
+<div id="SideLink">
+	<div class="gam_headline">Special<span class="gam_prmark">PR</span></div>
+	<div id="PC_SideLink_1" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_2" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_3" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_4" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_5" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_6" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_7" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_8" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_9" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_10" style="min-width:300px;min-height:76px;"></div>
+	<div id="PC_SideLink_11"></div>
+	<div id="PC_SideLink_12"></div>
+	<div id="PC_SideLink_13"></div>
+	<div id="PC_SideLink_14"></div>
+	<div id="PC_SideLink_15"></div>
+	<div id="PC_SideLink_16"></div>
+	<div id="PC_SideLink_17"></div>
+	<div id="PC_SideLink_18"></div>
+	<div id="PC_SideLink_19"></div>
+	<div id="PC_SideLink_20"></div>
+	<script>refreshGam('SideLink');</script>
+</div>
+<div id="colBoxRankingArticle" class="colBox colBoxRanking">
+<div class="colBoxOuter">
+<div class="colBoxHead"><h2><a href="https://www.itmedia.co.jp/ranking/">�L�������L���O</a></h2></div>
+<div class="colBoxInner" id="colBoxRanking">
+<div class="colBoxIndex">
+<div class="colBoxUlist"><ul>
+<li class="rank1"><span>1</span><a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news002.html">
+      �X�}�z�́u�[�d80���~�߂Œ������v�u�}�����ςȂ��[�dNG�v�͖{���H�@�����Ō������ӊO�Ȍ���
+    </a></li>
+<li class="rank2"><span>2</span><a href="https://www.itmedia.co.jp/business/articles/2610/15/news048.html">
+      ���v�������A�ݔ����V���A�l������\�\�����S���A144���X�V�̗����@�u���Ȃ̂ɒp���������v���󂯓��ꂽ���P��
+    </a></li>
+<li class="rank3"><span>3</span><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news001.html">
+      �X�}�z�ɁumicroSD�X���b�g�v�͂܂��K�v�H�@�����ɍ������f�[�^�̕ۑ����@���l���悤
+    </a></li>
+<li class="rank4"><span>4</span><a href="https://www.itmedia.co.jp/mobile/articles/2108/19/news070.html">
+      �u�Ȃ���[�d�v��u100���̂܂܏[�d�v��NG�H�@�X�}�z�̃o�b�e���[���������΂����@
+    </a></li>
+<li class="rank5"><span>5</span><a href="https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html">
+      �܂肽���߂Ȃ��g�����C�h�h��ʂ�Huawei�uPura X View�v
+    </a></li>
+<li class="rank6"><span>6</span><a href="https://www.itmedia.co.jp/mobile/articles/2610/17/news002.html">
+      �ꕔiPhone�Łu�C���J�����̃V���b�^�[���v��������H�@iOS 27�Ŋm�F�A���ӓ_��
+    </a></li>
+<li class="rank7"><span>7</span><a href="https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html">
+      �uGemini 4 Argon�v�̈�ʒ񋟃X�^�[�g�^Meta���uMuse Wonder�v�V���[�Y�𔭕\
+    </a></li>
+<li class="rank8"><span>8</span><a href="https://www.itmedia.co.jp/news/article/2610/17/2000002349/">
+      BASE�q��Ђ̘R�����A��2335���l���Ɂ@209���l���̓N���J�ԍ��u�擪6���Ɖ�4���v�u�L�������v��
+    </a></li>
+<li class="rank9"><span>9</span><a href="https://www.itmedia.co.jp/business/articles/2610/15/news093.html">
+      �o�[�K�[�L���O�����A�v���A��1118�����̏��R�����@�N���J�ԍ��u��ێ��v����Q�g���h��
+    </a></li>
+<li class="rank10"><span>10</span><a href="https://www.itmedia.co.jp/mobile/articles/2607/04/news030.html">
+      JR�����{�u������ɂ����v�V���������@�����P�ց@�Ȃ��A�X�}�z�ł͂Ȃ��u�w�ł̍ŒZ1���w���v�������H
+    </a></li>
+</ul>
+</div>
+</div>
+<div class="colBoxInfo"><a href="https://www.itmedia.co.jp/ranking/">&raquo; 10�ʈȉ��̃����L���O������</a></div>
+</div>
+</div>
+</div>
+
+
+<div id="colBoxRc_recommend" class="colBox colBoxRc_recommend">
+	<div class="colBoxIndex">
+		<div class="colBoxBanner" style="width:290px;margin:0 auto;overflow:hidden;border: 1px solid #ccc;"><a href="https://www.itmedia.co.jp/info/special.html" style="display:block;"><img src="https://image.itmedia.co.jp/images0509/tot_banner_1_1703141393.jpg" alt="�A�C�e�B���f�B�A�̃^�C�A�b�v�R���e���c�y�[�W�ւ̃����N" width="290" height="40" loading="lazy"></a></div>
+	</div>
+</div>
+<!-- �^�C�A�b�v�R���e���c�U���g -->
+
+
+<div id="RcolRectangle2">
+	<div id="PC_rcol_Rectangle2" style="min-width:300px;min-height:250px;"></div>
+	<script>refreshGam('RcolRectangle2');</script>
+</div>
+</div>
+	
+
+<div class="colBoxClear"></div>
+</div></div>
+
+<!-- masterBodyOuterHoleEnd -->
+
+
+
+
+<div id="masterFooter">
+	<div id="globalFooter">
+		<div id="globalFooterLink">
+<a href="https://www.itmedia.co.jp/info/rule/">���p�K��</a>
+</div>
+
+		<!-- GLOBALFOOTER -->
+		
+<div id="globalFooterCorp" style="border:none;">
+	<div id="globalFooterCorpIn">
+
+		<p class="CorpLogo" style="position:relative;display:block;margin:0 0 5px;padding:12px 0 0 180px;font-size:12px;line-height:16px;"><a href="https://corp.itmedia.co.jp/" style="position:absolute;top:0;left:0;display:block;width:170px;height:28px;"><img src="https://image.itmedia.co.jp/images/logo/170_itmedia_bgw.gif" width="170" height="28" alt="�A�C�e�B���f�B�A�������"></a>ITmedia�̓A�C�e�B���f�B�A������Ђ̓o�^���W�ł��B</p>
+
+		<p id="globalFooterCorpLink"><a href="https://corp.itmedia.co.jp/media/">���f�B�A�ꗗ</a> | <a href="https://corp.itmedia.co.jp/media/sns/">����SNS</a> | <a href="https://corp.itmedia.co.jp/ad/">�L���ē�</a> | <a href="https://corp.itmedia.co.jp/corp/inquiry/">���₢���킹</a> | <a href="https://corp.itmedia.co.jp/corp/privacy/privacy/">�v���C�o�V�[�|���V�[</a> | <a href="https://corp.itmedia.co.jp/media/rss_list/">RSS</a> | <a href="https://corp.itmedia.co.jp/">�^�c���</a> | <a href="https://corp.itmedia.co.jp/recruit/">�̗p���</a> | <a href="https://www.itmedia.co.jp/info/rule/recommended.html">������</a></p>
+	</div>
+</div>
+
+<!-- /#globalFooterCorp -->
+
+	</div>
+</div>
+
+
+
+</div><!--/masterBodyInner-->
+</div><!--/masterBodyOuter-->
+</div><!--/masterBodyIn-->
+</div><!--/masterBodyOut-->
+</div><!--/masterBody-->
+
+<script src="/js/masterBodyEnd.js?202510011010" defer></script><!-- window.onload -->
+<script src="/js/itmid/smartPhoneHeadLink.js"></script><!-- Smart Phone Large Button-->
+<!--BEACON-->
+<!--masterChannel = top-->
+    <!--masterType = top-->
+        <div id="BEACON"><div id="N">
+            <!-- SiteCatalyst code version: H.2.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="/include/sc/s_code.js?20170501"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+function $() {
+  var elements = new Array();
+  for (var i = 0; i < arguments.length; i++) {
+    var element = arguments[i];
+    if (typeof element == 'string')
+      element = document.getElementById(element);
+    if (arguments.length == 1)
+      return element;
+    elements.push(element);
+  }
+  return elements;
+}
+s.pageName=document.URL.replace( /(\?|#).*$/, '' );
+s.server="www.itmedia.co.jp"
+s.channel="ITmedia Top"
+s.pageType=""
+s.hier1="root,itm,top"
+s.hier2="itm,top"
+s.hier3="top"
+s.prop1=document.URL.replace( /(\?|#).*$/, '' );
+s.prop2="root,itm,top"
+if ( $('update') == undefined )
+  s.prop3='';
+else
+  s.prop3=$('update').innerHTML.replace(/\d+��\s�X�V/,"");
+if ( $('byline') == undefined )
+  s.prop4=''
+else
+  s.prop4=$('byline').innerHTML.replace(/<b>|<\/b>/ig,'').replace(/\[|\]/g,'');
+/* s.prop5 : ad link name reserves */
+s.prop5=""
+s.prop6="top"
+s.prop7=""
+s.prop8=document.title
+s.prop9=navigator.userAgent
+s.prop10=document.URL.replace( /(\?|#).*$/, '' );
+/* s.prop13 : document.URL reserves */
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events="event3"
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.2. -->
+
+			<!-- itmdp start -->
+			<script src="/js/itmdp_code.js?202512091010"></script>
+			<script>
+			itmdp.x_ch = 'top';
+			itmdp.x_e = 'event3';
+			var itm_pageview = itmdp.pageview();
+			</script>
+			<!-- itmdp end -->
+        </div></div>
+    
+
+<!--/BEACON-->
+
+<!-- Treasure Data -->
+
+<!-- User Insight PCDF Code Start : itmedia.co.jp -->
+<script type="text/javascript">
+var _uic = _uic ||{};
+var _uih = _uih ||{};
+	
+_uih['id'] = 52344; // �r�W�l�X
+	
+_uih['lg_id'] = (function(cookie_name){
+	var str = '';
+	var val = '';
+	var cookies = '';
+	if(cookie_name){
+		cookies = document.cookie.split('; ');
+		for(var i = 0; i < cookies.length; i++){
+			val = cookies[i].split('=');
+			if(val[0] != cookie_name) continue;
+			str = unescape(val[1].slice(0,40));
+		}
+	}
+	return str;
+})('iitt');
+_uih['fb_id'] = '';
+_uih['tw_id'] = '';
+_uih['uigr_1'] = (function(){ // �h���C���p�X
+	var str = '';
+	if(typeof itmdp !== 'undefined'){
+		str = itmdp.x_dp;
+	}
+	return str;
+})();
+_uih['uigr_2'] = (function(){ // ���Җ�
+	var e = document.getElementById('byline');
+	var str = '';
+	if(e){
+		str = e.innerHTML.replace(/<(".*?"|'.*?'|[^'"])*?>/g,'').replace(/(\[|\])/g,'');
+	}
+	return str;
+})();
+_uih['uigr_3'] = (function(){ // �h���C���p�X
+	var str = '';
+	var arr = '';
+	if(typeof itmdp !== 'undefined'){
+		str = itmdp.x_dp;
+	}
+	arr = str.split(',');
+	str = arr.slice(0,3).join(','); 
+	return str;
+})();
+_uih['uigr_4'] = '';
+_uih['uigr_5'] = '';
+_uih['uigr_6'] = '';
+_uih['uigr_7'] = '';
+_uih['uigr_8'] = '';
+_uih['uigr_9'] = '';
+_uih['uigr_10'] = '';
+
+/* DO NOT ALTER BELOW THIS LINE */
+/* WITH FIRST PARTY COOKIE */
+(function() {
+var bi = document.createElement('script');bi.type = 'text/javascript'; bi.async = true;
+bi.src = '//cs.nakanohito.jp/b3/bi.js';
+var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(bi, s);
+})();
+</script>
+<!-- User Insight PCDF Code End : itmedia.co.jp -->
+
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+fbq('init', '185005748502834');
+fbq('track', "PageView");
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['invoke',function(){
+	var cx_fb_segments = cX.getUserSegmentIds({persistedQueryId:'8b5a5e7f2de4247858bf30431c9972d3cdf7682e'});
+	if(cx_segments.length || cx_fb_segments.length){
+		fbq('trackCustom','itm_custom',{'cx_seg':cx_segments,'cx_fb_seg':cx_fb_segments});
+	}
+}]);
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=185005748502834&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Twitter Tracking Code -->
+
+
+<!-- /Twitter Tracking Code -->
+
+
+
+<!-- top mobile pcuser fav nl -->
+<!-- Global site tag (gtag.js) - Google Ads: 1032582312 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1032582312"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());
+gtag('config','AW-1032582312');
+</script>
+<script>
+(function(){
+	cx_seg = cX.getUserSegmentIds({persistedQueryId:'c2d933a3f076195cf38c2ac1d2ba2a879bb2a9a2'});
+	gtag('event','page_view',{'send_to':'AW-1032582312','cx_segments':cx_seg});
+})();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 578569290 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-578569290"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-578569290');
+</script>
+<script>
+(function(){
+	cx_seg = cX.getUserSegmentIds({persistedQueryId:'c2d933a3f076195cf38c2ac1d2ba2a879bb2a9a2'});
+	gtag('event','page_view',{'send_to':'AW-578569290','cx_segments':cx_seg});
+})();
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 10976778865 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10976778865"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-10976778865');
+</script>
+<script>
+(function(){
+	cx_seg = cX.getUserSegmentIds({persistedQueryId:'c2d933a3f076195cf38c2ac1d2ba2a879bb2a9a2'});
+	gtag('event','page_view',{'send_to':'AW-10976778865','cx_segments':cx_seg});
+})();
+</script>
+
+
+
+
+<script src="/js/v6_survey.js?date=202002061432" async></script>
+</body></html>
+

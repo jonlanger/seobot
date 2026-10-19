@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "pandora.com",
+    "rank": 1216,
+    "url": "https://pandora.com/",
+    "runAt": "2026-10-18T18:04:58.105Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1822,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.pandora.com/",
+      "bytes": 21650
+    },
+    "rendered": {
+      "title": "Music and Podcasts, Free and On-Demand | Pandora",
+      "canonical": "",
+      "words": 281,
+      "jsonLdTypes": [],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 35,
+      "renderedWords": 281,
+      "coverage": 5.3,
+      "rawOnlyTokens": 20,
+      "renderedOnlyTokens": 266,
+      "renderedOnlySample": [
+        "view",
+        "planssign",
+        "uplog",
+        "inhelpsubscriptioncommunitylog",
+        "outstart",
+        "listening",
+        "for",
+        "clear",
+        "searchevery",
+        "station",
+        "evolves",
+        "with",
+        "your",
+        "tastes",
+        "sit",
+        "back",
+        "enjoy",
+        "choose",
+        "how",
+        "you",
+        "want",
+        "listen",
+        "pandorafreesign",
+        "freepersonalized",
+        "stationssearch"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 16.7,
+      "titleDiffers": false,
+      "rawTitle": "Music and Podcasts, Free and On-Demand | Pandora",
+      "renderedTitle": "Music and Podcasts, Free and On-Demand | Pandora",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "missav.ws",
+    "rank": 1379,
+    "url": "https://missav.ws/",
+    "runAt": "2026-10-18T18:11:23.067Z",
+    "robots": {
+      "status": 404,
+      "bytes": 548,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://missav.ws/",
+      "bytes": 5815
+    },
+    "rendered": {
+      "title": "MissAV | Watch HD JAV Online | Free & High Quality AV",
+      "canonical": "",
+      "words": 896,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 896,
+      "coverage": 0.1,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 895,
+      "renderedOnlySample": [
+        "login",
+        "your",
+        "account",
+        "register",
+        "new",
+        "email",
+        "password",
+        "remember",
+        "forget",
+        "username",
+        "confirm",
+        "have",
+        "emailed",
+        "reset",
+        "link",
+        "change",
+        "changed",
+        "old",
+        "missav",
+        "search",
+        "繁體中文",
+        "简体中文",
+        "english",
+        "日本語",
+        "한국의"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "MissAV | Watch HD JAV Online | Free & High Quality AV",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

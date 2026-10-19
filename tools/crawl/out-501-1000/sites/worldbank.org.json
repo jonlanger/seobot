@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "worldbank.org",
+    "rank": 902,
+    "url": "https://worldbank.org/",
+    "runAt": "2026-10-18T17:52:24.950Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1505,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.worldbank.org/ext/en/home",
+      "bytes": 61291
+    },
+    "rendered": {
+      "title": "World Bank Group - International Development, Poverty and Sustainability",
+      "canonical": "https://www.worldbank.org/ext/en/home",
+      "words": 625,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 373,
+      "renderedWords": 625,
+      "coverage": 40.2,
+      "rawOnlyTokens": 122,
+      "renderedOnlyTokens": 374,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "content",
+        "news",
+        "events",
+        "press",
+        "releases",
+        "feature",
+        "stories",
+        "españolfrançaisالعربيةрусский中文view",
+        "who",
+        "where",
+        "creating",
+        "inclusive",
+        "scaling",
+        "agri-finance",
+        "enabling",
+        "care",
+        "potential",
+        "food",
+        "expanding",
+        "readiness",
+        "topics",
+        "fiscal",
+        "policy"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 84.6,
+      "titleDiffers": false,
+      "rawTitle": "World Bank Group - International Development, Poverty and Sustainability",
+      "renderedTitle": "World Bank Group - International Development, Poverty and Sustainability",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

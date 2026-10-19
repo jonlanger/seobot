@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "tradplusad.com",
+    "rank": 1232,
+    "url": "https://tradplusad.com/",
+    "runAt": "2026-10-18T18:05:44.517Z",
+    "robots": {
+      "status": 200,
+      "bytes": 315067,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://tradplusad.com/",
+      "bytes": 315067
+    },
+    "rendered": {
+      "title": "TradPlus - 移动广告变现 - 游戏应用出海 - 最大化广告收益 - 上海世全网络科技有限公司",
+      "canonical": "https://www.tradplusad.com/en",
+      "words": 197,
+      "jsonLdTypes": [],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 498,
+      "renderedWords": 197,
+      "coverage": 0,
+      "rawOnlyTokens": 498,
+      "renderedOnlyTokens": 197,
+      "renderedOnlySample": [
+        "platformvisimmediationvisixad",
+        "exchange",
+        "saas",
+        "platformtpxprogrammatic",
+        "advertising",
+        "platformsuccess",
+        "storiesresourcesblogreports",
+        "guidesknowledge",
+        "centerabout",
+        "uspartners中",
+        "文loginsign",
+        "upcontact",
+        "salesplatformvisimmediationvisixad",
+        "stories",
+        "resourcesblogreports",
+        "partners",
+        "contact",
+        "salessign",
+        "up中",
+        "one-stop",
+        "admonetization",
+        "solutionstradplus",
+        "enables",
+        "developers",
+        "fully"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "TradPlus - 移动广告变现 - 游戏应用出海 - 最大化广告收益 - 上海世全网络科技有限公司",
+      "renderedTitle": "TradPlus - 移动广告变现 - 游戏应用出海 - 最大化广告收益 - 上海世全网络科技有限公司",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

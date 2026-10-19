@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "flipkart.com",
+    "rank": 940,
+    "url": "https://flipkart.com/",
+    "runAt": "2026-10-18T17:53:34.536Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3111,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.flipkart.com/",
+      "bytes": 1276630
+    },
+    "rendered": {
+      "title": "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com",
+      "canonical": "https://www.flipkart.com/",
+      "words": 1351,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1245,
+      "renderedWords": 1351,
+      "coverage": 75.5,
+      "rawOnlyTokens": 225,
+      "renderedOnlyTokens": 331,
+      "renderedOnlySample": [
+        "setselect",
+        "locationloginnew",
+        "upmy",
+        "profileflipkart",
+        "zoneorderswishlistbecome",
+        "sellerrewardsgift",
+        "cardsnotification",
+        "preferences24x7",
+        "careadvertisedownload",
+        "apploginmoremorebecome",
+        "sellernotification",
+        "settings24x7",
+        "careadvertise",
+        "flipkartcartfor",
+        "youfashionmobileselectronicsbeautyhomeappliancestoys",
+        "healthauto",
+        "accessoriessports",
+        "fitnessfurniturebooks2",
+        "wheelerspopular",
+        "moremin",
+        "dayfrom",
+        "everupto",
+        "morefrom",
+        "199interesting",
+        "finds"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Online Shopping India Mobile, Cameras, Lifestyle &amp; more Online @ Flipkart.com",
+      "renderedTitle": "Online Shopping India Mobile, Cameras, Lifestyle & more Online @ Flipkart.com",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

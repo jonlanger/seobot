@@ -1,0 +1,128 @@
+[
+  {
+    "domain": "investopedia.com",
+    "rank": 1032,
+    "url": "https://investopedia.com/",
+    "runAt": "2026-10-18T17:58:15.019Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3477,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.investopedia.com/",
+      "bytes": 582810
+    },
+    "rendered": {
+      "title": "Investopedia",
+      "canonical": "https://www.investopedia.com/",
+      "words": 470,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 471,
+      "renderedWords": 470,
+      "coverage": 98.7,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 6,
+      "renderedOnlySample": [
+        "search",
+        "please",
+        "fill",
+        "field",
+        "mar",
+        "2025"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 6,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Investopedia",
+      "renderedTitle": "Investopedia",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

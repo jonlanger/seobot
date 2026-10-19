@@ -1,0 +1,2451 @@
+[
+  {
+    "id": "disc.robots-allow",
+    "label": "Robots.txt allows the search and AI retrieval crawlers",
+    "layer": "discover",
+    "stage": "access",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": true,
+    "claim": "A crawler disallowed at the root never sees the page \u2014 every later optimization is worth zero for that engine until robots.txt is fixed. Blocking a retrieval crawler removes the site from the corresponding answer engine's source pool.",
+    "evidence": [
+      {
+        "sourceId": "seobot-top500-2026",
+        "finding": "Of 411 parsable robots.txt files in the top 500: 81 hard-block GPTBot, 43 block OAI-SearchBot, 62 block PerplexityBot, 84 block ClaudeBot \u2014 while Googlebot is hard-blocked by only 4.",
+        "effect": "~10% of top-500 block at least one AI retrieval crawler at the root",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "aicrawlercheck-2026",
+        "finding": "GPTBot is blocked by 14.3% of the top 10,000 sites; top-1k sites block ~1.5\u00d7 more often than ranks 5k\u201310k.",
+        "effect": "14.3% GPTBot block rate (top-10k)",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "openai-crawlers",
+        "finding": "robots.txt changes take effect in ChatGPT search in about 24 hours.",
+        "effect": "~24h propagation",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "robots.txt",
+      "ai-crawlers",
+      "gate"
+    ],
+    "seobotRuleIds": [
+      "idx.robots-blocks-important",
+      "geo.ai-crawlers-blocked"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Blocking Googlebot is rare on the top 500 (4/411) \u2014 the entire negotiation is about AI crawlers, and it is a policy choice with visibility consequences."
+  },
+  {
+    "id": "disc.crawler-taxonomy",
+    "label": "Three crawler classes are three separate decisions",
+    "layer": "discover",
+    "stage": "access",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Training crawlers (GPTBot, CCBot, Google-Extended token), search/answer-index crawlers (OAI-SearchBot, PerplexityBot, Claude-SearchBot), and user-fetching agents (ChatGPT-User, Perplexity-User, Claude-User) require separate robots.txt policies. Blocking one does not block the others.",
+    "evidence": [
+      {
+        "sourceId": "openai-crawlers",
+        "finding": "OpenAI operates GPTBot (training), OAI-SearchBot (search index), and ChatGPT-User (live user fetch) as separate agents.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "perplexity-crawlers",
+        "finding": "Perplexity-User fetches in real time for a user query and generally ignores robots.txt; PerplexityBot is the separate indexing crawler.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "google-crawlers",
+        "finding": "Google-Extended is a token controlling Gemini training/grounding, not a crawler and not a Search/AIO opt-out.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "buzzstream-google-extended",
+        "finding": "92.3% of top news sites that blocked Google-Extended were still cited in AI answers.",
+        "effect": "92.3% still cited",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "robots.txt",
+      "policy",
+      "myth"
+    ],
+    "seobotRuleIds": [
+      "geo.ai-crawlers-blocked"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "The cheapest GEO win is usually policy: allow the retrieval crawlers, treat training as a separate choice, and never assume Google-Extended controls AI Overviews."
+  },
+  {
+    "id": "disc.sitemap-freshness",
+    "label": "Accurate sitemap with honest lastmod",
+    "layer": "discover",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A sitemap containing only canonical 200-status URLs with truthful lastmod dates accelerates discovery and re-crawl \u2014 Perplexity explicitly treats sitemap freshness as a recrawl signal.",
+    "evidence": [
+      {
+        "sourceId": "presenc-2026",
+        "finding": "New pages submitted with correct lastmod saw first AI-crawler fetches within 14 minutes (GPTBot) and 43% coverage across all major crawlers within 24 hours.",
+        "effect": "14 min first fetch; 43% coverage in 24h",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "perplexity-crawlers",
+        "finding": "Perplexity uses sitemap lastmod as a recrawl signal and slows for stale dates and erroring pages.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "sitemap",
+      "discovery",
+      "freshness"
+    ],
+    "seobotRuleIds": [
+      "idx.sitemap-missing",
+      "idx.sitemap-stale-or-broken"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "disc.bing-pipeline",
+    "label": "Bing index pipeline live (BWT + IndexNow)",
+    "layer": "discover",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Bing's index supplies a large share of ChatGPT's and all of Copilot's candidate pool, so Bing Webmaster Tools hygiene and IndexNow pings are AI-search infrastructure, not an afterthought.",
+    "evidence": [
+      {
+        "sourceId": "seer-chatgpt-bing",
+        "finding": "87% of sources cited by ChatGPT Search appeared in Bing's top 20 for the same query \u2014 vs 56% overlap with Google's top 20.",
+        "effect": "87% vs 56% index overlap",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "microsoft-bwt",
+        "finding": "Microsoft says IndexNow notifications reduce stale URL references in Copilot grounding results; BWT now reports AI citation share.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "bing",
+      "indexnow",
+      "chatgpt"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "idx.indexable",
+    "label": "Pages are indexed and snippet-eligible",
+    "layer": "index",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": true,
+    "claim": "A page must be indexed and eligible to appear with a snippet before any search or AI surface can use it; unexpected noindex, canonical chains, and error status codes zero everything downstream.",
+    "evidence": [
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Google states AI features are grounded in core Search ranking \u2014 indexable, snippet-eligible pages are the prerequisite.",
+        "effect": null,
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "indexability",
+      "gate"
+    ],
+    "seobotRuleIds": [
+      "idx.noindex-unexpected",
+      "idx.canonical-foreign",
+      "idx.5xx-sample"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Practitioner standard; the audit engine already enforces it. Gate semantics: content work on a noindexed page is worth $0 and the report should say so."
+  },
+  {
+    "id": "rel.title-h1",
+    "label": "Unique title, H1, and meta description matched to intent",
+    "layer": "relevance",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "One clear H1 stating the value proposition, a unique descriptive title, and a persuasive meta description are table stakes for both ranked lists and extraction.",
+    "evidence": [
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "On-page contract: one title formula per template, one H1 stating the value proposition, meta ~150\u2013160 chars with a concrete next step.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "on-page",
+      "titles"
+    ],
+    "seobotRuleIds": [
+      "onp.title-missing",
+      "onp.title-duplicate",
+      "onp.h1-missing-multiple"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Practitioner standard. Quantified effect sizes vary by study; title rewrites show up mainly in CTR, not ranking correlation."
+  },
+  {
+    "id": "rel.topic-coverage",
+    "label": "Topic coverage that absorbs query fan-out",
+    "layer": "relevance",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "One question fans out into several parallel sub-queries before an AI answer is written; pages that already answer the natural follow-up questions get cited for sub-intents the original query never mentioned.",
+    "evidence": [
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Google describes query fan-out as core to AI Overviews and AI Mode, and warns that manufacturing pages per fan-out variant is scaled-content abuse.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ahrefs-aio-top10-2026",
+        "finding": "37.1% of AI Overview-cited URLs rank in the organic top 10; 26.2% rank 11\u2013100 and 36.7% are outside the top 100 (863K keywords; 4M AIO URLs). The same metric read ~76% in mid-2025.",
+        "effect": "37.1% top-10 overlap",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "surfer-fanout-2026",
+        "finding": "Fan-out rankings predict AIO citation at Spearman 0.77; pages ranking the main query plus at least one fan-out are 161% more likely to be cited.",
+        "effect": "+161% citation likelihood",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "moz-ai-mode-2026",
+        "finding": "AI Mode shows only ~12% strict top-10 overlap \u2014 88% of cited URLs are not in the SERP top 10.",
+        "effect": "12% overlap (AI Mode)",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "kaggle-aio-citations-2026",
+        "finding": "50% of domains cited in AI Overviews were absent from the organic top 10 across 645 queries.",
+        "effect": "50% absent from top-10",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "fan-out",
+      "content-strategy"
+    ],
+    "seobotRuleIds": [
+      "cnt.entity-coverage"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Breadth-within-a-topic on one strong page beats thin pages per query variant."
+  },
+  {
+    "id": "rel.entity-rich-copy",
+    "label": "Entity-rich copy (names, not pronouns)",
+    "layer": "relevance",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Passages that keep entity names, numbers, and dates explicit survive retrieval chunking; pronouns and 'as mentioned above' do not.",
+    "evidence": [
+      {
+        "sourceId": "rag-chunking-literature",
+        "finding": "RAG systems retrieve at passage level (~256\u2013512 token chunks) and each section should be self-contained and quotable.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "entities",
+      "passages"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Mechanism is well-established (passage retrieval); direct citation-effect studies are thin."
+  },
+  {
+    "id": "rel.internal-links",
+    "label": "Internal links with descriptive anchors, hub \u2192 cluster",
+    "layer": "relevance",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Each page links to 2\u20134 relevant pages with descriptive anchors; pillar pages link out to the cluster. Discovery compounds and machine readers get the relationship graph.",
+    "evidence": [
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "Internal-link contract: money pages first, descriptive anchors, hub pages link out to the whole set.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "internal-links"
+    ],
+    "seobotRuleIds": [
+      "aut.money-pages-low-internal-links",
+      "idx.orphan-pages",
+      "idx.crawl-depth"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "aut.backlinks",
+    "label": "Link authority (referring domains, quality)",
+    "layer": "authority",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Links remain one of the strongest documented correlates of ranking; for AI answers they also feed the retrieval-side source quality signals.",
+    "evidence": [
+      {
+        "sourceId": "ahrefs-brand-correlation-2025",
+        "finding": "Link metrics correlate with AI Overview brand mentions more weakly than brand signals do (DR 0.326, referring domains 0.295, backlinks 0.218 vs branded web mentions 0.664).",
+        "effect": "\u03c1 0.22\u20130.33 (links) vs 0.66 (mentions)",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "Compiled research treats links as a core authority layer; mass guest posting has diminishing returns and inauthentic mentions are spam-risk.",
+        "effect": null,
+        "strength": "weak"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "L",
+    "tags": [
+      "authority",
+      "links"
+    ],
+    "seobotRuleIds": [
+      "aut.lost-links",
+      "aut.toxic-anchors"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Classic-SEO side of link authority: awaiting the 2025\u201326 ranking-factor correlation studies (stage-3 research stream). For AI answers specifically, links are already visible as a weaker correlate than brand mentions."
+  },
+  {
+    "id": "aut.brand-mentions",
+    "label": "Brand mentions and consistent naming across the web",
+    "layer": "authority",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Unlinked mentions, community discussion, and consistent brand spelling feed the entity layer models use to resolve 'who is this' \u2014 NAP-style consistency everywhere.",
+    "evidence": [
+      {
+        "sourceId": "geo-research-2026",
+        "finding": "Entity resolution: consistent naming + sameAs chains + Wikidata presence make the brand a 'known thing' rather than unresolved text; vendor claims of 3\u00d7 citation lifts are unverified but the mechanism is well-established.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "ahrefs-brand-correlation-2025",
+        "finding": "Across 75K brands, AI Overview brand mentions correlated most with branded web mentions (Spearman 0.664), branded anchors (0.527), and branded search volume (0.392) \u2014 league above link metrics. Top web-mention quartile averaged 169 AIO mentions vs 14 for the next quartile; 26% of brands had zero. Seer: ChatGPT brand mentions correlate with Google keyword visibility 0.65 vs backlinks 0.10.",
+        "effect": "\u03c1 0.664 branded mentions vs 0.218 backlinks",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "entity",
+      "mentions"
+    ],
+    "seobotRuleIds": [
+      "aut.unlinked-mentions"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "aut.original-research",
+    "label": "Original data studies as citation magnets",
+    "layer": "authority",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Original statistics are the single most durable citation asset: the strongest measured GEO lever is adding quantitative data, and every stat others quote links back.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Statistics addition lifted visibility +31% relative on position-adjusted word count \u2014 the second-strongest lever after quotations.",
+        "effect": "+31% visibility",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "data-assets-brief-2026",
+        "finding": "A 'State of AI Indexation' study is the highest-leverage content program that isn't a money page; the dataset is the citation magnet.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "L",
+    "tags": [
+      "original-data",
+      "earned-mentions"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "exp.cwv",
+    "label": "Core Web Vitals within budget (LCP \u2264 2.5s, INP \u2264 200ms, CLS \u2264 0.1 at p75)",
+    "layer": "experience",
+    "surface": [
+      "seo"
+    ],
+    "gate": false,
+    "claim": "Field CWV at p75 are a documented (if modest) ranking input and a UX gate; static HTML, explicit dimensions, and transform/opacity-only motion protect the budget.",
+    "evidence": [
+      {
+        "sourceId": "web-vitals",
+        "finding": "Google's thresholds: LCP \u2264 2.5s, INP \u2264 200ms, CLS \u2264 0.1 at the 75th percentile.",
+        "effect": "Thresholds",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "crux",
+        "finding": "Field data for 18M+ origins makes CWV measurable per origin without lab runs.",
+        "effect": null,
+        "strength": "strong"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "performance"
+    ],
+    "seobotRuleIds": [
+      "prf.cwv-fail-lcp",
+      "prf.cwv-fail-inp",
+      "prf.cwv-fail-cls"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Ranking effect is real but small relative to gates above; the bigger risk is CLS-destroying motion and JS-gated above-fold content."
+  },
+  {
+    "id": "geo.access.bot-walls",
+    "label": "No bot wall in front of AI crawlers",
+    "layer": "citation",
+    "stage": "access",
+    "surface": [
+      "geo"
+    ],
+    "gate": true,
+    "claim": "robots.txt can say yes while the server says no: WAF/CDN bot rules, anti-bot flows, and challenge pages return 403s or empty shells to non-browser clients \u2014 the site is invited but barricaded.",
+    "evidence": [
+      {
+        "sourceId": "seobot-top500-2026",
+        "finding": "130 of 500 top sites (26%) returned a wall or empty shell to a non-browser client; 100 of those have robots.txt open to every AI retrieval crawler \u2014 invited, then barricaded.",
+        "effect": "26% walled; 100/500 invited-but-barricaded",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ssrn-js-gap-2026",
+        "finding": "25% of 405 small-business sites had answer-critical elements visible in a browser but absent from raw HTML; sites on server-rendering platforms were AI-invisible 4% of the time vs 28.3% otherwise.",
+        "effect": "25% content gap; 4% vs 28.3% by platform",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "waf",
+      "bot-management",
+      "gate"
+    ],
+    "seobotRuleIds": [
+      "geo.ai-crawlers-blocked"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Test with curl -A \"GPTBot\" \u2026 | grep, not DevTools. Cloudflare and similar WAFs can block silently even when robots.txt allows."
+  },
+  {
+    "id": "geo.render.server-html",
+    "label": "Main content ships in server-rendered HTML",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "geo"
+    ],
+    "gate": true,
+    "claim": "Most AI crawlers do not execute JavaScript. Content that only appears after client-side rendering is invisible to ChatGPT, Claude, Perplexity, and Copilot \u2014 only Google's surfaces render JS, and late.",
+    "evidence": [
+      {
+        "sourceId": "vercel-merj-2025",
+        "finding": "None of the major AI crawlers (GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, PerplexityBot, Bytespider) execute JavaScript across 500M+ fetches.",
+        "effect": "0 of 6 execute JS",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "seobot-top500-2026",
+        "finding": "Among 324 readable homepages, the median keeps 71.4% of browser-visible content in raw HTML (p25 48.8%, p75 93.0%). 35% of the top 500 are unreadable or unreachable to a non-rendering client.",
+        "effect": "median 71.4% coverage; 35% not readable",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ssrn-js-gap-2026",
+        "finding": "A controlled test had ChatGPT report it 'could not read the content because it relied on JavaScript' \u2014 then read the identical content after server-rendering.",
+        "effect": null,
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "L",
+    "tags": [
+      "javascript",
+      "ssg",
+      "gate"
+    ],
+    "seobotRuleIds": [
+      "idx.js-gated-content"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "The single largest technical gate for AI visibility \u2014 and the axis our top-500 study owns."
+  },
+  {
+    "id": "geo.render.headings-raw",
+    "label": "Headings arrive in raw HTML",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Pages whose headings ship in raw HTML are the pages whose content ships too \u2014 the strongest same-page signal we measure.",
+    "evidence": [
+      {
+        "sourceId": "seobot-top500-2026",
+        "finding": "Heading coverage and content coverage correlate at r = 0.647 across 300 readable homepages \u2014 the strongest same-page relationship in the study (stronger than JSON-LD presence at r = 0.15).",
+        "effect": "r = 0.647 (n=300)",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "headings",
+      "structure"
+    ],
+    "seobotRuleIds": [
+      "idx.js-gated-content"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Dynamic headlines (Apple 14.5% heading coverage, Guardian 20.7%) are common and fixable: render headings server-side."
+  },
+  {
+    "id": "geo.render.jsonld-raw",
+    "label": "JSON-LD present in raw HTML (not injected client-side)",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Structured data is an independent layer \u2014 it does not lift citations by itself, but server-rendered schema is required for rich results and entity clarity; tag-manager-injected schema is invisible to non-rendering crawlers.",
+    "evidence": [
+      {
+        "sourceId": "seobot-top500-2026",
+        "finding": "Of 324 readable homepages, 170 (52.5%) ship JSON-LD server-side, 12 declare it client-only, 142 declare none. JSON-LD presence barely correlates with content coverage (r = 0.15).",
+        "effect": "52.5% server-side; r = 0.15 vs coverage",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ahrefs-schema-2026",
+        "finding": "Controlled test across 1,885 pages: schema markup produced no measurable AI-citation uplift (within noise).",
+        "effect": "No citation uplift",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "structured-data",
+      "json-ld"
+    ],
+    "seobotRuleIds": [
+      "onp.schema-missing",
+      "onp.schema-invalid",
+      "geo.entity-schema"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Keep schema for rich results + entity clarity; don't sell it as a citation lever. The schema story on top sites is healthier than the content story (most schema is server-rendered)."
+  },
+  {
+    "id": "geo.render.facts-not-images",
+    "label": "Critical facts (prices, specs) exist as text, not images",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Screenshots and images are invisible to AI crawlers; pricing pages that bury the number in a screenshot cannot be quoted when engines are asked 'how much does X cost?'.",
+    "evidence": [
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "Pricing pages are extraction targets; screenshots are invisible to AI crawlers \u2014 put the real numbers in text with an answer sentence up top.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "pricing",
+      "images"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "transactional-pricing"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.extract.definition-first",
+    "label": "Definition-first opening (2\u20133 quotable sentences)",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "The first substantive paragraph should answer 'what is this?' with the entity named \u2014 it is the passage AI engines quote, and fluency is one of the strongest measured levers.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Fluency optimization lifted visibility +28% relative; the best combination was fluency + statistics.",
+        "effect": "+28% visibility",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "geo-recommendation-engine-2026",
+        "finding": "Check X1: answer-first opening with entity nouns, no windup \u2014 the format engines extract.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "Definition markers were associated with +57% citation influence across 23,745 citation-level feature rows (descriptive, not causal).",
+        "effect": "+57% influence (descriptive)",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "extract",
+      "definitions"
+    ],
+    "seobotRuleIds": [
+      "cnt.entity-coverage"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "definition",
+        "comparison",
+        "howto"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.extract.answer-first-sections",
+    "label": "Each section opens with a complete, standalone answer",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Retrieval happens at passage level: a standalone passage that fully answers a sub-query is what gets retrieved. Answer-first, then detail \u2014 this beats a slow build to the point.",
+    "evidence": [
+      {
+        "sourceId": "rag-chunking-literature",
+        "finding": "RAG indexes split pages into ~256\u2013512-token passages and retrieve at passage level; one idea per section, question-shaped headings, explicit entities.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Fan-out + RAG over the Search index select passages across sub-queries; Google debunks 'special chunking' but the passage-level mechanism stands.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "extract",
+      "passages"
+    ],
+    "seobotRuleIds": [
+      "geo.aio-exposed-queries"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.extract.tables",
+    "label": "Comparison tables for 'X vs Y' and 'best of' queries",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Tables are the extraction format engines prefer for comparison queries \u2014 every money page should carry at least one structured artifact (table, numbered steps, or checklist) matched to intent.",
+    "evidence": [
+      {
+        "sourceId": "geo-research-2026",
+        "finding": "Format matching: tables for comparisons, numbered steps for how-tos, bullet lists for options \u2014 AI engines preferentially extract structured artifacts.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "Comparison content scored +55% citation influence (descriptive); comparison questions carry the highest mean citation influence of any question type.",
+        "effect": "+55% influence (descriptive)",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "beyond-blue-link-2026",
+        "finding": "Structured HTML yielded 2.6\u00d7 citation rates and 4.0\u00d7 extraction fidelity in a controlled setup (ACM Hypertext 2026).",
+        "effect": "2.6\u00d7 citations, 4.0\u00d7 extraction fidelity",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "extract",
+      "tables"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "comparison",
+        "transactional-pricing"
+      ]
+    },
+    "added": "2026-10-17",
+    "notes": "Mechanism is plausible and practitioner-standard; direct controlled evidence is limited."
+  },
+  {
+    "id": "geo.extract.faq-parity",
+    "label": "FAQ block whose text matches its schema byte-for-byte",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A short FAQ (3\u20136 real questions) with concise standalone answers is cheap extractable content; schema must match the visible text exactly per Google policy.",
+    "evidence": [
+      {
+        "sourceId": "geo-recommendation-engine-2026",
+        "finding": "Check X4: FAQ block with FAQPage schema matching visible text \u2014 enforced internally by check:seo parity rule.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Google requires markup to match visible content and states no special schema is needed for AI features.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "Q&A surface format scored \u22125.7% citation influence (descriptive) \u2014 an FAQ block is not itself a citation lever; the standalone answers are.",
+        "effect": "\u22125.7% influence (descriptive)",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "arxiv-2609-35077",
+        "finding": "FAQ blocks' apparent citation effects collapsed under domain fixed effects (Simpson's paradox) \u2014 treat FAQ as extraction hygiene, not a proven lever.",
+        "effect": "Effect \u2192 ~0 with fixed effects",
+        "strength": "contested"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "extract",
+      "faq"
+    ],
+    "seobotRuleIds": [
+      "geo.aio-exposed-queries"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "definition",
+        "howto",
+        "transactional-pricing"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.extract.numeric-explicit",
+    "label": "Numeric explicitness \u2014 real prices, dates, units",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Engines prefer directness and specificity: 'contact us for pricing' is unquotable, while real numbers are the raw material for statistics-driven citations.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Statistics addition lifted visibility +31%; specificity patterns follow the same mechanism.",
+        "effect": "+31% visibility (statistics)",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "pricing",
+      "numbers"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": [
+        "saas",
+        "ecommerce",
+        "local"
+      ],
+      "questions": [
+        "transactional-pricing"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.extract.single-purpose",
+    "label": "Single-purpose pages over sprawling ones",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Perplexity rewards direct answers in the first ~100 words and single-purpose pages; sprawling multi-topic pages dilute the passage that gets retrieved.",
+    "evidence": [
+      {
+        "sourceId": "geo-research-2026",
+        "finding": "Engine mechanics: Perplexity fetches ~10 pages, cites 3\u20138; rewards first-100-word answers and single-purpose pages; recency can out-cite authority.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "extract",
+      "structure"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "definition",
+        "howto",
+        "comparison"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.extract.thin-guard",
+    "label": "No thin or near-duplicate template pages",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Programmatic pages need \u2265300 unique words or they are merged/noindexed; near-duplicate template variants trip scaled-content-abuse lines in both Search and AI surfaces.",
+    "evidence": [
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "Programmatic guardrails: \u2265300 unique words per page or noindex/merge; unique title+meta per page; never generate pages purely for fan-out variants.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Manufacturing content for every fan-out query variant violates the scaled-content-abuse policy.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ahrefs-content-length-2025",
+        "finding": "Word count correlates ~zero with citation position (Spearman 0.04); 53.4% of citations point to pages under 1,000 words. Thin means low-value, not short.",
+        "effect": "\u03c1 0.04 length vs citation",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "thin-content",
+      "programmatic"
+    ],
+    "seobotRuleIds": [
+      "cnt.thin-pages",
+      "idx.duplicate-clusters"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.evidence.quotes",
+    "label": "Attributed quotations from named people",
+    "layer": "citation",
+    "stage": "evidence",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Quotation addition was the single strongest measured GEO tactic \u2014 real quotes with attribution, not adjectives.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Quotation addition: visibility index 27.2 vs 19.3 baseline \u2014 +41% relative, the best single method across 10,000 queries; reproduced live on Perplexity.",
+        "effect": "+41% visibility",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "evidence",
+      "quotes"
+    ],
+    "seobotRuleIds": [
+      "geo.aio-exposed-queries"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Matters most for people/society/history topics per the study's domain notes."
+  },
+  {
+    "id": "geo.evidence.statistics",
+    "label": "Quantitative data with real numbers",
+    "layer": "citation",
+    "stage": "evidence",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Adding statistics is the second-strongest lever and the best pairing with fluency; numbers beat adjectives everywhere.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Statistics addition: +31% relative visibility; best combo fluency + statistics.",
+        "effect": "+31% visibility",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "Pages with numbers/statistics scored +62% citation influence in the open feature dataset (descriptive).",
+        "effect": "+62% influence (descriptive)",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "evidence",
+      "stats"
+    ],
+    "seobotRuleIds": [
+      "geo.aio-exposed-queries"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Matters most for law/gov/opinion-style content per the study's domain notes."
+  },
+  {
+    "id": "geo.evidence.outbound-citations",
+    "label": "Outbound citations to credible sources",
+    "layer": "citation",
+    "stage": "evidence",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Citing credible sources lifts visibility up to +28% \u2014 and it is the biggest lever for lower-ranked sites, while top-ranked sites can even lose ground from it.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Cite-sources: +28% average; +115% lift for a rank-5 site, \u221230% for a rank-1 site; matters most for factual content.",
+        "effect": "+28% (rank-5 site: +115%)",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "evidence",
+      "citations"
+    ],
+    "seobotRuleIds": [
+      "geo.aio-exposed-queries"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.evidence.fluency",
+    "label": "Fluency \u2014 clear, readable prose",
+    "layer": "citation",
+    "stage": "evidence",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Fluency optimization compounds with everything (+28% alone, best combined with statistics). Writing clearly for humans is the tactic; anti-human keyword-speak hurts.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Fluency optimization: +28% relative visibility; compounds with statistics.",
+        "effect": "+28% visibility",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "evidence",
+      "fluency"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.evidence.no-keyword-stuffing",
+    "label": "No keyword stuffing (\u22128% \u2014 the only negative lever)",
+    "layer": "citation",
+    "stage": "evidence",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Keyword stuffing was the only tactic that reduced visibility in the foundational study \u2014 chasing keywords is actively counterproductive for AI answers.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Keyword stuffing: visibility index 17.7 vs 19.3 baseline \u2014 \u22128%, the only negative method measured.",
+        "effect": "\u22128% visibility",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "anti-pattern",
+      "keywords"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.evidence.technical-terms",
+    "label": "Domain-appropriate technical terms (mild lift)",
+    "layer": "citation",
+    "stage": "evidence",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Adding technical terms measured a mild +18% \u2014 real vocabulary from the field beats generic marketing language, but it is far weaker than quotes and statistics.",
+    "evidence": [
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Technical terms: +18% relative visibility; easy-to-understand +14%; authoritative tone +10%; unique words +6%.",
+        "effect": "+18% visibility",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "evidence",
+      "terminology"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "definition",
+        "comparison"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.entity.organization-schema",
+    "label": "Organization schema with @id, logo, sameAs chain",
+    "layer": "citation",
+    "stage": "entity",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A complete Organization node \u2014 @id, name, url, logo, foundingDate, sameAs[] to authoritative profiles \u2014 is the self-declaration that anchors entity resolution.",
+    "evidence": [
+      {
+        "sourceId": "geo-research-2026",
+        "finding": "Entity layer: Organization JSON-LD + sameAs chain to LinkedIn, X, GitHub, Crunchbase, G2, Product Hunt, and ideally a Wikidata Q-number make the brand a 'known thing'.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "schema-org",
+        "finding": "Organization/WebSite/SameAs vocabulary definitions.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "entity",
+      "schema"
+    ],
+    "seobotRuleIds": [
+      "geo.entity-schema",
+      "onp.schema-missing"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Mechanism (knowledge-graph grounding) is well-established; rigorous causal studies are thin \u2014 see outliers."
+  },
+  {
+    "id": "geo.entity.wikidata",
+    "label": "Wikidata entity + bidirectional link",
+    "layer": "citation",
+    "stage": "entity",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A Wikidata Q-number (P856 official website \u2194 our sameAs) feeds Google's Knowledge Graph and most LLM training corpora \u2014 the cheapest durable 'I exist' signal.",
+    "evidence": [
+      {
+        "sourceId": "geo-research-2026",
+        "finding": "Wikidata's notability bar is 'verifiable existence' (far below Wikipedia's); one-time setup, durable payoff; bidirectional linking recommended.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "entity",
+      "wikidata"
+    ],
+    "seobotRuleIds": [
+      "geo.entity-schema"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.entity.author-credentials",
+    "label": "Author bylines with credentials on editorial content",
+    "layer": "citation",
+    "stage": "entity",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Named authors with credentials (Person schema) are an E-E-A-T proxy that matters most in YMYL verticals; anonymous content competes worse for trust-sensitive answers.",
+    "evidence": [
+      {
+        "sourceId": "google-qrg",
+        "finding": "Search Quality Rater Guidelines define E-E-A-T and its per-topic importance, highest for YMYL.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "eeat",
+      "authors"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": [
+        "healthcare",
+        "finance",
+        "publisher"
+      ],
+      "questions": [
+        "definition",
+        "howto"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.freshness.maintenance",
+    "label": "Fresh, maintained pages (dateModified + visible last-updated)",
+    "layer": "citation",
+    "stage": "freshness",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Freshness is a retrieval signal: most AI-cited pages were updated within a year, citation half-life runs ~39\u201368 days for timely queries, and Perplexity explicitly rewards recency.",
+    "evidence": [
+      {
+        "sourceId": "metavert-q4-2026",
+        "finding": "~75% of AI-cited pages were updated within a year (Gemini 78%, ChatGPT 73%, Perplexity 65%); fitted citation half-life \u224839 days (timely) / 68 days otherwise; ~65% of cited sources churn day-to-day.",
+        "effect": "75% < 1 year; half-life 39\u201368 days",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "perplexity-crawlers",
+        "finding": "Perplexity recrawls established sites weekly-to-monthly; stale dateModified slows recrawl; a recent update can out-cite older, higher-authority content.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ahrefs-freshness-2025",
+        "finding": "AI-cited pages average 1,064 days old vs 1,432 for organic results \u2014 engines cite fresher pages on average (16.975M URLs).",
+        "effect": "25.7% fresher than organic",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "profound-citation-halflife-2026",
+        "finding": "Median citation half-life measured at 11 days panel-relative (78% of cited pages fall to half-peak within 14 days); pages cited by 5+ engines persist 5.5\u00d7 longer. Conflicts with the 39\u201368-day fitted estimate \u2014 definitional, see outliers.",
+        "effect": "11 days (panel) vs 39\u201368 days (fitted)",
+        "strength": "contested"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "freshness"
+    ],
+    "seobotRuleIds": [
+      "cnt.decay"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": [
+        "news",
+        "comparison",
+        "howto"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.freshness.changelog",
+    "label": "Indexable, maintained changelog / update log",
+    "layer": "citation",
+    "stage": "freshness",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A changelog is a frequently-accidentally-noindexed freshness surface; keeping it indexable gives engines evidence of a real maintenance cadence.",
+    "evidence": [
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "Changelog: frequently noindexed by accident; keep indexable as a freshness signal.",
+        "effect": null,
+        "strength": "weak"
+      }
+    ],
+    "confidence": "low",
+    "effort": "S",
+    "tags": [
+      "freshness",
+      "changelog"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": [
+        "saas"
+      ],
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.offsite.third-party-dominance",
+    "label": "Presence on the third-party sites engines cite",
+    "layer": "citation",
+    "stage": "offsite",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Most AI citations point at third-party sources \u2014 Reddit, YouTube, Wikipedia, review platforms, listicles. A clean site alone is half the game; the other half is being discussed where engines look.",
+    "evidence": [
+      {
+        "sourceId": "metavert-q4-2026",
+        "finding": "In an 83,670-citation dataset, 82.9% of AI citations pointed to non-brand sites; brand sites earn 13.5% (ChatGPT) to 22.2% (Claude) of mentions.",
+        "effect": "82.9% third-party",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "profound-citation-origins-2026",
+        "finding": "Across 8 models and 11.84B citations, 57% of citations go to brand/company-owned sites (ChatGPT 47%, Gemini 69%) \u2014 a different cut: the 82.9% figure's denominator is mentions of the queried brand, Profound's is all cited domains.",
+        "effect": "57% brand-owned (definitional contrast)",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "muckrack-ai-citations-2026",
+        "finding": "84% of AI citations are earned media; journalism is 25\u201327% of citations; press releases 0.04%.",
+        "effect": "84% earned media",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "L",
+    "tags": [
+      "offsite",
+      "mentions"
+    ],
+    "seobotRuleIds": [
+      "geo.citation-coverage"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Off-site is genuinely half of GEO \u2014 keep it an unscored checklist until prompt-run data exists."
+  },
+  {
+    "id": "geo.offsite.review-platforms",
+    "label": "Accurate G2 / Capterra / Product Hunt / Crunchbase listings",
+    "layer": "citation",
+    "stage": "offsite",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Review platforms feed AI answers directly for commercial queries; accurate listings and real reviews are quotable third-party evidence about the brand.",
+    "evidence": [
+      {
+        "sourceId": "geo-research-2026",
+        "finding": "Priority off-site targets: G2/Capterra/Product Hunt profiles; they feed AI answers and are cited for commercial comparison queries.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "offsite",
+      "reviews"
+    ],
+    "seobotRuleIds": [
+      "geo.citation-coverage"
+    ],
+    "appliesTo": {
+      "industries": [
+        "saas",
+        "local"
+      ],
+      "questions": [
+        "comparison",
+        "branded"
+      ]
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.measure.gsc-genai",
+    "label": "Google Search Console opted into generative AI features",
+    "layer": "citation",
+    "stage": "measure",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "The Generative AI performance report (AI Overviews / AI Mode impressions) requires opting the property into generative AI features \u2014 without it you are optimizing blind.",
+    "evidence": [
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Measurement lives in the GSC Generative AI performance report; opt-in required.",
+        "effect": null,
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "measurement",
+      "gsc"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.measure.bwt-ai",
+    "label": "Bing Webmaster Tools AI Performance / Citation Share enabled",
+    "layer": "citation",
+    "stage": "measure",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "BWT's AI Performance report tracks citations across Copilot and Bing AI summaries with Intent/Topic breakdowns \u2014 free ground truth for the Bing-fed engines.",
+    "evidence": [
+      {
+        "sourceId": "microsoft-bwt",
+        "finding": "AI Performance report (Feb 2026; Citation Share + Compare added June 2026) \u2014 enable on day one.",
+        "effect": null,
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "measurement",
+      "bing"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.measure.prompt-set",
+    "label": "A fixed 30\u201350 prompt buyer set tracked monthly across engines",
+    "layer": "citation",
+    "stage": "measure",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Track a fixed prompt set across ChatGPT, Perplexity, Gemini/AI Mode, Copilot, and Claude separately \u2014 engine source overlap is only ~14% and citations churn ~65% day-to-day, so single 'AI visibility scores' mislead.",
+    "evidence": [
+      {
+        "sourceId": "ahrefs-engine-divergence-2025",
+        "finding": "Only 14% of top-50 mentioned sources are shared across ChatGPT, Perplexity, and AI Overviews.",
+        "effect": "14% overlap",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "metavert-q4-2026",
+        "finding": "~65% of cited sources change from day to day \u2014 trendlines beat snapshots.",
+        "effect": "65% churn",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "wellows-citation-overlap-2026",
+        "finding": "Across five engines, 79.6% of cited sources appear on only one engine and just 0.31% on all five; only 2.35\u20132.45% of ChatGPT/Perplexity/AIO citations are shared by all three (Growth Memo, 3.7M citations).",
+        "effect": "0.31\u20132.45% multi-engine overlap",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "scoring-with-engine-2026",
+        "finding": "Mean pairwise cross-engine Jaccard 0.0079; same-engine URL turnover 67% within ~1 day.",
+        "effect": "Jaccard 0.0079; 67% daily turnover",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "measurement",
+      "prompts"
+    ],
+    "seobotRuleIds": [
+      "geo.citation-coverage"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17"
+  },
+  {
+    "id": "geo.measure.ai-referrers",
+    "label": "GA4 AI-referrer channel group and crawler log checks",
+    "layer": "citation",
+    "stage": "measure",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "AI referrals are small (~0.3% of traffic) but convert at multiples of organic \u2014 track chatgpt.com, perplexity.ai, copilot.microsoft.com, gemini.google.com referrers and watch server logs for 403/429s on Tier-1 crawlers.",
+    "evidence": [
+      {
+        "sourceId": "seer-perplexity-case",
+        "finding": "Perplexity referrals converted at 10.5% vs 1.76% Google organic on one B2B client; ChatGPT 15.9%.",
+        "effect": "10.5% vs 1.76%",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "adobe-analytics-2025",
+        "finding": "AI-referred retail conversions +31% vs non-AI; revenue per visit +254% YoY.",
+        "effect": "+31% conversion, +254% RPV",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "measurement",
+      "analytics"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Traffic share ~0.3% (geo-research \u00a710) \u2014 small but strategically tracked."
+  },
+  {
+    "id": "rel.local-signals",
+    "label": "Local entity signals (GBP, NAP consistency, reviews)",
+    "layer": "relevance",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Local intent is resolved by engines through business-profile data and consistency signals \u2014 the map layer of SEO has its own rules that site content alone cannot substitute for.",
+    "evidence": [],
+    "confidence": "low",
+    "effort": "M",
+    "tags": [
+      "local",
+      "gbp"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": [
+        "local"
+      ],
+      "questions": [
+        "local"
+      ]
+    },
+    "added": "2026-10-17",
+    "notes": "Practitioner standard for local verticals \u2014 awaiting quantified 2025\u201326 local-factor studies for evidence entries."
+  },
+  {
+    "id": "geo.extract.format-intent",
+    "label": "Format matched to query intent (lists for commercial, articles for informational)",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "The winning format depends on intent: commercial queries send ~41% of citations to listicles; informational queries send ~46% to articles. Format advantages are unstable \u2014 ChatGPT listicle citations fell ~30% MoM in Jan 2026 \u2014 so build for extraction, not for a format fashion.",
+    "evidence": [
+      {
+        "sourceId": "evertune-listicles-2026",
+        "finding": "63% of AI citations across six engines went to listicles; 71\u201386% of cited listicles also ranked organically.",
+        "effect": "63% listicle share",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "wix-format-study-2025",
+        "finding": "Commercial-intent queries: 40.86% of citations to listicles; informational: 45.5% to articles.",
+        "effect": "41% / 45.5%",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seer-listicle-decline-2026",
+        "finding": "ChatGPT listicle citations dropped ~30% Dec 2025 \u2192 Jan 2026 while pages carrying fresh-year signals rose; structured/numbered formats survived.",
+        "effect": "\u221230% MoM",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "searchengineland-format-study-2026",
+        "finding": "Listicles + articles + product pages \u2248 52% of citations; intent decides which wins.",
+        "effect": "52% combined",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "formats",
+      "intent"
+    ],
+    "seobotRuleIds": [
+      "geo.aio-exposed-queries"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Format is a factor, not a rule. Vendor share numbers use different denominators (mention share vs URL share vs citation share) \u2014 never sum or average them."
+  },
+  {
+    "id": "geo.extract.semantic-html",
+    "label": "Clean semantic HTML (landmarks, real lists, heading hierarchy)",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Semantic, structured HTML improves extraction fidelity for both AI engines and agentic browsers; the strongest controlled evidence found 2.6\u00d7 citation rates for structured markup.",
+    "evidence": [
+      {
+        "sourceId": "beyond-blue-link-2026",
+        "finding": "Structured HTML yielded 2.6\u00d7 citation rates and 4.0\u00d7 extraction fidelity (ACM Hypertext 2026).",
+        "effect": "2.6\u00d7 / 4.0\u00d7",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "geo16-arxiv-2025",
+        "finding": "Semantic HTML showed among the strongest citation associations in the GEO-16 framework across 1,702 citations.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "html",
+      "accessibility",
+      "agents"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Also the layer agentic browsers read (a11y tree/DOM) \u2014 helps humans, crawlers, and agents at once."
+  },
+  {
+    "id": "rel.canonical-consistency",
+    "label": "Canonical URL present and self-consistent",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Every indexable page declares a single canonical URL that matches its (redirect-resolved) address, preventing duplicate-content dilution.",
+    "evidence": [
+      {
+        "sourceId": "google-seo-starter-guide",
+        "finding": "Canonicalization is a core indexing signal; inconsistent or missing canonicals cause duplicate URLs to split ranking signals.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Only 29/59 (49%) of audited top sites' homepages exposed a canonical link in raw HTML; 30/59 did not.",
+        "effect": "49% adoption",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "canonical",
+      "indexation",
+      "duplicates"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Raw-HTML check (AI crawlers don't execute JS to discover canonical)."
+  },
+  {
+    "id": "rel.meta-description",
+    "label": "Meta description within length budget and unique per page",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A 120-160 character, unique meta description improves SERP snippet control and gives AI engines a ready-made passage to quote.",
+    "evidence": [
+      {
+        "sourceId": "google-seo-starter-guide",
+        "finding": "Meta descriptions are used for snippets; unique descriptions improve click-through and disambiguation.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Median meta-description length on audited top sites was ~126 chars; 21/59 (36%) had none or were empty in raw HTML.",
+        "effect": "64% adoption",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "metadata",
+      "snippets"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "rel.og-social-cards",
+    "label": "Open Graph + Twitter Card tags for social/AI preview",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "OG and Twitter Card metadata control how links render in social and chat surfaces, which increasingly feed AI answer engines' source previews.",
+    "evidence": [
+      {
+        "sourceId": "llmrefs-semantic-markup-2026",
+        "finding": "Semantic markup layers (HTML, ARIA, schema) each have distinct roles; social cards are the preview layer for citation surfaces.",
+        "effect": null,
+        "strength": "weak"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "OG title present on 38/59 (64%), OG description on 32/59 (54%), OG image on 28/59 (47%) in raw HTML.",
+        "effect": "47-64% adoption",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "opengraph",
+      "social",
+      "previews"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "rel.lang-charset",
+    "label": "HTML lang attribute and charset declared",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Declaring lang (and a UTF-8 charset) lets engines and AI systems identify language, apply correct tokenization, and avoid mojibake in extraction.",
+    "evidence": [
+      {
+        "sourceId": "webdev-semantic-html",
+        "finding": "Document language and encoding are baseline accessibility/i18n signals consumed by browsers, crawlers and assistive tech.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "lang present on 45/59 (76%); charset declared on 56/59 (95%) in raw HTML.",
+        "effect": "76% / 95% adoption",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "i18n",
+      "accessibility",
+      "metadata"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "geo.render.landmarks",
+    "label": "Semantic landmark elements (main, nav, header, footer, article)",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Landmark elements let AI extractors and agentic browsers identify the main content region and discard navigation/boilerplate.",
+    "evidence": [
+      {
+        "sourceId": "llmrefs-semantic-markup-2026",
+        "finding": "Sites with >70% semantic compliance achieved 2.8x higher citation rates in Perplexity and Gemini for entity queries than sites with <30% compliance (Momentic 2026 analysis).",
+        "effect": "2.8x citations",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "netpeak-semantic-html",
+        "finding": "Using main/article/section instead of div containers lets crawlers delineate page hierarchy more clearly; 80%+ semantic markup indexes 25-40% quicker.",
+        "effect": "25-40% faster indexing",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Only 25/59 (42%) exposed <main>, 23/59 (39%) <nav>, 21/59 (36%) <header>, 23/59 (39%) <footer> in raw HTML; rendered counts were higher (JS-injected landmarks).",
+        "effect": "36-42% adoption raw",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "html",
+      "accessibility",
+      "agents",
+      "landmarks"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Distinct from geo.extract.semantic-html (general clean HTML); this factor is specifically about landmark regions that bound main content."
+  },
+  {
+    "id": "geo.render.heading-hierarchy",
+    "label": "Single H1 and valid heading sequence (no skipped levels)",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A single H1 declaring the primary topic with a non-skipping H2/H3 outline makes passage chunking and answer extraction reliable.",
+    "evidence": [
+      {
+        "sourceId": "llmrefs-semantic-markup-2026",
+        "finding": "Top pages nearly always include target keywords in H1 tags for semantic hierarchy (SE Ranking).",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Only 31/59 (53%) had exactly one H1 and 23/59 (39%) had a valid (non-skipping) heading sequence in raw HTML; rendered counts were similar or worse (30/57, 15/57).",
+        "effect": "53% single H1 / 39% valid sequence",
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "headings",
+      "chunking",
+      "outline"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Heading coverage is noisy on dynamic pages; normalize before publishing (per docs/data-assets \u00a76.2)."
+  },
+  {
+    "id": "geo.render.alt-text",
+    "label": "Descriptive alt text on content images",
+    "layer": "citation",
+    "stage": "render",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Alt text is the only machine-readable description of images for non-vision systems; missing alt makes image content unquotable.",
+    "evidence": [
+      {
+        "sourceId": "webdev-semantic-html",
+        "finding": "Alt text is required for image accessibility and is consumed by crawlers and AI vision pipelines as the text fallback.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Raw HTML: 43/1207 images (3.6%) had no alt; rendered pass had 116/2205 (5.3%) missing alt (JS-injected images are worse).",
+        "effect": "3.6-5.3% missing",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "images",
+      "accessibility",
+      "alt"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "geo.extract.skip-links",
+    "label": "Skip-to-main-content link present",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "geo"
+    ],
+    "gate": false,
+    "claim": "A skip link lets keyboard and agent users (and extractors) jump past repeated navigation to the main content.",
+    "evidence": [
+      {
+        "sourceId": "webdev-semantic-html",
+        "finding": "Skip links are a baseline accessibility pattern that also helps automated agents reach primary content faster.",
+        "effect": null,
+        "strength": "weak"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Only 11/59 (19%) of audited top sites exposed a skip-to-main link in raw HTML.",
+        "effect": "19% adoption",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "accessibility",
+      "agents",
+      "navigation"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "geo.extract.jsonld-parity",
+    "label": "JSON-LD matches visible page content (no schema spam)",
+    "layer": "citation",
+    "stage": "extract",
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Structured data must describe the page that actually renders; schema that contradicts visible content is ignored or penalized.",
+    "evidence": [
+      {
+        "sourceId": "ahrefs-schema-2026",
+        "finding": "Controlled test of schema markup vs AI citations (May 2026).",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "llmrefs-semantic-markup-2026",
+        "finding": "Field test: if a property doesn't match visible content, remove it until it does; schema spam and conflicting signals are anti-patterns.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "JSON-LD present on 19/59 (32%) raw and 21/57 (37%) rendered; types stable across passes where present, indicating mostly server-rendered schema.",
+        "effect": "32-37% adoption",
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "schema",
+      "jsonld",
+      "parity"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Extends geo.render.jsonld-raw (presence) with a parity/quality dimension."
+  },
+  {
+    "id": "ia.breadcrumbs",
+    "label": "Breadcrumbs in HTML plus BreadcrumbList schema",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Breadcrumbs expose site hierarchy to crawlers and give AI engines a machine-readable path from leaf page to category to home.",
+    "evidence": [
+      {
+        "sourceId": "google-seo-starter-guide",
+        "finding": "Breadcrumbs help users and search engines understand page position in site hierarchy; BreadcrumbList schema enables rich results.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-semantics-2026",
+        "finding": "Only 1/59 audited top sites exposed a breadcrumb nav in raw HTML; tables were similarly rare (2/59) on homepages.",
+        "effect": "~2% adoption on homepages",
+        "strength": "weak"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "S",
+    "tags": [
+      "ia",
+      "navigation",
+      "schema",
+      "breadcrumbs"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": "Homepage-only sample; breadcrumb adoption is expected to be higher on deep pages. Audit should check representative money pages."
+  },
+  {
+    "id": "ia.click-depth",
+    "label": "Important pages reachable within 3 clicks from home",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Keeping money pages within 3 hops of the homepage preserves crawl budget and ensures AI crawlers (which rarely paginate deep) can reach them.",
+    "evidence": [
+      {
+        "sourceId": "linkboss-ia-2026",
+        "finding": "Click depth should be capped at 3 hops from the homepage to protect crawlability and PageRank flow.",
+        "effect": "<=3 hops",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "brafton-internal-linking-2026",
+        "finding": "Internal links are the roads crawlers use to discover pages; orphaned or deep pages are effectively invisible.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "ia",
+      "crawl-depth",
+      "architecture"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "ia.hub-spoke",
+    "label": "Hub-and-spoke topic clusters with a pillar page",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Grouping supporting pages around a pillar page concentrates topical authority and gives AI engines a coherent entity cluster to cite.",
+    "evidence": [
+      {
+        "sourceId": "brafton-internal-linking-2026",
+        "finding": "Content clusters group a foundational pillar with supporting articles; the strongest internal links make sense to a reader.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "linkboss-ia-2026",
+        "finding": "Hub-and-spoke architecture is a 2026 internal-linking standard for establishing topical authority.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "L",
+    "tags": [
+      "ia",
+      "content-clusters",
+      "topical-authority"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "ia.orphan-pages",
+    "label": "No orphan pages (every indexable page has >=1 internal link)",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Pages with zero internal inlinks are effectively unreachable for crawlers and AI agents, regardless of sitemap inclusion.",
+    "evidence": [
+      {
+        "sourceId": "brafton-internal-linking-2026",
+        "finding": "A page with zero internal links is genuinely hard to find, for crawlers and humans alike.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "linkboss-ia-2026",
+        "finding": "Orphan page elimination is a documented 2026 internal-linking standard.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "ia",
+      "orphan",
+      "crawlability"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "ia.url-structure",
+    "label": "Clean, descriptive, hierarchical URLs",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Readable, hierarchical URLs (lowercase, hyphenated, no opaque IDs) improve crawl efficiency and serve as an entity signal in citations.",
+    "evidence": [
+      {
+        "sourceId": "google-seo-starter-guide",
+        "finding": "Simple, descriptive URLs help users and search engines; avoid complex parameters where possible.",
+        "effect": null,
+        "strength": "moderate"
+      }
+    ],
+    "confidence": "medium",
+    "effort": "M",
+    "tags": [
+      "ia",
+      "urls",
+      "structure"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "ia.navigation-persistence",
+    "label": "Persistent, crawlable primary navigation (real <a href>)",
+    "layer": "relevance",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "Primary navigation must be server-rendered anchor links; JS-only or button-based nav is invisible to non-rendering crawlers.",
+    "evidence": [
+      {
+        "sourceId": "brafton-internal-linking-2026",
+        "finding": "Google can generally crawl a link when it's a standard <a> element with an href; clickable elements that aren't coded as links break discovery.",
+        "effect": null,
+        "strength": "strong"
+      },
+      {
+        "sourceId": "vercel-merj-2025",
+        "finding": "Major AI crawlers execute zero JavaScript; navigation rendered only client-side is unreachable.",
+        "effect": null,
+        "strength": "strong"
+      }
+    ],
+    "confidence": "high",
+    "effort": "M",
+    "tags": [
+      "ia",
+      "navigation",
+      "crawlability",
+      "javascript"
+    ],
+    "seobotRuleIds": [
+      "idx.js-gated-content"
+    ],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  },
+  {
+    "id": "disc.sitemap-coverage",
+    "label": "XML sitemap covers all indexable pages",
+    "layer": "discover",
+    "stage": null,
+    "surface": [
+      "seo",
+      "geo"
+    ],
+    "gate": false,
+    "claim": "An XML sitemap listing every indexable URL (with lastmod) is the fallback discovery path when internal links miss pages.",
+    "evidence": [
+      {
+        "sourceId": "google-seo-starter-guide",
+        "finding": "Sitemaps help search engines discover and prioritize URLs, especially on large or new sites.",
+        "effect": null,
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "google-seo-starter-guide",
+        "finding": "Complements sitemap freshness (disc.sitemap-freshness) with a coverage dimension.",
+        "effect": null,
+        "strength": "weak"
+      }
+    ],
+    "confidence": "high",
+    "effort": "S",
+    "tags": [
+      "sitemap",
+      "discovery",
+      "indexation"
+    ],
+    "seobotRuleIds": [],
+    "appliesTo": {
+      "industries": "all",
+      "questions": "all"
+    },
+    "added": "2026-10-17",
+    "notes": null
+  }
+]

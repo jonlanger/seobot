@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "epa.gov",
+    "rank": 925,
+    "url": "https://epa.gov/",
+    "runAt": "2026-10-18T17:53:03.526Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2035,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.epa.gov/",
+      "bytes": 64962
+    },
+    "rendered": {
+      "title": "U.S. Environmental Protection Agency | US EPA",
+      "canonical": "https://www.epa.gov/home",
+      "words": 365,
+      "jsonLdTypes": [],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 294,
+      "renderedWords": 365,
+      "coverage": 73.2,
+      "rawOnlyTokens": 27,
+      "renderedOnlyTokens": 98,
+      "renderedOnlySample": [
+        "topicsairbed",
+        "bugschemicals",
+        "responseenvironmental",
+        "healthland",
+        "cleanupleadmoldradonresearchscience",
+        "topicswater",
+        "topicsa-z",
+        "regulationsby",
+        "sectorby",
+        "topiccomplianceenforcementguidancelaws",
+        "ordersregulations",
+        "violationenvironmental",
+        "violationsfraud",
+        "epaour",
+        "doheadquarters",
+        "officesregional",
+        "officeslabs",
+        "centersnewsroomplanning",
+        "resultsorganization",
+        "chartepa",
+        "slide",
+        "epa's",
+        "1234",
+        "survey",
+        "welcome"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 16,
+      "headingsCoverage": 84.2,
+      "titleDiffers": false,
+      "rawTitle": "U.S. Environmental Protection Agency | US EPA",
+      "renderedTitle": "U.S. Environmental Protection Agency | US EPA",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

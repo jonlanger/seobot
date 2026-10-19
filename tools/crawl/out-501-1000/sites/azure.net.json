@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "azure.net",
+    "rank": 1290,
+    "url": "https://azure.net/",
+    "runAt": "2026-10-18T18:08:19.407Z",
+    "robots": {
+      "status": 200,
+      "bytes": 465962,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://azure.microsoft.com/en-us",
+      "bytes": 465962
+    },
+    "rendered": {
+      "title": "Cloud Computing Services | Microsoft Azure",
+      "canonical": "https://azure.microsoft.com/en-us",
+      "words": 610,
+      "jsonLdTypes": [],
+      "headings": 43,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 687,
+      "renderedWords": 610,
+      "coverage": 73.1,
+      "rawOnlyTokens": 241,
+      "renderedOnlyTokens": 164,
+      "renderedOnlySample": [
+        "1e8734345b9a3eeca26d08f88fe2aef0",
+        "azuremicrosoft",
+        "foundryazure",
+        "copilotgithub",
+        "copilotazure",
+        "dbazure",
+        "postgresqlazure",
+        "arcmicrosoft",
+        "fabriclinux",
+        "modelsfoundry",
+        "servicefoundry",
+        "iqfoundry",
+        "toolsfoundry",
+        "planeobservability",
+        "planeazure",
+        "modelsazure",
+        "toolsazure",
+        "databasesazure",
+        "documentdbazure",
+        "sqlazure",
+        "redismicrosoft",
+        "fabricazure",
+        "azurewindows",
+        "azureazure",
+        "functionsazure"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 43,
+      "headingsAlsoInRaw": 40,
+      "headingsCoverage": 93,
+      "titleDiffers": false,
+      "rawTitle": "Cloud Computing Services | Microsoft Azure",
+      "renderedTitle": "Cloud Computing Services | Microsoft Azure",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

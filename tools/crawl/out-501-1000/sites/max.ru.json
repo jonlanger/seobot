@@ -1,0 +1,117 @@
+[
+  {
+    "domain": "max.ru",
+    "rank": 1241,
+    "url": "https://max.ru/",
+    "runAt": "2026-10-18T18:06:08.456Z",
+    "robots": {
+      "status": 200,
+      "bytes": 40,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://max.ru/",
+      "bytes": 41238
+    },
+    "rendered": {
+      "title": "MAX — быстрое и легкое приложение для общения и решения повседневных задач",
+      "canonical": "",
+      "words": 110,
+      "jsonLdTypes": [],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 110,
+      "renderedWords": 110,
+      "coverage": 99.1,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "жизни"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 28.6,
+      "titleDiffers": false,
+      "rawTitle": "MAX — быстрое и легкое приложение для общения и решения повседневных задач",
+      "renderedTitle": "MAX — быстрое и легкое приложение для общения и решения повседневных задач",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "weathernews.jp",
+    "rank": 1355,
+    "url": "https://weathernews.jp/",
+    "runAt": "2026-10-18T18:10:28.802Z",
+    "robots": {
+      "status": 200,
+      "bytes": 398,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://weathernews.jp/",
+      "bytes": 154979
+    },
+    "rendered": {
+      "title": "【ウェザーニュース】天気 - 台風・地震・防災情報｜予報精度No.1",
+      "canonical": "https://weathernews.jp/",
+      "words": 858,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 554,
+      "renderedWords": 858,
+      "coverage": 57,
+      "rawOnlyTokens": 65,
+      "renderedOnlyTokens": 369,
+      "renderedOnlySample": [
+        "ー台",
+        "報地",
+        "報警",
+        "報河",
+        "報2",
+        "気ラ",
+        "ラ天",
+        "図避",
+        "報風",
+        "ー雷",
+        "ー山",
+        "気花",
+        "報世",
+        "気ア",
+        "スお",
+        "スウ",
+        "p2",
+        "気世",
+        "気雨",
+        "ー雨",
+        "ー積",
+        "ー風",
+        "ー世",
+        "ー天",
+        "図過"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "【ウェザーニュース】天気 - 台風・地震・防災情報｜予報精度No.1",
+      "renderedTitle": "【ウェザーニュース】天気 - 台風・地震・防災情報｜予報精度No.1",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

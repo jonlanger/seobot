@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "oricon.co.jp",
+    "rank": 1364,
+    "url": "https://oricon.co.jp/",
+    "runAt": "2026-10-18T18:10:49.686Z",
+    "robots": {
+      "status": 429,
+      "bytes": 5856,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 429,
+      "finalUrl": "https://www.oricon.co.jp/",
+      "bytes": 5805
+    },
+    "rendered": {
+      "title": "Just a moment...",
+      "canonical": "",
+      "words": 30,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 30,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 30,
+      "renderedOnlySample": [
+        "www",
+        "oricon",
+        "jpperforming",
+        "security",
+        "verificationthis",
+        "website",
+        "uses",
+        "service",
+        "protect",
+        "against",
+        "malicious",
+        "bots",
+        "this",
+        "page",
+        "displayed",
+        "while",
+        "the",
+        "verifies",
+        "you",
+        "are",
+        "not",
+        "bot",
+        "verification",
+        "successful",
+        "waiting"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Just a moment...",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "flightradar24.com",
+    "rank": 1006,
+    "url": "https://flightradar24.com/",
+    "runAt": "2026-10-18T17:57:12.569Z",
+    "robots": {
+      "status": 200,
+      "bytes": 617,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.flightradar24.com/",
+      "bytes": 211416
+    },
+    "rendered": {
+      "title": "Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+      "canonical": "https://www.flightradar24.com/",
+      "words": 200,
+      "jsonLdTypes": [],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 45,
+      "renderedWords": 200,
+      "coverage": 18,
+      "rawOnlyTokens": 9,
+      "renderedOnlyTokens": 164,
+      "renderedOnlySample": [
+        "newslettercheck",
+        "bloglisten",
+        "podcastwatch",
+        "videoslog",
+        "in17",
+        "57utc",
+        "key",
+        "enter",
+        "search",
+        "see",
+        "all",
+        "keyboard",
+        "shortcutslog",
+        "move",
+        "left",
+        "right",
+        "down",
+        "zoom",
+        "in-zoom",
+        "outhomejump",
+        "endjump",
+        "page",
+        "upjump",
+        "downjump",
+        "sorry"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 50,
+      "titleDiffers": false,
+      "rawTitle": "Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+      "renderedTitle": "Flightradar24: Live Flight Tracker - Real-Time Flight Tracker Map | Flightradar24",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

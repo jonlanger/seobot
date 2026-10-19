@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "navitime.co.jp",
+    "rank": 1357,
+    "url": "https://navitime.co.jp/",
+    "runAt": "2026-10-18T18:10:33.750Z",
+    "robots": {
+      "status": 403,
+      "bytes": 919,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.navitime.co.jp/",
+      "bytes": 919
+    },
+    "rendered": {
+      "title": "ERROR: The request could not be satisfied",
+      "canonical": "",
+      "words": 45,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 44,
+      "renderedWords": 45,
+      "coverage": 95.6,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 2,
+      "renderedOnlySample": [
+        "n8kwlbrapzem01glyfi7zw",
+        "opjzcmpzpja9buqxfny8ar7zuk-mamw"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 2,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "ERROR: The request could not be satisfied",
+      "renderedTitle": "ERROR: The request could not be satisfied",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

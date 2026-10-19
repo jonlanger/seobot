@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "deepseek.com",
+    "rank": 1231,
+    "url": "https://deepseek.com/",
+    "runAt": "2026-10-18T18:05:44.170Z",
+    "robots": {
+      "status": 200,
+      "bytes": 70,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://deepseek.com/",
+      "bytes": 105971
+    },
+    "rendered": {
+      "title": "DeepSeek | Into the Unknown",
+      "canonical": "https://www.deepseek.com/en/",
+      "words": 87,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 168,
+      "renderedWords": 87,
+      "coverage": 0,
+      "rawOnlyTokens": 168,
+      "renderedOnlyTokens": 87,
+      "renderedOnlySample": [
+        "get",
+        "appscan",
+        "deepseek",
+        "app中文endeepseek",
+        "webdeepseek",
+        "harnessapi",
+        "platformapi",
+        "docsdownloadsjoin",
+        "us中文endeepseek",
+        "flash",
+        "has",
+        "been",
+        "updated",
+        "version",
+        "1-flash-1017",
+        "with",
+        "significantly",
+        "enhanced",
+        "project",
+        "development",
+        "capabilities",
+        "enabling",
+        "tasks",
+        "completed",
+        "lower"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "DeepSeek | 深度求索",
+      "renderedTitle": "DeepSeek | Into the Unknown",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "platform.sh",
+    "rank": 1394,
+    "url": "https://platform.sh/",
+    "runAt": "2026-10-18T18:11:49.069Z",
+    "robots": {
+      "status": 200,
+      "bytes": 78,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://upsun.com/",
+      "bytes": 492360
+    },
+    "rendered": {
+      "title": "The software factory for AI-human workflows | Upsun",
+      "canonical": "https://upsun.com/",
+      "words": 426,
+      "jsonLdTypes": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 410,
+      "renderedWords": 426,
+      "coverage": 57,
+      "rawOnlyTokens": 167,
+      "renderedOnlyTokens": 183,
+      "renderedOnlySample": [
+        "englishenglishfrançaisdeutschdocsloginupsun",
+        "dispatchupsun",
+        "clouddispatchthe",
+        "lineworkflowsrun",
+        "timesandboxesevery",
+        "disposabledeploy",
+        "anywhereplan",
+        "anywherethe",
+        "controlsaccess",
+        "managementdecide",
+        "whathuman",
+        "gateshuman",
+        "choosethe",
+        "recordaudit",
+        "trailevery",
+        "approvalcost",
+        "transparencywhat",
+        "workflowupsun",
+        "minutesdemothe",
+        "togethercloudthe",
+        "pipelineimage",
+        "typessingle-runtime",
+        "imagespreview",
+        "environmentsfull-stack",
+        "branchgit-driven"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "The software factory for AI-human workflows | Upsun",
+      "renderedTitle": "The software factory for AI-human workflows | Upsun",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

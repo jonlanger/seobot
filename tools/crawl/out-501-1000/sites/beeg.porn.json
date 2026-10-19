@@ -1,0 +1,135 @@
+[
+  {
+    "domain": "beeg.porn",
+    "rank": 1397,
+    "url": "https://beeg.porn/",
+    "runAt": "2026-10-18T18:11:53.740Z",
+    "robots": {
+      "status": 200,
+      "bytes": 73,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://beeg.porn/",
+      "bytes": 229446
+    },
+    "rendered": {
+      "title": "Free Porn Tube. Best Porn Videos From Tubes – Beeg.Porn",
+      "canonical": "https://beeg.porn/",
+      "words": 952,
+      "jsonLdTypes": [
+        "collectionpage",
+        "website"
+      ],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 953,
+      "renderedWords": 952,
+      "coverage": 98.9,
+      "rawOnlyTokens": 11,
+      "renderedOnlyTokens": 10,
+      "renderedOnlySample": [
+        "charmelle's",
+        "emmy's",
+        "snaps's",
+        "he's",
+        "q's",
+        "nympho's",
+        "mate's",
+        "nymph's",
+        "belle's",
+        "123"
+      ],
+      "jsonLdRaw": [
+        "collectionpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "collectionpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Tube. Best Porn Videos From Tubes &#8211; Beeg.Porn",
+      "renderedTitle": "Free Porn Tube. Best Porn Videos From Tubes – Beeg.Porn",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

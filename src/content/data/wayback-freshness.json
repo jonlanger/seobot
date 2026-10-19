@@ -1,0 +1,3507 @@
+{
+  "source": "Wayback Machine (archive.org)",
+  "url": "https://archive.org/wayback/available",
+  "pulledAt": "2026-10-18T18:54:13.650Z",
+  "rows": [
+    {
+      "domain": "163.com",
+      "available": true,
+      "timestamp": "20261018113310",
+      "url": "http://web.archive.org/web/20261018113310/https://www.163.com/",
+      "status": "200"
+    },
+    {
+      "domain": "2gis.com",
+      "available": true,
+      "timestamp": "20250513104742",
+      "url": "http://web.archive.org/web/20250513104742/https://2gis.com/",
+      "status": "200"
+    },
+    {
+      "domain": "360.cn",
+      "available": true,
+      "timestamp": "20261018173915",
+      "url": "http://web.archive.org/web/20261018173915/https://www.360.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "360yield.com",
+      "available": true,
+      "timestamp": "20160916064704",
+      "url": "http://web.archive.org/web/20160916064704/https://360yield.com/",
+      "status": "200"
+    },
+    {
+      "domain": "3gppnetwork.org",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "aboutads.info",
+      "available": true,
+      "timestamp": "20250819233734",
+      "url": "http://web.archive.org/web/20250819233734/http://www.aboutads.info./",
+      "status": "200"
+    },
+    {
+      "domain": "academia.edu",
+      "available": true,
+      "timestamp": "20261017071703",
+      "url": "http://web.archive.org/web/20261017071703/https://www.academia.edu/",
+      "status": "200"
+    },
+    {
+      "domain": "accuweather.com",
+      "available": true,
+      "timestamp": "20261018061218",
+      "url": "http://web.archive.org/web/20261018061218/https://www.accuweather.com/",
+      "status": "200"
+    },
+    {
+      "domain": "addtoany.com",
+      "available": true,
+      "timestamp": "20261016064018",
+      "url": "http://web.archive.org/web/20261016064018/https://www.addtoany.com/",
+      "status": "200"
+    },
+    {
+      "domain": "adobe.com",
+      "available": true,
+      "timestamp": "20261017020914",
+      "url": "http://web.archive.org/web/20261017020914/https://www.adobe.com/",
+      "status": "200"
+    },
+    {
+      "domain": "adobe.io",
+      "available": true,
+      "timestamp": "20220207101407",
+      "url": "http://web.archive.org/web/20220207101407/https://www.adobe.io/",
+      "status": "200"
+    },
+    {
+      "domain": "adriver.ru",
+      "available": true,
+      "timestamp": "20261013124557",
+      "url": "http://web.archive.org/web/20261013124557/https://www.adriver.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "afternic.com",
+      "available": true,
+      "timestamp": "20261017150347",
+      "url": "http://web.archive.org/web/20261017150347/https://www.afternic.com/",
+      "status": "200"
+    },
+    {
+      "domain": "agoda.com",
+      "available": true,
+      "timestamp": "20261018013633",
+      "url": "http://web.archive.org/web/20261018013633/https://www.agoda.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ailawandorder.com",
+      "available": true,
+      "timestamp": "20260601182215",
+      "url": "http://web.archive.org/web/20260601182215/https://ailawandorder.com/",
+      "status": "200"
+    },
+    {
+      "domain": "airbnb.com",
+      "available": true,
+      "timestamp": "20261017192722",
+      "url": "http://web.archive.org/web/20261017192722/https://www.airbnb.com/",
+      "status": "200"
+    },
+    {
+      "domain": "alibaba.com",
+      "available": true,
+      "timestamp": "20261017023130",
+      "url": "http://web.archive.org/web/20261017023130/https://www.alibaba.com/",
+      "status": "200"
+    },
+    {
+      "domain": "aliexpress.com",
+      "available": true,
+      "timestamp": "20261012165353",
+      "url": "http://web.archive.org/web/20261012165353/http://aliexpress.com/",
+      "status": "200"
+    },
+    {
+      "domain": "aliyun.com",
+      "available": true,
+      "timestamp": "20251118100615",
+      "url": "http://web.archive.org/web/20251118100615/https://www.aliyun.com/",
+      "status": "200"
+    },
+    {
+      "domain": "allaboutcookies.org",
+      "available": true,
+      "timestamp": "20261013140846",
+      "url": "http://web.archive.org/web/20261013140846/https://allaboutcookies.org./",
+      "status": "200"
+    },
+    {
+      "domain": "allegro.pl",
+      "available": true,
+      "timestamp": "20261005063939",
+      "url": "http://web.archive.org/web/20261005063939/https://allegro.pl/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.ca",
+      "available": true,
+      "timestamp": "20261018180803",
+      "url": "http://web.archive.org/web/20261018180803/https://www.amazon.ca/",
+      "status": "202"
+    },
+    {
+      "domain": "amazon.co.jp",
+      "available": true,
+      "timestamp": "20261018103906",
+      "url": "http://web.archive.org/web/20261018103906/https://www.amazon.co.jp/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.co.uk",
+      "available": true,
+      "timestamp": "20261018175126",
+      "url": "http://web.archive.org/web/20261018175126/https://www.amazon.co.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.co.za",
+      "available": true,
+      "timestamp": "20261013155423",
+      "url": "http://web.archive.org/web/20261013155423/https://www.amazon.co.za/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "amazon.com.br",
+      "available": true,
+      "timestamp": "20261018163910",
+      "url": "http://web.archive.org/web/20261018163910/https://www.amazon.com.br/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.de",
+      "available": true,
+      "timestamp": "20261018173307",
+      "url": "http://web.archive.org/web/20261018173307/https://www.amazon.de/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.es",
+      "available": true,
+      "timestamp": "20261017143807",
+      "url": "http://web.archive.org/web/20261017143807/https://www.amazon.es/",
+      "status": "202"
+    },
+    {
+      "domain": "amazon.fr",
+      "available": true,
+      "timestamp": "20261018140729",
+      "url": "http://web.archive.org/web/20261018140729/https://www.amazon.fr/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.in",
+      "available": true,
+      "timestamp": "20261018070636",
+      "url": "http://web.archive.org/web/20261018070636/https://www.amazon.in/",
+      "status": "200"
+    },
+    {
+      "domain": "amazon.it",
+      "available": true,
+      "timestamp": "20261018134243",
+      "url": "http://web.archive.org/web/20261018134243/https://www.amazon.it/",
+      "status": "200"
+    },
+    {
+      "domain": "amazonalexa.com",
+      "available": true,
+      "timestamp": "20130712150213",
+      "url": "http://web.archive.org/web/20130712150213/http://amazonalexa.com",
+      "status": "200"
+    },
+    {
+      "domain": "amazontrust.com",
+      "available": true,
+      "timestamp": "20261007043741",
+      "url": "http://web.archive.org/web/20261007043741/https://www.amazontrust.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ameblo.jp",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "amplitude.com",
+      "available": true,
+      "timestamp": "20261013154254",
+      "url": "http://web.archive.org/web/20261013154254/https://amplitude.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ampproject.org",
+      "available": true,
+      "timestamp": "20190408010849",
+      "url": "http://web.archive.org/web/20190408010849/https://www.ampproject.org/",
+      "status": "200"
+    },
+    {
+      "domain": "android.com",
+      "available": true,
+      "timestamp": "20261018023447",
+      "url": "http://web.archive.org/web/20261018023447/https://www.android.com/",
+      "status": "200"
+    },
+    {
+      "domain": "anthropic.com",
+      "available": true,
+      "timestamp": "20261018105156",
+      "url": "http://web.archive.org/web/20261018105156/https://www.anthropic.com/",
+      "status": "200"
+    },
+    {
+      "domain": "anydesk.com",
+      "available": true,
+      "timestamp": "20130518074408",
+      "url": "http://web.archive.org/web/20130518074408/http://anydesk.com/",
+      "status": "200"
+    },
+    {
+      "domain": "aol.com",
+      "available": true,
+      "timestamp": "20261018122207",
+      "url": "http://web.archive.org/web/20261018122207/https://www.aol.com/",
+      "status": "200"
+    },
+    {
+      "domain": "apache.org",
+      "available": true,
+      "timestamp": "20261013202129",
+      "url": "http://web.archive.org/web/20261013202129/https://www.apache.org/",
+      "status": "200"
+    },
+    {
+      "domain": "apnews.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "apple.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "archive.org",
+      "available": true,
+      "timestamp": "20261017041809",
+      "url": "http://web.archive.org/web/20261017041809/http://archive.org/",
+      "status": "200"
+    },
+    {
+      "domain": "arubanetworks.com",
+      "available": true,
+      "timestamp": "20250119074357",
+      "url": "http://web.archive.org/web/20250119074357/https://www.arubanetworks.com/",
+      "status": "200"
+    },
+    {
+      "domain": "arxiv.org",
+      "available": true,
+      "timestamp": "20261016114100",
+      "url": "http://web.archive.org/web/20261016114100/https://arxiv.org/",
+      "status": "200"
+    },
+    {
+      "domain": "asus.com",
+      "available": true,
+      "timestamp": "20261018143410",
+      "url": "http://web.archive.org/web/20261018143410/https://www.asus.com/",
+      "status": "200"
+    },
+    {
+      "domain": "atlassian.com",
+      "available": true,
+      "timestamp": "20261013124659",
+      "url": "http://web.archive.org/web/20261013124659/https://www.atlassian.com/",
+      "status": "200"
+    },
+    {
+      "domain": "att.com",
+      "available": true,
+      "timestamp": "20261015230800",
+      "url": "http://web.archive.org/web/20261015230800/https://www.att.com/",
+      "status": "200"
+    },
+    {
+      "domain": "autodesk.com",
+      "available": true,
+      "timestamp": "20261014180454",
+      "url": "http://web.archive.org/web/20261014180454/https://www.autodesk.com/",
+      "status": "200"
+    },
+    {
+      "domain": "avast.com",
+      "available": true,
+      "timestamp": "20240707055758",
+      "url": "http://web.archive.org/web/20240707055758/https://www3.avast.com/",
+      "status": "200"
+    },
+    {
+      "domain": "avito.ru",
+      "available": true,
+      "timestamp": "20261016124805",
+      "url": "http://web.archive.org/web/20261016124805/https://www.avito.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "baidu.com",
+      "available": true,
+      "timestamp": "20261018105150",
+      "url": "http://web.archive.org/web/20261018105150/https://www.baidu.com/",
+      "status": "200"
+    },
+    {
+      "domain": "bandcamp.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "bbc.co.uk",
+      "available": true,
+      "timestamp": "20261018082350",
+      "url": "http://web.archive.org/web/20261018082350/https://www.bbc.co.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "bbc.com",
+      "available": true,
+      "timestamp": "20261018062734",
+      "url": "http://web.archive.org/web/20261018062734/https://www.bbc.com/",
+      "status": "200"
+    },
+    {
+      "domain": "beget.ru",
+      "available": true,
+      "timestamp": "20221207071812",
+      "url": "http://web.archive.org/web/20221207071812/https://beget.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "behance.net",
+      "available": true,
+      "timestamp": "20261015071146",
+      "url": "http://web.archive.org/web/20261015071146/https://www.behance.net/",
+      "status": "200"
+    },
+    {
+      "domain": "beian.gov.cn",
+      "available": true,
+      "timestamp": "20221224035642",
+      "url": "http://web.archive.org/web/20221224035642/http://www.beian.gov.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "berkeley.edu",
+      "available": true,
+      "timestamp": "20261017040218",
+      "url": "http://web.archive.org/web/20261017040218/https://www.berkeley.edu/",
+      "status": "200"
+    },
+    {
+      "domain": "bestbuy.com",
+      "available": true,
+      "timestamp": "20261018151107",
+      "url": "http://web.archive.org/web/20261018151107/https://www.bestbuy.com/",
+      "status": "200"
+    },
+    {
+      "domain": "biblegateway.com",
+      "available": true,
+      "timestamp": "20261014203201",
+      "url": "http://web.archive.org/web/20261014203201/https://www.biblegateway.com/",
+      "status": "200"
+    },
+    {
+      "domain": "bild.de",
+      "available": true,
+      "timestamp": "20261018104923",
+      "url": "http://web.archive.org/web/20261018104923/https://www.bild.de/",
+      "status": "200"
+    },
+    {
+      "domain": "bilibili.com",
+      "available": true,
+      "timestamp": "20261018144203",
+      "url": "http://web.archive.org/web/20261018144203/https://www.bilibili.com/",
+      "status": "200"
+    },
+    {
+      "domain": "binance.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "bing.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "bitrix24.ru",
+      "available": true,
+      "timestamp": "20261013124807",
+      "url": "http://web.archive.org/web/20261013124807/https://www.bitrix24.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "blackberry.com",
+      "available": true,
+      "timestamp": "20240118203038",
+      "url": "http://web.archive.org/web/20240118203038/http://blackberry.com./",
+      "status": "200"
+    },
+    {
+      "domain": "blogger.com",
+      "available": true,
+      "timestamp": "20131102011108",
+      "url": "http://web.archive.org/web/20131102011108/https://www.blogger.com/",
+      "status": "200"
+    },
+    {
+      "domain": "blogspot.com",
+      "available": true,
+      "timestamp": "20260722074757",
+      "url": "http://web.archive.org/web/20260722074757/http://www001122334455.blogspot.com/",
+      "status": "200"
+    },
+    {
+      "domain": "bloomberg.com",
+      "available": true,
+      "timestamp": "20261013184701",
+      "url": "http://web.archive.org/web/20261013184701/https://www.bloomberg.com/",
+      "status": "200"
+    },
+    {
+      "domain": "bluehost.com",
+      "available": true,
+      "timestamp": "20261009213801",
+      "url": "http://web.archive.org/web/20261009213801/https://www.bluehost.com/",
+      "status": "200"
+    },
+    {
+      "domain": "booking.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "box.com",
+      "available": true,
+      "timestamp": "20261017001022",
+      "url": "http://web.archive.org/web/20261017001022/https://www.box.com/",
+      "status": "200"
+    },
+    {
+      "domain": "brave.com",
+      "available": true,
+      "timestamp": "20261018170815",
+      "url": "http://web.archive.org/web/20261018170815/https://brave.com/",
+      "status": "200"
+    },
+    {
+      "domain": "braze.com",
+      "available": true,
+      "timestamp": "20261004082725",
+      "url": "http://web.archive.org/web/20261004082725/https://www.braze.com/",
+      "status": "200"
+    },
+    {
+      "domain": "britannica.com",
+      "available": true,
+      "timestamp": "20261013182312",
+      "url": "http://web.archive.org/web/20261013182312/https://www.britannica.com/",
+      "status": "200"
+    },
+    {
+      "domain": "bsky.app",
+      "available": true,
+      "timestamp": "20261018163830",
+      "url": "http://web.archive.org/web/20261018163830/https://bsky.app/",
+      "status": "200"
+    },
+    {
+      "domain": "bugsnag.com",
+      "available": true,
+      "timestamp": "20260914094000",
+      "url": "http://web.archive.org/web/20260914094000/https://www.bugsnag.com/",
+      "status": "200"
+    },
+    {
+      "domain": "businessinsider.com",
+      "available": true,
+      "timestamp": "20261017080949",
+      "url": "http://web.archive.org/web/20261017080949/https://www.businessinsider.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ca.gov",
+      "available": true,
+      "timestamp": "20261017042142",
+      "url": "http://web.archive.org/web/20261017042142/https://www.ca.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "calendly.com",
+      "available": true,
+      "timestamp": "20261018001810",
+      "url": "http://web.archive.org/web/20261018001810/https://calendly.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cambridge.org",
+      "available": true,
+      "timestamp": "20261018085550",
+      "url": "http://web.archive.org/web/20261018085550/https://www.cambridge.org/",
+      "status": "204"
+    },
+    {
+      "domain": "canva.com",
+      "available": true,
+      "timestamp": "20261018130044",
+      "url": "http://web.archive.org/web/20261018130044/https://www.canva.com/",
+      "status": "200"
+    },
+    {
+      "domain": "capcut.com",
+      "available": true,
+      "timestamp": "20261017212559",
+      "url": "http://web.archive.org/web/20261017212559/https://www.capcut.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cbsnews.com",
+      "available": true,
+      "timestamp": "20261018154307",
+      "url": "http://web.archive.org/web/20261018154307/https://www.cbsnews.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cdc.gov",
+      "available": true,
+      "timestamp": "20261013115244",
+      "url": "http://web.archive.org/web/20261013115244/https://www2.cdc.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "chatgpt.com",
+      "available": true,
+      "timestamp": "20261018132557",
+      "url": "http://web.archive.org/web/20261018132557/https://chatgpt.com/",
+      "status": "200"
+    },
+    {
+      "domain": "chatgpt.site",
+      "available": true,
+      "timestamp": "20261007185134",
+      "url": "http://web.archive.org/web/20261007185134/http://chatgpt.site/",
+      "status": "200"
+    },
+    {
+      "domain": "checkpoint.com",
+      "available": true,
+      "timestamp": "20261012005556",
+      "url": "http://web.archive.org/web/20261012005556/https://www.checkpoint.com/",
+      "status": "200"
+    },
+    {
+      "domain": "chess.com",
+      "available": true,
+      "timestamp": "20261018175756",
+      "url": "http://web.archive.org/web/20261018175756/https://www.chess.com/",
+      "status": "200"
+    },
+    {
+      "domain": "chinamobile.com",
+      "available": true,
+      "timestamp": "20251218202005",
+      "url": "http://web.archive.org/web/20251218202005/https://www.chinamobile.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cisco.com",
+      "available": true,
+      "timestamp": "20261013182221",
+      "url": "http://web.archive.org/web/20261013182221/https://www.cisco.com/",
+      "status": "200"
+    },
+    {
+      "domain": "claude.ai",
+      "available": true,
+      "timestamp": "20261014004504",
+      "url": "http://web.archive.org/web/20261014004504/https://claude.ai/",
+      "status": "204"
+    },
+    {
+      "domain": "cloudflare.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "cloudflareinsights.com",
+      "available": true,
+      "timestamp": "20260814234420",
+      "url": "http://web.archive.org/web/20260814234420/https://cloudflareinsights.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cloudinary.com",
+      "available": true,
+      "timestamp": "20261018065412",
+      "url": "http://web.archive.org/web/20261018065412/https://cloudinary.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cm.com",
+      "available": true,
+      "timestamp": "20261008124809",
+      "url": "http://web.archive.org/web/20261008124809/https://www.cm.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cnbc.com",
+      "available": true,
+      "timestamp": "20261018004727",
+      "url": "http://web.archive.org/web/20261018004727/https://www.cnbc.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cnet.com",
+      "available": true,
+      "timestamp": "20261017011857",
+      "url": "http://web.archive.org/web/20261017011857/https://www.cnet.com/",
+      "status": "200"
+    },
+    {
+      "domain": "cnn.com",
+      "available": true,
+      "timestamp": "20261018110918",
+      "url": "http://web.archive.org/web/20261018110918/https://www.cnn.com/",
+      "status": "200"
+    },
+    {
+      "domain": "consultant.ru",
+      "available": true,
+      "timestamp": "20261018141321",
+      "url": "http://web.archive.org/web/20261018141321/https://www.consultant.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "cookiedatabase.org",
+      "available": true,
+      "timestamp": "20261013120738",
+      "url": "http://web.archive.org/web/20261013120738/https://www.cookiedatabase.org./",
+      "status": "200"
+    },
+    {
+      "domain": "cookielaw.org",
+      "available": true,
+      "timestamp": "20241017064021",
+      "url": "http://web.archive.org/web/20241017064021/https://www.cookielaw.org/",
+      "status": "200"
+    },
+    {
+      "domain": "cornell.edu",
+      "available": true,
+      "timestamp": "20261017075339",
+      "url": "http://web.archive.org/web/20261017075339/https://www.cornell.edu/",
+      "status": "200"
+    },
+    {
+      "domain": "cpanel.net",
+      "available": true,
+      "timestamp": "20261017221539",
+      "url": "http://web.archive.org/web/20261017221539/https://www.cpanel.net/",
+      "status": "200"
+    },
+    {
+      "domain": "craigslist.org",
+      "available": true,
+      "timestamp": "20080518031847",
+      "url": "http://web.archive.org/web/20080518031847/http://www.craigslist.org./",
+      "status": "200"
+    },
+    {
+      "domain": "crashlytics.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "creativecommons.org",
+      "available": true,
+      "timestamp": "20261016202013",
+      "url": "http://web.archive.org/web/20261016202013/https://creativecommons.org/",
+      "status": "200"
+    },
+    {
+      "domain": "crpt.ru",
+      "available": true,
+      "timestamp": "20261010154544",
+      "url": "http://web.archive.org/web/20261010154544/https://crpt.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "cursor.sh",
+      "available": true,
+      "timestamp": "20240531222310",
+      "url": "http://web.archive.org/web/20240531222310/https://cursor.sh/",
+      "status": "200"
+    },
+    {
+      "domain": "dailymail.co.uk",
+      "available": true,
+      "timestamp": "20260420190422",
+      "url": "http://web.archive.org/web/20260420190422/https://www.dailymail.co.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "dailymail.com",
+      "available": true,
+      "timestamp": "20260515222126",
+      "url": "http://web.archive.org/web/20260515222126/http://www.dailymail.com/",
+      "status": "200"
+    },
+    {
+      "domain": "dailymotion.com",
+      "available": true,
+      "timestamp": "20261017022644",
+      "url": "http://web.archive.org/web/20261017022644/https://www.dailymotion.com/",
+      "status": "200"
+    },
+    {
+      "domain": "datadoghq.com",
+      "available": true,
+      "timestamp": "20261015151224",
+      "url": "http://web.archive.org/web/20261015151224/https://www.datadoghq.com/",
+      "status": "200"
+    },
+    {
+      "domain": "debian.org",
+      "available": true,
+      "timestamp": "20261017222819",
+      "url": "http://web.archive.org/web/20261017222819/https://www.debian.org/",
+      "status": "200"
+    },
+    {
+      "domain": "deepl.com",
+      "available": true,
+      "timestamp": "20161004222655",
+      "url": "http://web.archive.org/web/20161004222655/http://deepl.com/",
+      "status": "200"
+    },
+    {
+      "domain": "dell.com",
+      "available": true,
+      "timestamp": "20250316225640",
+      "url": "http://web.archive.org/web/20250316225640/https://www.dell.com/",
+      "status": "200"
+    },
+    {
+      "domain": "deviantart.com",
+      "available": true,
+      "timestamp": "20261018091150",
+      "url": "http://web.archive.org/web/20261018091150/https://www.deviantart.com/",
+      "status": "200"
+    },
+    {
+      "domain": "digicert.com",
+      "available": true,
+      "timestamp": "20261016003315",
+      "url": "http://web.archive.org/web/20261016003315/https://www.digicert.com/",
+      "status": "200"
+    },
+    {
+      "domain": "digitalocean.com",
+      "available": true,
+      "timestamp": "20261015211456",
+      "url": "http://web.archive.org/web/20261015211456/https://www.digitalocean.com/",
+      "status": "200"
+    },
+    {
+      "domain": "discogs.com",
+      "available": true,
+      "timestamp": "20261013164111",
+      "url": "http://web.archive.org/web/20261013164111/https://www.discogs.com/",
+      "status": "200"
+    },
+    {
+      "domain": "discord.com",
+      "available": true,
+      "timestamp": "20261018094619",
+      "url": "http://web.archive.org/web/20261018094619/https://discord.com/",
+      "status": "200"
+    },
+    {
+      "domain": "discord.gg",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "disneyplus.com",
+      "available": true,
+      "timestamp": "20261018123940",
+      "url": "http://web.archive.org/web/20261018123940/https://www.disneyplus.com/",
+      "status": "200"
+    },
+    {
+      "domain": "docker.com",
+      "available": true,
+      "timestamp": "20261016160306",
+      "url": "http://web.archive.org/web/20261016160306/https://www.docker.com/",
+      "status": "200"
+    },
+    {
+      "domain": "doi.org",
+      "available": true,
+      "timestamp": "20261017164243",
+      "url": "http://web.archive.org/web/20261017164243/https://www.doi.org/",
+      "status": "200"
+    },
+    {
+      "domain": "dotaplabs.net",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "dreamhost.com",
+      "available": true,
+      "timestamp": "20261017152627",
+      "url": "http://web.archive.org/web/20261017152627/https://www.dreamhost.com/",
+      "status": "200"
+    },
+    {
+      "domain": "drom.ru",
+      "available": true,
+      "timestamp": "20261014001805",
+      "url": "http://web.archive.org/web/20261014001805/https://www.drom.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "dropbox.com",
+      "available": true,
+      "timestamp": "20261018182053",
+      "url": "http://web.archive.org/web/20261018182053/https://www.dropbox.com/",
+      "status": "200"
+    },
+    {
+      "domain": "dropcatch.com",
+      "available": true,
+      "timestamp": "20260930035334",
+      "url": "http://web.archive.org/web/20260930035334/https://www.dropcatch.com/",
+      "status": "200"
+    },
+    {
+      "domain": "duckduckgo.com",
+      "available": true,
+      "timestamp": "20261018171251",
+      "url": "http://web.archive.org/web/20261018171251/https://duckduckgo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "duolingo.com",
+      "available": true,
+      "timestamp": "20261018031206",
+      "url": "http://web.archive.org/web/20261018031206/https://www.duolingo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "dynatrace.com",
+      "available": true,
+      "timestamp": "20261007192306",
+      "url": "http://web.archive.org/web/20261007192306/https://www.dynatrace.com/",
+      "status": "200"
+    },
+    {
+      "domain": "dzen.ru",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "ea.com",
+      "available": true,
+      "timestamp": "20261018181412",
+      "url": "http://web.archive.org/web/20261018181412/https://www.ea.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ebay.co.uk",
+      "available": true,
+      "timestamp": "20261007095338",
+      "url": "http://web.archive.org/web/20261007095338/https://www.ebay.co.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "ebay.com",
+      "available": true,
+      "timestamp": "20261018173053",
+      "url": "http://web.archive.org/web/20261018173053/http://ebay.com/",
+      "status": "204"
+    },
+    {
+      "domain": "elpais.com",
+      "available": true,
+      "timestamp": "20261017164105",
+      "url": "http://web.archive.org/web/20261017164105/https://elpais.com/",
+      "status": "200"
+    },
+    {
+      "domain": "endpoints.news",
+      "available": true,
+      "timestamp": "20261017080146",
+      "url": "http://web.archive.org/web/20261017080146/https://endpoints.news/",
+      "status": "200"
+    },
+    {
+      "domain": "epicgames.com",
+      "available": true,
+      "timestamp": "20231224104501",
+      "url": "http://web.archive.org/web/20231224104501/https://www.epicgames.com/",
+      "status": "202"
+    },
+    {
+      "domain": "erome.com",
+      "available": true,
+      "timestamp": "20261018043906",
+      "url": "http://web.archive.org/web/20261018043906/https://www.erome.com/",
+      "status": "200"
+    },
+    {
+      "domain": "eset.com",
+      "available": true,
+      "timestamp": "20261004161903",
+      "url": "http://web.archive.org/web/20261004161903/https://www.eset.com/",
+      "status": "200"
+    },
+    {
+      "domain": "espn.com",
+      "available": true,
+      "timestamp": "20261018121740",
+      "url": "http://web.archive.org/web/20261018121740/https://www.espn.com/",
+      "status": "204"
+    },
+    {
+      "domain": "etsy.com",
+      "available": true,
+      "timestamp": "20261018161034",
+      "url": "http://web.archive.org/web/20261018161034/https://www.etsy.com/",
+      "status": "200"
+    },
+    {
+      "domain": "europa.eu",
+      "available": true,
+      "timestamp": "20211118173805",
+      "url": "http://web.archive.org/web/20211118173805/https://europa.eu/",
+      "status": "200"
+    },
+    {
+      "domain": "eventbrite.com",
+      "available": true,
+      "timestamp": "20261017200800",
+      "url": "http://web.archive.org/web/20261017200800/https://www.eventbrite.com/",
+      "status": "200"
+    },
+    {
+      "domain": "example.com",
+      "available": true,
+      "timestamp": "20261017144033",
+      "url": "http://web.archive.org/web/20261017144033/https://www.example.com/",
+      "status": "200"
+    },
+    {
+      "domain": "expireddomains.com",
+      "available": true,
+      "timestamp": "20261013175600",
+      "url": "http://web.archive.org/web/20261013175600/https://expireddomains.com/",
+      "status": "200"
+    },
+    {
+      "domain": "eye4.cn",
+      "available": true,
+      "timestamp": "20250314161205",
+      "url": "http://web.archive.org/web/20250314161205/https://www.eye4.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "f5.com",
+      "available": true,
+      "timestamp": "20261012005727",
+      "url": "http://web.archive.org/web/20261012005727/https://www.f5.com/",
+      "status": "200"
+    },
+    {
+      "domain": "facebook.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "fandom.com",
+      "available": true,
+      "timestamp": "20261013182958",
+      "url": "http://web.archive.org/web/20261013182958/https://www.fandom.com/",
+      "status": "200"
+    },
+    {
+      "domain": "fast.com",
+      "available": true,
+      "timestamp": "20261018063626",
+      "url": "http://web.archive.org/web/20261018063626/https://fast.com/",
+      "status": "200"
+    },
+    {
+      "domain": "fda.gov",
+      "available": true,
+      "timestamp": "20261017075114",
+      "url": "http://web.archive.org/web/20261017075114/https://www.fda.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "firefox.com",
+      "available": true,
+      "timestamp": "20261013130804",
+      "url": "http://web.archive.org/web/20261013130804/https://www.firefox.com/",
+      "status": "200"
+    },
+    {
+      "domain": "fiverr.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "flickr.com",
+      "available": true,
+      "timestamp": "20261018165802",
+      "url": "http://web.archive.org/web/20261018165802/https://www.flickr.com/",
+      "status": "200"
+    },
+    {
+      "domain": "fontawesome.com",
+      "available": true,
+      "timestamp": "20261017171826",
+      "url": "http://web.archive.org/web/20261017171826/https://fontawesome.com/",
+      "status": "200"
+    },
+    {
+      "domain": "forbes.com",
+      "available": true,
+      "timestamp": "20261017151014",
+      "url": "http://web.archive.org/web/20261017151014/https://www.forbes.com/",
+      "status": "200"
+    },
+    {
+      "domain": "forms.gle",
+      "available": true,
+      "timestamp": "20260705211613",
+      "url": "http://web.archive.org/web/20260705211613/https://forms.gle/",
+      "status": "200"
+    },
+    {
+      "domain": "forter.com",
+      "available": true,
+      "timestamp": "20261012014826",
+      "url": "http://web.archive.org/web/20261012014826/https://www.forter.com/",
+      "status": "200"
+    },
+    {
+      "domain": "foxnews.com",
+      "available": true,
+      "timestamp": "20261018151026",
+      "url": "http://web.archive.org/web/20261018151026/https://www.foxnews.com/",
+      "status": "200"
+    },
+    {
+      "domain": "free.fr",
+      "available": true,
+      "timestamp": "20261014131553",
+      "url": "http://web.archive.org/web/20261014131553/https://www.free.fr/",
+      "status": "200"
+    },
+    {
+      "domain": "frontiersin.org",
+      "available": true,
+      "timestamp": "20261017082530",
+      "url": "http://web.archive.org/web/20261017082530/https://www.frontiersin.org/",
+      "status": "200"
+    },
+    {
+      "domain": "ft.com",
+      "available": true,
+      "timestamp": "20261018163213",
+      "url": "http://web.archive.org/web/20261018163213/https://www.ft.com/",
+      "status": "200"
+    },
+    {
+      "domain": "g.page",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "gamepass.com",
+      "available": true,
+      "timestamp": "20161222223723",
+      "url": "http://web.archive.org/web/20161222223723/http://gamepass.com:80/",
+      "status": "200"
+    },
+    {
+      "domain": "geobasket.ru",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "github.com",
+      "available": true,
+      "timestamp": "20261018173015",
+      "url": "http://web.archive.org/web/20261018173015/https://github.com/",
+      "status": "200"
+    },
+    {
+      "domain": "github.io",
+      "available": true,
+      "timestamp": "20230331032240",
+      "url": "http://web.archive.org/web/20230331032240/https://www5059109.github.io/",
+      "status": "200"
+    },
+    {
+      "domain": "gitlab.com",
+      "available": true,
+      "timestamp": "20250504101449",
+      "url": "http://web.archive.org/web/20250504101449/https://gitlab.com/",
+      "status": "200"
+    },
+    {
+      "domain": "globalsign.com",
+      "available": true,
+      "timestamp": "20141209122543",
+      "url": "http://web.archive.org/web/20141209122543/https://www.globalsign.com/",
+      "status": "200"
+    },
+    {
+      "domain": "globo.com",
+      "available": true,
+      "timestamp": "20261018120119",
+      "url": "http://web.archive.org/web/20261018120119/https://www.globo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "gnu.org",
+      "available": true,
+      "timestamp": "20261018011336",
+      "url": "http://web.archive.org/web/20261018011336/https://www.gnu.org/",
+      "status": "200"
+    },
+    {
+      "domain": "go.com",
+      "available": true,
+      "timestamp": "20261017093735",
+      "url": "http://web.archive.org/web/20261017093735/https://www.go.com/",
+      "status": "200"
+    },
+    {
+      "domain": "godaddy.com",
+      "available": true,
+      "timestamp": "20261017230619",
+      "url": "http://web.archive.org/web/20261017230619/https://www.godaddy.com/",
+      "status": "200"
+    },
+    {
+      "domain": "goodreads.com",
+      "available": true,
+      "timestamp": "20261018101327",
+      "url": "http://web.archive.org/web/20261018101327/https://www.goodreads.com/",
+      "status": "200"
+    },
+    {
+      "domain": "google.cn",
+      "available": true,
+      "timestamp": "20261018111023",
+      "url": "http://web.archive.org/web/20261018111023/http://www.google.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "google.co.uk",
+      "available": true,
+      "timestamp": "20250730002826",
+      "url": "http://web.archive.org/web/20250730002826/http://google.co.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "google.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "google.com.br",
+      "available": true,
+      "timestamp": "20250714160219",
+      "url": "http://web.archive.org/web/20250714160219/https://www.google.com.br/",
+      "status": "200"
+    },
+    {
+      "domain": "google.com.hk",
+      "available": true,
+      "timestamp": "20261013135811",
+      "url": "http://web.archive.org/web/20261013135811/https://www.google.com.hk/",
+      "status": "200"
+    },
+    {
+      "domain": "google.de",
+      "available": true,
+      "timestamp": "20250714173742",
+      "url": "http://web.archive.org/web/20250714173742/https://www.google.de/",
+      "status": "200"
+    },
+    {
+      "domain": "googleblog.com",
+      "available": true,
+      "timestamp": "20040412105307",
+      "url": "http://web.archive.org/web/20040412105307/http://googleblog.com:80/",
+      "status": "200"
+    },
+    {
+      "domain": "goskope.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "gosuslugi.ru",
+      "available": true,
+      "timestamp": "20261013180446",
+      "url": "http://web.archive.org/web/20261013180446/https://www.gosuslugi.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "grammarly.com",
+      "available": true,
+      "timestamp": "20261018074750",
+      "url": "http://web.archive.org/web/20261018074750/https://www.grammarly.com/",
+      "status": "200"
+    },
+    {
+      "domain": "grammarly.io",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "gravatar.com",
+      "available": true,
+      "timestamp": "20261017075251",
+      "url": "http://web.archive.org/web/20261017075251/https://gravatar.com/",
+      "status": "200"
+    },
+    {
+      "domain": "harvard.edu",
+      "available": true,
+      "timestamp": "20261016035459",
+      "url": "http://web.archive.org/web/20261016035459/https://www.harvard.edu/",
+      "status": "200"
+    },
+    {
+      "domain": "hcaptcha.com",
+      "available": true,
+      "timestamp": "20261017150315",
+      "url": "http://web.archive.org/web/20261017150315/https://www.hcaptcha.com/",
+      "status": "200"
+    },
+    {
+      "domain": "homedepot.com",
+      "available": true,
+      "timestamp": "20261018014521",
+      "url": "http://web.archive.org/web/20261018014521/https://www.homedepot.com/",
+      "status": "200"
+    },
+    {
+      "domain": "hostgator.com",
+      "available": true,
+      "timestamp": "20260925154055",
+      "url": "http://web.archive.org/web/20260925154055/https://www.hostgator.com/",
+      "status": "200"
+    },
+    {
+      "domain": "hostgator.com.br",
+      "available": true,
+      "timestamp": "20261017211027",
+      "url": "http://web.archive.org/web/20261017211027/https://www.hostgator.com.br/",
+      "status": "200"
+    },
+    {
+      "domain": "hotjar.com",
+      "available": true,
+      "timestamp": "20260809130158",
+      "url": "http://web.archive.org/web/20260809130158/https://www.hotjar.com/",
+      "status": "200"
+    },
+    {
+      "domain": "hp.com",
+      "available": true,
+      "timestamp": "20261011033135",
+      "url": "http://web.archive.org/web/20261011033135/https://www.hp.com/",
+      "status": "200"
+    },
+    {
+      "domain": "huawei.com",
+      "available": true,
+      "timestamp": "20110503011537",
+      "url": "http://web.archive.org/web/20110503011537/http://www.huawei.com/",
+      "status": "200"
+    },
+    {
+      "domain": "hubspot.com",
+      "available": true,
+      "timestamp": "20261017042144",
+      "url": "http://web.archive.org/web/20261017042144/https://www.hubspot.com/",
+      "status": "200"
+    },
+    {
+      "domain": "hugedomains.com",
+      "available": true,
+      "timestamp": "20261017020827",
+      "url": "http://web.archive.org/web/20261017020827/https://www.hugedomains.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ibm.com",
+      "available": true,
+      "timestamp": "20260218143924",
+      "url": "http://web.archive.org/web/20260218143924/http://ibm.com/",
+      "status": "200"
+    },
+    {
+      "domain": "icanhazip.com",
+      "available": true,
+      "timestamp": "20261017122235",
+      "url": "http://web.archive.org/web/20261017122235/https://icanhazip.com/",
+      "status": "200"
+    },
+    {
+      "domain": "icloud-content.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "ieee.org",
+      "available": true,
+      "timestamp": "20261015030317",
+      "url": "http://web.archive.org/web/20261015030317/https://www.ieee.org/",
+      "status": "202"
+    },
+    {
+      "domain": "ietf.org",
+      "available": true,
+      "timestamp": "20261014140439",
+      "url": "http://web.archive.org/web/20261014140439/https://www.ietf.org/",
+      "status": "200"
+    },
+    {
+      "domain": "iiko.it",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "ikea.com",
+      "available": true,
+      "timestamp": "20261017195710",
+      "url": "http://web.archive.org/web/20261017195710/https://www.ikea.com/",
+      "status": "200"
+    },
+    {
+      "domain": "imcmdb.net",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "imdb.com",
+      "available": true,
+      "timestamp": "20261018124427",
+      "url": "http://web.archive.org/web/20261018124427/https://www.imdb.com/",
+      "status": "200"
+    },
+    {
+      "domain": "imgur.com",
+      "available": true,
+      "timestamp": "20261013172801",
+      "url": "http://web.archive.org/web/20261013172801/https://imgur.com/",
+      "status": "200"
+    },
+    {
+      "domain": "immedia-semi.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "indeed.com",
+      "available": true,
+      "timestamp": "20261012132210",
+      "url": "http://web.archive.org/web/20261012132210/https://www.indeed.com/",
+      "status": "200"
+    },
+    {
+      "domain": "independent.co.uk",
+      "available": true,
+      "timestamp": "20261013182311",
+      "url": "http://web.archive.org/web/20261013182311/https://www.independent.co.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "indiatimes.com",
+      "available": true,
+      "timestamp": "20261017021001",
+      "url": "http://web.archive.org/web/20261017021001/https://www.indiatimes.com/",
+      "status": "200"
+    },
+    {
+      "domain": "instagram.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "intel.com",
+      "available": true,
+      "timestamp": "20261017150340",
+      "url": "http://web.archive.org/web/20261017150340/https://www.intel.com/",
+      "status": "200"
+    },
+    {
+      "domain": "intercom.io",
+      "available": true,
+      "timestamp": "20160906215431",
+      "url": "http://web.archive.org/web/20160906215431/https://www.intercom.io/",
+      "status": "200"
+    },
+    {
+      "domain": "intuit.com",
+      "available": true,
+      "timestamp": "20261013130150",
+      "url": "http://web.archive.org/web/20261013130150/https://www.intuit.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ipify.org",
+      "available": true,
+      "timestamp": "20261012144057",
+      "url": "http://web.archive.org/web/20261012144057/https://www.ipify.org/",
+      "status": "200"
+    },
+    {
+      "domain": "ipinfo.io",
+      "available": true,
+      "timestamp": "20261018091948",
+      "url": "http://web.archive.org/web/20261018091948/https://ipinfo.io/",
+      "status": "200"
+    },
+    {
+      "domain": "iso.org",
+      "available": true,
+      "timestamp": "20260816142452",
+      "url": "http://web.archive.org/web/20260816142452/http://iso.org/",
+      "status": "200"
+    },
+    {
+      "domain": "issuu.com",
+      "available": true,
+      "timestamp": "20261018121709",
+      "url": "http://web.archive.org/web/20261018121709/https://issuu.com/",
+      "status": "200"
+    },
+    {
+      "domain": "itch.io",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "ivi.ru",
+      "available": true,
+      "timestamp": "20261013130220",
+      "url": "http://web.archive.org/web/20261013130220/https://www.ivi.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "jotform.com",
+      "available": true,
+      "timestamp": "20261014133845",
+      "url": "http://web.archive.org/web/20261014133845/https://www.jotform.com/",
+      "status": "200"
+    },
+    {
+      "domain": "jquery.com",
+      "available": true,
+      "timestamp": "20261013130308",
+      "url": "http://web.archive.org/web/20261013130308/https://jquery.com/",
+      "status": "200"
+    },
+    {
+      "domain": "kaspersky-labs.com",
+      "available": true,
+      "timestamp": "20190327163715",
+      "url": "http://web.archive.org/web/20190327163715/http://www.kaspersky-labs.com/",
+      "status": "200"
+    },
+    {
+      "domain": "kaspersky.com",
+      "available": true,
+      "timestamp": "20261013184545",
+      "url": "http://web.archive.org/web/20261013184545/https://www.kaspersky.com/",
+      "status": "200"
+    },
+    {
+      "domain": "kick.com",
+      "available": true,
+      "timestamp": "20261017193751",
+      "url": "http://web.archive.org/web/20261017193751/https://kick.com/",
+      "status": "200"
+    },
+    {
+      "domain": "klaviyo.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "launchdarkly.com",
+      "available": true,
+      "timestamp": "20261013032000",
+      "url": "http://web.archive.org/web/20261013032000/https://launchdarkly.com/",
+      "status": "200"
+    },
+    {
+      "domain": "launchpad.net",
+      "available": true,
+      "timestamp": "20261013130416",
+      "url": "http://web.archive.org/web/20261013130416/https://launchpad.net/",
+      "status": "200"
+    },
+    {
+      "domain": "lemonde.fr",
+      "available": true,
+      "timestamp": "20261017075330",
+      "url": "http://web.archive.org/web/20261017075330/https://www.lemonde.fr/",
+      "status": "200"
+    },
+    {
+      "domain": "lencr.org",
+      "available": true,
+      "timestamp": "20210414130428",
+      "url": "http://web.archive.org/web/20210414130428/https://lencr.org/",
+      "status": "200"
+    },
+    {
+      "domain": "lenovo.com",
+      "available": true,
+      "timestamp": "20250729013506",
+      "url": "http://web.archive.org/web/20250729013506/http://lenovo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "life360.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "line.me",
+      "available": true,
+      "timestamp": "20250821062414",
+      "url": "http://web.archive.org/web/20250821062414/https://www.line.me/",
+      "status": "200"
+    },
+    {
+      "domain": "linkedin.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "linktr.ee",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "linode.com",
+      "available": true,
+      "timestamp": "20261013130514",
+      "url": "http://web.archive.org/web/20261013130514/https://www.linode.com/",
+      "status": "200"
+    },
+    {
+      "domain": "livejournal.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "loc.gov",
+      "available": true,
+      "timestamp": "20261017020926",
+      "url": "http://web.archive.org/web/20261017020926/https://www.loc.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "macromedia.com",
+      "available": true,
+      "timestamp": "20131024225000",
+      "url": "http://web.archive.org/web/20131024225000/http://www.macromedia.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mail.ru",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "mailchimp.com",
+      "available": true,
+      "timestamp": "20261017050303",
+      "url": "http://web.archive.org/web/20261017050303/https://mailchimp.com/",
+      "status": "200"
+    },
+    {
+      "domain": "markmonitor.com",
+      "available": true,
+      "timestamp": "20261016031411",
+      "url": "http://web.archive.org/web/20261016031411/https://www.markmonitor.com/",
+      "status": "200"
+    },
+    {
+      "domain": "marriott.com",
+      "available": true,
+      "timestamp": "20251018122612",
+      "url": "http://web.archive.org/web/20251018122612/http://marriott.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mcafee.com",
+      "available": true,
+      "timestamp": "20261014035427",
+      "url": "http://web.archive.org/web/20261014035427/https://www.mcafee.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mckinsey.com",
+      "available": true,
+      "timestamp": "20261013034347",
+      "url": "http://web.archive.org/web/20261013034347/https://www.mckinsey.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mdpi.com",
+      "available": true,
+      "timestamp": "20261017075338",
+      "url": "http://web.archive.org/web/20261017075338/https://www.mdpi.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mediafire.com",
+      "available": true,
+      "timestamp": "20261018155222",
+      "url": "http://web.archive.org/web/20261018155222/https://www.mediafire.com/",
+      "status": "204"
+    },
+    {
+      "domain": "mediatek.com",
+      "available": true,
+      "timestamp": "20261012224054",
+      "url": "http://web.archive.org/web/20261012224054/https://www.mediatek.com/",
+      "status": "200"
+    },
+    {
+      "domain": "medium.com",
+      "available": true,
+      "timestamp": "20261017091313",
+      "url": "http://web.archive.org/web/20261017091313/https://medium.com/",
+      "status": "204"
+    },
+    {
+      "domain": "mega.co.nz",
+      "available": true,
+      "timestamp": "20261013170247",
+      "url": "http://web.archive.org/web/20261013170247/https://mega.co.nz/",
+      "status": "200"
+    },
+    {
+      "domain": "meraki.com",
+      "available": true,
+      "timestamp": "20160731195137",
+      "url": "http://web.archive.org/web/20160731195137/https://www.meraki.com/",
+      "status": "200"
+    },
+    {
+      "domain": "merriam-webster.com",
+      "available": true,
+      "timestamp": "20261013144103",
+      "url": "http://web.archive.org/web/20261013144103/https://www.merriam-webster.com/",
+      "status": "200"
+    },
+    {
+      "domain": "meta.com",
+      "available": true,
+      "timestamp": "20261018152216",
+      "url": "http://web.archive.org/web/20261018152216/https://www.meta.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mhverifier.ru",
+      "available": true,
+      "timestamp": "20250304150513",
+      "url": "http://web.archive.org/web/20250304150513/https://mhverifier.ru/",
+      "status": "204"
+    },
+    {
+      "domain": "mi.com",
+      "available": true,
+      "timestamp": "20251008053610",
+      "url": "http://web.archive.org/web/20251008053610/https://www.mi.com/",
+      "status": "200"
+    },
+    {
+      "domain": "microsoft.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "miit.gov.cn",
+      "available": true,
+      "timestamp": "20261016085419",
+      "url": "http://web.archive.org/web/20261016085419/https://www.miit.gov.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "mikrotik.com",
+      "available": true,
+      "timestamp": "20261018015139",
+      "url": "http://web.archive.org/web/20261018015139/https://mikrotik.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mit.edu",
+      "available": true,
+      "timestamp": "20261012021737",
+      "url": "http://web.archive.org/web/20261012021737/https://www.mit.edu/",
+      "status": "200"
+    },
+    {
+      "domain": "miui.com",
+      "available": true,
+      "timestamp": "20200417215928",
+      "url": "http://web.archive.org/web/20200417215928/http://www.miui.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mixpanel.com",
+      "available": true,
+      "timestamp": "20251118010922",
+      "url": "http://web.archive.org/web/20251118010922/https://mixpanel.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mlb.com",
+      "available": true,
+      "timestamp": "20261017164229",
+      "url": "http://web.archive.org/web/20261017164229/https://www.mlb.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mobile.de",
+      "available": true,
+      "timestamp": "20260713000540",
+      "url": "http://web.archive.org/web/20260713000540/https://www.mobile.de/",
+      "status": "200"
+    },
+    {
+      "domain": "mozilla.com",
+      "available": true,
+      "timestamp": "20260729051356",
+      "url": "http://web.archive.org/web/20260729051356/http://www.mozilla.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mozilla.org",
+      "available": true,
+      "timestamp": "20261013153157",
+      "url": "http://web.archive.org/web/20261013153157/https://www.mozilla.org/",
+      "status": "200"
+    },
+    {
+      "domain": "msn.com",
+      "available": true,
+      "timestamp": "20261018000324",
+      "url": "http://web.archive.org/web/20261018000324/https://www.msn.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mts.ru",
+      "available": true,
+      "timestamp": "20240619173848",
+      "url": "http://web.archive.org/web/20240619173848/https://mts.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "my.com",
+      "available": true,
+      "timestamp": "20230428084819",
+      "url": "http://web.archive.org/web/20230428084819/https://my.com/",
+      "status": "200"
+    },
+    {
+      "domain": "myspace.com",
+      "available": true,
+      "timestamp": "20261017202956",
+      "url": "http://web.archive.org/web/20261017202956/https://myspace.com/",
+      "status": "200"
+    },
+    {
+      "domain": "mysql.com",
+      "available": true,
+      "timestamp": "20261013130841",
+      "url": "http://web.archive.org/web/20261013130841/https://www.mysql.com/",
+      "status": "200"
+    },
+    {
+      "domain": "name.com",
+      "available": true,
+      "timestamp": "20261017001821",
+      "url": "http://web.archive.org/web/20261017001821/https://www.name.com/",
+      "status": "200"
+    },
+    {
+      "domain": "namecheap.com",
+      "available": true,
+      "timestamp": "20261013161111",
+      "url": "http://web.archive.org/web/20261013161111/https://www.namecheap.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nasa.gov",
+      "available": true,
+      "timestamp": "20261018142205",
+      "url": "http://web.archive.org/web/20261018142205/https://www.nasa.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "nature.com",
+      "available": true,
+      "timestamp": "20261017195710",
+      "url": "http://web.archive.org/web/20261017195710/https://www.nature.com/",
+      "status": "200"
+    },
+    {
+      "domain": "naver.com",
+      "available": true,
+      "timestamp": "20261018142307",
+      "url": "http://web.archive.org/web/20261018142307/https://www.naver.com/",
+      "status": "200"
+    },
+    {
+      "domain": "netease.com",
+      "available": true,
+      "timestamp": "20261013095226",
+      "url": "http://web.archive.org/web/20261013095226/http://netease.com/",
+      "status": "200"
+    },
+    {
+      "domain": "netflix.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "networkadvertising.org",
+      "available": true,
+      "timestamp": "20211104173906",
+      "url": "http://web.archive.org/web/20211104173906/https://www.networkadvertising.org/",
+      "status": "200"
+    },
+    {
+      "domain": "newrelic.com",
+      "available": true,
+      "timestamp": "20261015213504",
+      "url": "http://web.archive.org/web/20261015213504/https://newrelic.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nginx.com",
+      "available": true,
+      "timestamp": "20260801083614",
+      "url": "http://web.archive.org/web/20260801083614/http://nginx.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nginx.org",
+      "available": true,
+      "timestamp": "20261016072913",
+      "url": "http://web.archive.org/web/20261016072913/http://nginx.org/",
+      "status": "200"
+    },
+    {
+      "domain": "nic.ru",
+      "available": true,
+      "timestamp": "20261015224147",
+      "url": "http://web.archive.org/web/20261015224147/https://www.nic.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "nih.gov",
+      "available": true,
+      "timestamp": "20261015041304",
+      "url": "http://web.archive.org/web/20261015041304/https://www.nih.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "nike.com",
+      "available": true,
+      "timestamp": "20261015190751",
+      "url": "http://web.archive.org/web/20261015190751/https://www.nike.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nikkei.com",
+      "available": true,
+      "timestamp": "20261018143521",
+      "url": "http://web.archive.org/web/20261018143521/https://www.nikkei.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nintendo.com",
+      "available": true,
+      "timestamp": "20260515134407",
+      "url": "http://web.archive.org/web/20260515134407/https://www.nintendo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nist.gov",
+      "available": true,
+      "timestamp": "20261018030207",
+      "url": "http://web.archive.org/web/20261018030207/https://www.nist.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "no-ip.com",
+      "available": true,
+      "timestamp": "20130115083222",
+      "url": "http://web.archive.org/web/20130115083222/http://www.no-ip.com/",
+      "status": "200"
+    },
+    {
+      "domain": "noaa.gov",
+      "available": true,
+      "timestamp": "20261017164047",
+      "url": "http://web.archive.org/web/20261017164047/https://www.noaa.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "npr.org",
+      "available": true,
+      "timestamp": "20261018143601",
+      "url": "http://web.archive.org/web/20261018143601/https://www.npr.org/",
+      "status": "200"
+    },
+    {
+      "domain": "ntp.org",
+      "available": true,
+      "timestamp": "20261010235606",
+      "url": "http://web.archive.org/web/20261010235606/http://www.ntp.org/",
+      "status": "200"
+    },
+    {
+      "domain": "nvidia.com",
+      "available": true,
+      "timestamp": "20200115064412",
+      "url": "http://web.archive.org/web/20200115064412/https://www.nvidia.com/",
+      "status": "200"
+    },
+    {
+      "domain": "nytimes.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "ok.ru",
+      "available": true,
+      "timestamp": "20261016065412",
+      "url": "http://web.archive.org/web/20261016065412/https://ok.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "okta.com",
+      "available": true,
+      "timestamp": "20261014180228",
+      "url": "http://web.archive.org/web/20261014180228/https://www.okta.com/",
+      "status": "200"
+    },
+    {
+      "domain": "one.one",
+      "available": true,
+      "timestamp": "20191205042239",
+      "url": "http://web.archive.org/web/20191205042239/http://one.one/",
+      "status": "200"
+    },
+    {
+      "domain": "onelink.me",
+      "available": true,
+      "timestamp": "20141221202217",
+      "url": "http://web.archive.org/web/20141221202217/http://www.onelink.me/",
+      "status": "200"
+    },
+    {
+      "domain": "onetrust.com",
+      "available": true,
+      "timestamp": "20261013141717",
+      "url": "http://web.archive.org/web/20261013141717/https://www.onetrust.com/",
+      "status": "200"
+    },
+    {
+      "domain": "onlyfans.com",
+      "available": true,
+      "timestamp": "20261018155600",
+      "url": "http://web.archive.org/web/20261018155600/https://onlyfans.com/",
+      "status": "200"
+    },
+    {
+      "domain": "openai.com",
+      "available": true,
+      "timestamp": "20261018021028",
+      "url": "http://web.archive.org/web/20261018021028/https://openai.com/",
+      "status": "200"
+    },
+    {
+      "domain": "openstreetmap.org",
+      "available": true,
+      "timestamp": "20261018171818",
+      "url": "http://web.archive.org/web/20261018171818/https://www.openstreetmap.org/",
+      "status": "200"
+    },
+    {
+      "domain": "opera.com",
+      "available": true,
+      "timestamp": "20261018070453",
+      "url": "http://web.archive.org/web/20261018070453/https://www.opera.com/",
+      "status": "200"
+    },
+    {
+      "domain": "optimizely.com",
+      "available": true,
+      "timestamp": "20261013185455",
+      "url": "http://web.archive.org/web/20261013185455/https://www.optimizely.com/",
+      "status": "200"
+    },
+    {
+      "domain": "oracle.com",
+      "available": true,
+      "timestamp": "20261012234312",
+      "url": "http://web.archive.org/web/20261012234312/https://www.oracle.com/",
+      "status": "200"
+    },
+    {
+      "domain": "oup.com",
+      "available": true,
+      "timestamp": "20240329133654",
+      "url": "http://web.archive.org/web/20240329133654/https://www0.oup.com/",
+      "status": "200"
+    },
+    {
+      "domain": "outlook.com",
+      "available": true,
+      "timestamp": "20250508230822",
+      "url": "http://web.archive.org/web/20250508230822/http://agefriendlythunderbay@outlook.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ozon.ru",
+      "available": true,
+      "timestamp": "20260503180402",
+      "url": "http://web.archive.org/web/20260503180402/https://www.ozon.ru/",
+      "status": "204"
+    },
+    {
+      "domain": "ozone.ru",
+      "available": true,
+      "timestamp": "20031027133656",
+      "url": "http://web.archive.org/web/20031027133656/http://www.ozone.ru:80/",
+      "status": "200"
+    },
+    {
+      "domain": "pages.dev",
+      "available": true,
+      "timestamp": "20250417034344",
+      "url": "http://web.archive.org/web/20250417034344/https://www31.pages.dev/",
+      "status": "200"
+    },
+    {
+      "domain": "palmplaystore.com",
+      "available": true,
+      "timestamp": "20261008134304",
+      "url": "http://web.archive.org/web/20261008134304/https://www.palmplaystore.com/",
+      "status": "200"
+    },
+    {
+      "domain": "paloaltonetworks.com",
+      "available": true,
+      "timestamp": "20261012091615",
+      "url": "http://web.archive.org/web/20261012091615/https://www.paloaltonetworks.com/",
+      "status": "200"
+    },
+    {
+      "domain": "paypal.com",
+      "available": true,
+      "timestamp": "20251112103307",
+      "url": "http://web.archive.org/web/20251112103307/http://www.paypal.com/",
+      "status": "200"
+    },
+    {
+      "domain": "paytmfirstgames.com",
+      "available": true,
+      "timestamp": "20260606073418",
+      "url": "http://web.archive.org/web/20260606073418/https://paytmfirstgames.com/",
+      "status": "200"
+    },
+    {
+      "domain": "pendo.io",
+      "available": true,
+      "timestamp": "20261012161032",
+      "url": "http://web.archive.org/web/20261012161032/https://www.pendo.io/",
+      "status": "200"
+    },
+    {
+      "domain": "people.com",
+      "available": true,
+      "timestamp": "20261018022715",
+      "url": "http://web.archive.org/web/20261018022715/https://people.com/",
+      "status": "204"
+    },
+    {
+      "domain": "perplexity.ai",
+      "available": true,
+      "timestamp": "20261018181233",
+      "url": "http://web.archive.org/web/20261018181233/https://www.perplexity.ai/",
+      "status": "204"
+    },
+    {
+      "domain": "pexels.com",
+      "available": true,
+      "timestamp": "20261011220029",
+      "url": "http://web.archive.org/web/20261011220029/https://www.pexels.com/",
+      "status": "200"
+    },
+    {
+      "domain": "php.net",
+      "available": true,
+      "timestamp": "20261016143818",
+      "url": "http://web.archive.org/web/20261016143818/https://www.php.net/",
+      "status": "200"
+    },
+    {
+      "domain": "pikabu.ru",
+      "available": true,
+      "timestamp": "20261016160908",
+      "url": "http://web.archive.org/web/20261016160908/https://pikabu.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "pinterest.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "pixabay.com",
+      "available": true,
+      "timestamp": "20261015084558",
+      "url": "http://web.archive.org/web/20261015084558/https://pixabay.com/",
+      "status": "200"
+    },
+    {
+      "domain": "pki.goog",
+      "available": true,
+      "timestamp": "20261015000126",
+      "url": "http://web.archive.org/web/20261015000126/https://pki.goog/",
+      "status": "200"
+    },
+    {
+      "domain": "playstation.com",
+      "available": true,
+      "timestamp": "20250730004343",
+      "url": "http://web.archive.org/web/20250730004343/http://playstation.com/",
+      "status": "200"
+    },
+    {
+      "domain": "plesk.com",
+      "available": true,
+      "timestamp": "20261013120859",
+      "url": "http://web.archive.org/web/20261013120859/https://www.plesk.com/",
+      "status": "200"
+    },
+    {
+      "domain": "porkbun.com",
+      "available": true,
+      "timestamp": "20261017161948",
+      "url": "http://web.archive.org/web/20261017161948/https://porkbun.com/",
+      "status": "200"
+    },
+    {
+      "domain": "primevideo.com",
+      "available": true,
+      "timestamp": "20261016210839",
+      "url": "http://web.archive.org/web/20261016210839/https://www.primevideo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "prnewswire.com",
+      "available": true,
+      "timestamp": "20261017200827",
+      "url": "http://web.archive.org/web/20261017200827/https://www.prnewswire.com/",
+      "status": "200"
+    },
+    {
+      "domain": "publicnode.com",
+      "available": true,
+      "timestamp": "20261005114304",
+      "url": "http://web.archive.org/web/20261005114304/https://www.publicnode.com/",
+      "status": "200"
+    },
+    {
+      "domain": "pushy.io",
+      "available": true,
+      "timestamp": "20160823185302",
+      "url": "http://web.archive.org/web/20160823185302/http://www.pushy.io:80/",
+      "status": "200"
+    },
+    {
+      "domain": "python.org",
+      "available": true,
+      "timestamp": "20261018083232",
+      "url": "http://web.archive.org/web/20261018083232/https://www.python.org/",
+      "status": "200"
+    },
+    {
+      "domain": "qq.com",
+      "available": true,
+      "timestamp": "20261017163000",
+      "url": "http://web.archive.org/web/20261017163000/https://www.qq.com/",
+      "status": "200"
+    },
+    {
+      "domain": "quickconnect.to",
+      "available": true,
+      "timestamp": "20260918090212",
+      "url": "http://web.archive.org/web/20260918090212/https://www.quickconnect.to/",
+      "status": "200"
+    },
+    {
+      "domain": "quora.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "rakuten.co.jp",
+      "available": true,
+      "timestamp": "20261018074252",
+      "url": "http://web.archive.org/web/20261018074252/https://www.rakuten.co.jp/",
+      "status": "200"
+    },
+    {
+      "domain": "rakuten.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "reddit.com",
+      "available": true,
+      "timestamp": "20261018000221",
+      "url": "http://web.archive.org/web/20261018000221/https://www.reddit.com/",
+      "status": "200"
+    },
+    {
+      "domain": "redhat.com",
+      "available": true,
+      "timestamp": "20140815002103",
+      "url": "http://web.archive.org/web/20140815002103/http://www.redhat.com/",
+      "status": "200"
+    },
+    {
+      "domain": "reg.ru",
+      "available": true,
+      "timestamp": "20261013014721",
+      "url": "http://web.archive.org/web/20261013014721/https://www.reg.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "researchgate.net",
+      "available": true,
+      "timestamp": "20261017024310",
+      "url": "http://web.archive.org/web/20261017024310/https://www.researchgate.net/",
+      "status": "200"
+    },
+    {
+      "domain": "reuters.com",
+      "available": true,
+      "timestamp": "20261018124002",
+      "url": "http://web.archive.org/web/20261018124002/https://www.reuters.com/",
+      "status": "204"
+    },
+    {
+      "domain": "rfc-editor.org",
+      "available": true,
+      "timestamp": "20261017152206",
+      "url": "http://web.archive.org/web/20261017152206/https://www.rfc-editor.org/",
+      "status": "200"
+    },
+    {
+      "domain": "ring.com",
+      "available": true,
+      "timestamp": "20261017150540",
+      "url": "http://web.archive.org/web/20261017150540/https://ring.com/",
+      "status": "200"
+    },
+    {
+      "domain": "roblox.com",
+      "available": true,
+      "timestamp": "20261018053037",
+      "url": "http://web.archive.org/web/20261018053037/https://www.roblox.com/",
+      "status": "200"
+    },
+    {
+      "domain": "roku.com",
+      "available": true,
+      "timestamp": "20261013131528",
+      "url": "http://web.archive.org/web/20261013131528/https://www.roku.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sagepub.com",
+      "available": true,
+      "timestamp": "20261017164040",
+      "url": "http://web.archive.org/web/20261017164040/https://www.sagepub.com/",
+      "status": "200"
+    },
+    {
+      "domain": "salesforce.com",
+      "available": true,
+      "timestamp": "20261017044838",
+      "url": "http://web.archive.org/web/20261017044838/https://www.salesforce.com/",
+      "status": "200"
+    },
+    {
+      "domain": "samsung.com",
+      "available": true,
+      "timestamp": "20250729032714",
+      "url": "http://web.archive.org/web/20250729032714/http://www.samsung.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sberbank.ru",
+      "available": true,
+      "timestamp": "20261016021608",
+      "url": "http://web.archive.org/web/20261016021608/http://www.sberbank.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "sciencedirect.com",
+      "available": true,
+      "timestamp": "20261017072757",
+      "url": "http://web.archive.org/web/20261017072757/https://www.sciencedirect.com/",
+      "status": "200"
+    },
+    {
+      "domain": "scribd.com",
+      "available": true,
+      "timestamp": "20261018041148",
+      "url": "http://web.archive.org/web/20261018041148/https://www.scribd.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sedo.com",
+      "available": true,
+      "timestamp": "20091013050156",
+      "url": "http://web.archive.org/web/20091013050156/http://www.sedo.com:80/?",
+      "status": "200"
+    },
+    {
+      "domain": "selectel.ru",
+      "available": true,
+      "timestamp": "20261015194426",
+      "url": "http://web.archive.org/web/20261015194426/https://selectel.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "sentry.io",
+      "available": true,
+      "timestamp": "20160601194130",
+      "url": "http://web.archive.org/web/20160601194130/http://sentry.io:80/",
+      "status": "200"
+    },
+    {
+      "domain": "service.gov.uk",
+      "available": true,
+      "timestamp": "20260513124306",
+      "url": "http://web.archive.org/web/20260513124306/http://service.gov.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "seznam.cz",
+      "available": true,
+      "timestamp": "20261018092035",
+      "url": "http://web.archive.org/web/20261018092035/https://www.seznam.cz/",
+      "status": "200"
+    },
+    {
+      "domain": "share.google",
+      "available": true,
+      "timestamp": "20261015145828",
+      "url": "http://web.archive.org/web/20261015145828/https://share.google/",
+      "status": "200"
+    },
+    {
+      "domain": "shein.com",
+      "available": true,
+      "timestamp": "20261008134353",
+      "url": "http://web.archive.org/web/20261008134353/https://www.shein.com/",
+      "status": "200"
+    },
+    {
+      "domain": "shiabank.com",
+      "available": true,
+      "timestamp": "20250710014625",
+      "url": "http://web.archive.org/web/20250710014625/http://shiabank.com/",
+      "status": "200"
+    },
+    {
+      "domain": "shop.app",
+      "available": true,
+      "timestamp": "20261008094051",
+      "url": "http://web.archive.org/web/20261008094051/https://shop.app/",
+      "status": "200"
+    },
+    {
+      "domain": "shopee.co.id",
+      "available": true,
+      "timestamp": "20261013183611",
+      "url": "http://web.archive.org/web/20261013183611/https://shopee.co.id/",
+      "status": "200"
+    },
+    {
+      "domain": "shopee.com.br",
+      "available": true,
+      "timestamp": "20261018010001",
+      "url": "http://web.archive.org/web/20261018010001/https://shopee.com.br/",
+      "status": "200"
+    },
+    {
+      "domain": "shopify.com",
+      "available": true,
+      "timestamp": "20261018172522",
+      "url": "http://web.archive.org/web/20261018172522/https://www.shopify.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sina.com.cn",
+      "available": true,
+      "timestamp": "20261017164340",
+      "url": "http://web.archive.org/web/20261017164340/https://www.sina.com.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "skyhigh.cloud",
+      "available": true,
+      "timestamp": "20180804043919",
+      "url": "http://web.archive.org/web/20180804043919/http://skyhigh.cloud/",
+      "status": "200"
+    },
+    {
+      "domain": "skype.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "slack.com",
+      "available": true,
+      "timestamp": "20261016153451",
+      "url": "http://web.archive.org/web/20261016153451/https://slack.com/",
+      "status": "200"
+    },
+    {
+      "domain": "slideshare.net",
+      "available": true,
+      "timestamp": "20261017081331",
+      "url": "http://web.archive.org/web/20261017081331/https://www.slideshare.net/",
+      "status": "200"
+    },
+    {
+      "domain": "snapchat.com",
+      "available": true,
+      "timestamp": "20261018133850",
+      "url": "http://web.archive.org/web/20261018133850/https://www.snapchat.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sohu.com",
+      "available": true,
+      "timestamp": "20261017055856",
+      "url": "http://web.archive.org/web/20261017055856/https://www.sohu.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sophos.com",
+      "available": true,
+      "timestamp": "20110607234024",
+      "url": "http://web.archive.org/web/20110607234024/http://www.sophos.com/",
+      "status": "200"
+    },
+    {
+      "domain": "soundcloud.com",
+      "available": true,
+      "timestamp": "20261018103926",
+      "url": "http://web.archive.org/web/20261018103926/https://soundcloud.com/",
+      "status": "200"
+    },
+    {
+      "domain": "sourceforge.net",
+      "available": true,
+      "timestamp": "20261013131844",
+      "url": "http://web.archive.org/web/20261013131844/https://sourceforge.net/",
+      "status": "200"
+    },
+    {
+      "domain": "speedtest.net",
+      "available": true,
+      "timestamp": "20261018171720",
+      "url": "http://web.archive.org/web/20261018171720/https://www.speedtest.net/",
+      "status": "200"
+    },
+    {
+      "domain": "spotify.com",
+      "available": true,
+      "timestamp": "20230704022431",
+      "url": "http://web.archive.org/web/20230704022431/https://www.spotify.com/",
+      "status": "200"
+    },
+    {
+      "domain": "springer.com",
+      "available": true,
+      "timestamp": "20251208123437",
+      "url": "http://web.archive.org/web/20251208123437/https://www.springer.com/",
+      "status": "200"
+    },
+    {
+      "domain": "squarespace.com",
+      "available": true,
+      "timestamp": "20261016233245",
+      "url": "http://web.archive.org/web/20261016233245/https://www.squarespace.com/",
+      "status": "200"
+    },
+    {
+      "domain": "stackadapt.com",
+      "available": true,
+      "timestamp": "20261008125419",
+      "url": "http://web.archive.org/web/20261008125419/https://www.stackadapt.com/",
+      "status": "200"
+    },
+    {
+      "domain": "stackoverflow.com",
+      "available": true,
+      "timestamp": "20261015150517",
+      "url": "http://web.archive.org/web/20261015150517/https://stackoverflow.com/",
+      "status": "204"
+    },
+    {
+      "domain": "stanford.edu",
+      "available": true,
+      "timestamp": "20261017150054",
+      "url": "http://web.archive.org/web/20261017150054/https://www.stanford.edu/",
+      "status": "200"
+    },
+    {
+      "domain": "statista.com",
+      "available": true,
+      "timestamp": "20261013184353",
+      "url": "http://web.archive.org/web/20261013184353/https://www.statista.com/",
+      "status": "200"
+    },
+    {
+      "domain": "steamcommunity.com",
+      "available": true,
+      "timestamp": "20261018051825",
+      "url": "http://web.archive.org/web/20261018051825/https://steamcommunity.com/",
+      "status": "200"
+    },
+    {
+      "domain": "steampowered.com",
+      "available": true,
+      "timestamp": "20200108053322",
+      "url": "http://web.archive.org/web/20200108053322/https://steampowered.com/",
+      "status": "200"
+    },
+    {
+      "domain": "stripchat.com",
+      "available": true,
+      "timestamp": "20261013174148",
+      "url": "http://web.archive.org/web/20261013174148/https://stripchat.com/",
+      "status": "200"
+    },
+    {
+      "domain": "stripe.com",
+      "available": true,
+      "timestamp": "20261016104736",
+      "url": "http://web.archive.org/web/20261016104736/https://stripe.com/",
+      "status": "200"
+    },
+    {
+      "domain": "substack.com",
+      "available": true,
+      "timestamp": "20261018163307",
+      "url": "http://web.archive.org/web/20261018163307/https://substack.com/",
+      "status": "204"
+    },
+    {
+      "domain": "supercell.com",
+      "available": true,
+      "timestamp": "20261012193332",
+      "url": "http://web.archive.org/web/20261012193332/https://supercell.com/",
+      "status": "200"
+    },
+    {
+      "domain": "surveymonkey.com",
+      "available": true,
+      "timestamp": "20261013131942",
+      "url": "http://web.archive.org/web/20261013131942/https://www.surveymonkey.com/",
+      "status": "200"
+    },
+    {
+      "domain": "synology.com",
+      "available": true,
+      "timestamp": "20081006094045",
+      "url": "http://web.archive.org/web/20081006094045/http://www.synology.com/.",
+      "status": "200"
+    },
+    {
+      "domain": "t-online.de",
+      "available": true,
+      "timestamp": "20261018141957",
+      "url": "http://web.archive.org/web/20261018141957/https://www.t-online.de/",
+      "status": "200"
+    },
+    {
+      "domain": "t.me",
+      "available": true,
+      "timestamp": "20260215083540",
+      "url": "http://web.archive.org/web/20260215083540/https://t.me/",
+      "status": "200"
+    },
+    {
+      "domain": "tagomi.com",
+      "available": true,
+      "timestamp": "20240620003851",
+      "url": "http://web.archive.org/web/20240620003851/http://tagomi.com/",
+      "status": "200"
+    },
+    {
+      "domain": "tandfonline.com",
+      "available": true,
+      "timestamp": "20261017161546",
+      "url": "http://web.archive.org/web/20261017161546/https://www.tandfonline.com/",
+      "status": "204"
+    },
+    {
+      "domain": "taobao.com",
+      "available": true,
+      "timestamp": "20261018114820",
+      "url": "http://web.archive.org/web/20261018114820/https://www.taobao.com/",
+      "status": "200"
+    },
+    {
+      "domain": "target.com",
+      "available": true,
+      "timestamp": "20261018173351",
+      "url": "http://web.archive.org/web/20261018173351/https://www.target.com/",
+      "status": "200"
+    },
+    {
+      "domain": "teamviewer.com",
+      "available": true,
+      "timestamp": "20100529162557",
+      "url": "http://web.archive.org/web/20100529162557/http://www.teamviewer.com/",
+      "status": "200"
+    },
+    {
+      "domain": "techcrunch.com",
+      "available": true,
+      "timestamp": "20261018035525",
+      "url": "http://web.archive.org/web/20261018035525/https://techcrunch.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ted.com",
+      "available": true,
+      "timestamp": "20261016143431",
+      "url": "http://web.archive.org/web/20261016143431/https://www.ted.com/",
+      "status": "200"
+    },
+    {
+      "domain": "telegram.me",
+      "available": true,
+      "timestamp": "20141028202641",
+      "url": "http://web.archive.org/web/20141028202641/http://telegram.me/",
+      "status": "200"
+    },
+    {
+      "domain": "telegram.org",
+      "available": true,
+      "timestamp": "20261018161321",
+      "url": "http://web.archive.org/web/20261018161321/https://telegram.org/",
+      "status": "200"
+    },
+    {
+      "domain": "telegraph.co.uk",
+      "available": true,
+      "timestamp": "20261018151804",
+      "url": "http://web.archive.org/web/20261018151804/https://www.telegraph.co.uk/",
+      "status": "204"
+    },
+    {
+      "domain": "temu.com",
+      "available": true,
+      "timestamp": "20261017232154",
+      "url": "http://web.archive.org/web/20261017232154/https://www.temu.com/",
+      "status": "200"
+    },
+    {
+      "domain": "tencent.com",
+      "available": true,
+      "timestamp": "20261015083721",
+      "url": "http://web.archive.org/web/20261015083721/https://www.tencent.com/",
+      "status": "200"
+    },
+    {
+      "domain": "theguardian.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "theverge.com",
+      "available": true,
+      "timestamp": "20261018182449",
+      "url": "http://web.archive.org/web/20261018182449/https://www.theverge.com/",
+      "status": "200"
+    },
+    {
+      "domain": "threads.com",
+      "available": true,
+      "timestamp": "20261018173450",
+      "url": "http://web.archive.org/web/20261018173450/https://www.threads.com/",
+      "status": "200"
+    },
+    {
+      "domain": "tiktok.com",
+      "available": true,
+      "timestamp": "20261018112928",
+      "url": "http://web.archive.org/web/20261018112928/https://www.tiktok.com/",
+      "status": "200"
+    },
+    {
+      "domain": "time.com",
+      "available": true,
+      "timestamp": "20261018130029",
+      "url": "http://web.archive.org/web/20261018130029/https://time.com/",
+      "status": "200"
+    },
+    {
+      "domain": "timeweb.ru",
+      "available": true,
+      "timestamp": "20140205082832",
+      "url": "http://web.archive.org/web/20140205082832/http://www.timeweb.ru:80/",
+      "status": "200"
+    },
+    {
+      "domain": "tp-link.com",
+      "available": true,
+      "timestamp": "20160822043122",
+      "url": "http://web.archive.org/web/20160822043122/http://www.tp-link.com:80/",
+      "status": "200"
+    },
+    {
+      "domain": "tplinkcloud.com",
+      "available": true,
+      "timestamp": "20260830212508",
+      "url": "http://web.archive.org/web/20260830212508/https://www.tplinkcloud.com/",
+      "status": "200"
+    },
+    {
+      "domain": "tradingview.com",
+      "available": true,
+      "timestamp": "20261018165442",
+      "url": "http://web.archive.org/web/20261018165442/https://www.tradingview.com/",
+      "status": "200"
+    },
+    {
+      "domain": "trendmicro.com",
+      "available": true,
+      "timestamp": "20220429145102",
+      "url": "http://web.archive.org/web/20220429145102/https://www.trendmicro.com/",
+      "status": "200"
+    },
+    {
+      "domain": "tripadvisor.com",
+      "available": true,
+      "timestamp": "20261014194535",
+      "url": "http://web.archive.org/web/20261014194535/https://www.tripadvisor.com/",
+      "status": "200"
+    },
+    {
+      "domain": "triplinkintl.com",
+      "available": true,
+      "timestamp": "20261010190803",
+      "url": "http://web.archive.org/web/20261010190803/https://www.triplinkintl.com/",
+      "status": "200"
+    },
+    {
+      "domain": "trueconf.net",
+      "available": true,
+      "timestamp": "20241104100736",
+      "url": "http://web.archive.org/web/20241104100736/http://trueconf.net/",
+      "status": "200"
+    },
+    {
+      "domain": "trustpilot.com",
+      "available": true,
+      "timestamp": "20261013162001",
+      "url": "http://web.archive.org/web/20261013162001/https://www.trustpilot.com/",
+      "status": "200"
+    },
+    {
+      "domain": "tumblr.com",
+      "available": true,
+      "timestamp": "20261018052645",
+      "url": "http://web.archive.org/web/20261018052645/https://www.tumblr.com/",
+      "status": "200"
+    },
+    {
+      "domain": "twc.com",
+      "available": true,
+      "timestamp": "20170428192845",
+      "url": "http://web.archive.org/web/20170428192845/http://www.twc.com/",
+      "status": "200"
+    },
+    {
+      "domain": "twitch.tv",
+      "available": true,
+      "timestamp": "20261018112420",
+      "url": "http://web.archive.org/web/20261018112420/https://www.twitch.tv/",
+      "status": "200"
+    },
+    {
+      "domain": "twitter.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "uber.com",
+      "available": true,
+      "timestamp": "20261017065533",
+      "url": "http://web.archive.org/web/20261017065533/https://www.uber.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ubuntu.com",
+      "available": true,
+      "timestamp": "20261015230441",
+      "url": "http://web.archive.org/web/20261015230441/https://ubuntu.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ui.com",
+      "available": true,
+      "timestamp": "20261018004557",
+      "url": "http://web.archive.org/web/20261018004557/https://ui.com/",
+      "status": "200"
+    },
+    {
+      "domain": "un.org",
+      "available": true,
+      "timestamp": "20261016040229",
+      "url": "http://web.archive.org/web/20261016040229/https://www.un.org/",
+      "status": "200"
+    },
+    {
+      "domain": "unesco.org",
+      "available": true,
+      "timestamp": "20260516022950",
+      "url": "http://web.archive.org/web/20260516022950/http://unesco.org/",
+      "status": "200"
+    },
+    {
+      "domain": "unity3d.com",
+      "available": true,
+      "timestamp": "20190313143505",
+      "url": "http://web.archive.org/web/20190313143505/https://unity3d.com/",
+      "status": "200"
+    },
+    {
+      "domain": "unpkg.com",
+      "available": true,
+      "timestamp": "20261017075049",
+      "url": "http://web.archive.org/web/20261017075049/https://unpkg.com/",
+      "status": "200"
+    },
+    {
+      "domain": "unsplash.com",
+      "available": true,
+      "timestamp": "20261010031745",
+      "url": "http://web.archive.org/web/20261010031745/https://unsplash.com/",
+      "status": "200"
+    },
+    {
+      "domain": "uol.com.br",
+      "available": true,
+      "timestamp": "20261018160921",
+      "url": "http://web.archive.org/web/20261018160921/https://www.uol.com.br/",
+      "status": "200"
+    },
+    {
+      "domain": "ups.com",
+      "available": true,
+      "timestamp": "20261012062318",
+      "url": "http://web.archive.org/web/20261012062318/http://www.ups.com/",
+      "status": "200"
+    },
+    {
+      "domain": "usatoday.com",
+      "available": true,
+      "timestamp": "20261018151045",
+      "url": "http://web.archive.org/web/20261018151045/https://www.usatoday.com/",
+      "status": "200"
+    },
+    {
+      "domain": "usda.gov",
+      "available": true,
+      "timestamp": "20261017075107",
+      "url": "http://web.archive.org/web/20261017075107/https://www.usda.gov/",
+      "status": "200"
+    },
+    {
+      "domain": "usps.com",
+      "available": true,
+      "timestamp": "20261018173944",
+      "url": "http://web.archive.org/web/20261018173944/https://www.usps.com/",
+      "status": "200"
+    },
+    {
+      "domain": "vercel.app",
+      "available": true,
+      "timestamp": "20260411020316",
+      "url": "http://web.archive.org/web/20260411020316/https://www1.vercel.app/",
+      "status": "200"
+    },
+    {
+      "domain": "verisign.com",
+      "available": true,
+      "timestamp": "20261013100747",
+      "url": "http://web.archive.org/web/20261013100747/https://www.verisign.com/",
+      "status": "200"
+    },
+    {
+      "domain": "viber.com",
+      "available": true,
+      "timestamp": "20260718222146",
+      "url": "http://web.archive.org/web/20260718222146/https://www.viber.com/",
+      "status": "200"
+    },
+    {
+      "domain": "vimeo.com",
+      "available": true,
+      "timestamp": "20261017182154",
+      "url": "http://web.archive.org/web/20261017182154/https://vimeo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "visualstudio.com",
+      "available": true,
+      "timestamp": "20180617165945",
+      "url": "http://web.archive.org/web/20180617165945/https://www.visualstudio.com/",
+      "status": "200"
+    },
+    {
+      "domain": "vivo.com.cn",
+      "available": true,
+      "timestamp": "20261014043418",
+      "url": "http://web.archive.org/web/20261014043418/https://www.vivo.com.cn/",
+      "status": "200"
+    },
+    {
+      "domain": "vivoglobal.com",
+      "available": true,
+      "timestamp": "20260810160345",
+      "url": "http://web.archive.org/web/20260810160345/https://www.vivoglobal.com/",
+      "status": "200"
+    },
+    {
+      "domain": "vk.com",
+      "available": true,
+      "timestamp": "20261015212128",
+      "url": "http://web.archive.org/web/20261015212128/https://vk.com/",
+      "status": "200"
+    },
+    {
+      "domain": "vk.ru",
+      "available": true,
+      "timestamp": "20261018170735",
+      "url": "http://web.archive.org/web/20261018170735/https://vk.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "w3.org",
+      "available": true,
+      "timestamp": "20261017170550",
+      "url": "http://web.archive.org/web/20261017170550/https://www.w3.org/",
+      "status": "200"
+    },
+    {
+      "domain": "walmart.com",
+      "available": true,
+      "timestamp": "20261018153820",
+      "url": "http://web.archive.org/web/20261018153820/https://www.walmart.com/",
+      "status": "200"
+    },
+    {
+      "domain": "warnerbros.com",
+      "available": true,
+      "timestamp": "20261016055735",
+      "url": "http://web.archive.org/web/20261016055735/https://www.warnerbros.com/",
+      "status": "200"
+    },
+    {
+      "domain": "washingtonpost.com",
+      "available": true,
+      "timestamp": "20261018131526",
+      "url": "http://web.archive.org/web/20261018131526/https://www.washingtonpost.com/",
+      "status": "200"
+    },
+    {
+      "domain": "wattpad.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "wb.ru",
+      "available": true,
+      "timestamp": "20160113034532",
+      "url": "http://web.archive.org/web/20160113034532/http://wb.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "weather.com",
+      "available": true,
+      "timestamp": "20261018155835",
+      "url": "http://web.archive.org/web/20261018155835/https://weather.com/",
+      "status": "200"
+    },
+    {
+      "domain": "webempresa.eu",
+      "available": true,
+      "timestamp": "20260712023553",
+      "url": "http://web.archive.org/web/20260712023553/http://webempresa.eu/",
+      "status": "200"
+    },
+    {
+      "domain": "webex.com",
+      "available": true,
+      "timestamp": "20261012092535",
+      "url": "http://web.archive.org/web/20261012092535/https://www.webex.com/",
+      "status": "200"
+    },
+    {
+      "domain": "weebly.com",
+      "available": true,
+      "timestamp": "20261013132532",
+      "url": "http://web.archive.org/web/20261013132532/https://www.weebly.com/",
+      "status": "200"
+    },
+    {
+      "domain": "weibo.com",
+      "available": true,
+      "timestamp": "20260617044840",
+      "url": "http://web.archive.org/web/20260617044840/https://weibo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "welt.de",
+      "available": true,
+      "timestamp": "20261018104946",
+      "url": "http://web.archive.org/web/20261018104946/https://www.welt.de/",
+      "status": "200"
+    },
+    {
+      "domain": "whatsapp.com",
+      "available": true,
+      "timestamp": "20261016094711",
+      "url": "http://web.archive.org/web/20261016094711/https://www.whatsapp.com/",
+      "status": "200"
+    },
+    {
+      "domain": "who.int",
+      "available": true,
+      "timestamp": "20261018005014",
+      "url": "http://web.archive.org/web/20261018005014/https://www.who.int/",
+      "status": "200"
+    },
+    {
+      "domain": "wikimedia.org",
+      "available": true,
+      "timestamp": "20261016023436",
+      "url": "http://web.archive.org/web/20261016023436/https://www.wikimedia.org/",
+      "status": "200"
+    },
+    {
+      "domain": "wikipedia.org",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "wildberries.ru",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "wiley.com",
+      "available": true,
+      "timestamp": "20250505081425",
+      "url": "http://web.archive.org/web/20250505081425/https://www.wiley.com/",
+      "status": "200"
+    },
+    {
+      "domain": "windows.com",
+      "available": true,
+      "timestamp": "20110820081607",
+      "url": "http://web.archive.org/web/20110820081607/http://www.windows.com/",
+      "status": "200"
+    },
+    {
+      "domain": "wired.com",
+      "available": true,
+      "timestamp": "20261018092740",
+      "url": "http://web.archive.org/web/20261018092740/https://www.wired.com/",
+      "status": "200"
+    },
+    {
+      "domain": "withgoogle.com",
+      "available": true,
+      "timestamp": "20100630083654",
+      "url": "http://web.archive.org/web/20100630083654/http://withgoogle.com:80/?",
+      "status": "200"
+    },
+    {
+      "domain": "wix.com",
+      "available": true,
+      "timestamp": "20261016074836",
+      "url": "http://web.archive.org/web/20261016074836/https://www.wix.com/",
+      "status": "200"
+    },
+    {
+      "domain": "wordpress.com",
+      "available": true,
+      "timestamp": "20261018052057",
+      "url": "http://web.archive.org/web/20261018052057/https://wordpress.com/",
+      "status": "200"
+    },
+    {
+      "domain": "wordpress.org",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "wp.com",
+      "available": true,
+      "timestamp": "20090328090448",
+      "url": "http://web.archive.org/web/20090328090448/http://www.wp.com:80/",
+      "status": "200"
+    },
+    {
+      "domain": "wp.pl",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "wpguardian.com",
+      "available": true,
+      "timestamp": "20261013121043",
+      "url": "http://web.archive.org/web/20261013121043/https://wpguardian.com/",
+      "status": "200"
+    },
+    {
+      "domain": "wpguardian.io",
+      "available": true,
+      "timestamp": "20240808110230",
+      "url": "http://web.archive.org/web/20240808110230/https://wpguardian.io/",
+      "status": "200"
+    },
+    {
+      "domain": "wps.com",
+      "available": true,
+      "timestamp": "20261009094020",
+      "url": "http://web.archive.org/web/20261009094020/https://www.wps.com/",
+      "status": "200"
+    },
+    {
+      "domain": "wsdvs.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "wsj.com",
+      "available": true,
+      "timestamp": "20261018161558",
+      "url": "http://web.archive.org/web/20261018161558/https://www.wsj.com/",
+      "status": "200"
+    },
+    {
+      "domain": "www.gov.br",
+      "available": true,
+      "timestamp": "20260516031946",
+      "url": "http://web.archive.org/web/20260516031946/https://www.gov.br/",
+      "status": "200"
+    },
+    {
+      "domain": "www.gov.uk",
+      "available": true,
+      "timestamp": "20261018073449",
+      "url": "http://web.archive.org/web/20261018073449/https://www.gov.uk/",
+      "status": "200"
+    },
+    {
+      "domain": "x.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "xcal.tv",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "xhamster.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "xiaomi.com",
+      "available": true,
+      "timestamp": "20140421130850",
+      "url": "http://web.archive.org/web/20140421130850/http://www.xiaomi.com/",
+      "status": "200"
+    },
+    {
+      "domain": "xvideos.com",
+      "available": true,
+      "timestamp": "20261017020809",
+      "url": "http://web.archive.org/web/20261017020809/https://www.xvideos.com/",
+      "status": "200"
+    },
+    {
+      "domain": "ya.ru",
+      "available": true,
+      "timestamp": "20261015083813",
+      "url": "http://web.archive.org/web/20261015083813/https://ya.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "yahoo.co.jp",
+      "available": true,
+      "timestamp": "20261018072845",
+      "url": "http://web.archive.org/web/20261018072845/https://www.yahoo.co.jp/",
+      "status": "200"
+    },
+    {
+      "domain": "yahoo.com",
+      "available": true,
+      "timestamp": "20261018151934",
+      "url": "http://web.archive.org/web/20261018151934/https://www.yahoo.com/",
+      "status": "200"
+    },
+    {
+      "domain": "yandex.com",
+      "available": true,
+      "timestamp": "20261018171808",
+      "url": "http://web.archive.org/web/20261018171808/https://yandex.com/",
+      "status": "200"
+    },
+    {
+      "domain": "yandex.ru",
+      "available": true,
+      "timestamp": "20260430143121",
+      "url": "http://web.archive.org/web/20260430143121/https://Eu**t@yandex.ru/",
+      "status": "200"
+    },
+    {
+      "domain": "yellowblue.io",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "yelp.com",
+      "available": false,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "youtube.com",
+      "available": null,
+      "timestamp": null,
+      "url": null,
+      "status": null
+    },
+    {
+      "domain": "yuga.com",
+      "available": true,
+      "timestamp": "20260922130143",
+      "url": "http://web.archive.org/web/20260922130143/https://yuga.com/",
+      "status": "200"
+    },
+    {
+      "domain": "zendesk.com",
+      "available": true,
+      "timestamp": "20261013124317",
+      "url": "http://web.archive.org/web/20261013124317/https://www.zendesk.com/",
+      "status": "200"
+    },
+    {
+      "domain": "zillow.com",
+      "available": true,
+      "timestamp": "20261017195124",
+      "url": "http://web.archive.org/web/20261017195124/https://www.zillow.com/",
+      "status": "204"
+    },
+    {
+      "domain": "zoho.com",
+      "available": true,
+      "timestamp": "20261013132911",
+      "url": "http://web.archive.org/web/20261013132911/https://www.zoho.com/",
+      "status": "200"
+    },
+    {
+      "domain": "zoom.com",
+      "available": true,
+      "timestamp": "20261018131009",
+      "url": "http://web.archive.org/web/20261018131009/https://www.zoom.com/",
+      "status": "200"
+    },
+    {
+      "domain": "zoom.us",
+      "available": true,
+      "timestamp": "20260421085046",
+      "url": "http://web.archive.org/web/20260421085046/https://www3.zoom.us/",
+      "status": "200"
+    }
+  ]
+}

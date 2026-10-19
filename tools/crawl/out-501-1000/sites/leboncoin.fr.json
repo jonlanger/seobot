@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "leboncoin.fr",
+    "rank": 1193,
+    "url": "https://leboncoin.fr/",
+    "runAt": "2026-10-18T18:04:06.867Z",
+    "robots": {
+      "status": 200,
+      "bytes": 12744,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.leboncoin.fr/",
+      "bytes": 771
+    },
+    "rendered": {
+      "title": "leboncoin.fr",
+      "canonical": "",
+      "words": 0,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 7,
+      "renderedWords": 0,
+      "coverage": 0,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "leboncoin.fr",
+      "renderedTitle": "leboncoin.fr",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

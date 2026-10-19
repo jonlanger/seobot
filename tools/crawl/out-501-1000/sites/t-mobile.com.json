@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "t-mobile.com",
+    "rank": 1055,
+    "url": "https://t-mobile.com/",
+    "runAt": "2026-10-18T17:58:54.559Z",
+    "robots": {
+      "status": 403,
+      "bytes": 378,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://t-mobile.com/",
+      "bytes": 364
+    },
+    "rendered": {
+      "title": "T-Mobile® Official Site | Best 5G Network & Unlimited Data Plans",
+      "canonical": "https://www.t-mobile.com/",
+      "words": 819,
+      "jsonLdTypes": [
+        "corporation"
+      ],
+      "headings": 76,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 19,
+      "renderedWords": 819,
+      "coverage": 0.9,
+      "rawOnlyTokens": 12,
+      "renderedOnlyTokens": 812,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "content",
+        "footer",
+        "log",
+        "cart",
+        "search",
+        "submit",
+        "query",
+        "close",
+        "out",
+        "recent",
+        "searches",
+        "popular",
+        "suggestions",
+        "categories",
+        "undefined",
+        "top",
+        "plans",
+        "unlimited",
+        "phone",
+        "age",
+        "military",
+        "veterans",
+        "first"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "corporation"
+      ],
+      "jsonLdMissingFromRaw": [
+        "corporation"
+      ],
+      "headingsRendered": 76,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "T-Mobile® Official Site | Best 5G Network & Unlimited Data Plans",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,1888 @@
+{
+  "meta": {
+    "source": "Join of research/data/factors.json with first-party site datasets",
+    "license": "CC BY 4.0",
+    "generatedAt": "2026-10-18T20:33:27.106Z",
+    "studyFile": "src/content/data/top-sites-study-1k.json",
+    "sitesCrawled": 1700,
+    "sitesMeasured": 1025,
+    "method": "Each measurement is a boolean predicate per site; n excludes sites where the underlying field is null (not measured). 'direct' predicates test the factor's own claim; 'proxy' predicates are weaker stand-ins with the gap stated in `caveat`. Homepage-only except deep-pages (one inner page per site, chosen by nav heuristic). One vantage point, one identifying UA.",
+    "fields": {
+      "passPct": {
+        "label": "Sites passing",
+        "unit": "%",
+        "type": "number"
+      },
+      "n": {
+        "label": "Sites measured",
+        "type": "number"
+      },
+      "kind": {
+        "label": "Direct test or proxy",
+        "type": "category"
+      }
+    },
+    "factorsMapped": 18,
+    "factorsTotal": 61
+  },
+  "factors": [
+    {
+      "factorId": "disc.robots-allow",
+      "label": "Robots.txt allows the search and AI retrieval crawlers",
+      "layer": "discover",
+      "stage": "access",
+      "gate": true,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "robots-retrieval-open",
+          "label": "No search/retrieval crawler is hard-blocked at the root",
+          "kind": "direct",
+          "dataset": "top-sites-study (robots.txt policy per crawler)",
+          "predicate": "none of OAI-SearchBot, ChatGPT-User, Claude-SearchBot, Claude-User, PerplexityBot, Perplexity-User, Googlebot, Bingbot resolves to 'block'",
+          "denominator": "sites with a fetchable robots.txt (HTTP 200)",
+          "caveat": null,
+          "n": 1221,
+          "pass": 1018,
+          "passPct": 83.4,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 104,
+              "pass": 78,
+              "passPct": 75
+            },
+            {
+              "band": "251-500",
+              "n": 115,
+              "pass": 95,
+              "passPct": 82.6
+            },
+            {
+              "band": "501-1000",
+              "n": 263,
+              "pass": 215,
+              "passPct": 81.7
+            },
+            {
+              "band": "1001+",
+              "n": 739,
+              "pass": 630,
+              "passPct": 85.3
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 443,
+              "pass": 393,
+              "passPct": 88.7
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 141,
+              "pass": 104,
+              "passPct": 73.8
+            },
+            {
+              "cdn": "Akamai",
+              "n": 75,
+              "pass": 55,
+              "passPct": 73.3
+            },
+            {
+              "cdn": "Fastly",
+              "n": 74,
+              "pass": 51,
+              "passPct": 68.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "disc.crawler-taxonomy",
+      "label": "Three crawler classes are three separate decisions",
+      "layer": "discover",
+      "stage": "access",
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "robots-differentiated",
+          "label": "Blocks at least one training crawler while keeping search crawlers open",
+          "kind": "proxy",
+          "dataset": "top-sites-study",
+          "predicate": "≥1 training token blocked AND no search/retrieval token blocked",
+          "denominator": "sites with a fetchable robots.txt",
+          "caveat": "Measures a differentiated policy exists, not that it matches the site's intent.",
+          "n": 1221,
+          "pass": 115,
+          "passPct": 9.4,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 104,
+              "pass": 7,
+              "passPct": 6.7
+            },
+            {
+              "band": "251-500",
+              "n": 115,
+              "pass": 17,
+              "passPct": 14.8
+            },
+            {
+              "band": "501-1000",
+              "n": 263,
+              "pass": 24,
+              "passPct": 9.1
+            },
+            {
+              "band": "1001+",
+              "n": 739,
+              "pass": 67,
+              "passPct": 9.1
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 443,
+              "pass": 43,
+              "passPct": 9.7
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 141,
+              "pass": 18,
+              "passPct": 12.8
+            },
+            {
+              "cdn": "Akamai",
+              "n": 75,
+              "pass": 5,
+              "passPct": 6.7
+            },
+            {
+              "cdn": "Fastly",
+              "n": 74,
+              "pass": 11,
+              "passPct": 14.9
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "disc.sitemap-coverage",
+      "label": "XML sitemap covers all indexable pages",
+      "layer": "discover",
+      "stage": null,
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "sitemap-present",
+          "label": "Publishes an XML sitemap",
+          "kind": "proxy",
+          "dataset": "site-signals",
+          "predicate": "Sitemap: line in robots.txt or valid /sitemap.xml",
+          "denominator": "sites where the sitemap check ran",
+          "caveat": "Presence only — says nothing about coverage or lastmod accuracy.",
+          "n": 1452,
+          "pass": 894,
+          "passPct": 61.6,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 117,
+              "pass": 75,
+              "passPct": 64.1
+            },
+            {
+              "band": "251-500",
+              "n": 129,
+              "pass": 83,
+              "passPct": 64.3
+            },
+            {
+              "band": "501-1000",
+              "n": 298,
+              "pass": 193,
+              "passPct": 64.8
+            },
+            {
+              "band": "1001+",
+              "n": 908,
+              "pass": 543,
+              "passPct": 59.8
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 543,
+              "pass": 344,
+              "passPct": 63.4
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 158,
+              "pass": 106,
+              "passPct": 67.1
+            },
+            {
+              "cdn": "Akamai",
+              "n": 114,
+              "pass": 60,
+              "passPct": 52.6
+            },
+            {
+              "cdn": "Fastly",
+              "n": 78,
+              "pass": 58,
+              "passPct": 74.4
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 16,
+              "passPct": 80
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.access.bot-walls",
+      "label": "No bot wall in front of AI crawlers",
+      "layer": "citation",
+      "stage": "access",
+      "gate": true,
+      "confidence": "high",
+      "surface": [
+        "geo"
+      ],
+      "effort": "M",
+      "measurements": [
+        {
+          "id": "no-bot-wall",
+          "label": "Homepage readable over plain HTTP (no bot wall or empty shell blocking non-browser fetches)",
+          "kind": "direct",
+          "dataset": "top-sites-study (raw vs rendered classification)",
+          "predicate": "classification not raw_blocked / both_blocked",
+          "denominator": "all crawled sites not excluded by robots.txt",
+          "caveat": "Single vantage point and one UA; some walls are UA- or IP-specific.",
+          "n": 1650,
+          "pass": 1083,
+          "passPct": 65.6,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 115,
+              "pass": 86,
+              "passPct": 74.8
+            },
+            {
+              "band": "251-500",
+              "n": 139,
+              "pass": 97,
+              "passPct": 69.8
+            },
+            {
+              "band": "501-1000",
+              "n": 332,
+              "pass": 224,
+              "passPct": 67.5
+            },
+            {
+              "band": "1001+",
+              "n": 1064,
+              "pass": 676,
+              "passPct": 63.5
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 533,
+              "pass": 395,
+              "passPct": 74.1
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 150,
+              "pass": 112,
+              "passPct": 74.7
+            },
+            {
+              "cdn": "Akamai",
+              "n": 112,
+              "pass": 58,
+              "passPct": 51.8
+            },
+            {
+              "cdn": "Fastly",
+              "n": 76,
+              "pass": 62,
+              "passPct": 81.6
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 20,
+              "passPct": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.render.server-html",
+      "label": "Main content ships in server-rendered HTML",
+      "layer": "citation",
+      "stage": "render",
+      "gate": true,
+      "confidence": "high",
+      "surface": [
+        "geo"
+      ],
+      "effort": "L",
+      "measurements": [
+        {
+          "id": "raw-coverage-80",
+          "label": "≥80% of rendered words are present in raw HTML",
+          "kind": "direct",
+          "dataset": "top-sites-study",
+          "predicate": "metrics.coverage ≥ 80",
+          "denominator": "measured homepages",
+          "caveat": "Threshold is ours; the factor says 'main content', we compare all visible words.",
+          "n": 1025,
+          "pass": 468,
+          "passPct": 45.7,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 79,
+              "pass": 30,
+              "passPct": 38
+            },
+            {
+              "band": "251-500",
+              "n": 90,
+              "pass": 33,
+              "passPct": 36.7
+            },
+            {
+              "band": "501-1000",
+              "n": 211,
+              "pass": 65,
+              "passPct": 30.8
+            },
+            {
+              "band": "1001+",
+              "n": 645,
+              "pass": 340,
+              "passPct": 52.7
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 386,
+              "pass": 207,
+              "passPct": 53.6
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 110,
+              "pass": 27,
+              "passPct": 24.5
+            },
+            {
+              "cdn": "Fastly",
+              "n": 59,
+              "pass": 26,
+              "passPct": 44.1
+            },
+            {
+              "cdn": "Akamai",
+              "n": 51,
+              "pass": 20,
+              "passPct": 39.2
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 2,
+              "passPct": 10
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.render.headings-raw",
+      "label": "Headings arrive in raw HTML",
+      "layer": "citation",
+      "stage": "render",
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "geo"
+      ],
+      "effort": "M",
+      "measurements": [
+        {
+          "id": "headings-raw-80",
+          "label": "≥80% of rendered headings are present in raw HTML",
+          "kind": "direct",
+          "dataset": "top-sites-study",
+          "predicate": "metrics.headingsCoverage ≥ 80",
+          "denominator": "measured homepages with headings",
+          "caveat": null,
+          "n": 941,
+          "pass": 612,
+          "passPct": 65,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 73,
+              "pass": 42,
+              "passPct": 57.5
+            },
+            {
+              "band": "251-500",
+              "n": 87,
+              "pass": 55,
+              "passPct": 63.2
+            },
+            {
+              "band": "501-1000",
+              "n": 194,
+              "pass": 118,
+              "passPct": 60.8
+            },
+            {
+              "band": "1001+",
+              "n": 587,
+              "pass": 397,
+              "passPct": 67.6
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 367,
+              "pass": 266,
+              "passPct": 72.5
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 107,
+              "pass": 57,
+              "passPct": 53.3
+            },
+            {
+              "cdn": "Fastly",
+              "n": 57,
+              "pass": 34,
+              "passPct": 59.6
+            },
+            {
+              "cdn": "Akamai",
+              "n": 51,
+              "pass": 25,
+              "passPct": 49
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.render.jsonld-raw",
+      "label": "JSON-LD present in raw HTML (not injected client-side)",
+      "layer": "citation",
+      "stage": "render",
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "jsonld-not-js-injected",
+          "label": "JSON-LD is in raw HTML (none injected only by JavaScript)",
+          "kind": "direct",
+          "dataset": "structured-data",
+          "predicate": "no type in typesMissingFromRaw",
+          "denominator": "measured homepages that have JSON-LD after render",
+          "caveat": null,
+          "n": 537,
+          "pass": 500,
+          "passPct": 93.1,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 38,
+              "pass": 35,
+              "passPct": 92.1
+            },
+            {
+              "band": "251-500",
+              "n": 49,
+              "pass": 44,
+              "passPct": 89.8
+            },
+            {
+              "band": "501-1000",
+              "n": 130,
+              "pass": 126,
+              "passPct": 96.9
+            },
+            {
+              "band": "1001+",
+              "n": 320,
+              "pass": 295,
+              "passPct": 92.2
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 215,
+              "pass": 201,
+              "passPct": 93.5
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 72,
+              "pass": 63,
+              "passPct": 87.5
+            },
+            {
+              "cdn": "Fastly",
+              "n": 32,
+              "pass": 29,
+              "passPct": 90.6
+            },
+            {
+              "cdn": "Akamai",
+              "n": 30,
+              "pass": 29,
+              "passPct": 96.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.entity.organization-schema",
+      "label": "Organization schema with @id, logo, sameAs chain",
+      "layer": "citation",
+      "stage": "entity",
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "org-schema",
+          "label": "Homepage declares Organization (or Corporation) JSON-LD",
+          "kind": "proxy",
+          "dataset": "structured-data",
+          "predicate": "hasOrganization",
+          "denominator": "measured homepages",
+          "caveat": "Type presence only; @id, logo and sameAs chain not checked.",
+          "n": 1025,
+          "pass": 355,
+          "passPct": 34.6,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 79,
+              "pass": 28,
+              "passPct": 35.4
+            },
+            {
+              "band": "251-500",
+              "n": 90,
+              "pass": 38,
+              "passPct": 42.2
+            },
+            {
+              "band": "501-1000",
+              "n": 211,
+              "pass": 85,
+              "passPct": 40.3
+            },
+            {
+              "band": "1001+",
+              "n": 645,
+              "pass": 204,
+              "passPct": 31.6
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 386,
+              "pass": 145,
+              "passPct": 37.6
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 110,
+              "pass": 46,
+              "passPct": 41.8
+            },
+            {
+              "cdn": "Fastly",
+              "n": 59,
+              "pass": 24,
+              "passPct": 40.7
+            },
+            {
+              "cdn": "Akamai",
+              "n": 51,
+              "pass": 22,
+              "passPct": 43.1
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 0,
+              "passPct": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "ia.breadcrumbs",
+      "label": "Breadcrumbs in HTML plus BreadcrumbList schema",
+      "layer": "relevance",
+      "stage": null,
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "breadcrumb-html-inner",
+          "label": "Inner page has HTML breadcrumb navigation",
+          "kind": "proxy",
+          "dataset": "deep-pages (one inner page per site)",
+          "predicate": "breadcrumb nav/ol present in raw HTML",
+          "denominator": "sites with an audited inner page",
+          "caveat": "HTML half only; BreadcrumbList schema measured separately (breadcrumb-schema-home).",
+          "n": 694,
+          "pass": 62,
+          "passPct": 8.9,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 53,
+              "pass": 7,
+              "passPct": 13.2
+            },
+            {
+              "band": "251-500",
+              "n": 58,
+              "pass": 7,
+              "passPct": 12.1
+            },
+            {
+              "band": "501-1000",
+              "n": 149,
+              "pass": 12,
+              "passPct": 8.1
+            },
+            {
+              "band": "1001+",
+              "n": 434,
+              "pass": 36,
+              "passPct": 8.3
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 263,
+              "pass": 17,
+              "passPct": 6.5
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 87,
+              "pass": 10,
+              "passPct": 11.5
+            },
+            {
+              "cdn": "Fastly",
+              "n": 44,
+              "pass": 6,
+              "passPct": 13.6
+            },
+            {
+              "cdn": "Akamai",
+              "n": 31,
+              "pass": 7,
+              "passPct": 22.6
+            }
+          ]
+        },
+        {
+          "id": "breadcrumb-schema-home",
+          "label": "Homepage declares BreadcrumbList JSON-LD",
+          "kind": "proxy",
+          "dataset": "structured-data",
+          "predicate": "hasBreadcrumb",
+          "denominator": "measured homepages",
+          "caveat": "Homepages rarely need breadcrumbs; see inner-page measurement.",
+          "n": 1025,
+          "pass": 115,
+          "passPct": 11.2,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 79,
+              "pass": 6,
+              "passPct": 7.6
+            },
+            {
+              "band": "251-500",
+              "n": 90,
+              "pass": 9,
+              "passPct": 10
+            },
+            {
+              "band": "501-1000",
+              "n": 211,
+              "pass": 24,
+              "passPct": 11.4
+            },
+            {
+              "band": "1001+",
+              "n": 645,
+              "pass": 76,
+              "passPct": 11.8
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 386,
+              "pass": 68,
+              "passPct": 17.6
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 110,
+              "pass": 11,
+              "passPct": 10
+            },
+            {
+              "cdn": "Fastly",
+              "n": 59,
+              "pass": 5,
+              "passPct": 8.5
+            },
+            {
+              "cdn": "Akamai",
+              "n": 51,
+              "pass": 4,
+              "passPct": 7.8
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 0,
+              "passPct": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.extract.tables",
+      "label": "Comparison tables for 'X vs Y' and 'best of' queries",
+      "layer": "citation",
+      "stage": "extract",
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "inner-has-table",
+          "label": "Inner page contains an HTML table",
+          "kind": "direct",
+          "dataset": "deep-pages",
+          "predicate": "tableCount > 0 in raw HTML",
+          "denominator": "sites with an audited inner page",
+          "caveat": "Inner page chosen by nav heuristic, not a comparison page.",
+          "n": 694,
+          "pass": 37,
+          "passPct": 5.3,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 53,
+              "pass": 2,
+              "passPct": 3.8
+            },
+            {
+              "band": "251-500",
+              "n": 58,
+              "pass": 1,
+              "passPct": 1.7
+            },
+            {
+              "band": "501-1000",
+              "n": 149,
+              "pass": 7,
+              "passPct": 4.7
+            },
+            {
+              "band": "1001+",
+              "n": 434,
+              "pass": 27,
+              "passPct": 6.2
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 263,
+              "pass": 18,
+              "passPct": 6.8
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 87,
+              "pass": 4,
+              "passPct": 4.6
+            },
+            {
+              "cdn": "Fastly",
+              "n": 44,
+              "pass": 1,
+              "passPct": 2.3
+            },
+            {
+              "cdn": "Akamai",
+              "n": 31,
+              "pass": 0,
+              "passPct": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.extract.faq-parity",
+      "label": "FAQ block whose text matches its schema byte-for-byte",
+      "layer": "citation",
+      "stage": "extract",
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "faq-markup-inner",
+          "label": "Inner page has FAQ-style markup (details/summary or question headings)",
+          "kind": "proxy",
+          "dataset": "deep-pages",
+          "predicate": "hasFaqSignal",
+          "denominator": "sites with an audited inner page",
+          "caveat": "Presence only; byte-parity with FAQPage schema not checked.",
+          "n": 694,
+          "pass": 162,
+          "passPct": 23.3,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 53,
+              "pass": 10,
+              "passPct": 18.9
+            },
+            {
+              "band": "251-500",
+              "n": 58,
+              "pass": 16,
+              "passPct": 27.6
+            },
+            {
+              "band": "501-1000",
+              "n": 149,
+              "pass": 46,
+              "passPct": 30.9
+            },
+            {
+              "band": "1001+",
+              "n": 434,
+              "pass": 90,
+              "passPct": 20.7
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 263,
+              "pass": 60,
+              "passPct": 22.8
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 87,
+              "pass": 21,
+              "passPct": 24.1
+            },
+            {
+              "cdn": "Fastly",
+              "n": 44,
+              "pass": 11,
+              "passPct": 25
+            },
+            {
+              "cdn": "Akamai",
+              "n": 31,
+              "pass": 8,
+              "passPct": 25.8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.render.heading-hierarchy",
+      "label": "Single H1 and valid heading sequence (no skipped levels)",
+      "layer": "citation",
+      "stage": "render",
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "single-h1-valid-sequence",
+          "label": "Inner page has exactly one H1 and no skipped heading levels",
+          "kind": "direct",
+          "dataset": "deep-pages",
+          "predicate": "h1Count = 1 AND headingSequenceValid",
+          "denominator": "sites with an audited inner page",
+          "caveat": null,
+          "n": 694,
+          "pass": 232,
+          "passPct": 33.4,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 53,
+              "pass": 18,
+              "passPct": 34
+            },
+            {
+              "band": "251-500",
+              "n": 58,
+              "pass": 32,
+              "passPct": 55.2
+            },
+            {
+              "band": "501-1000",
+              "n": 149,
+              "pass": 49,
+              "passPct": 32.9
+            },
+            {
+              "band": "1001+",
+              "n": 434,
+              "pass": 133,
+              "passPct": 30.6
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 263,
+              "pass": 72,
+              "passPct": 27.4
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 87,
+              "pass": 40,
+              "passPct": 46
+            },
+            {
+              "cdn": "Fastly",
+              "n": 44,
+              "pass": 18,
+              "passPct": 40.9
+            },
+            {
+              "cdn": "Akamai",
+              "n": 31,
+              "pass": 11,
+              "passPct": 35.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "rel.title-h1",
+      "label": "Unique title, H1, and meta description matched to intent",
+      "layer": "relevance",
+      "stage": null,
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "single-h1-inner",
+          "label": "Inner page has exactly one H1",
+          "kind": "proxy",
+          "dataset": "deep-pages",
+          "predicate": "h1Count = 1",
+          "denominator": "sites with an audited inner page",
+          "caveat": "Does not check title/H1/intent match or uniqueness.",
+          "n": 694,
+          "pass": 427,
+          "passPct": 61.5,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 53,
+              "pass": 36,
+              "passPct": 67.9
+            },
+            {
+              "band": "251-500",
+              "n": 58,
+              "pass": 46,
+              "passPct": 79.3
+            },
+            {
+              "band": "501-1000",
+              "n": 149,
+              "pass": 92,
+              "passPct": 61.7
+            },
+            {
+              "band": "1001+",
+              "n": 434,
+              "pass": 253,
+              "passPct": 58.3
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 263,
+              "pass": 161,
+              "passPct": 61.2
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 87,
+              "pass": 56,
+              "passPct": 64.4
+            },
+            {
+              "cdn": "Fastly",
+              "n": 44,
+              "pass": 31,
+              "passPct": 70.5
+            },
+            {
+              "cdn": "Akamai",
+              "n": 31,
+              "pass": 23,
+              "passPct": 74.2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.render.alt-text",
+      "label": "Descriptive alt text on content images",
+      "layer": "citation",
+      "stage": "render",
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "alt-text-90",
+          "label": "≥90% of inner-page images have alt text",
+          "kind": "proxy",
+          "dataset": "deep-pages",
+          "predicate": "imagesWithAltPct ≥ 90",
+          "denominator": "inner pages with images",
+          "caveat": "Presence of alt attribute, not descriptiveness.",
+          "n": 620,
+          "pass": 274,
+          "passPct": 44.2,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 41,
+              "pass": 15,
+              "passPct": 36.6
+            },
+            {
+              "band": "251-500",
+              "n": 53,
+              "pass": 19,
+              "passPct": 35.8
+            },
+            {
+              "band": "501-1000",
+              "n": 134,
+              "pass": 55,
+              "passPct": 41
+            },
+            {
+              "band": "1001+",
+              "n": 392,
+              "pass": 185,
+              "passPct": 47.2
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 240,
+              "pass": 107,
+              "passPct": 44.6
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 75,
+              "pass": 34,
+              "passPct": 45.3
+            },
+            {
+              "cdn": "Fastly",
+              "n": 40,
+              "pass": 16,
+              "passPct": 40
+            },
+            {
+              "cdn": "Akamai",
+              "n": 27,
+              "pass": 11,
+              "passPct": 40.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "rel.canonical-consistency",
+      "label": "Canonical URL present and self-consistent",
+      "layer": "relevance",
+      "stage": null,
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "canonical-present-home",
+          "label": "Homepage declares a canonical link",
+          "kind": "proxy",
+          "dataset": "site-signals",
+          "predicate": "hasCanonical",
+          "denominator": "homepages fetched (HTTP < 400)",
+          "caveat": "Presence only; self-consistency not checked.",
+          "n": 1178,
+          "pass": 807,
+          "passPct": 68.5,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 99,
+              "pass": 64,
+              "passPct": 64.6
+            },
+            {
+              "band": "251-500",
+              "n": 106,
+              "pass": 72,
+              "passPct": 67.9
+            },
+            {
+              "band": "501-1000",
+              "n": 247,
+              "pass": 174,
+              "passPct": 70.4
+            },
+            {
+              "band": "1001+",
+              "n": 726,
+              "pass": 497,
+              "passPct": 68.5
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 408,
+              "pass": 304,
+              "passPct": 74.5
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 139,
+              "pass": 93,
+              "passPct": 66.9
+            },
+            {
+              "cdn": "Akamai",
+              "n": 69,
+              "pass": 49,
+              "passPct": 71
+            },
+            {
+              "cdn": "Fastly",
+              "n": 65,
+              "pass": 56,
+              "passPct": 86.2
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 3,
+              "passPct": 15
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "geo.freshness.maintenance",
+      "label": "Fresh, maintained pages (dateModified + visible last-updated)",
+      "layer": "citation",
+      "stage": "freshness",
+      "gate": false,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "M",
+      "measurements": [
+        {
+          "id": "last-modified-header",
+          "label": "Homepage sends a Last-Modified header",
+          "kind": "proxy",
+          "dataset": "agent-readiness",
+          "predicate": "hasLastModified",
+          "denominator": "homepages fetched",
+          "caveat": "Weak proxy: dateModified in markup and visible 'last updated' text are not checked; many CDNs omit the header.",
+          "n": 1180,
+          "pass": 369,
+          "passPct": 31.3,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 102,
+              "pass": 27,
+              "passPct": 26.5
+            },
+            {
+              "band": "251-500",
+              "n": 106,
+              "pass": 33,
+              "passPct": 31.1
+            },
+            {
+              "band": "501-1000",
+              "n": 244,
+              "pass": 66,
+              "passPct": 27
+            },
+            {
+              "band": "1001+",
+              "n": 728,
+              "pass": 243,
+              "passPct": 33.4
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 411,
+              "pass": 193,
+              "passPct": 47
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 139,
+              "pass": 38,
+              "passPct": 27.3
+            },
+            {
+              "cdn": "Akamai",
+              "n": 68,
+              "pass": 18,
+              "passPct": 26.5
+            },
+            {
+              "cdn": "Fastly",
+              "n": 65,
+              "pass": 16,
+              "passPct": 24.6
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 0,
+              "passPct": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "exp.cwv",
+      "label": "Core Web Vitals within budget (LCP ≤ 2.5s, INP ≤ 200ms, CLS ≤ 0.1 at p75)",
+      "layer": "experience",
+      "stage": null,
+      "gate": false,
+      "confidence": "medium",
+      "surface": [
+        "seo"
+      ],
+      "effort": "M",
+      "measurements": [
+        {
+          "id": "ttfb-under-800ms",
+          "label": "Homepage responds in ≤800 ms",
+          "kind": "proxy",
+          "dataset": "site-signals",
+          "predicate": "ttfbMs ≤ 800",
+          "denominator": "homepages fetched",
+          "caveat": "TTFB from one location, NOT Core Web Vitals. Use CrUX for the real thing.",
+          "n": 1178,
+          "pass": 939,
+          "passPct": 79.7,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 99,
+              "pass": 84,
+              "passPct": 84.8
+            },
+            {
+              "band": "251-500",
+              "n": 106,
+              "pass": 90,
+              "passPct": 84.9
+            },
+            {
+              "band": "501-1000",
+              "n": 247,
+              "pass": 206,
+              "passPct": 83.4
+            },
+            {
+              "band": "1001+",
+              "n": 726,
+              "pass": 559,
+              "passPct": 77
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 408,
+              "pass": 366,
+              "passPct": 89.7
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 139,
+              "pass": 128,
+              "passPct": 92.1
+            },
+            {
+              "cdn": "Akamai",
+              "n": 69,
+              "pass": 55,
+              "passPct": 79.7
+            },
+            {
+              "cdn": "Fastly",
+              "n": 65,
+              "pass": 64,
+              "passPct": 98.5
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 18,
+              "passPct": 90
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "factorId": "idx.indexable",
+      "label": "Pages are indexed and snippet-eligible",
+      "layer": "index",
+      "stage": null,
+      "gate": true,
+      "confidence": "high",
+      "surface": [
+        "seo",
+        "geo"
+      ],
+      "effort": "S",
+      "measurements": [
+        {
+          "id": "snippet-eligible",
+          "label": "Homepage does not use nosnippet / data-nosnippet",
+          "kind": "proxy",
+          "dataset": "agent-readiness",
+          "predicate": "metaNosnippet = false",
+          "denominator": "homepages fetched",
+          "caveat": "Does not check noindex or index status.",
+          "n": 1180,
+          "pass": 1130,
+          "passPct": 95.8,
+          "byRankBand": [
+            {
+              "band": "1-250",
+              "n": 102,
+              "pass": 92,
+              "passPct": 90.2
+            },
+            {
+              "band": "251-500",
+              "n": 106,
+              "pass": 98,
+              "passPct": 92.5
+            },
+            {
+              "band": "501-1000",
+              "n": 244,
+              "pass": 234,
+              "passPct": 95.9
+            },
+            {
+              "band": "1001+",
+              "n": 728,
+              "pass": 706,
+              "passPct": 97
+            }
+          ],
+          "byCdn": [
+            {
+              "cdn": "Cloudflare",
+              "n": 411,
+              "pass": 395,
+              "passPct": 96.1
+            },
+            {
+              "cdn": "CloudFront",
+              "n": 139,
+              "pass": 135,
+              "passPct": 97.1
+            },
+            {
+              "cdn": "Akamai",
+              "n": 68,
+              "pass": 63,
+              "passPct": 92.6
+            },
+            {
+              "cdn": "Fastly",
+              "n": 65,
+              "pass": 60,
+              "passPct": 92.3
+            },
+            {
+              "cdn": "Google",
+              "n": 20,
+              "pass": 20,
+              "passPct": 100
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "candidateFactors": [
+    {
+      "id": "llms-txt",
+      "label": "Publishes /llms.txt",
+      "dataset": "site-signals",
+      "sourceHint": "ahrefs-llmstxt-2026, llmstxt-org",
+      "n": 1448,
+      "pass": 192,
+      "passPct": 13.3
+    },
+    {
+      "id": "markdown-negotiation",
+      "label": "Serves Markdown via Accept: text/markdown",
+      "dataset": "agent-readiness",
+      "sourceHint": "cloudflare-agent-readiness-2026",
+      "n": 1460,
+      "pass": 40,
+      "passPct": 2.7
+    },
+    {
+      "id": "content-signal",
+      "label": "Declares Content-Signal in robots.txt",
+      "dataset": "agent-readiness",
+      "sourceHint": "cloudflare-agent-readiness-2026",
+      "n": 1140,
+      "pass": 41,
+      "passPct": 3.6
+    },
+    {
+      "id": "mcp-server-card",
+      "label": "Publishes an MCP server card",
+      "dataset": "agent-readiness",
+      "sourceHint": "cloudflare-agent-readiness-2026",
+      "n": 1451,
+      "pass": 13,
+      "passPct": 0.9
+    },
+    {
+      "id": "api-catalog",
+      "label": "Publishes /.well-known/api-catalog",
+      "dataset": "agent-readiness",
+      "sourceHint": "RFC 9727",
+      "n": 876,
+      "pass": 20,
+      "passPct": 2.3
+    },
+    {
+      "id": "hreflang",
+      "label": "Homepage declares hreflang",
+      "dataset": "site-signals",
+      "sourceHint": "none yet",
+      "n": 1178,
+      "pass": 374,
+      "passPct": 31.7
+    },
+    {
+      "id": "noai-directive",
+      "label": "Uses noai / noimageai directives",
+      "dataset": "agent-readiness",
+      "sourceHint": "none yet",
+      "n": 1180,
+      "pass": 7,
+      "passPct": 0.6
+    }
+  ],
+  "notMeasurable": [
+    {
+      "factorId": "disc.sitemap-freshness",
+      "label": "Accurate sitemap with honest lastmod",
+      "layer": "discover",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "disc.bing-pipeline",
+      "label": "Bing index pipeline live (BWT + IndexNow)",
+      "layer": "discover",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "rel.topic-coverage",
+      "label": "Topic coverage that absorbs query fan-out",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "rel.entity-rich-copy",
+      "label": "Entity-rich copy (names, not pronouns)",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "rel.internal-links",
+      "label": "Internal links with descriptive anchors, hub → cluster",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "aut.backlinks",
+      "label": "Link authority (referring domains, quality)",
+      "layer": "authority",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "aut.brand-mentions",
+      "label": "Brand mentions and consistent naming across the web",
+      "layer": "authority",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "aut.original-research",
+      "label": "Original data studies as citation magnets",
+      "layer": "authority",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "geo.render.facts-not-images",
+      "label": "Critical facts (prices, specs) exist as text, not images",
+      "layer": "citation",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.extract.definition-first",
+      "label": "Definition-first opening (2–3 quotable sentences)",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.extract.answer-first-sections",
+      "label": "Each section opens with a complete, standalone answer",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.extract.numeric-explicit",
+      "label": "Numeric explicitness — real prices, dates, units",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.extract.single-purpose",
+      "label": "Single-purpose pages over sprawling ones",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.extract.thin-guard",
+      "label": "No thin or near-duplicate template pages",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.evidence.quotes",
+      "label": "Attributed quotations from named people",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.evidence.statistics",
+      "label": "Quantitative data with real numbers",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.evidence.outbound-citations",
+      "label": "Outbound citations to credible sources",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.evidence.fluency",
+      "label": "Fluency — clear, readable prose",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.evidence.no-keyword-stuffing",
+      "label": "No keyword stuffing (−8% — the only negative lever)",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.evidence.technical-terms",
+      "label": "Domain-appropriate technical terms (mild lift)",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.entity.wikidata",
+      "label": "Wikidata entity + bidirectional link",
+      "layer": "citation",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.entity.author-credentials",
+      "label": "Author bylines with credentials on editorial content",
+      "layer": "citation",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.freshness.changelog",
+      "label": "Indexable, maintained changelog / update log",
+      "layer": "citation",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.offsite.third-party-dominance",
+      "label": "Presence on the third-party sites engines cite",
+      "layer": "citation",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "geo.offsite.review-platforms",
+      "label": "Accurate G2 / Capterra / Product Hunt / Crunchbase listings",
+      "layer": "citation",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "geo.measure.gsc-genai",
+      "label": "Google Search Console opted into generative AI features",
+      "layer": "citation",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "geo.measure.bwt-ai",
+      "label": "Bing Webmaster Tools AI Performance / Citation Share enabled",
+      "layer": "citation",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "geo.measure.prompt-set",
+      "label": "A fixed 30–50 prompt buyer set tracked monthly across engines",
+      "layer": "citation",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "geo.measure.ai-referrers",
+      "label": "GA4 AI-referrer channel group and crawler log checks",
+      "layer": "citation",
+      "why": "needs off-site, account-level or private data"
+    },
+    {
+      "factorId": "rel.local-signals",
+      "label": "Local entity signals (GBP, NAP consistency, reviews)",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.extract.format-intent",
+      "label": "Format matched to query intent (lists for commercial, articles for informational)",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.extract.semantic-html",
+      "label": "Clean semantic HTML (landmarks, real lists, heading hierarchy)",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "rel.meta-description",
+      "label": "Meta description within length budget and unique per page",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "rel.og-social-cards",
+      "label": "Open Graph + Twitter Card tags for social/AI preview",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "rel.lang-charset",
+      "label": "HTML lang attribute and charset declared",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.render.landmarks",
+      "label": "Semantic landmark elements (main, nav, header, footer, article)",
+      "layer": "citation",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "geo.extract.skip-links",
+      "label": "Skip-to-main-content link present",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "geo.extract.jsonld-parity",
+      "label": "JSON-LD matches visible page content (no schema spam)",
+      "layer": "citation",
+      "why": "needs content/NLP analysis not in the crawl"
+    },
+    {
+      "factorId": "ia.click-depth",
+      "label": "Important pages reachable within 3 clicks from home",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "ia.hub-spoke",
+      "label": "Hub-and-spoke topic clusters with a pillar page",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "ia.orphan-pages",
+      "label": "No orphan pages (every indexable page has >=1 internal link)",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "ia.url-structure",
+      "label": "Clean, descriptive, hierarchical URLs",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    },
+    {
+      "factorId": "ia.navigation-persistence",
+      "label": "Persistent, crawlable primary navigation (real <a href>)",
+      "layer": "relevance",
+      "why": "not captured by the current crawl"
+    }
+  ]
+}

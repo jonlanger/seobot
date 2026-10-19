@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "jalan.net",
+    "rank": 1332,
+    "url": "https://jalan.net/",
+    "runAt": "2026-10-18T18:09:46.000Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1645,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.jalan.net/",
+      "bytes": 196135
+    },
+    "rendered": {
+      "title": "宿・ホテル予約 - 旅行ならじゃらんnet",
+      "canonical": "https://www.jalan.net/",
+      "words": 2111,
+      "jsonLdTypes": [],
+      "headings": 22,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 45,
+      "renderedWords": 2111,
+      "coverage": 0,
+      "rawOnlyTokens": 45,
+      "renderedOnlyTokens": 2111,
+      "renderedOnlySample": [
+        "国内",
+        "内旅",
+        "旅行",
+        "海外",
+        "外旅",
+        "行や",
+        "や宿",
+        "ホテ",
+        "テル",
+        "ルの",
+        "の宿",
+        "宿泊",
+        "泊予",
+        "予約",
+        "約は",
+        "はじ",
+        "じゃ",
+        "ゃら",
+        "らん",
+        "んn",
+        "ne",
+        "et",
+        "日本",
+        "本最",
+        "最大"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 22,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "�h�E�z�e���\\�� - ���s�Ȃ炶����net",
+      "renderedTitle": "宿・ホテル予約 - 旅行ならじゃらんnet",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

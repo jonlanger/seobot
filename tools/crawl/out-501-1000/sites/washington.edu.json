@@ -1,0 +1,117 @@
+[
+  {
+    "domain": "washington.edu",
+    "rank": 950,
+    "url": "https://washington.edu/",
+    "runAt": "2026-10-18T17:53:56.318Z",
+    "robots": {
+      "status": 200,
+      "bytes": 76,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.washington.edu/",
+      "bytes": 63711
+    },
+    "rendered": {
+      "title": "UW Homepage – University of Washington",
+      "canonical": "https://www.washington.edu/",
+      "words": 293,
+      "jsonLdTypes": [],
+      "headings": 20,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 293,
+      "renderedWords": 293,
+      "coverage": 99.7,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "value'"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 20,
+      "headingsAlsoInRaw": 19,
+      "headingsCoverage": 95,
+      "titleDiffers": true,
+      "rawTitle": "UW Homepage &#8211; University of Washington",
+      "renderedTitle": "UW Homepage – University of Washington",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "theatlantic.com",
+    "rank": 1051,
+    "url": "https://theatlantic.com/",
+    "runAt": "2026-10-18T17:58:44.866Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3722,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.theatlantic.com/",
+      "bytes": 420212
+    },
+    "rendered": {
+      "title": "The Atlantic",
+      "canonical": "",
+      "words": 594,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 59,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 24,
+      "renderedWords": 594,
+      "coverage": 1.7,
+      "rawOnlyTokens": 14,
+      "renderedOnlyTokens": 584,
+      "renderedOnlySample": [
+        "skip",
+        "contentsite",
+        "navigationpopularlatestnewsletterssectionsideaspoliticseconomyglobalnational",
+        "securitywashington",
+        "weekfeaturestechnologyai",
+        "watchdogscienceplanethealthphilosophyeducationculturecomedyfamilybooksfictionphotographyeventsexplore",
+        "archiveplay",
+        "gameslisten",
+        "podcasts",
+        "articlesthe",
+        "print",
+        "editionlatest",
+        "issuepast",
+        "issuesgive",
+        "giftsearch",
+        "atlanticquick",
+        "linksaudiocrossword",
+        "puzzlemagazine",
+        "archiveyour",
+        "subscriptionpopularlatestnewsletterssign",
+        "insubscribegabriel",
+        "rdenas",
+        "atlantiche",
+        "joined",
+        "military"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 59,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Please hold a moment… – The Atlantic",
+      "renderedTitle": "The Atlantic",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

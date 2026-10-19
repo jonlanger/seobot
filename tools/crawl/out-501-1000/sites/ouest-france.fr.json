@@ -1,0 +1,117 @@
+[
+  {
+    "domain": "ouest-france.fr",
+    "rank": 1072,
+    "url": "https://ouest-france.fr/",
+    "runAt": "2026-10-18T17:59:30.886Z",
+    "robots": {
+      "status": 200,
+      "bytes": 9820,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.ouest-france.fr/",
+      "bytes": 15315
+    },
+    "rendered": {
+      "title": "Ouest-France : toute l'actualité en direct, l'info en continu en France, dans les régions et dans le monde",
+      "canonical": "",
+      "words": 23,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 32,
+      "renderedWords": 23,
+      "coverage": 95.7,
+      "rawOnlyTokens": 10,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "93c5173"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Ouest-France : toute l'actualité en direct, l'info en continu en France, dans les régions et dans le monde",
+      "renderedTitle": "Ouest-France : toute l'actualité en direct, l'info en continu en France, dans les régions et dans le monde",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "vg.no",
+    "rank": 1207,
+    "url": "https://vg.no/",
+    "runAt": "2026-10-18T18:04:38.522Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2174,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.vg.no/",
+      "bytes": 458883
+    },
+    "rendered": {
+      "title": "VG",
+      "canonical": "https://www.vg.no/",
+      "words": 263,
+      "jsonLdTypes": [
+        "newsmediaorganization",
+        "website"
+      ],
+      "headings": 33,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 302,
+      "renderedWords": 263,
+      "coverage": 57,
+      "rawOnlyTokens": 152,
+      "renderedOnlyTokens": 113,
+      "renderedOnlySample": [
+        "hovedinnholdvg",
+        "livevgtveavistv-guidetips",
+        "ossvg",
+        "tilbudlogg",
+        "inndu",
+        "dinok",
+        "forstårbesøk",
+        "innloggetdin",
+        "schibsted-kontobrukervilkår",
+        "personvernerklæringhovedmenykontodu",
+        "innikke",
+        "nyhetsbrevkonto",
+        "personverninnstillingercookieinnstillinger",
+        "snarveiervg",
+        "tilbudinnholdnyheterkrigen",
+        "ukrainakrigen",
+        "midtøstenspesialerskattelistersportvg",
+        "liveprofetenfotballfriidretttravguiden",
+        "noannonsørinnholdgolfmotorsporttennisvintersportdirektesendingerrampelysfilmbokmusikkspilltvmeningerforbrukervg",
+        "pulsbilhelselivsstilmat",
+        "drikkevinvinguidenreiseteknologivgtvunderholdningdokumentarlive",
+        "sportspillordstjernenordstrekketgjett",
+        "kjendisenannet",
+        "innholdpodkaste24minmotegodtpenttek",
+        "nodine"
+      ],
+      "jsonLdRaw": [
+        "newsmediaorganization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "newsmediaorganization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 33,
+      "headingsAlsoInRaw": 23,
+      "headingsCoverage": 69.7,
+      "titleDiffers": false,
+      "rawTitle": "VG",
+      "renderedTitle": "VG",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

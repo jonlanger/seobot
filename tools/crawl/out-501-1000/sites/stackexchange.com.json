@@ -1,0 +1,51 @@
+[
+  {
+    "domain": "stackexchange.com",
+    "rank": 898,
+    "url": "https://stackexchange.com/",
+    "runAt": "2026-10-18T17:52:21.288Z",
+    "robots": {
+      "status": 418,
+      "bytes": 113,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://stackexchange.com/",
+      "bytes": 109275
+    },
+    "rendered": {
+      "title": "Hot Questions - Stack Exchange",
+      "canonical": "",
+      "words": 496,
+      "jsonLdTypes": [],
+      "headings": 39,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 510,
+      "renderedWords": 496,
+      "coverage": 99,
+      "rawOnlyTokens": 19,
+      "renderedOnlyTokens": 5,
+      "renderedOnlySample": [
+        "earth's",
+        "puppe's",
+        "control's",
+        "who's",
+        "русском"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 39,
+      "headingsAlsoInRaw": 33,
+      "headingsCoverage": 84.6,
+      "titleDiffers": false,
+      "rawTitle": "Hot Questions - Stack Exchange",
+      "renderedTitle": "Hot Questions - Stack Exchange",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

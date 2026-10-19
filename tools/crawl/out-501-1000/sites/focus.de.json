@@ -1,0 +1,83 @@
+[
+  {
+    "domain": "focus.de",
+    "rank": 895,
+    "url": "https://focus.de/",
+    "runAt": "2026-10-18T17:52:17.021Z",
+    "robots": {
+      "status": 403,
+      "bytes": 370,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://focus.de/",
+      "bytes": 356
+    },
+    "rendered": {
+      "title": "FOCUS online - Aktuelle Nachrichten",
+      "canonical": "https://www.focus.de/",
+      "words": 1671,
+      "jsonLdTypes": [
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "headings": 155,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 18,
+      "renderedWords": 1671,
+      "coverage": 0.1,
+      "rawOnlyTokens": 17,
+      "renderedOnlyTokens": 1670,
+      "renderedOnlySample": [
+        "themenservicesstartseitepolitikmeinungdeutschlandauslandauslandnahostukraineisraeliranusarusslandbenjamin",
+        "netanjahudonald",
+        "trumpwladimir",
+        "putinübersicht",
+        "auslandmut",
+        "deutschland",
+        "talkfocus",
+        "briefingübersicht",
+        "politikfinanzenrentefinanzvergleiche",
+        "2026brutto-netto-rechner",
+        "2026börsebörseaktienbörsenbriefegoldwährungsrechner",
+        "von",
+        "finanzen100übersicht",
+        "börsewirtschaftbankenbankengirokontotagesgeldfestgelddepotetf",
+        "sparplanrobo-advisorübersicht",
+        "bankenversicherungenfocus",
+        "businessbörsenbriefe",
+        "finanzenperspektivenconstructive",
+        "world",
+        "awardmut",
+        "talkübersicht",
+        "perspektivenearthnewsexpertenenergiewendeweltklimakonferenzwassersparenübersicht",
+        "earthwissengeschichtenaturweltraumtechnikzukunft",
+        "gestaltenübersicht",
+        "wissengesundheitratgeberratgeberallergiedepressiondiabeteserkältunggehirngelenkschmerzenherz"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "newsmediaorganization",
+        "webpage",
+        "website"
+      ],
+      "headingsRendered": 155,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "FOCUS online - Aktuelle Nachrichten",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

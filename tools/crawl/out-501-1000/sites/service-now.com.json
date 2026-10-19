@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "service-now.com",
+    "rank": 1073,
+    "url": "https://service-now.com/",
+    "runAt": "2026-10-18T17:59:34.267Z",
+    "robots": {
+      "status": 403,
+      "bytes": 372,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "http://www.servicenow.com/",
+      "bytes": 372
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 20,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 20,
+      "coverage": 95,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "4d17cc34"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

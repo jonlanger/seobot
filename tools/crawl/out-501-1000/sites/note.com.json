@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "note.com",
+    "rank": 952,
+    "url": "https://note.com/",
+    "runAt": "2026-10-18T17:54:00.989Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1197,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://note.com/",
+      "bytes": 99844
+    },
+    "rendered": {
+      "title": "note ――つくる、つながる、とどける。",
+      "canonical": "https://note.com/",
+      "words": 3154,
+      "jsonLdTypes": [],
+      "headings": 123,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 137,
+      "renderedWords": 3154,
+      "coverage": 4.1,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 3024,
+      "renderedOnlySample": [
+        "プ投",
+        "投稿",
+        "稿ロ",
+        "ログ",
+        "グイ",
+        "ン会",
+        "会員",
+        "員登",
+        "登録",
+        "録す",
+        "すべ",
+        "べて",
+        "て急",
+        "昇投",
+        "稿企",
+        "企画",
+        "画や",
+        "たく",
+        "くら",
+        "らし",
+        "し社",
+        "社会",
+        "経済",
+        "済テ",
+        "テク"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 123,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 4.1,
+      "titleDiffers": false,
+      "rawTitle": "note ――つくる、つながる、とどける。",
+      "renderedTitle": "note ――つくる、つながる、とどける。",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

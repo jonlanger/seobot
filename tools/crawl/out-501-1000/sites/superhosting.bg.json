@@ -1,0 +1,151 @@
+[
+  {
+    "domain": "superhosting.bg",
+    "rank": 1147,
+    "url": "https://superhosting.bg/",
+    "runAt": "2026-10-18T18:02:41.633Z",
+    "robots": {
+      "status": 200,
+      "bytes": 72,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.superhosting.bg/",
+      "bytes": 35906
+    },
+    "rendered": {
+      "title": "Хостинг и домейни от СуперХостинг.БГ",
+      "canonical": "https://www.superhosting.bg/",
+      "words": 536,
+      "jsonLdTypes": [
+        "videoobject",
+        "website"
+      ],
+      "headings": 43,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 3,
+      "renderedWords": 536,
+      "coverage": 0.4,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 534,
+      "renderedOnlySample": [
+        "press",
+        "option",
+        "for",
+        "screen-reader",
+        "mode",
+        "cancelaccessibility",
+        "guide",
+        "feedback",
+        "and",
+        "issue",
+        "reporting",
+        "new",
+        "window",
+        "ставаме",
+        "растем",
+        "заедно",
+        "създай",
+        "своя",
+        "нов",
+        "сайт",
+        "отстъпка",
+        "октомври",
+        "услугиблогпомощза",
+        "нас0en0enсигурен",
+        "всеки"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "videoobject",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 43,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "Хостинг и домейни от СуперХостинг.БГ",
+      "renderedTitle": "Хостинг и домейни от СуперХостинг.БГ",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

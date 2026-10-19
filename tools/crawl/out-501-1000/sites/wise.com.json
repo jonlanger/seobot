@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "wise.com",
+    "rank": 1054,
+    "url": "https://wise.com/",
+    "runAt": "2026-10-18T17:58:54.494Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2486,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://wise.com/",
+      "bytes": 889483
+    },
+    "rendered": {
+      "title": "Wise: The international account | Money without borders | Wise United Kingdom",
+      "canonical": "https://wise.com/",
+      "words": 680,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 522,
+      "renderedWords": 680,
+      "coverage": 47.4,
+      "rawOnlyTokens": 200,
+      "renderedOnlyTokens": 358,
+      "renderedOnlySample": [
+        "contentpersonalbusinessplatformwise",
+        "accountsave",
+        "explorefeaturessend",
+        "moneysend",
+        "amountsreceive",
+        "moneyget",
+        "cardearn",
+        "returnscustomersfor",
+        "relocatorsfor",
+        "travellersfor",
+        "spendersfor",
+        "sendersfor",
+        "kidspricingpersonal",
+        "pricingwise",
+        "businessthe",
+        "moneyreceive",
+        "returnsmanage",
+        "financesconnect",
+        "softwaresolutionsfor",
+        "freelancersfor",
+        "startupsfor",
+        "businessesresourcesexplore",
+        "integrationsexplore",
+        "democontact",
+        "salespricingbusiness"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 20,
+      "headingsCoverage": 83.3,
+      "titleDiffers": false,
+      "rawTitle": "Wise: The international account | Money without borders | Wise United Kingdom",
+      "renderedTitle": "Wise: The international account | Money without borders | Wise United Kingdom",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

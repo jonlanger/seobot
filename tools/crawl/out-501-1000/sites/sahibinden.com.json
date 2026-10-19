@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "sahibinden.com",
+    "rank": 1224,
+    "url": "https://sahibinden.com/",
+    "runAt": "2026-10-18T18:05:16.472Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5897,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.sahibinden.com/",
+      "bytes": 5845
+    },
+    "rendered": {
+      "title": "sahibinden.com Log In",
+      "canonical": "",
+      "words": 274,
+      "jsonLdTypes": [],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 274,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 274,
+      "renderedOnlySample": [
+        "return",
+        "sahibinden",
+        "com",
+        "homepage",
+        "detailed",
+        "search",
+        "sign",
+        "messages",
+        "favorites",
+        "post",
+        "free",
+        "listing",
+        "create",
+        "expertise",
+        "report",
+        "add",
+        "photo",
+        "header",
+        "yepypartner",
+        "personal",
+        "summary",
+        "ads",
+        "cart",
+        "buy",
+        "promotion"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "sahibinden.com Log In",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

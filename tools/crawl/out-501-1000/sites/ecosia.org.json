@@ -1,0 +1,136 @@
+[
+  {
+    "domain": "ecosia.org",
+    "rank": 1030,
+    "url": "https://ecosia.org/",
+    "runAt": "2026-10-18T17:58:11.028Z",
+    "robots": {
+      "status": 200,
+      "bytes": 518,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ecosia.org/",
+      "bytes": 73502
+    },
+    "rendered": {
+      "title": "Ecosia - the search engine that plants trees",
+      "canonical": "https://www.ecosia.org/",
+      "words": 216,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 198,
+      "renderedWords": 216,
+      "coverage": 90.7,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 20,
+      "renderedOnlySample": [
+        "cookies",
+        "improve",
+        "experience",
+        "essential",
+        "make",
+        "sure",
+        "works",
+        "easy",
+        "non-essential",
+        "including",
+        "third-party",
+        "partners",
+        "allow",
+        "show",
+        "personalized",
+        "features",
+        "ecosia's",
+        "manage",
+        "reject",
+        "accept"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 92.3,
+      "titleDiffers": false,
+      "rawTitle": "Ecosia - the search engine that plants trees",
+      "renderedTitle": "Ecosia - the search engine that plants trees",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

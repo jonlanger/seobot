@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "curseforge.com",
+    "rank": 890,
+    "url": "https://curseforge.com/",
+    "runAt": "2026-10-18T17:52:10.037Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5943,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.curseforge.com/",
+      "bytes": 5892
+    },
+    "rendered": {
+      "title": "CurseForge - Mods & Addons Leading Community",
+      "canonical": "https://www.curseforge.com/",
+      "words": 369,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 369,
+      "coverage": 0.3,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 368,
+      "renderedOnlySample": [
+        "browsebrowse",
+        "all",
+        "129",
+        "minecraftthe",
+        "sims",
+        "4world",
+        "warcraftminecraft",
+        "bedrockark",
+        "survival",
+        "ascendedhytaleinzoistarcraft",
+        "iikerbal",
+        "space",
+        "programstardew",
+        "valleyamerican",
+        "truck",
+        "simulatorhogwarts",
+        "legacyterrariawildstarpalworldworld",
+        "tankspubg",
+        "battlegroundsrunes",
+        "magicdragonwilds",
+        "mod",
+        "contest",
+        "voting",
+        "opencreatemod",
+        "authorsbecome"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "CurseForge - Mods & Addons Leading Community",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

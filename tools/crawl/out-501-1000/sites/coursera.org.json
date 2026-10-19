@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "coursera.org",
+    "rank": 1217,
+    "url": "https://coursera.org/",
+    "runAt": "2026-10-18T18:04:59.165Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5345,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.coursera.org/",
+      "bytes": 801420
+    },
+    "rendered": {
+      "title": "Coursera | Online Courses, Certificates, & Degrees",
+      "canonical": "https://www.coursera.org/",
+      "words": 746,
+      "jsonLdTypes": [
+        "faqpage",
+        "organization"
+      ],
+      "headings": 71,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 454,
+      "renderedWords": 746,
+      "coverage": 49.6,
+      "rawOnlyTokens": 84,
+      "renderedOnlyTokens": 376,
+      "renderedOnlySample": [
+        "individualsfor",
+        "businessesfor",
+        "universitiesfor",
+        "governmentsexploredegrees",
+        "injoin",
+        "freejoin",
+        "freelearn",
+        "limitslearn",
+        "building",
+        "itcourses",
+        "every",
+        "level",
+        "coursesunlock",
+        "certificateuse",
+        "google's",
+        "startedstart",
+        "careergrow",
+        "organizationsjoin",
+        "freepreviousnextgo",
+        "1go",
+        "2go",
+        "3displaying",
+        "items",
+        "out",
+        "total"
+      ],
+      "jsonLdRaw": [
+        "faqpage",
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "faqpage",
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 71,
+      "headingsAlsoInRaw": 42,
+      "headingsCoverage": 59.2,
+      "titleDiffers": true,
+      "rawTitle": "Coursera | Online Courses, Certificates, &amp; Degrees",
+      "renderedTitle": "Coursera | Online Courses, Certificates, & Degrees",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

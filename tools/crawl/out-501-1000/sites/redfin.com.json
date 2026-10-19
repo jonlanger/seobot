@@ -1,0 +1,157 @@
+[
+  {
+    "domain": "redfin.com",
+    "rank": 1093,
+    "url": "https://redfin.com/",
+    "runAt": "2026-10-18T18:00:13.984Z",
+    "robots": {
+      "status": 200,
+      "bytes": 10605,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.redfin.com/",
+      "bytes": 283724
+    },
+    "rendered": {
+      "title": "Redfin | Real Estate & Homes for Sale, Rentals, Mortgages & Agents",
+      "canonical": "https://www.redfin.com/",
+      "words": 889,
+      "jsonLdTypes": [
+        "accommodation",
+        "organization",
+        "product",
+        "singlefamilyresidence"
+      ],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 591,
+      "renderedWords": 889,
+      "coverage": 36.9,
+      "rawOnlyTokens": 263,
+      "renderedOnlyTokens": 561,
+      "renderedOnlySample": [
+        "inopen",
+        "appfeedfavorites",
+        "commentssaved",
+        "searchesmortgagemy",
+        "homesrenter",
+        "dashboardmy",
+        "agentappointmentsopen",
+        "schedulesearch",
+        "salesearch",
+        "rentalsearly",
+        "accesssearch",
+        "accesssell",
+        "homelist",
+        "rentredfin",
+        "premierbe",
+        "agentnotification",
+        "settingsbuy",
+        "searcheshomes",
+        "salecondos",
+        "saleland",
+        "saleopen",
+        "housesbuying",
+        "optionsbuy",
+        "redfinredfin",
+        "premierredfin"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "accommodation",
+        "organization",
+        "product",
+        "singlefamilyresidence"
+      ],
+      "jsonLdMissingFromRaw": [
+        "accommodation",
+        "product",
+        "singlefamilyresidence"
+      ],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 61.5,
+      "titleDiffers": false,
+      "rawTitle": "Redfin | Real Estate & Homes for Sale, Rentals, Mortgages & Agents",
+      "renderedTitle": "Redfin | Real Estate & Homes for Sale, Rentals, Mortgages & Agents",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

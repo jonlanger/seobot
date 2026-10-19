@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "statcounter.com",
+    "rank": 1025,
+    "url": "https://statcounter.com/",
+    "runAt": "2026-10-18T17:57:51.629Z",
+    "robots": {
+      "status": 404,
+      "bytes": 564,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://statcounter.com/",
+      "bytes": 24777
+    },
+    "rendered": {
+      "title": "Web Analytics Made Easy - Statcounter",
+      "canonical": "",
+      "words": 303,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 293,
+      "renderedWords": 303,
+      "coverage": 83.5,
+      "rawOnlyTokens": 40,
+      "renderedOnlyTokens": 50,
+      "renderedOnlySample": [
+        "inproduct",
+        "customerssuccess",
+        "storiesdemo",
+        "statcounteranalyze",
+        "visitorsinstall",
+        "appignore",
+        "visitsconfigure",
+        "reportsexplore",
+        "pathsadd",
+        "alertsfilter",
+        "reportssync",
+        "dataadd",
+        "projectset",
+        "accountanalyze",
+        "pageswatch",
+        "visitorstrack",
+        "ratedetect",
+        "fraudsession",
+        "guidezone",
+        "filtersmaster",
+        "exploregoogle",
+        "alternativesstatcounter",
+        "analyticsstatcounter",
+        "happenstraditional",
+        "convertingvisually"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 18,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Web Analytics Made Easy - Statcounter",
+      "renderedTitle": "Web Analytics Made Easy - Statcounter",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

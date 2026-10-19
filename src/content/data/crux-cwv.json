@@ -1,0 +1,6 @@
+{
+  "source": "CrUX (Chrome UX Report) API",
+  "pulledAt": null,
+  "note": "Run scripts/pull-crux.mjs with CRUX_API_KEY set to populate.",
+  "rows": []
+}

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "nypost.com",
+    "rank": 1141,
+    "url": "https://nypost.com/",
+    "runAt": "2026-10-18T18:02:31.698Z",
+    "robots": {
+      "status": 200,
+      "bytes": 7173,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://nypost.com/",
+      "bytes": 1669597
+    },
+    "rendered": {
+      "title": "New York Post – Breaking News, Top Headlines, Photos & Videos",
+      "canonical": "https://nypost.com/",
+      "words": 2059,
+      "jsonLdTypes": [
+        "webpage",
+        "website"
+      ],
+      "headings": 236,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1897,
+      "renderedWords": 2059,
+      "coverage": 91.3,
+      "rawOnlyTokens": 17,
+      "renderedOnlyTokens": 179,
+      "renderedOnlySample": [
+        "sub",
+        "act'",
+        "again'",
+        "don't",
+        "inch'",
+        "serby's",
+        "bonus",
+        "cardinals",
+        "rams",
+        "kalshi",
+        "today's",
+        "mariners'",
+        "maye's",
+        "share",
+        "opt-out",
+        "available",
+        "strictly",
+        "necessary",
+        "similar",
+        "technologiesstrictly",
+        "essential",
+        "website",
+        "function",
+        "correctly",
+        "also"
+      ],
+      "jsonLdRaw": [
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 236,
+      "headingsAlsoInRaw": 198,
+      "headingsCoverage": 83.9,
+      "titleDiffers": false,
+      "rawTitle": "New York Post – Breaking News, Top Headlines, Photos & Videos",
+      "renderedTitle": "New York Post – Breaking News, Top Headlines, Photos & Videos",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

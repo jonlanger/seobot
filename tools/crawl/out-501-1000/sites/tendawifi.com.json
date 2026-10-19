@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "tendawifi.com",
+    "rank": 1155,
+    "url": "https://tendawifi.com/",
+    "runAt": "2026-10-18T18:02:59.274Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://tendawifi.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://tendawifi.com/\nCall log:\n  - navigating to \"https://tendawifi.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

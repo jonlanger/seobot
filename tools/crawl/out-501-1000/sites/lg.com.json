@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "lg.com",
+    "rank": 922,
+    "url": "https://lg.com/",
+    "runAt": "2026-10-18T17:52:57.164Z",
+    "robots": {
+      "status": 200,
+      "bytes": 8054,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.lg.com/us/",
+      "bytes": 2986247
+    },
+    "rendered": {
+      "title": "LG Electronics & Home Appliances | Shop Now | LG USA",
+      "canonical": "https://www.lg.com/us/",
+      "words": 1095,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 27,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 947,
+      "renderedWords": 1095,
+      "coverage": 70,
+      "rawOnlyTokens": 181,
+      "renderedOnlyTokens": 329,
+      "renderedOnlySample": [
+        "questions",
+        "agent",
+        "4shopparts",
+        "accessoriessupportbusiness021080home",
+        "yousimple",
+        "connectedlg",
+        "productslearn",
+        "morehome",
+        "morefree",
+        "electronicstvsrefrigeratorsmonitorslaundrycookinglaptopsdishwasherssoundbarsstyler",
+        "closetlifestyle",
+        "screensprojectorsvacuumsbluetooth",
+        "speakersair",
+        "careair",
+        "conditioners1",
+        "10discover",
+        "dealsview",
+        "dealstop",
+        "dealskitchenlaundrytv",
+        "audiolaptops",
+        "monitorsvacuum",
+        "c48-hour",
+        "applianceslimited-time",
+        "nowup",
+        "moreshop"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 27,
+      "headingsAlsoInRaw": 24,
+      "headingsCoverage": 88.9,
+      "titleDiffers": true,
+      "rawTitle": "LG Electronics &amp; Home Appliances | Shop Now | LG USA",
+      "renderedTitle": "LG Electronics & Home Appliances | Shop Now | LG USA",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

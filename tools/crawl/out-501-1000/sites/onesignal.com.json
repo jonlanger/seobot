@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "onesignal.com",
+    "rank": 1022,
+    "url": "https://onesignal.com/",
+    "runAt": "2026-10-18T17:57:44.371Z",
+    "robots": {
+      "status": 200,
+      "bytes": 543,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://onesignal.com/",
+      "bytes": 813276
+    },
+    "rendered": {
+      "title": "Customer Engagement Platform for Email, Push… - OneSignal",
+      "canonical": "https://onesignal.com/",
+      "words": 536,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "corporation",
+        "creativework",
+        "videoobject"
+      ],
+      "headings": 15,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 549,
+      "renderedWords": 536,
+      "coverage": 97.2,
+      "rawOnlyTokens": 28,
+      "renderedOnlyTokens": 15,
+      "renderedOnlySample": [
+        "press",
+        "optionsclick",
+        "sound0",
+        "it's",
+        "bootstrappingpackage",
+        "androidimport",
+        "applicationimport",
+        "onesignalclass",
+        "swiftuiimport",
+        "dotenvimport",
+        "mainstruct",
+        "overridewidget",
+        "packageimport",
+        "onceuseeffect",
+        "idonesignal"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "corporation",
+        "creativework"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "corporation",
+        "creativework",
+        "videoobject"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 15,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Customer Engagement Platform for Email, Push… - OneSignal",
+      "renderedTitle": "Customer Engagement Platform for Email, Push… - OneSignal",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

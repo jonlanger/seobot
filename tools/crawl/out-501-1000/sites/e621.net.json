@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "e621.net",
+    "rank": 1344,
+    "url": "https://e621.net/",
+    "runAt": "2026-10-18T18:10:11.011Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3723,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://e621.net/",
+      "bytes": 77468
+    },
+    "rendered": {
+      "title": "e621",
+      "canonical": "",
+      "words": 1260,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 28,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1233,
+      "renderedWords": 1260,
+      "coverage": 97.1,
+      "rawOnlyTokens": 9,
+      "renderedOnlyTokens": 36,
+      "renderedOnlySample": [
+        "apps'",
+        "chizi",
+        "20251",
+        "usethese",
+        "usewe",
+        "securitywe",
+        "copyrightsexcluding",
+        "trademarksour",
+        "usesyou",
+        "contributionsthe",
+        "andyou",
+        "terminationwe",
+        "standardsthese",
+        "policyreporting",
+        "infringementwe",
+        "llc16845",
+        "212phoenix",
+        "738-5845management",
+        "proceduresif",
+        "infringersit",
+        "infringementif",
+        "postedwe",
+        "websitewe",
+        "websiteyour",
+        "featuresyou"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 28,
+      "headingsAlsoInRaw": 28,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "e621",
+      "renderedTitle": "e621",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

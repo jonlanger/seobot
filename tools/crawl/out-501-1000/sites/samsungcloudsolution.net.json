@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "samsungcloudsolution.net",
+    "rank": 1076,
+    "url": "https://samsungcloudsolution.net/",
+    "runAt": "2026-10-18T17:59:38.515Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://samsungcloudsolution.net/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://samsungcloudsolution.net/\nCall log:\n  - navigating to \"https://samsungcloudsolution.net/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

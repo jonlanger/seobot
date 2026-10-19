@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "samsungcloud.tv",
+    "rank": 1149,
+    "url": "https://samsungcloud.tv/",
+    "runAt": "2026-10-18T18:02:52.279Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://samsungcloud.tv/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://samsungcloud.tv/\nCall log:\n  - navigating to \"https://samsungcloud.tv/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

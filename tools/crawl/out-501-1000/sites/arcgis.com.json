@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "arcgis.com",
+    "rank": 907,
+    "url": "https://arcgis.com/",
+    "runAt": "2026-10-18T17:52:32.192Z",
+    "robots": {
+      "status": 200,
+      "bytes": 61,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.arcgis.com/index.html",
+      "bytes": 823
+    },
+    "rendered": {
+      "title": "Account Login - ArcGIS Online",
+      "canonical": "",
+      "words": 37,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 37,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 37,
+      "renderedOnlySample": [
+        "overviewpricingmapscenehelpoverviewpricingmapscenehelpsign",
+        "inarcgis",
+        "onlinepowered",
+        "esriconnect",
+        "people",
+        "locations",
+        "and",
+        "data",
+        "using",
+        "interactive",
+        "maps",
+        "work",
+        "with",
+        "smart",
+        "data-driven",
+        "styles",
+        "intuitive",
+        "analysis",
+        "tools",
+        "share",
+        "your",
+        "insights",
+        "the",
+        "world",
+        "specific"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Account Login - ArcGIS Online",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

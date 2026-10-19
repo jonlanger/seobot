@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "rutube.ru",
+    "rank": 1181,
+    "url": "https://rutube.ru/",
+    "runAt": "2026-10-18T18:03:38.490Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4210,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://rutube.ru/",
+      "bytes": 864886
+    },
+    "rendered": {
+      "title": "RUTUBE - смотрите видео онлайн, бесплатно.",
+      "canonical": "https://rutube.ru/",
+      "words": 653,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 602,
+      "renderedWords": 653,
+      "coverage": 14.2,
+      "rawOnlyTokens": 509,
+      "renderedOnlyTokens": 560,
+      "renderedOnlySample": [
+        "закрытьотключить",
+        "рекламувходглавнаякино",
+        "сериалыдетямrutube",
+        "premierrutube",
+        "кионrutube",
+        "блогеровкаталогв",
+        "топеshortsтв",
+        "онлайнспортподпискиистория",
+        "просмотраплейлистысмотреть",
+        "позжекомментариипонравилосьглавнаякино",
+        "онлайнспортподписывайтесь",
+        "каналы",
+        "комментируйте",
+        "ставьте",
+        "реакциивходактивировать",
+        "промокодмоёподпискиистория",
+        "позжекомментариипонравилосьпо",
+        "темамавтоанимацияаудиокнигибизнесблогерывидеоигрыдетямедаинтервьюкрасота",
+        "стилькультуралайфхакимузыкановости",
+        "смиобучениеоригинальные",
+        "шоуподкастыпутешествиярадиосельское",
+        "хозяйствотелешоутрансляциифонды",
+        "помощифутболюморrutube",
+        "tvтелеканалыпервый",
+        "каналроссия"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 80,
+      "titleDiffers": false,
+      "rawTitle": "RUTUBE - смотрите видео онлайн, бесплатно.",
+      "renderedTitle": "RUTUBE - смотрите видео онлайн, бесплатно.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

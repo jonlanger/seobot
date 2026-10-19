@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "namecheaphosting.com",
+    "rank": 926,
+    "url": "https://namecheaphosting.com/",
+    "runAt": "2026-10-18T17:53:08.010Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://namecheaphosting.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_CONNECTION_REFUSED at https://namecheaphosting.com/\nCall log:\n  - navigating to \"https://namecheaphosting.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

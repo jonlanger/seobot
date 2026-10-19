@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "t2.ru",
+    "rank": 987,
+    "url": "https://t2.ru/",
+    "runAt": "2026-10-18T17:56:38.935Z",
+    "robots": {
+      "status": 503,
+      "bytes": 7482,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 503,
+      "finalUrl": "https://t2.ru/",
+      "bytes": 8570
+    },
+    "renderError": "page.evaluate: Execution context was destroyed, most likely because of a navigation",
+    "classification": "raw_blocked"
+  }
+]

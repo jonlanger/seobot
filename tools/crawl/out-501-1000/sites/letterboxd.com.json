@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "letterboxd.com",
+    "rank": 1047,
+    "url": "https://letterboxd.com/",
+    "runAt": "2026-10-18T17:58:35.178Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3402,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://letterboxd.com/",
+      "bytes": 5842
+    },
+    "rendered": {
+      "title": "Letterboxd • Social film discovery.",
+      "canonical": "",
+      "words": 875,
+      "jsonLdTypes": [],
+      "headings": 41,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 875,
+      "coverage": 0.1,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 874,
+      "renderedOnlySample": [
+        "sign",
+        "increate",
+        "accountfilmslistsmembersjournal",
+        "username",
+        "password",
+        "remember",
+        "forgotten",
+        "search",
+        "wildwood",
+        "2026",
+        "track",
+        "films",
+        "you",
+        "watched",
+        "save",
+        "those",
+        "want",
+        "see",
+        "tell",
+        "your",
+        "friends",
+        "what",
+        "good",
+        "get",
+        "started"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 41,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Letterboxd • Social film discovery.",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

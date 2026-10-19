@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "syosetu.com",
+    "rank": 1398,
+    "url": "https://syosetu.com/",
+    "runAt": "2026-10-18T18:11:56.738Z",
+    "robots": {
+      "status": 200,
+      "bytes": 272,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "block",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://syosetu.com/",
+      "bytes": 275733
+    },
+    "rendered": {
+      "title": "小説家になろう - みんなのための小説投稿サイト",
+      "canonical": "",
+      "words": 4602,
+      "jsonLdTypes": [],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4380,
+      "renderedWords": 4602,
+      "coverage": 94.7,
+      "rawOnlyTokens": 22,
+      "renderedOnlyTokens": 244,
+      "renderedOnlySample": [
+        "数1",
+        "5作",
+        "数2",
+        "びロ",
+        "崇ハ",
+        "竜歴",
+        "史文",
+        "ムs",
+        "界恋",
+        "積ハ",
+        "猫ロ",
+        "こ異",
+        "市ロ",
+        "ウハ",
+        "壇ハ",
+        "な異",
+        "凜異",
+        "果異",
+        "果コ",
+        "ー文",
+        "リ異",
+        "さ異",
+        "夜異",
+        "乃異",
+        "者現"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "小説家になろう - みんなのための小説投稿サイト",
+      "renderedTitle": "小説家になろう - みんなのための小説投稿サイト",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

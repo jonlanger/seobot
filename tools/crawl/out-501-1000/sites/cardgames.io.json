@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "cardgames.io",
+    "rank": 1383,
+    "url": "https://cardgames.io/",
+    "runAt": "2026-10-18T18:11:31.422Z",
+    "robots": {
+      "status": 200,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://cardgames.io/",
+      "bytes": 118871
+    },
+    "rendered": {
+      "title": "CardGames.io - Play all your favorite classic card games.",
+      "canonical": "https://cardgames.io/",
+      "words": 688,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 578,
+      "renderedWords": 688,
+      "coverage": 79.7,
+      "rawOnlyTokens": 30,
+      "renderedOnlyTokens": 140,
+      "renderedOnlySample": [
+        "miscellaneousmisc",
+        "i'm",
+        "tabletphone",
+        "sell",
+        "opted",
+        "informationwhen",
+        "visit",
+        "retrieve",
+        "mostly",
+        "form",
+        "might",
+        "work",
+        "expect",
+        "mainly",
+        "function",
+        "chosen",
+        "analytics",
+        "rough",
+        "partners",
+        "effectively",
+        "serve",
+        "relevant",
+        "usually",
+        "because",
+        "respect"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 76.9,
+      "titleDiffers": false,
+      "rawTitle": "CardGames.io - Play all your favorite classic card games.",
+      "renderedTitle": "CardGames.io - Play all your favorite classic card games.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

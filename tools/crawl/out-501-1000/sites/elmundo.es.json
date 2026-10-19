@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "elmundo.es",
+    "rank": 1119,
+    "url": "https://elmundo.es/",
+    "runAt": "2026-10-18T18:00:52.531Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5156,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.elmundo.es/",
+      "bytes": 491025
+    },
+    "rendered": {
+      "title": "EL MUNDO - Diario online líder de información en español",
+      "canonical": "https://www.elmundo.es/",
+      "words": 1171,
+      "jsonLdTypes": [
+        "newsmediaorganization"
+      ],
+      "headings": 71,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 988,
+      "renderedWords": 1171,
+      "coverage": 63.9,
+      "rawOnlyTokens": 240,
+      "renderedOnlyTokens": 423,
+      "renderedOnlySample": [
+        "you",
+        "subscriber",
+        "loginaccept",
+        "continuedecline",
+        "subscribewith",
+        "your",
+        "consent",
+        "our",
+        "partners",
+        "use",
+        "similar",
+        "technologies",
+        "store",
+        "access",
+        "process",
+        "personal",
+        "data",
+        "like",
+        "visit",
+        "website",
+        "can",
+        "withdraw",
+        "object",
+        "processing",
+        "based"
+      ],
+      "jsonLdRaw": [
+        "newsmediaorganization"
+      ],
+      "jsonLdRendered": [
+        "newsmediaorganization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 71,
+      "headingsAlsoInRaw": 28,
+      "headingsCoverage": 39.4,
+      "titleDiffers": true,
+      "rawTitle": "EL MUNDO - Diario online l�der de informaci�n en espa�ol",
+      "renderedTitle": "EL MUNDO - Diario online líder de información en español",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

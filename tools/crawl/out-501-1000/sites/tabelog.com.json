@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "tabelog.com",
+    "rank": 1112,
+    "url": "https://tabelog.com/",
+    "runAt": "2026-10-18T18:00:37.911Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2810,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://tabelog.com/",
+      "bytes": 516046
+    },
+    "rendered": {
+      "title": "食べログ【掲載店舗数No.1】グルメ・レストラン予約サイト",
+      "canonical": "https://tabelog.com/",
+      "words": 4209,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 35,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 3346,
+      "renderedWords": 4209,
+      "coverage": 79.2,
+      "rawOnlyTokens": 13,
+      "renderedOnlyTokens": 876,
+      "renderedOnlySample": [
+        "릭하",
+        "击切",
+        "擊切",
+        "料会",
+        "閉じ",
+        "じる",
+        "ah",
+        "ja",
+        "id",
+        "x",
+        "旧t",
+        "tw",
+        "tt",
+        "pp",
+        "価格",
+        "携帯",
+        "帯電",
+        "電話",
+        "話会",
+        "会社",
+        "社の",
+        "の提",
+        "供i",
+        "dは",
+        "do"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 35,
+      "headingsAlsoInRaw": 31,
+      "headingsCoverage": 88.6,
+      "titleDiffers": false,
+      "rawTitle": "食べログ【掲載店舗数No.1】グルメ・レストラン予約サイト",
+      "renderedTitle": "食べログ【掲載店舗数No.1】グルメ・レストラン予約サイト",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

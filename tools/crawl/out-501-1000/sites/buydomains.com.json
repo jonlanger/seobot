@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "buydomains.com",
+    "rank": 942,
+    "url": "https://buydomains.com/",
+    "runAt": "2026-10-18T17:53:39.442Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5872,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://buydomains.com/",
+      "bytes": 5799
+    },
+    "rendered": {
+      "title": "Buy Domains - Find a Premium Domain & Open Your Doors, BuyDomains.com",
+      "canonical": "https://www.buydomains.com/",
+      "words": 201,
+      "jsonLdTypes": [],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 201,
+      "coverage": 0.5,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 200,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "contentthis",
+        "website",
+        "audioeye",
+        "enabled",
+        "and",
+        "being",
+        "optimized",
+        "for",
+        "accessibility",
+        "open",
+        "the",
+        "toolbar",
+        "press",
+        "shift",
+        "some",
+        "assistive",
+        "technologies",
+        "may",
+        "require",
+        "use",
+        "passthrough",
+        "function",
+        "before"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Buy Domains - Find a Premium Domain & Open Your Doors, BuyDomains.com",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

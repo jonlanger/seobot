@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "supabase.co",
+    "rank": 988,
+    "url": "https://supabase.co/",
+    "runAt": "2026-10-18T17:56:44.420Z",
+    "robots": {
+      "status": 200,
+      "bytes": 226,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://supabase.com/",
+      "bytes": 1340429
+    },
+    "rendered": {
+      "title": "Supabase | The Postgres Development Platform",
+      "canonical": "https://supabase.com/",
+      "words": 554,
+      "jsonLdTypes": [
+        "organization",
+        "service",
+        "softwareapplication",
+        "website"
+      ],
+      "headings": 16,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 559,
+      "renderedWords": 554,
+      "coverage": 80.7,
+      "rawOnlyTokens": 112,
+      "renderedOnlyTokens": 107,
+      "renderedOnlySample": [
+        "contentproduct",
+        "pricingdocsblog111",
+        "6ksign",
+        "instart",
+        "projectopen",
+        "menubuild",
+        "weekendscale",
+        "millionsstart",
+        "projectrequest",
+        "demopostgres",
+        "databaseevery",
+        "world's",
+        "extendauthenticationadd",
+        "functionseasily",
+        "supabasefunctions",
+        "deploystoragestore",
+        "realtimebuild",
+        "vectorintegrate",
+        "openaihugging",
+        "facedata",
+        "apisinstant",
+        "worldwidestay",
+        "dashboardtable",
+        "editorsql",
+        "editorrls"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "service",
+        "softwareapplication",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "service",
+        "softwareapplication",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 16,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 87.5,
+      "titleDiffers": false,
+      "rawTitle": "Supabase | The Postgres Development Platform",
+      "renderedTitle": "Supabase | The Postgres Development Platform",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

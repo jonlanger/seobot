@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "konami.net",
+    "rank": 1018,
+    "url": "https://konami.net/",
+    "runAt": "2026-10-18T17:57:34.250Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://konami.net/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://konami.net/\nCall log:\n  - navigating to \"https://konami.net/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

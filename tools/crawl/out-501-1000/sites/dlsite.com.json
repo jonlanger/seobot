@@ -1,0 +1,122 @@
+[
+  {
+    "domain": "dlsite.com",
+    "rank": 1233,
+    "url": "https://dlsite.com/",
+    "runAt": "2026-10-18T18:05:47.843Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2195,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.dlsite.com/index.html",
+      "bytes": 200665
+    },
+    "rendered": {
+      "title": "DLsite：同人誌、同人ゲームからPCソフト、コミックまで二次元総合ダウンロードショップ | DLsite 総合トップページ",
+      "canonical": "",
+      "words": 1304,
+      "jsonLdTypes": [],
+      "headings": 84,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1303,
+      "renderedWords": 1304,
+      "coverage": 99.5,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 6,
+      "renderedOnlySample": [
+        "日本語-jpy",
+        "女性コミックタテヨミ",
+        "asmrマンガ",
+        "アンソロ単話",
+        "012345678901234567890123456789",
+        "01234567890123456789"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 84,
+      "headingsAlsoInRaw": 66,
+      "headingsCoverage": 78.6,
+      "titleDiffers": false,
+      "rawTitle": "DLsite：同人誌、同人ゲームからPCソフト、コミックまで二次元総合ダウンロードショップ | DLsite 総合トップページ",
+      "renderedTitle": "DLsite：同人誌、同人ゲームからPCソフト、コミックまで二次元総合ダウンロードショップ | DLsite 総合トップページ",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

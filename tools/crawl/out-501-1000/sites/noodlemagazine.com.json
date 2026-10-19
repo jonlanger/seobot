@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "noodlemagazine.com",
+    "rank": 1302,
+    "url": "https://noodlemagazine.com/",
+    "runAt": "2026-10-18T18:08:54.757Z",
+    "robots": {
+      "status": 200,
+      "bytes": 225,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://noodlemagazine.com/home",
+      "bytes": 101716
+    },
+    "rendered": {
+      "title": "Noodlemagazine | The best search engine of HD videos",
+      "canonical": "https://noodlemagazine.com/home",
+      "words": 390,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 351,
+      "renderedWords": 390,
+      "coverage": 76.2,
+      "rawOnlyTokens": 54,
+      "renderedOnlyTokens": 93,
+      "renderedOnlySample": [
+        "juny132",
+        "ebwh",
+        "153",
+        "yvette",
+        "bova",
+        "dsd",
+        "889",
+        "silk",
+        "406",
+        "jav",
+        "old",
+        "boss",
+        "jenna",
+        "foxx",
+        "hentaied",
+        "maria",
+        "buen",
+        "transexual",
+        "jalebi",
+        "bai",
+        "ullu",
+        "hotel",
+        "sluts",
+        "mypickupgirls",
+        "housewife"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Noodlemagazine | The best search engine of HD videos",
+      "renderedTitle": "Noodlemagazine | The best search engine of HD videos",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

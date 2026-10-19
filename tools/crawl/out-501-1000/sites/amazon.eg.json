@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "amazon.eg",
+    "rank": 1299,
+    "url": "https://amazon.eg/",
+    "runAt": "2026-10-18T18:08:47.628Z",
+    "robots": {
+      "status": 200,
+      "bytes": 6711,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 202,
+      "finalUrl": "https://www.amazon.eg/",
+      "bytes": 2007
+    },
+    "rendered": {
+      "title": "Amazon.eg: Shop Online in Egypt - Low Prices on Electronics, Fashion, Mobiles, Grocery & more",
+      "canonical": "https://www.amazon.eg/-/en/",
+      "words": 322,
+      "jsonLdTypes": [],
+      "headings": 27,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 322,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 322,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "content",
+        "keyboard",
+        "shortcuts",
+        "search",
+        "opt",
+        "cart",
+        "shift",
+        "home",
+        "orders",
+        "show",
+        "hide",
+        "move",
+        "between",
+        "items",
+        "use",
+        "your",
+        "keyboard's",
+        "down",
+        "arrows",
+        "delivering",
+        "new",
+        "cairo",
+        "update"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 27,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Amazon.eg: Shop Online in Egypt - Low Prices on Electronics, Fashion, Mobiles, Grocery & more",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "theconversation.com",
+    "rank": 1195,
+    "url": "https://theconversation.com/",
+    "runAt": "2026-10-18T18:04:09.189Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5692,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://theconversation.com/us",
+      "bytes": 1054182
+    },
+    "rendered": {
+      "title": "The Conversation U.S. - News written by researchers and scientists to help you understand",
+      "canonical": "https://theconversation.com/us",
+      "words": 953,
+      "jsonLdTypes": [],
+      "headings": 90,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 942,
+      "renderedWords": 953,
+      "coverage": 80.2,
+      "rawOnlyTokens": 178,
+      "renderedOnlyTokens": 189,
+      "renderedOnlySample": [
+        "contentsearch",
+        "homearts",
+        "cultureeconomyeducationenvironment",
+        "energyethics",
+        "religionhealthpolitics",
+        "societyscience",
+        "techworldpodcastslocaledition",
+        "africaaustraliabrasilcanadacanada",
+        "catalàespañaeuropefranceglobalindonesianew",
+        "zealandunited",
+        "kingdomunited",
+        "statesdonateedition",
+        "statesafricaaustraliabrasilcanadacanada",
+        "kingdomdonatenewslettersbecome",
+        "authorsign",
+        "readersign",
+        "inacademic",
+        "flairsearch",
+        "techworldpodcastslocalthe",
+        "understandtop",
+        "storiescan",
+        "answerari",
+        "universityamericans",
+        "themjohn",
+        "universityfor"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 90,
+      "headingsAlsoInRaw": 89,
+      "headingsCoverage": 98.9,
+      "titleDiffers": false,
+      "rawTitle": "The Conversation U.S. - News written by researchers and scientists to help you understand",
+      "renderedTitle": "The Conversation U.S. - News written by researchers and scientists to help you understand",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

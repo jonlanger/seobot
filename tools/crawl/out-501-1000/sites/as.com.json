@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "as.com",
+    "rank": 1096,
+    "url": "https://as.com/",
+    "runAt": "2026-10-18T18:00:19.095Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4616,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://as.com/",
+      "bytes": 844
+    },
+    "rendered": {
+      "title": "AS.com - Diario online deportivo. Fútbol, motor y mucho más",
+      "canonical": "https://as.com/",
+      "words": 1043,
+      "jsonLdTypes": [
+        "itemlist",
+        "website"
+      ],
+      "headings": 123,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 7,
+      "renderedWords": 1043,
+      "coverage": 0.3,
+      "rawOnlyTokens": 4,
+      "renderedOnlyTokens": 1040,
+      "renderedOnlySample": [
+        "with",
+        "your",
+        "agreement",
+        "our",
+        "partners",
+        "use",
+        "cookies",
+        "similar",
+        "technologies",
+        "store",
+        "access",
+        "process",
+        "personal",
+        "data",
+        "like",
+        "visit",
+        "this",
+        "website",
+        "you",
+        "can",
+        "withdraw",
+        "consent",
+        "set",
+        "preferences",
+        "time"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "itemlist",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "itemlist",
+        "website"
+      ],
+      "headingsRendered": 123,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 0.8,
+      "titleDiffers": true,
+      "rawTitle": "as.com",
+      "renderedTitle": "AS.com - Diario online deportivo. Fútbol, motor y mucho más",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

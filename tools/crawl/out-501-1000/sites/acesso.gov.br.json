@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "acesso.gov.br",
+    "rank": 1227,
+    "url": "https://acesso.gov.br/",
+    "runAt": "2026-10-18T18:05:31.412Z",
+    "robots": {
+      "status": 200,
+      "bytes": 924,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://servicos.acesso.gov.br/",
+      "bytes": 924
+    },
+    "rendered": {
+      "title": "gov.br - Acesse sua conta",
+      "canonical": "",
+      "words": 90,
+      "jsonLdTypes": [],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 90,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 90,
+      "renderedOnlySample": [
+        "pular",
+        "para",
+        "conteãºdo",
+        "principal",
+        "alto",
+        "contraste",
+        "vlibras",
+        "identifique-se",
+        "gov",
+        "com",
+        "número",
+        "cpf",
+        "digite",
+        "seu",
+        "criar",
+        "acessar",
+        "sua",
+        "conta",
+        "continuar",
+        "outras",
+        "opções",
+        "identificação",
+        "login",
+        "banco",
+        "será"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Portal Logado",
+      "renderedTitle": "gov.br - Acesse sua conta",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

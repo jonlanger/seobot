@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "dribbble.com",
+    "rank": 1315,
+    "url": "https://dribbble.com/",
+    "runAt": "2026-10-18T18:09:23.928Z",
+    "robots": {
+      "status": 200,
+      "bytes": 998,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 202,
+      "finalUrl": "https://dribbble.com/",
+      "bytes": 2013
+    },
+    "rendered": {
+      "title": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+      "canonical": "https://dribbble.com/",
+      "words": 325,
+      "jsonLdTypes": [],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 325,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 325,
+      "renderedOnlySample": [
+        "shots",
+        "designers",
+        "services",
+        "explore",
+        "popular",
+        "new",
+        "and",
+        "noteworthy",
+        "product",
+        "design",
+        "web",
+        "animation",
+        "branding",
+        "illustration",
+        "mobile",
+        "typography",
+        "print",
+        "hire",
+        "talent",
+        "start",
+        "project",
+        "brief",
+        "get",
+        "recommendations",
+        "proposals"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Dribbble - Discover the World’s Top Designers & Creative Professionals",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

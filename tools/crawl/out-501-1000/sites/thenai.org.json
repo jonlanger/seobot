@@ -1,0 +1,129 @@
+[
+  {
+    "domain": "thenai.org",
+    "rank": 917,
+    "url": "https://thenai.org/",
+    "runAt": "2026-10-18T17:52:45.809Z",
+    "robots": {
+      "status": 200,
+      "bytes": 184,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://thenai.org/",
+      "bytes": 296712
+    },
+    "rendered": {
+      "title": "Home - The NAI: Network Advertising Initiative",
+      "canonical": "https://thenai.org/",
+      "words": 344,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "headings": 9,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 344,
+      "renderedWords": 344,
+      "coverage": 99.7,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "slide"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 9,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 88.9,
+      "titleDiffers": false,
+      "rawTitle": "Home - The NAI: Network Advertising Initiative",
+      "renderedTitle": "Home - The NAI: Network Advertising Initiative",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

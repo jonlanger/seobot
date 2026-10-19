@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "conviva.com",
+    "rank": 969,
+    "url": "https://conviva.com/",
+    "runAt": "2026-10-18T17:55:14.371Z",
+    "robots": {
+      "status": 200,
+      "bytes": 201,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.conviva.ai/",
+      "bytes": 383618
+    },
+    "rendered": {
+      "title": "Conviva | Real-Time Experience Intelligence for AI Agents",
+      "canonical": "https://www.conviva.ai/",
+      "words": 320,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 104,
+      "renderedWords": 320,
+      "coverage": 32.2,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 217,
+      "renderedOnlySample": [
+        "back",
+        "this",
+        "website",
+        "uses",
+        "cookies",
+        "improve",
+        "perform",
+        "enable",
+        "advertising",
+        "you",
+        "including",
+        "through",
+        "retargeting",
+        "across",
+        "sites",
+        "devices",
+        "clicking",
+        "accept",
+        "consent",
+        "these",
+        "types",
+        "may",
+        "decline",
+        "reject",
+        "manage"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 16.7,
+      "titleDiffers": false,
+      "rawTitle": "Conviva | Real-Time Experience Intelligence for AI Agents",
+      "renderedTitle": "Conviva | Real-Time Experience Intelligence for AI Agents",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "marktplaats.nl",
+    "rank": 1228,
+    "url": "https://marktplaats.nl/",
+    "runAt": "2026-10-18T18:05:32.985Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2940,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.marktplaats.nl/",
+      "bytes": 139157
+    },
+    "rendered": {
+      "title": "Marktplaats - De plek om nieuwe en tweedehands spullen te kopen en verkopen",
+      "canonical": "https://www.marktplaats.nl/",
+      "words": 490,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 453,
+      "renderedWords": 490,
+      "coverage": 24.1,
+      "rawOnlyTokens": 335,
+      "renderedOnlyTokens": 372,
+      "renderedOnlySample": [
+        "advertentiesga",
+        "paginahelp",
+        "infovoorwaardenveiligheidscentrumberichtenmeldingeninloggenplaats",
+        "advertentietyp",
+        "zoekalle",
+        "categorieënauto'shuis",
+        "inrichtingtuin",
+        "terraskleding",
+        "damesaudio",
+        "fotokinderen",
+        "baby'suitgelichtauto's",
+        "dagbetalen",
+        "verzendensnel",
+        "berichtenstarten",
+        "marktplaatsaan",
+        "verkopenkopersbeschermingvoor",
+        "verzendencategorieënantiek",
+        "kunstaudio",
+        "fotoauto'sauto-onderdelenauto",
+        "diversenboekencaravans",
+        "kamperencd's",
+        "dvd'scomputers",
+        "softwarecontacten",
+        "berichtendiensten",
+        "vakmensendieren"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Marktplaats - De plek om nieuwe en tweedehands spullen te kopen en verkopen",
+      "renderedTitle": "Marktplaats - De plek om nieuwe en tweedehands spullen te kopen en verkopen",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

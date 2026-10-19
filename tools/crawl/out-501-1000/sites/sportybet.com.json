@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "sportybet.com",
+    "rank": 1381,
+    "url": "https://sportybet.com/",
+    "runAt": "2026-10-18T18:11:26.762Z",
+    "robots": {
+      "status": 200,
+      "bytes": 371,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 500,
+      "finalUrl": "https://www.sportybet.com/ng/",
+      "bytes": 6686
+    },
+    "rendered": {
+      "title": "Online Sports Betting International & Live Betting Odds at SportyBet | SportyBet",
+      "canonical": "https://www.sportybet.com/ng/",
+      "words": 337,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 24,
+      "renderedWords": 337,
+      "coverage": 1.8,
+      "rawOnlyTokens": 18,
+      "renderedOnlyTokens": 331,
+      "renderedOnlySample": [
+        "depositbet",
+        "historymy",
+        "account",
+        "234loginregister",
+        "keep",
+        "signed",
+        "inforgot",
+        "password",
+        "deactivate",
+        "reactivateodds",
+        "formatdecimal2",
+        "40american",
+        "140sportsgameslive",
+        "bettinginstant",
+        "footballscheduled",
+        "virtualsjackpotlivescoreresultspromotionssporty",
+        "loyaltyappgmt-04",
+        "00homefootballvfootballbasketballtennisefootballtable",
+        "tennisebasketballice",
+        "hockeyeice",
+        "hockeymore",
+        "sportshandballvolleyballbaseballamerican",
+        "footballcricketdartsmmaboxingbadmintonbeach",
+        "volleyballfutsalrugbysnookerbasketball",
+        "3x3counter-strikedota"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization"
+      ],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Online Sports Betting International & Live Betting Odds at SportyBet | SportyBet",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

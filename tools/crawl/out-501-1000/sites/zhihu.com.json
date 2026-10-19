@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "zhihu.com",
+    "rank": 1089,
+    "url": "https://zhihu.com/",
+    "runAt": "2026-10-18T18:00:03.936Z",
+    "robots": {
+      "status": 403,
+      "bytes": 118,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.zhihu.com/",
+      "bytes": 118
+    },
+    "rendered": {
+      "title": "",
+      "canonical": "",
+      "words": 87,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 85,
+      "renderedWords": 87,
+      "coverage": 70.1,
+      "rawOnlyTokens": 24,
+      "renderedOnlyTokens": 26,
+      "renderedOnlySample": [
+        "b2",
+        "2c",
+        "c8",
+        "89",
+        "9f",
+        "ff",
+        "fb",
+        "be",
+        "e5",
+        "59",
+        "98",
+        "82",
+        "2b",
+        "25",
+        "58",
+        "7c",
+        "cf",
+        "c5",
+        "52",
+        "28",
+        "8a",
+        "a4",
+        "c9",
+        "99",
+        "97"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "",
+      "renderedTitle": "",
+      "cjk": true
+    },
+    "classification": "raw_blocked"
+  }
+]

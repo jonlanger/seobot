@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "patreon.com",
+    "rank": 949,
+    "url": "https://patreon.com/",
+    "runAt": "2026-10-18T17:53:52.762Z",
+    "robots": {
+      "status": 200,
+      "bytes": 759,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.patreon.com/",
+      "bytes": 334906
+    },
+    "rendered": {
+      "title": "Where Creator Communities Thrive — Patreon",
+      "canonical": "",
+      "words": 709,
+      "jsonLdTypes": [],
+      "headings": 28,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 304,
+      "renderedWords": 709,
+      "coverage": 27.9,
+      "rawOnlyTokens": 106,
+      "renderedOnlyTokens": 511,
+      "renderedOnlySample": [
+        "contentcreatorsfeaturespricingresourcesupdatesopen",
+        "menupatreonfind",
+        "creatorcloselog",
+        "inget",
+        "startedlog",
+        "startedfind",
+        "creatorclosepatreonclosecreatorsfeaturespricingresourcesupdatesget",
+        "startedbackcreatorsclosepodcastersvideo",
+        "creatorsmusiciansartistsgame",
+        "devsbackfeaturesclosecreate",
+        "termsbuild",
+        "communityexpand",
+        "reachsend",
+        "newslettersget",
+        "supportearning",
+        "easyrun",
+        "membershipsell",
+        "productsbackpricingclosestarting",
+        "freebackresourcesclosepatreon",
+        "creatorsresources",
+        "startedgrow",
+        "membershipconnect",
+        "creatorsnewsroompatreon",
+        "hqread",
+        "updatesexplore"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 28,
+      "headingsAlsoInRaw": 23,
+      "headingsCoverage": 82.1,
+      "titleDiffers": false,
+      "rawTitle": "Where Creator Communities Thrive — Patreon",
+      "renderedTitle": "Where Creator Communities Thrive — Patreon",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

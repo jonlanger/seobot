@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "seedtag.com",
+    "rank": 928,
+    "url": "https://seedtag.com/",
+    "runAt": "2026-10-18T17:53:09.031Z",
+    "robots": {
+      "status": 200,
+      "bytes": 353,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.seedtag.com/",
+      "bytes": 128259
+    },
+    "rendered": {
+      "title": "Seedtag | Where Context Becomes Intelligence",
+      "canonical": "",
+      "words": 655,
+      "jsonLdTypes": [],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 186,
+      "renderedWords": 655,
+      "coverage": 20.2,
+      "rawOnlyTokens": 54,
+      "renderedOnlyTokens": 523,
+      "renderedOnlySample": [
+        "consentdetails",
+        "iabv2settings",
+        "aboutthis",
+        "website",
+        "uses",
+        "cookieswe",
+        "use",
+        "personalise",
+        "content",
+        "provide",
+        "social",
+        "features",
+        "analyse",
+        "traffic",
+        "also",
+        "share",
+        "information",
+        "site",
+        "analytics",
+        "partners",
+        "who",
+        "may",
+        "combine",
+        "other",
+        "you"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 90.9,
+      "titleDiffers": false,
+      "rawTitle": "Seedtag | Where Context Becomes Intelligence",
+      "renderedTitle": "Seedtag | Where Context Becomes Intelligence",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

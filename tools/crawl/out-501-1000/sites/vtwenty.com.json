@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "vtwenty.com",
+    "rank": 1293,
+    "url": "https://vtwenty.com/",
+    "runAt": "2026-10-18T18:08:33.117Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://vtwenty.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://vtwenty.com/\nCall log:\n  - navigating to \"https://vtwenty.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

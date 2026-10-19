@@ -1,0 +1,125 @@
+[
+  {
+    "domain": "fetlife.com",
+    "rank": 1245,
+    "url": "https://fetlife.com/",
+    "runAt": "2026-10-18T18:06:14.588Z",
+    "robots": {
+      "status": 200,
+      "bytes": 300,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://fetlife.com/",
+      "bytes": 144433
+    },
+    "rendered": {
+      "title": "FetLife: World's Largest BDSM, Kink, and Fetish Community | FetLife",
+      "canonical": "https://fetlife.com/",
+      "words": 567,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 567,
+      "renderedWords": 567,
+      "coverage": 99.5,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 3,
+      "renderedOnlySample": [
+        "isn't",
+        "fetlife's",
+        "what's"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 66.7,
+      "titleDiffers": true,
+      "rawTitle": "FetLife: World&#39;s Largest BDSM, Kink, and Fetish Community | FetLife",
+      "renderedTitle": "FetLife: World's Largest BDSM, Kink, and Fetish Community | FetLife",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

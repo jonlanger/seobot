@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "skysports.com",
+    "rank": 1278,
+    "url": "https://skysports.com/",
+    "runAt": "2026-10-18T18:07:25.824Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2175,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.skysports.com/",
+      "bytes": 597394
+    },
+    "rendered": {
+      "title": "Sky Sports - Sports News, Transfers, Scores | Watch Live Sport",
+      "canonical": "",
+      "words": 738,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 50,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 723,
+      "renderedWords": 738,
+      "coverage": 95.4,
+      "rawOnlyTokens": 19,
+      "renderedOnlyTokens": 34,
+      "renderedOnlySample": [
+        "log",
+        "nott'm",
+        "don't",
+        "madueke's",
+        "brighton's",
+        "he's",
+        "tielemans'",
+        "liverpool's",
+        "can't",
+        "cookout'",
+        "didn't",
+        "trailblazer'",
+        "badly'",
+        "leclerc's",
+        "drivers'",
+        "team'",
+        "delight'",
+        "it's",
+        "privilege'",
+        "they've",
+        "ferrari's",
+        "lyon's",
+        "trick'",
+        "experience'",
+        "maharaj's"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 50,
+      "headingsAlsoInRaw": 49,
+      "headingsCoverage": 98,
+      "titleDiffers": false,
+      "rawTitle": "Sky Sports - Sports News, Transfers, Scores | Watch Live Sport",
+      "renderedTitle": "Sky Sports - Sports News, Transfers, Scores | Watch Live Sport",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

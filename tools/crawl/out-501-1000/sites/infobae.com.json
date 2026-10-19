@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "infobae.com",
+    "rank": 1063,
+    "url": "https://infobae.com/",
+    "runAt": "2026-10-18T17:59:08.026Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1360,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.infobae.com/estados-unidos/",
+      "bytes": 507978
+    },
+    "rendered": {
+      "title": "Infobae EE.UU. | Últimas Noticias de Estados Unidos en Español - Infobae",
+      "canonical": "https://www.infobae.com/estados-unidos/",
+      "words": 927,
+      "jsonLdTypes": [
+        "newsmediaorganization"
+      ],
+      "headings": 105,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 909,
+      "renderedWords": 927,
+      "coverage": 82.1,
+      "rawOnlyTokens": 148,
+      "renderedOnlyTokens": 166,
+      "renderedOnlySample": [
+        "oct",
+        "2026estados",
+        "unidosmundoúltimas",
+        "noticiastecnoentretenimiento18",
+        "noticiastecnoentretenimientoregistrarmeiniciar",
+        "sesionbuscar",
+        "sitioestas",
+        "unidosmundoargentinacolombiaespañaméxicoperúcentroaméricacubaúltimas",
+        "noticiastecnoentretenimientoqué",
+        "vertendenciasmalditos",
+        "nerdsbienvenidopor",
+        "registrarmeiniciar",
+        "sesióntrendsataque",
+        "volodimir",
+        "parásitos",
+        "disturbios",
+        "repúblicalas",
+        "proyectileszelensky",
+        "inteligenciaanthropic",
+        "puestospor",
+        "moralespublicidaduna",
+        "antespor",
+        "gaitánsigue",
+        "californiapor",
+        "ortizuna"
+      ],
+      "jsonLdRaw": [
+        "newsmediaorganization"
+      ],
+      "jsonLdRendered": [
+        "newsmediaorganization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 105,
+      "headingsAlsoInRaw": 105,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Infobae EE.UU. | Últimas Noticias de Estados Unidos en Español - Infobae",
+      "renderedTitle": "Infobae EE.UU. | Últimas Noticias de Estados Unidos en Español - Infobae",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

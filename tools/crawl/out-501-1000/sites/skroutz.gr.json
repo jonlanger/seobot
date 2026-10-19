@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "skroutz.gr",
+    "rank": 1116,
+    "url": "https://skroutz.gr/",
+    "runAt": "2026-10-18T18:00:47.908Z",
+    "robots": {
+      "status": 200,
+      "bytes": 7246,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.skroutz.gr/",
+      "bytes": 5905
+    },
+    "rendered": {
+      "title": "Skroutz.gr: Αγόρασε εύκολα & με ασφάλεια σε Ελλάδα & Ευρώπη!",
+      "canonical": "https://www.skroutz.gr/",
+      "words": 1164,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 202,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 1164,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 1164,
+      "renderedOnlySample": [
+        "skroutz",
+        "αναζήτηση",
+        "κατηγορίες",
+        "γίνε",
+        "συνεργάτης",
+        "σύνδεση",
+        "εγγραφή",
+        "ελλάδα",
+        "επίλεξε",
+        "τοποθεσία",
+        "παράδοσης",
+        "βάση",
+        "την",
+        "υπολογίζονται",
+        "κόστος",
+        "μεταφορικών",
+        "και",
+        "ταχύτητα",
+        "κατάστημα",
+        "δεν",
+        "εξυπηρετεί",
+        "χώρα",
+        "που",
+        "όρισες",
+        "κύπρος"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 202,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Skroutz.gr: Αγόρασε εύκολα & με ασφάλεια σε Ελλάδα & Ευρώπη!",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

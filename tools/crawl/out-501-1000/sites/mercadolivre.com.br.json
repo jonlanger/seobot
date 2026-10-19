@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "mercadolivre.com.br",
+    "rank": 935,
+    "url": "https://mercadolivre.com.br/",
+    "runAt": "2026-10-18T17:53:24.241Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2947,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.mercadolivre.com.br/",
+      "bytes": 360036
+    },
+    "rendered": {
+      "title": "Mercado Livre Brasil - Frete Grátis no mesmo dia",
+      "canonical": "https://www.mercadolivre.com.br/",
+      "words": 383,
+      "jsonLdTypes": [
+        "onlinestore",
+        "website"
+      ],
+      "headings": 30,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 387,
+      "renderedWords": 383,
+      "coverage": 41.8,
+      "rawOnlyTokens": 227,
+      "renderedOnlyTokens": 223,
+      "renderedOnlySample": [
+        "conteúdomenu",
+        "atalhospular",
+        "parapular",
+        "conteúdocomentar",
+        "acessibilidadeatalhos",
+        "tecladobuscar",
+        "compraspcarrinhocabrir",
+        "atalhoszmercado",
+        "tudodigite",
+        "encontrarinforme",
+        "cepinforme",
+        "cepcategoriasveículossupermercadotecnologiacasa",
+        "móveiseletrodomésticosesportes",
+        "fitnessferramentasconstruçãoindústria",
+        "comérciopara",
+        "negóciopet",
+        "shopsaúdeacessórios",
+        "veículosbeleza",
+        "pessoalmodabebêsbrinquedoslivrosimóveisinternacionalprodutos",
+        "sustentaveismais",
+        "vendidoslojas",
+        "oficiaisver",
+        "categoriastecnologiacelulares",
+        "telefonesacessórios",
+        "celularespeças"
+      ],
+      "jsonLdRaw": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 30,
+      "headingsAlsoInRaw": 27,
+      "headingsCoverage": 90,
+      "titleDiffers": false,
+      "rawTitle": "Mercado Livre Brasil - Frete Grátis no mesmo dia",
+      "renderedTitle": "Mercado Livre Brasil - Frete Grátis no mesmo dia",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

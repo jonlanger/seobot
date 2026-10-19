@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "ryanair.com",
+    "rank": 932,
+    "url": "https://ryanair.com/",
+    "runAt": "2026-10-18T17:53:18.363Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4743,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ryanair.com/us/en",
+      "bytes": 4743
+    },
+    "rendered": {
+      "title": "Official Ryanair website | Cheap flights in Europe | Ryanair",
+      "canonical": "",
+      "words": 212,
+      "jsonLdTypes": [],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1,
+      "renderedWords": 212,
+      "coverage": 0.5,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 211,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "contentplan",
+        "faqs",
+        "bookings",
+        "log",
+        "myryanair",
+        "portal",
+        "flightscar",
+        "hirehotelsgift",
+        "cardsverified",
+        "ryanairreturn",
+        "tripone",
+        "waymulticitynewapply",
+        "promo",
+        "codefrom",
+        "searchfilters",
+        "price",
+        "range",
+        "times",
+        "gift",
+        "cards",
+        "car",
+        "hire",
+        "hotels"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Ryanair",
+      "renderedTitle": "Official Ryanair website | Cheap flights in Europe | Ryanair",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

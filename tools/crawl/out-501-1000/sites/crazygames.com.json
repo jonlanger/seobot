@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "crazygames.com",
+    "rank": 1098,
+    "url": "https://crazygames.com/",
+    "runAt": "2026-10-18T18:00:21.143Z",
+    "robots": {
+      "status": 200,
+      "bytes": 255,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.crazygames.com/",
+      "bytes": 295295
+    },
+    "rendered": {
+      "title": "Free Online Games on CrazyGames | Play Now!",
+      "canonical": "https://www.crazygames.com/",
+      "words": 271,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 279,
+      "renderedWords": 271,
+      "coverage": 73.4,
+      "rawOnlyTokens": 80,
+      "renderedOnlyTokens": 72,
+      "renderedOnlySample": [
+        "friendsmy",
+        "games1log",
+        "inhomerecently",
+        "playednewhot",
+        "gamesupdatedoriginalsmultiplayerleaderboardsactionadventurearcadeboardcardclickerdriving",
+        "iopuzzleshootingsimulationsportsstrategytriviawordtagscontact",
+        "usaboutdeveloperskids",
+        "sitejobsinfo",
+        "parentsterms",
+        "conditionsprivacyall",
+        "crazygamescontroller",
+        "detectedexplore",
+        "controller",
+        "compatible",
+        "gamesexplore",
+        "gamestrain",
+        "brainadrenaline",
+        "rushwith",
+        "friends5-minute",
+        "funmeme",
+        "bloxytimeless",
+        "classicsjust",
+        "relaxdeep",
+        "progresstop",
+        "todayfeatured"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Free Online Games on CrazyGames | Play Now!",
+      "renderedTitle": "Free Online Games on CrazyGames | Play Now!",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

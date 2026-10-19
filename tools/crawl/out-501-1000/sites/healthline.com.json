@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "healthline.com",
+    "rank": 1046,
+    "url": "https://healthline.com/",
+    "runAt": "2026-10-18T17:58:33.728Z",
+    "robots": {
+      "status": 200,
+      "bytes": 8862,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.healthline.com/",
+      "bytes": 425964
+    },
+    "rendered": {
+      "title": "Healthline: Medical information and health advice you can trust.",
+      "canonical": "https://www.healthline.com/",
+      "words": 466,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 370,
+      "renderedWords": 466,
+      "coverage": 47.4,
+      "rawOnlyTokens": 149,
+      "renderedOnlyTokens": 245,
+      "renderedOnlySample": [
+        "contentsubscribehealth",
+        "conditionshealth",
+        "conditionsalzheimer's",
+        "diseasebreast",
+        "cancercancer",
+        "carechronic",
+        "diseasechronic",
+        "cancerdigestive",
+        "healtheczemaeye",
+        "healthheart",
+        "healthmenopausemental",
+        "healthmigrainemultiple",
+        "parkinson's",
+        "diseasepsoriasisrheumatoid",
+        "healthtype",
+        "diabetesweight",
+        "managementwellnesswellness",
+        "topicsallergiescbdfitnessmen's",
+        "wellnessmental",
+        "well-beingnutritionparenthoodsexual",
+        "healthskin",
+        "carevitamins",
+        "supplementswomen's",
+        "wellnessmedicationsprescription",
+        "medicationsbotoxdupixenteyleaglp-1srepatharexultiskyrizitrintellixubrelvyvraylarproduct"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 71.4,
+      "titleDiffers": false,
+      "rawTitle": "Healthline: Medical information and health advice you can trust.",
+      "renderedTitle": "Healthline: Medical information and health advice you can trust.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "wordwall.net",
+    "rank": 1117,
+    "url": "https://wordwall.net/",
+    "runAt": "2026-10-18T18:00:48.065Z",
+    "robots": {
+      "status": 200,
+      "bytes": 185,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://wordwall.net/",
+      "bytes": 53241
+    },
+    "rendered": {
+      "title": "Interactive Activity Maker for Teachers | Wordwall",
+      "canonical": "",
+      "words": 319,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 249,
+      "renderedWords": 319,
+      "coverage": 77.1,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 73,
+      "renderedOnlySample": [
+        "better",
+        "lessons",
+        "quicker",
+        "log",
+        "free",
+        "home",
+        "features",
+        "price",
+        "community",
+        "contact",
+        "terms",
+        "use",
+        "privacy",
+        "notice",
+        "profile",
+        "page",
+        "edit",
+        "personal",
+        "details",
+        "location",
+        "català",
+        "cebuano",
+        "čeština",
+        "dansk",
+        "deutsch"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 13,
+      "headingsCoverage": 92.9,
+      "titleDiffers": false,
+      "rawTitle": "Interactive Activity Maker for Teachers | Wordwall",
+      "renderedTitle": "Interactive Activity Maker for Teachers | Wordwall",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

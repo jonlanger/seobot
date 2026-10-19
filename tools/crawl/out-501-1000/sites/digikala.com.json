@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "digikala.com",
+    "rank": 1238,
+    "url": "https://digikala.com/",
+    "runAt": "2026-10-18T18:06:03.933Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1321,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.digikala.com/",
+      "bytes": 13753
+    },
+    "rendered": {
+      "title": "فروشگاه اینترنتی دیجی‌کالا",
+      "canonical": "https://www.digikala.com/",
+      "words": 408,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4,
+      "renderedWords": 408,
+      "coverage": 0.7,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 405,
+      "renderedOnlySample": [
+        "ورود",
+        "ثبت",
+        "نامخلاصه",
+        "سبد",
+        "خرید",
+        "شماسبد",
+        "کالایی",
+        "شما",
+        "خالی",
+        "است",
+        "دسته",
+        "بندی",
+        "کالاهاشگفت",
+        "انگیزهاسوپرمارکتطلا",
+        "نقره",
+        "دیجیتالپرفروش",
+        "ترین",
+        "هادیجی",
+        "استایلدر",
+        "بفروشید",
+        "انتخاب",
+        "آدرسانتخاب",
+        "آدرسسوپرمارکتطلا",
+        "دیجیتالدیجی",
+        "استایلطلا"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "فروشگاه اینترنتی دیجی‌کالا",
+      "renderedTitle": "فروشگاه اینترنتی دیجی‌کالا",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

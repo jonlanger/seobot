@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "fortune.com",
+    "rank": 1327,
+    "url": "https://fortune.com/",
+    "runAt": "2026-10-18T18:09:39.220Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1774,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://fortune.com/",
+      "bytes": 1003214
+    },
+    "rendered": {
+      "title": "Fortune - Fortune 500 Daily & Breaking Business News",
+      "canonical": "https://fortune.com/",
+      "words": 1300,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 973,
+      "renderedWords": 1300,
+      "coverage": 61.3,
+      "rawOnlyTokens": 176,
+      "renderedOnlyTokens": 503,
+      "renderedOnlySample": [
+        "searchsubscribesubscribesign",
+        "inhomelatestfortune",
+        "500financetechleadershiplifestylerankingsmultimediaenergyfuel",
+        "makerutility",
+        "blumoctober",
+        "2026banking10",
+        "findsby",
+        "rogelbergoctober",
+        "2026travel",
+        "leisurethe",
+        "prosby",
+        "osmonbekovoctober",
+        "2026personal",
+        "financesusan",
+        "austinby",
+        "lakeoctober",
+        "2026latestgen",
+        "ahead14",
+        "minutes",
+        "agoegypt",
+        "escalates3",
+        "agoa",
+        "agowhile",
+        "decreases3",
+        "agoeconomy"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Fortune - Fortune 500 Daily &amp; Breaking Business News",
+      "renderedTitle": "Fortune - Fortune 500 Daily & Breaking Business News",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

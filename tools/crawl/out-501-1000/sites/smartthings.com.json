@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "smartthings.com",
+    "rank": 1187,
+    "url": "https://smartthings.com/",
+    "runAt": "2026-10-18T18:03:49.985Z",
+    "robots": {
+      "status": 200,
+      "bytes": 122,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.samsung.com/us/smartthings/",
+      "bytes": 590399
+    },
+    "rendered": {
+      "title": "Smart home with Samsung SmartThings | Samsung US",
+      "canonical": "https://www.samsung.com/us/smartthings/",
+      "words": 862,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "webpage"
+      ],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 787,
+      "renderedWords": 862,
+      "coverage": 90.6,
+      "rawOnlyTokens": 6,
+      "renderedOnlyTokens": 81,
+      "renderedOnlySample": [
+        "accessible",
+        "main",
+        "expansive",
+        "8-inch",
+        "200",
+        "total",
+        "400",
+        "off",
+        "select",
+        "yourgalaxy",
+        "1some",
+        "2the",
+        "3available",
+        "4the",
+        "5the",
+        "6smart",
+        "7available",
+        "8ai",
+        "9samsung",
+        "10available",
+        "11intended",
+        "12as",
+        "13user",
+        "14the",
+        "15available"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Smart home with Samsung SmartThings | Samsung US",
+      "renderedTitle": "Smart home with Samsung SmartThings | Samsung US",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

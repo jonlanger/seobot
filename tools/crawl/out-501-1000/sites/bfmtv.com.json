@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "bfmtv.com",
+    "rank": 1094,
+    "url": "https://bfmtv.com/",
+    "runAt": "2026-10-18T18:00:15.157Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3768,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.bfmtv.com/",
+      "bytes": 1018339
+    },
+    "rendered": {
+      "title": "Actualités en continu et info en direct et replay - BFM",
+      "canonical": "https://www.bfmtv.com/",
+      "words": 1886,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 193,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1704,
+      "renderedWords": 1886,
+      "coverage": 70.8,
+      "rawOnlyTokens": 368,
+      "renderedOnlyTokens": 550,
+      "renderedOnlySample": [
+        "continuer",
+        "accepter",
+        "154",
+        "iab",
+        "utilisent",
+        "traceurs",
+        "mémoriser",
+        "préférences",
+        "mesurer",
+        "audience",
+        "améliorer",
+        "personnaliser",
+        "expérience",
+        "publicités",
+        "localisation",
+        "intégrer",
+        "pouvez",
+        "paramétrer",
+        "choix",
+        "cas",
+        "refus",
+        "continuerez",
+        "recevoir",
+        "personnalisées",
+        "appliquent"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 193,
+      "headingsAlsoInRaw": 113,
+      "headingsCoverage": 58.5,
+      "titleDiffers": false,
+      "rawTitle": "Actualités en continu et info en direct et replay - BFM",
+      "renderedTitle": "Actualités en continu et info en direct et replay - BFM",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

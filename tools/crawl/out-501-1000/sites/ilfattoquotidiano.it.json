@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "ilfattoquotidiano.it",
+    "rank": 1306,
+    "url": "https://ilfattoquotidiano.it/",
+    "runAt": "2026-10-18T18:09:04.217Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1064,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "block",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ilfattoquotidiano.it/",
+      "bytes": 898020
+    },
+    "rendered": {
+      "title": "News e ultime notizie su politica, cronaca, giustizia, economia | Il Fatto Quotidiano",
+      "canonical": "https://www.ilfattoquotidiano.it/",
+      "words": 1799,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "headings": 174,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1756,
+      "renderedWords": 1799,
+      "coverage": 97.1,
+      "rawOnlyTokens": 9,
+      "renderedOnlyTokens": 52,
+      "renderedOnlySample": [
+        "00on",
+        "airfrancesco",
+        "patrimonio",
+        "parolemillennium",
+        "live21",
+        "00fra",
+        "min",
+        "censura",
+        "l'intervento",
+        "inchiestamarco",
+        "travaglio22",
+        "50minprimarie",
+        "largo",
+        "correrà",
+        "caporalele",
+        "dirette",
+        "gomez23",
+        "50minil",
+        "davvero",
+        "fidarsi",
+        "renzi",
+        "gomez00",
+        "50minla",
+        "guerra",
+        "diesel"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 174,
+      "headingsAlsoInRaw": 116,
+      "headingsCoverage": 66.7,
+      "titleDiffers": false,
+      "rawTitle": "News e ultime notizie su politica, cronaca, giustizia, economia | Il Fatto Quotidiano",
+      "renderedTitle": "News e ultime notizie su politica, cronaca, giustizia, economia | Il Fatto Quotidiano",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

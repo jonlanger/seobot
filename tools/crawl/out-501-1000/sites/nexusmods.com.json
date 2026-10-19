@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "nexusmods.com",
+    "rank": 990,
+    "url": "https://nexusmods.com/",
+    "runAt": "2026-10-18T17:56:52.519Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5853,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.nexusmods.com/",
+      "bytes": 5802
+    },
+    "rendered": {
+      "title": "Nexus Mods - Mods and Community - Nexus Mods",
+      "canonical": "https://www.nexusmods.com/",
+      "words": 240,
+      "jsonLdTypes": [],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 240,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 240,
+      "renderedOnlySample": [
+        "skip",
+        "contentgamesmodscollectionsmediacommunitysupportsearch",
+        "unauthenticatedlog",
+        "indownload",
+        "appmodding",
+        "made",
+        "easyauto-install",
+        "hundreds",
+        "mods",
+        "get",
+        "next-level",
+        "graphics",
+        "new",
+        "gameplay",
+        "and",
+        "endless",
+        "amounts",
+        "content",
+        "browse",
+        "all",
+        "modsupload",
+        "mod26",
+        "1bdownloads957kmods79",
+        "4mmembers",
+        "19mcreator"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Nexus Mods - Mods and Community - Nexus Mods",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

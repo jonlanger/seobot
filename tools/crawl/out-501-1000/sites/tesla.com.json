@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "tesla.com",
+    "rank": 1259,
+    "url": "https://tesla.com/",
+    "runAt": "2026-10-18T18:06:36.100Z",
+    "robots": {
+      "status": 403,
+      "bytes": 373,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://tesla.com/",
+      "bytes": 359
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 19,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 19,
+      "renderedWords": 19,
+      "coverage": 94.7,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "1d02f2f4"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

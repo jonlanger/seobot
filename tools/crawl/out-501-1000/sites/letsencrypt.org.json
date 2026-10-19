@@ -1,0 +1,121 @@
+[
+  {
+    "domain": "letsencrypt.org",
+    "rank": 1161,
+    "url": "https://letsencrypt.org/",
+    "runAt": "2026-10-18T18:03:06.478Z",
+    "robots": {
+      "status": 200,
+      "bytes": 14,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://letsencrypt.org/",
+      "bytes": 90254
+    },
+    "rendered": {
+      "title": "Let's Encrypt",
+      "canonical": "",
+      "words": 285,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 283,
+      "renderedWords": 285,
+      "coverage": 98.2,
+      "rawOnlyTokens": 3,
+      "renderedOnlyTokens": 5,
+      "renderedOnlySample": [
+        "700m700m",
+        "we've",
+        "website's",
+        "you're",
+        "we're"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 83.3,
+      "titleDiffers": true,
+      "rawTitle": "Let&#39;s Encrypt",
+      "renderedTitle": "Let's Encrypt",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

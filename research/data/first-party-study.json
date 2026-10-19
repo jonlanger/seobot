@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "study": "Seobot JS-wall + robots.txt study — pinned Tranco top 500 (list 64VVX)",
+    "runDate": "2026-10-16",
+    "runs": 2,
+    "license": "CC BY 4.0",
+    "method": "Two passes per homepage with the same user agent — plain HTTP vs. headless Chromium — so JavaScript execution is the only variable.",
+    "sourceId": "seobot-top500-2026"
+  },
+  "headline": {
+    "sitesTotal": 500,
+    "classified": {
+      "measured": 324,
+      "robots_excluded": 23,
+      "raw_blocked": 112,
+      "render_incomplete": 11,
+      "render_failed": 12,
+      "both_blocked": 18
+    },
+    "readableShare": 64.8,
+    "walledShare": 26,
+    "robotsExcludedShare": 4.6,
+    "coverage": {
+      "measured": 324,
+      "median": 71.4,
+      "p25": 48.8,
+      "p75": 93,
+      "min": 0,
+      "max": 100
+    },
+    "stability": {
+      "sitesCompared": 500,
+      "classificationChanged": 15,
+      "bothMeasured": 318,
+      "medianAbsDelta": 0,
+      "p90AbsDelta": 0.6,
+      "movedOver5pp": 7
+    },
+    "rankCoverage": {
+      "n": 324,
+      "r": 0.05,
+      "note": "Pearson correlation between Tranco rank and coverage among readable sites"
+    },
+    "gptBot": {
+      "blocked": {
+        "n": 81,
+        "measured": 33,
+        "measuredShare": 40.7,
+        "medianCoverage": 48.2,
+        "unreadable": 28,
+        "unreadableShare": 34.6
+      },
+      "open": {
+        "n": 330,
+        "measured": 270,
+        "measuredShare": 81.8,
+        "medianCoverage": 71.5,
+        "unreadable": 36,
+        "unreadableShare": 10.9
+      }
+    }
+  },
+  "robotsPolicy": {
+    "sitesWithRobots": 411,
+    "tokens": {
+      "GPTBot": {
+        "block": 81,
+        "allow": 57,
+        "partial": 226,
+        "unset": 47
+      },
+      "OAI-SearchBot": {
+        "block": 43,
+        "allow": 62,
+        "partial": 258,
+        "unset": 48
+      },
+      "ChatGPT-User": {
+        "block": 48,
+        "allow": 65,
+        "partial": 250,
+        "unset": 48
+      },
+      "ClaudeBot": {
+        "block": 84,
+        "allow": 54,
+        "partial": 224,
+        "unset": 49
+      },
+      "Claude-SearchBot": {
+        "block": 48,
+        "allow": 55,
+        "partial": 259,
+        "unset": 49
+      },
+      "Claude-User": {
+        "block": 50,
+        "allow": 55,
+        "partial": 257,
+        "unset": 49
+      },
+      "PerplexityBot": {
+        "block": 62,
+        "allow": 63,
+        "partial": 238,
+        "unset": 48
+      },
+      "Perplexity-User": {
+        "block": 55,
+        "allow": 55,
+        "partial": 252,
+        "unset": 49
+      },
+      "Google-Extended": {
+        "block": 68,
+        "allow": 57,
+        "partial": 239,
+        "unset": 47
+      },
+      "Applebot-Extended": {
+        "block": 67,
+        "allow": 49,
+        "partial": 246,
+        "unset": 49
+      },
+      "CCBot": {
+        "block": 96,
+        "allow": 47,
+        "partial": 220,
+        "unset": 48
+      },
+      "Bytespider": {
+        "block": 95,
+        "allow": 43,
+        "partial": 223,
+        "unset": 50
+      },
+      "Meta-ExternalAgent": {
+        "block": 75,
+        "allow": 43,
+        "partial": 243,
+        "unset": 50
+      },
+      "Amazonbot": {
+        "block": 58,
+        "allow": 49,
+        "partial": 254,
+        "unset": 50
+      },
+      "anthropic-ai": {
+        "block": 61,
+        "allow": 50,
+        "partial": 251,
+        "unset": 49
+      },
+      "Googlebot": {
+        "block": 4,
+        "allow": 53,
+        "partial": 306,
+        "unset": 48
+      },
+      "Bingbot": {
+        "block": 10,
+        "allow": 55,
+        "partial": 298,
+        "unset": 48
+      }
+    }
+  },
+  "verticals": [
+    {
+      "name": "Search engines",
+      "n": 9,
+      "measured": 7,
+      "medianCoverage": 12.6,
+      "blocked": 0,
+      "robotsExcluded": 2
+    },
+    {
+      "name": "AI products",
+      "n": 5,
+      "measured": 2,
+      "medianCoverage": 56,
+      "blocked": 2,
+      "robotsExcluded": 1
+    },
+    {
+      "name": "Social",
+      "n": 15,
+      "measured": 7,
+      "medianCoverage": 3,
+      "blocked": 1,
+      "robotsExcluded": 7
+    },
+    {
+      "name": "News & media",
+      "n": 14,
+      "measured": 6,
+      "medianCoverage": 79.3,
+      "blocked": 5,
+      "robotsExcluded": 2
+    },
+    {
+      "name": "E-commerce",
+      "n": 15,
+      "measured": 7,
+      "medianCoverage": 48.8,
+      "blocked": 6,
+      "robotsExcluded": 0
+    },
+    {
+      "name": "Cloud & dev",
+      "n": 9,
+      "measured": 6,
+      "medianCoverage": 64,
+      "blocked": 3,
+      "robotsExcluded": 0
+    },
+    {
+      "name": "Streaming & entertainment",
+      "n": 9,
+      "measured": 4,
+      "medianCoverage": 33.2,
+      "blocked": 3,
+      "robotsExcluded": 2
+    },
+    {
+      "name": "Reference & edu",
+      "n": 8,
+      "measured": 6,
+      "medianCoverage": 94.5,
+      "blocked": 1,
+      "robotsExcluded": 0
+    }
+  ],
+  "notable": [
+    {
+      "domain": "wikipedia.org",
+      "rank": 32,
+      "classification": "measured",
+      "coverage": 99.9,
+      "group": "Reference & edu"
+    },
+    {
+      "domain": "arxiv.org",
+      "rank": 461,
+      "classification": "measured",
+      "coverage": 100,
+      "group": null
+    },
+    {
+      "domain": "openai.com",
+      "rank": 116,
+      "classification": "measured",
+      "coverage": 27.1,
+      "group": "AI products"
+    },
+    {
+      "domain": "claude.ai",
+      "rank": 420,
+      "classification": "raw_blocked",
+      "coverage": null,
+      "group": "AI products"
+    },
+    {
+      "domain": "chatgpt.com",
+      "rank": 98,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "AI products"
+    },
+    {
+      "domain": "perplexity.ai",
+      "rank": 680,
+      "classification": "raw_blocked",
+      "coverage": null,
+      "group": "AI products"
+    },
+    {
+      "domain": "google.com",
+      "rank": 1,
+      "classification": "measured",
+      "coverage": 43.6,
+      "group": "Search engines"
+    },
+    {
+      "domain": "bing.com",
+      "rank": 37,
+      "classification": "measured",
+      "coverage": 3,
+      "group": "Search engines"
+    },
+    {
+      "domain": "duckduckgo.com",
+      "rank": 419,
+      "classification": "measured",
+      "coverage": 6.1,
+      "group": "Search engines"
+    },
+    {
+      "domain": "yandex.com",
+      "rank": 400,
+      "classification": "measured",
+      "coverage": 12.6,
+      "group": "Search engines"
+    },
+    {
+      "domain": "baidu.com",
+      "rank": 81,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "Search engines"
+    },
+    {
+      "domain": "reddit.com",
+      "rank": 103,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "Social"
+    },
+    {
+      "domain": "facebook.com",
+      "rank": 3,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "Social"
+    },
+    {
+      "domain": "x.com",
+      "rank": 48,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "Social"
+    },
+    {
+      "domain": "linkedin.com",
+      "rank": 20,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "Social"
+    },
+    {
+      "domain": "nytimes.com",
+      "rank": 158,
+      "classification": "both_blocked",
+      "coverage": null,
+      "group": "News & media"
+    },
+    {
+      "domain": "bbc.com",
+      "rank": 213,
+      "classification": "measured",
+      "coverage": 79.3,
+      "group": "News & media"
+    },
+    {
+      "domain": "theguardian.com",
+      "rank": 194,
+      "classification": "measured",
+      "coverage": 75.3,
+      "group": "News & media"
+    },
+    {
+      "domain": "amazon.com",
+      "rank": 28,
+      "classification": "raw_blocked",
+      "coverage": null,
+      "group": "E-commerce"
+    },
+    {
+      "domain": "etsy.com",
+      "rank": 322,
+      "classification": "both_blocked",
+      "coverage": null,
+      "group": "E-commerce"
+    },
+    {
+      "domain": "walmart.com",
+      "rank": 476,
+      "classification": "measured",
+      "coverage": 59,
+      "group": "E-commerce"
+    },
+    {
+      "domain": "shopify.com",
+      "rank": 168,
+      "classification": "measured",
+      "coverage": 59.3,
+      "group": "E-commerce"
+    },
+    {
+      "domain": "github.com",
+      "rank": 30,
+      "classification": "measured",
+      "coverage": 64,
+      "group": "Cloud & dev"
+    },
+    {
+      "domain": "stripe.com",
+      "rank": 218,
+      "classification": "measured",
+      "coverage": 70.2,
+      "group": null
+    },
+    {
+      "domain": "medium.com",
+      "rank": 196,
+      "classification": "both_blocked",
+      "coverage": null,
+      "group": "News & media"
+    },
+    {
+      "domain": "netflix.com",
+      "rank": 43,
+      "classification": "robots_excluded",
+      "coverage": null,
+      "group": "Streaming & entertainment"
+    },
+    {
+      "domain": "spotify.com",
+      "rank": 72,
+      "classification": "raw_blocked",
+      "coverage": null,
+      "group": "Streaming & entertainment"
+    },
+    {
+      "domain": "stackoverflow.com",
+      "rank": 522,
+      "classification": "raw_blocked",
+      "coverage": null,
+      "group": "Cloud & dev"
+    }
+  ],
+  "added": "2026-10-17"
+}

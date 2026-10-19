@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "lowes.com",
+    "rank": 977,
+    "url": "https://lowes.com/",
+    "runAt": "2026-10-18T17:55:55.027Z",
+    "robots": {
+      "status": 403,
+      "bytes": 381,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.lowes.com/",
+      "bytes": 5075
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 20,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 20,
+      "coverage": 90,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 2,
+      "renderedOnlySample": [
+        "57fd117",
+        "5245d6a7"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "domain": "latimes.com",
+    "rank": 923,
+    "url": "https://latimes.com/",
+    "runAt": "2026-10-18T17:52:58.258Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1768,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.latimes.com/",
+      "bytes": 1715514
+    },
+    "rendered": {
+      "title": "News from California, across the nation and world - Los Angeles Times",
+      "canonical": "https://www.latimes.com/",
+      "words": 1619,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 239,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1623,
+      "renderedWords": 1619,
+      "coverage": 98.8,
+      "rawOnlyTokens": 24,
+      "renderedOnlyTokens": 20,
+      "renderedOnlySample": [
+        "log",
+        "profile",
+        "sign",
+        "evacuations",
+        "shelters",
+        "discussable",
+        "film",
+        "finally",
+        "theaters",
+        "many",
+        "bizarre",
+        "surprises",
+        "disappoint",
+        "until",
+        "crystal",
+        "doesn",
+        "god",
+        "rob",
+        "reiner",
+        "accesssite"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 239,
+      "headingsAlsoInRaw": 228,
+      "headingsCoverage": 95.4,
+      "titleDiffers": false,
+      "rawTitle": "News from California, across the nation and world - Los Angeles Times",
+      "renderedTitle": "News from California, across the nation and world - Los Angeles Times",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

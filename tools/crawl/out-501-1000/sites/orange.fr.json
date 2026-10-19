@@ -1,0 +1,77 @@
+[
+  {
+    "domain": "orange.fr",
+    "rank": 1405,
+    "url": "https://orange.fr/",
+    "runAt": "2026-10-18T18:12:16.210Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.orange.fr/portail",
+      "bytes": 1193
+    },
+    "rendered": {
+      "title": "Portail Orange | Offres Mobiles, Internet, TV, Actu & Accès compte Mail",
+      "canonical": "https://www.orange.fr/portail",
+      "words": 604,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 41,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 604,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 604,
+      "renderedOnlySample": [
+        "continuer",
+        "sans",
+        "accepter",
+        "bienvenue",
+        "sur",
+        "orange",
+        "pour",
+        "vous",
+        "offrir",
+        "meilleure",
+        "expérience",
+        "possible",
+        "nos",
+        "environnements",
+        "digitaux",
+        "est",
+        "une",
+        "priorité",
+        "avec",
+        "votre",
+        "consentement",
+        "ses",
+        "293",
+        "partenaires",
+        "peuvent"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization"
+      ],
+      "headingsRendered": 41,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "&#8205;",
+      "renderedTitle": "Portail Orange | Offres Mobiles, Internet, TV, Actu & Accès compte Mail",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

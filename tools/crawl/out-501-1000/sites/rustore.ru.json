@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "rustore.ru",
+    "rank": 897,
+    "url": "https://rustore.ru/",
+    "runAt": "2026-10-18T17:52:18.927Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1570,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.rustore.ru/",
+      "bytes": 1121555
+    },
+    "rendered": {
+      "title": "RuStore — каталог мобильных приложений и игр для Android",
+      "canonical": "https://www.rustore.ru/",
+      "words": 728,
+      "jsonLdTypes": [
+        "itemlist",
+        "mobileapplication",
+        "organization",
+        "website"
+      ],
+      "headings": 29,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 647,
+      "renderedWords": 728,
+      "coverage": 44.1,
+      "rawOnlyTokens": 326,
+      "renderedOnlyTokens": 407,
+      "renderedOnlySample": [
+        "приложенияигрыкиоскблогразработчикамкарьерапомощьruпоискскачать",
+        "rustoreофициальный",
+        "androidбезопасный",
+        "приложениямнайтигарантия",
+        "безопасностидоступ",
+        "приложениямудобная",
+        "покупоктоп-30",
+        "игрcкидки",
+        "играхтоп-30",
+        "банковтоп-30",
+        "игртоп-30",
+        "инструментовтоп-30",
+        "инструментовcкидки",
+        "игрпопулярноеещёtiktokобщение",
+        "развлечения4",
+        "6госуслугигосударственные4",
+        "5пятёрочка",
+        "продуктоведа",
+        "напитки3",
+        "5вконтакте",
+        "музыкаобщение4",
+        "2ozon",
+        "билетыпокупки4",
+        "4яндекс",
+        "aiполезные"
+      ],
+      "jsonLdRaw": [
+        "itemlist",
+        "mobileapplication",
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "itemlist",
+        "mobileapplication",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 29,
+      "headingsAlsoInRaw": 25,
+      "headingsCoverage": 86.2,
+      "titleDiffers": false,
+      "rawTitle": "RuStore — каталог мобильных приложений и игр для Android",
+      "renderedTitle": "RuStore — каталог мобильных приложений и игр для Android",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

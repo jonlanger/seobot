@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "sex-studentki.team",
+    "rank": 1380,
+    "url": "https://sex-studentki.team/",
+    "runAt": "2026-10-18T18:11:26.654Z",
+    "robots": {
+      "status": 200,
+      "bytes": 491,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://sex-studentki.team/",
+      "bytes": 168528
+    },
+    "rendered": {
+      "title": "Главная: Порно студенток и молодых",
+      "canonical": "https://sex-studentki.team/",
+      "words": 1042,
+      "jsonLdTypes": [],
+      "headings": 86,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1077,
+      "renderedWords": 1042,
+      "coverage": 68.5,
+      "rawOnlyTokens": 363,
+      "renderedOnlyTokens": 328,
+      "renderedOnlySample": [
+        "видеокатегориимоделирусскоерусские",
+        "оргиианалженские",
+        "оргазмыкрасивый",
+        "сексрусское",
+        "домашнеерусское",
+        "разговорыжёсткоеальтушкиизменамамочки",
+        "зрелыекончают",
+        "внутрьбольшие",
+        "сиськиазиатки",
+        "втихаря",
+        "будь",
+        "смелее",
+        "cassie",
+        "kelly",
+        "daniel",
+        "royze",
+        "84m",
+        "первое",
+        "которое",
+        "посмотрела",
+        "конца",
+        "112",
+        "позвал",
+        "мужиков",
+        "побухать"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 86,
+      "headingsAlsoInRaw": 47,
+      "headingsCoverage": 54.7,
+      "titleDiffers": false,
+      "rawTitle": "Главная: Порно студенток и молодых",
+      "renderedTitle": "Главная: Порно студенток и молодых",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

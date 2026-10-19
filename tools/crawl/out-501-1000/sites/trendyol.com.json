@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "trendyol.com",
+    "rank": 974,
+    "url": "https://trendyol.com/",
+    "runAt": "2026-10-18T17:55:48.793Z",
+    "robots": {
+      "status": 200,
+      "bytes": 16163,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.trendyol.com/",
+      "bytes": 738046
+    },
+    "rendered": {
+      "title": "En Trend Ürünler Türkiye'nin Online Alışveriş Sitesi Trendyol'da",
+      "canonical": "https://www.trendyol.com/",
+      "words": 2800,
+      "jsonLdTypes": [
+        "memberprogram",
+        "organization",
+        "website"
+      ],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1917,
+      "renderedWords": 2800,
+      "coverage": 45.3,
+      "rawOnlyTokens": 648,
+      "renderedOnlyTokens": 1531,
+      "renderedOnlySample": [
+        "görsel",
+        "asistan",
+        "yazılımını",
+        "açın",
+        "erişilebiliri",
+        "kuponlarımtrendyol'da",
+        "yaphakkımızdayardım",
+        "destekchange",
+        "aragiriş",
+        "yapgiriş",
+        "yapkayıt",
+        "olfavorilerimsepetimkategoriler",
+        "kadınerkekanne",
+        "çocukev",
+        "yaşamsüpermarketkozmetikayakkabı",
+        "çantaelektroniksaat",
+        "aksesuarspor",
+        "outdoorflaş",
+        "kadingiyimelbisetişörtgömlekkot",
+        "pantolonkot",
+        "ceketpantolonmontbluzceketetekkazaktesettürbüyük",
+        "bedentrençkotyağmurluk",
+        "rüzgarlıksweatshirtkabanhırkapaltoayakkabıtopuklu",
+        "ayakkabısneakergünlük",
+        "ayakkabıbabetsandaletbotçizmekar"
+      ],
+      "jsonLdRaw": [
+        "memberprogram",
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "memberprogram",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 83.3,
+      "titleDiffers": false,
+      "rawTitle": "En Trend Ürünler Türkiye'nin Online Alışveriş Sitesi Trendyol'da",
+      "renderedTitle": "En Trend Ürünler Türkiye'nin Online Alışveriş Sitesi Trendyol'da",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

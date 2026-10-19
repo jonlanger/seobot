@@ -1,0 +1,121 @@
+[
+  {
+    "domain": "huggingface.co",
+    "rank": 1113,
+    "url": "https://huggingface.co/",
+    "runAt": "2026-10-18T18:00:40.536Z",
+    "robots": {
+      "status": 200,
+      "bytes": 68,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://huggingface.co/",
+      "bytes": 177573
+    },
+    "rendered": {
+      "title": "Hugging Face – The AI community building the future.",
+      "canonical": "https://huggingface.co/",
+      "words": 307,
+      "jsonLdTypes": [],
+      "headings": 15,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 311,
+      "renderedWords": 307,
+      "coverage": 98.4,
+      "rawOnlyTokens": 9,
+      "renderedOnlyTokens": 5,
+      "renderedOnlySample": [
+        "onthis",
+        "sign-onregionspriority",
+        "supportaudit",
+        "logsresource",
+        "groupsprivate"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 15,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 93.3,
+      "titleDiffers": false,
+      "rawTitle": "Hugging Face – The AI community building the future.",
+      "renderedTitle": "Hugging Face – The AI community building the future.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

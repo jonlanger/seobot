@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "one.com",
+    "rank": 1172,
+    "url": "https://one.com/",
+    "runAt": "2026-10-18T18:03:29.049Z",
+    "robots": {
+      "status": 200,
+      "bytes": 450,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.one.com/en-gb/",
+      "bytes": 1711223
+    },
+    "rendered": {
+      "title": "Domains, Hosting, Websites & Email in One Place | one.com UK",
+      "canonical": "https://www.one.com/en-gb/",
+      "words": 896,
+      "jsonLdTypes": [
+        "faqpage",
+        "organization",
+        "videoobject"
+      ],
+      "headings": 26,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 730,
+      "renderedWords": 896,
+      "coverage": 72.2,
+      "rawOnlyTokens": 83,
+      "renderedOnlyTokens": 249,
+      "renderedOnlySample": [
+        "uswe",
+        "cookies",
+        "personalise",
+        "ads",
+        "provide",
+        "analyse",
+        "advertising",
+        "analytics",
+        "partners",
+        "may",
+        "combine",
+        "other",
+        "collected",
+        "show",
+        "detailsyour",
+        "choicewe",
+        "comply",
+        "regulationyour",
+        "safeonly",
+        "necessaryaccept",
+        "allnecessary",
+        "necessary",
+        "usable",
+        "enabling",
+        "basic"
+      ],
+      "jsonLdRaw": [
+        "faqpage",
+        "organization",
+        "videoobject"
+      ],
+      "jsonLdRendered": [
+        "faqpage",
+        "organization",
+        "videoobject"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 26,
+      "headingsAlsoInRaw": 24,
+      "headingsCoverage": 92.3,
+      "titleDiffers": true,
+      "rawTitle": "Domains, Hosting, Websites &amp; Email in One Place | one.com UK",
+      "renderedTitle": "Domains, Hosting, Websites & Email in One Place | one.com UK",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

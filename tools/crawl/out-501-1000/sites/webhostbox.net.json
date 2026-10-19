@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "webhostbox.net",
+    "rank": 1021,
+    "url": "https://webhostbox.net/",
+    "runAt": "2026-10-18T17:57:43.745Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://webhostbox.net/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://webhostbox.net/\nCall log:\n  - navigating to \"https://webhostbox.net/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

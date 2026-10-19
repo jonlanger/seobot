@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "varzesh3.com",
+    "rank": 1350,
+    "url": "https://varzesh3.com/",
+    "runAt": "2026-10-18T18:10:23.602Z",
+    "robots": {
+      "status": 200,
+      "bytes": 174,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.varzesh3.com/",
+      "bytes": 1024397
+    },
+    "rendered": {
+      "title": "مرجع فوتبال و ورزش | ورزش سه",
+      "canonical": "https://www.varzesh3.com/",
+      "words": 2210,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 60,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1710,
+      "renderedWords": 2210,
+      "coverage": 60,
+      "rawOnlyTokens": 383,
+      "renderedOnlyTokens": 883,
+      "renderedOnlySample": [
+        "سهپخش",
+        "زندهاخبار",
+        "ورزشیپادکستتماس",
+        "ماتبلیغاتسوژه",
+        "شمایکشنبه",
+        "40جستجوورودصفحه",
+        "اصلیجدول",
+        "برترویدیوبرجـــامروزنامهنقل",
+        "انتقالاتمسابقات",
+        "ناگویاگزارش",
+        "تصویرینتایج",
+        "زندهحکم",
+        "انزلیتراکتور",
+        "مانزنوزی",
+        "نهاییتوپ",
+        "نرفتندحرف",
+        "پرسپولیسسرمربی",
+        "جهاننیمه",
+        "1234567تیتر",
+        "دوگلر",
+        "دولحظه",
+        "تراکتوربازیکنان",
+        "دوکاوه",
+        "دوآخرین",
+        "دوبدن"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 60,
+      "headingsAlsoInRaw": 52,
+      "headingsCoverage": 86.7,
+      "titleDiffers": false,
+      "rawTitle": "مرجع فوتبال و ورزش | ورزش سه",
+      "renderedTitle": "مرجع فوتبال و ورزش | ورزش سه",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

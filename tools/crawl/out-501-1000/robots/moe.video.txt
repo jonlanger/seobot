@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /video/
+Disallow: /framevideo/
+Disallow: /embed/
+Disallow: /channel/
+Disallow: /*?categoryId=
+Disallow: /cp*
+
+User-agent: GoogleBot
+Disallow: /video/
+Disallow: /framevideo/
+Disallow: /embed/
+Disallow: /channel/
+Disallow: /*?categoryId=
+Disallow: /cp*
+
+User-agent: Yandex
+Disallow: /video/
+Disallow: /framevideo/
+Disallow: /embed/
+Disallow: /channel/
+Disallow: /cp*
+Clean-param: categoryId&ref&erid&page&fb_comment_id&uid
+
+Sitemap: https://moe.video/sitemap.xml

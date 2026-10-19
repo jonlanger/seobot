@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "psu.edu",
+    "rank": 1309,
+    "url": "https://psu.edu/",
+    "runAt": "2026-10-18T18:09:10.425Z",
+    "robots": {
+      "status": 200,
+      "bytes": 24182,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.psu.edu/",
+      "bytes": 293309
+    },
+    "rendered": {
+      "title": "The Pennsylvania State University | Penn State",
+      "canonical": "",
+      "words": 251,
+      "jsonLdTypes": [
+        "collegeoruniversity",
+        "itemlist",
+        "webpage"
+      ],
+      "headings": 20,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 277,
+      "renderedWords": 251,
+      "coverage": 48.6,
+      "rawOnlyTokens": 155,
+      "renderedOnlyTokens": 129,
+      "renderedOnlySample": [
+        "contentgiveapplyreport",
+        "concernacademicsundergraduate",
+        "studiesmajorshonors",
+        "programsonline",
+        "learninggraduate",
+        "studiesgraduate",
+        "programspenn",
+        "lawcollege",
+        "medicineonline",
+        "degreesacademic",
+        "collegescampus",
+        "locationsglobal",
+        "educationacademic",
+        "calendaradmissionsexplore",
+        "statefind",
+        "quizundergraduate",
+        "campusesresidence",
+        "lifeclubs",
+        "organizationsathleticswell-being",
+        "safetyundergraduateacademic",
+        "creditresources",
+        "faqhow",
+        "applycontactvisitgraduatehow",
+        "applyprogramscontinuing",
+        "educationprogramsprofessional"
+      ],
+      "jsonLdRaw": [
+        "collegeoruniversity",
+        "itemlist",
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "collegeoruniversity",
+        "itemlist",
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 20,
+      "headingsAlsoInRaw": 20,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "The Pennsylvania State University | Penn State",
+      "renderedTitle": "The Pennsylvania State University | Penn State",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

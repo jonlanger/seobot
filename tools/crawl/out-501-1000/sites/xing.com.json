@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "xing.com",
+    "rank": 1007,
+    "url": "https://xing.com/",
+    "runAt": "2026-10-18T17:57:16.380Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5192,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.xing.com/",
+      "bytes": 429623
+    },
+    "rendered": {
+      "title": "Find the right job for you. Or get found!",
+      "canonical": "https://www.xing.com/",
+      "words": 682,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 68,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 462,
+      "renderedWords": 682,
+      "coverage": 12.9,
+      "rawOnlyTokens": 374,
+      "renderedOnlyTokens": 594,
+      "renderedOnlySample": [
+        "skip",
+        "navigationfind",
+        "jobscompaniesnetworksearchlog",
+        "inpost",
+        "jobcreate",
+        "adproductstell",
+        "the",
+        "about",
+        "you",
+        "want",
+        "administration",
+        "marketing",
+        "worker",
+        "accountant",
+        "foundation",
+        "logistics",
+        "health",
+        "field",
+        "sales",
+        "representative",
+        "freelance",
+        "working",
+        "student",
+        "psychologist",
+        "office"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 68,
+      "headingsAlsoInRaw": 35,
+      "headingsCoverage": 51.5,
+      "titleDiffers": true,
+      "rawTitle": "XING - Finde den Job, der zu Dir passt. Oder lass Dich finden!",
+      "renderedTitle": "Find the right job for you. Or get found!",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

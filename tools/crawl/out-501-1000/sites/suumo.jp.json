@@ -1,0 +1,130 @@
+[
+  {
+    "domain": "suumo.jp",
+    "rank": 1349,
+    "url": "https://suumo.jp/",
+    "runAt": "2026-10-18T18:10:19.107Z",
+    "robots": {
+      "status": 200,
+      "bytes": 15484,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://suumo.jp/",
+      "bytes": 77857
+    },
+    "rendered": {
+      "title": "【SUUMO】不動産売買・住宅購入・賃貸情報ならリクルートの不動産ポータルサイト",
+      "canonical": "",
+      "words": 1475,
+      "jsonLdTypes": [],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1463,
+      "renderedWords": 1475,
+      "coverage": 99.1,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 14,
+      "renderedOnlySample": [
+        "ムメ",
+        "メン",
+        "テナ",
+        "田宮",
+        "潟富",
+        "川千",
+        "城栃",
+        "岡岐",
+        "島鳥",
+        "根山",
+        "都滋",
+        "川高",
+        "崎熊",
+        "崎鹿"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 6,
+      "headingsCoverage": 85.7,
+      "titleDiffers": false,
+      "rawTitle": "【SUUMO】不動産売買・住宅購入・賃貸情報ならリクルートの不動産ポータルサイト",
+      "renderedTitle": "【SUUMO】不動産売買・住宅購入・賃貸情報ならリクルートの不動産ポータルサイト",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

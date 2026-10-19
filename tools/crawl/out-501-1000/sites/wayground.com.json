@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "wayground.com",
+    "rank": 1239,
+    "url": "https://wayground.com/",
+    "runAt": "2026-10-18T18:06:04.083Z",
+    "robots": {
+      "status": 200,
+      "bytes": 698,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://wayground.com/",
+      "bytes": 519807
+    },
+    "rendered": {
+      "title": "Quizizz is now Wayground | Teacher AI and Resources",
+      "canonical": "https://wayground.com/",
+      "words": 584,
+      "jsonLdTypes": [
+        "educationalorganization",
+        "review",
+        "webapplication",
+        "webpage",
+        "website"
+      ],
+      "headings": 29,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 579,
+      "renderedWords": 584,
+      "coverage": 96.2,
+      "rawOnlyTokens": 17,
+      "renderedOnlyTokens": 22,
+      "renderedOnlySample": [
+        "what's",
+        "administratorsteachers",
+        "quotelearn",
+        "you'd",
+        "i'm",
+        "teacheridaho",
+        "teach'",
+        "teachervirginia",
+        "teacherutah",
+        "teachernorth",
+        "districtblogfor",
+        "businessabout",
+        "uswebinarshelp",
+        "serviceprivacy",
+        "policyprivacy",
+        "centercareerspress",
+        "2026",
+        "englishafrikaansarabicazerbaijanichinese",
+        "simplifiedchinese",
+        "traditionalfrenchgermanhungarianindonesianitalianjapanesekazakhkoreanmalaypolishportuguese",
+        "brazilianromanianrussianspanishtagalogthaiturkishvietnameseenglishpowered",
+        "crowdin"
+      ],
+      "jsonLdRaw": [
+        "educationalorganization",
+        "review",
+        "webapplication",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "educationalorganization",
+        "review",
+        "webapplication",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 29,
+      "headingsAlsoInRaw": 29,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Quizizz is now Wayground | Teacher AI and Resources",
+      "renderedTitle": "Quizizz is now Wayground | Teacher AI and Resources",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

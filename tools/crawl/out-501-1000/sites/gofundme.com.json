@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "gofundme.com",
+    "rank": 1131,
+    "url": "https://gofundme.com/",
+    "runAt": "2026-10-18T18:01:41.131Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3979,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.gofundme.com/",
+      "bytes": 581092
+    },
+    "rendered": {
+      "title": "GoFundMe | The #1 Crowdfunding and Fundraising Platform",
+      "canonical": "https://www.gofundme.com/",
+      "words": 287,
+      "jsonLdTypes": [
+        "videoobject"
+      ],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 205,
+      "renderedWords": 287,
+      "coverage": 51.2,
+      "rawOnlyTokens": 58,
+      "renderedOnlyTokens": 140,
+      "renderedOnlySample": [
+        "contentdonatediscover",
+        "supportcategoriesbrowse",
+        "categorycrisis",
+        "reliefdonate",
+        "reliefsocial",
+        "fundsdirect",
+        "needssupporter",
+        "spaceinspiration",
+        "givefundraisestart",
+        "resourceshow",
+        "gofundmestep-by-step",
+        "morefundraising",
+        "categoriesfind",
+        "youteam",
+        "fundraisingfundraise",
+        "teamfundraising",
+        "blogresources",
+        "tipsthe",
+        "guidefundraising",
+        "ideasideas",
+        "creativitycharity",
+        "charitysign",
+        "nonprofitclaim",
+        "nonprofitgiving",
+        "fundsnewabouthow"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "videoobject"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 78.9,
+      "titleDiffers": false,
+      "rawTitle": "GoFundMe | The #1 Crowdfunding and Fundraising Platform",
+      "renderedTitle": "GoFundMe | The #1 Crowdfunding and Fundraising Platform",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

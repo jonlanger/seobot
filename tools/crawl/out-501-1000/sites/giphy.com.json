@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "giphy.com",
+    "rank": 1134,
+    "url": "https://giphy.com/",
+    "runAt": "2026-10-18T18:02:20.159Z",
+    "robots": {
+      "status": 200,
+      "bytes": 119,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://giphy.com/",
+      "bytes": 332138
+    },
+    "rendered": {
+      "title": "GIPHY - Be Animated",
+      "canonical": "https://giphy.com/",
+      "words": 169,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 43,
+      "renderedWords": 169,
+      "coverage": 4.7,
+      "rawOnlyTokens": 35,
+      "renderedOnlyTokens": 161,
+      "renderedOnlySample": [
+        "and",
+        "partners",
+        "use",
+        "cookies",
+        "similar",
+        "technologies",
+        "process",
+        "store",
+        "personal",
+        "data",
+        "for",
+        "the",
+        "purposes",
+        "testing",
+        "application",
+        "improvements",
+        "essential",
+        "functions",
+        "advertising",
+        "content",
+        "measurement",
+        "audience",
+        "research",
+        "services",
+        "development"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "GIPHY - Be Animated",
+      "renderedTitle": "GIPHY - Be Animated",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

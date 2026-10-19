@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "siemens.com",
+    "rank": 1214,
+    "url": "https://siemens.com/",
+    "runAt": "2026-10-18T18:04:52.823Z",
+    "robots": {
+      "status": 200,
+      "bytes": 130,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.siemens.com/en-us/",
+      "bytes": 292420
+    },
+    "rendered": {
+      "title": "Siemens home | Siemens",
+      "canonical": "https://www.siemens.com/en-us/",
+      "words": 625,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 30,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 422,
+      "renderedWords": 625,
+      "coverage": 58.6,
+      "rawOnlyTokens": 56,
+      "renderedOnlyTokens": 259,
+      "renderedOnlySample": [
+        "contentsiemensunited",
+        "states",
+        "support",
+        "servicesmanage",
+        "servicesaccount",
+        "managementhardware",
+        "registrationlicenses",
+        "renewalsmanage",
+        "ordersdiscuss",
+        "developdiscuss",
+        "develop",
+        "communitiessupport",
+        "troubleshootingsupport",
+        "troubleshootingnew",
+        "existing",
+        "casessupport",
+        "servicesspares",
+        "repairtrainingtrainingtraining",
+        "learning",
+        "materialsdocumentation",
+        "downloadsdocumentation",
+        "knowledge",
+        "basesdownloadssiemens",
+        "developer",
+        "resourcesget"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 30,
+      "headingsAlsoInRaw": 29,
+      "headingsCoverage": 96.7,
+      "titleDiffers": false,
+      "rawTitle": "Siemens home | Siemens",
+      "renderedTitle": "Siemens home | Siemens",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

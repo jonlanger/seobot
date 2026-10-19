@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "sapo.pt",
+    "rank": 1208,
+    "url": "https://sapo.pt/",
+    "runAt": "2026-10-18T18:04:38.914Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2139,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://sapo.pt/",
+      "bytes": 1268451
+    },
+    "rendered": {
+      "title": "SAPO – Última Hora e Notícias de Hoje atualizadas ao minuto",
+      "canonical": "https://sapo.pt/",
+      "words": 1237,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 224,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1547,
+      "renderedWords": 1237,
+      "coverage": 88.8,
+      "rawOnlyTokens": 448,
+      "renderedOnlyTokens": 138,
+      "renderedOnlySample": [
+        "links",
+        "barra",
+        "22ºc",
+        "horaapelo",
+        "comentários",
+        "vais",
+        "seguir",
+        "voos",
+        "vooshotéisveículosvoo",
+        "hotel",
+        "tipo",
+        "ida",
+        "volta",
+        "viagem",
+        "passageiros",
+        "adulto",
+        "número",
+        "classe",
+        "económica",
+        "voo",
+        "origem",
+        "partida",
+        "data",
+        "pesquisar",
+        "cánova"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 224,
+      "headingsAlsoInRaw": 142,
+      "headingsCoverage": 63.4,
+      "titleDiffers": false,
+      "rawTitle": "SAPO – Última Hora e Notícias de Hoje atualizadas ao minuto",
+      "renderedTitle": "SAPO – Última Hora e Notícias de Hoje atualizadas ao minuto",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

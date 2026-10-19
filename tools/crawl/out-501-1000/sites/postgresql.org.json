@@ -1,0 +1,118 @@
+[
+  {
+    "domain": "postgresql.org",
+    "rank": 1270,
+    "url": "https://postgresql.org/",
+    "runAt": "2026-10-18T18:07:08.955Z",
+    "robots": {
+      "status": 200,
+      "bytes": 273,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.postgresql.org/",
+      "bytes": 24773
+    },
+    "rendered": {
+      "title": "PostgreSQL: The world's most advanced open source database",
+      "canonical": "",
+      "words": 324,
+      "jsonLdTypes": [],
+      "headings": 23,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 324,
+      "renderedWords": 324,
+      "coverage": 99.4,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 2,
+      "renderedOnlySample": [
+        "planetscale's",
+        "depesz'"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 23,
+      "headingsAlsoInRaw": 22,
+      "headingsCoverage": 95.7,
+      "titleDiffers": false,
+      "rawTitle": "PostgreSQL: The world's most advanced open source database",
+      "renderedTitle": "PostgreSQL: The world's most advanced open source database",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

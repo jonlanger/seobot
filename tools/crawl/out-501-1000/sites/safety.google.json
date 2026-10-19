@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "safety.google",
+    "rank": 1103,
+    "url": "https://safety.google/",
+    "runAt": "2026-10-18T18:00:25.130Z",
+    "robots": {
+      "status": 200,
+      "bytes": 66,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://safety.google/",
+      "bytes": 207967
+    },
+    "rendered": {
+      "title": "Control Your Online Safety and Privacy - Google Safety Center",
+      "canonical": "https://safety.google/intl/en_us/",
+      "words": 293,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 274,
+      "renderedWords": 293,
+      "coverage": 93.5,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 19,
+      "renderedOnlySample": [
+        "oct",
+        "2026",
+        "check",
+        "text",
+        "message",
+        "scam",
+        "using",
+        "circle",
+        "developing",
+        "argon",
+        "responsibly",
+        "quickly",
+        "securely",
+        "passkeys",
+        "making",
+        "easier",
+        "identify",
+        "ai-generated",
+        "globally"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 63.2,
+      "titleDiffers": false,
+      "rawTitle": "Control Your Online Safety and Privacy - Google Safety Center",
+      "renderedTitle": "Control Your Online Safety and Privacy - Google Safety Center",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

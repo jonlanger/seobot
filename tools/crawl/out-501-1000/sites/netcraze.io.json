@@ -1,0 +1,85 @@
+[
+  {
+    "domain": "netcraze.io",
+    "rank": 1111,
+    "url": "https://netcraze.io/",
+    "runAt": "2026-10-18T18:00:36.943Z",
+    "robots": {
+      "status": 200,
+      "bytes": 25,
+      "wildcardVerdict": "block",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "block",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "classification": "robots_excluded",
+    "skipped": "wildcard group disallows /"
+  }
+]

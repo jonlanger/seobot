@@ -1,0 +1,80 @@
+[
+  {
+    "domain": "epicgames.dev",
+    "rank": 1064,
+    "url": "https://epicgames.dev/",
+    "runAt": "2026-10-18T17:59:10.226Z",
+    "robots": {
+      "status": 403,
+      "bytes": 25107,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://dev.epicgames.com/",
+      "bytes": 224687
+    },
+    "rendered": {
+      "title": "Built by developers to help all developers succeed. - Epic Games Developers",
+      "canonical": "https://dev.epicgames.com/",
+      "words": 137,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 124,
+      "renderedWords": 137,
+      "coverage": 76.6,
+      "rawOnlyTokens": 19,
+      "renderedOnlyTokens": 32,
+      "renderedOnlySample": [
+        "enginethe",
+        "fortnitethe",
+        "storeself-service",
+        "servicesan",
+        "servicestools",
+        "anti-cheatthe",
+        "metahumana",
+        "twinmotionfast",
+        "realityscana",
+        "documentationtoolsunreal",
+        "enginerealityscantwinmotionmetahumancreate",
+        "fortnitefortnite",
+        "creativeunreal",
+        "fortniteversegame",
+        "servicesgame",
+        "servicesaccount",
+        "serviceseasy",
+        "anti-cheatepic",
+        "storekids",
+        "servicesasset",
+        "distributionfabdev",
+        "communitytoolsunreal",
+        "engine567krealityscan6ktwinmotion7kmetahuman3kcreate",
+        "fortniteuefn",
+        "creative31kgame"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 17,
+      "headingsCoverage": 94.4,
+      "titleDiffers": false,
+      "rawTitle": "Built by developers to help all developers succeed. - Epic Games Developers",
+      "renderedTitle": "Built by developers to help all developers succeed. - Epic Games Developers",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

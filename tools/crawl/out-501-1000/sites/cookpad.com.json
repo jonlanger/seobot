@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "cookpad.com",
+    "rank": 1126,
+    "url": "https://cookpad.com/",
+    "runAt": "2026-10-18T18:01:07.865Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2528,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://cookpad.com/us",
+      "bytes": 107410
+    },
+    "rendered": {
+      "title": "Save, Publish & Share Recipes with Home Cooks Worldwide - Cookpad",
+      "canonical": "https://cookpad.com/eng",
+      "words": 183,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 177,
+      "renderedWords": 183,
+      "coverage": 84.2,
+      "rawOnlyTokens": 23,
+      "renderedOnlyTokens": 29,
+      "renderedOnlySample": [
+        "from",
+        "kitchens",
+        "italy",
+        "japan",
+        "mexico",
+        "written",
+        "there",
+        "now",
+        "english",
+        "cacio",
+        "pepe",
+        "clumps",
+        "carbonara",
+        "cream",
+        "curry",
+        "kare",
+        "raisu",
+        "miso",
+        "dashi",
+        "first",
+        "tacos",
+        "pastor",
+        "trompo",
+        "birria",
+        "chile-braised"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 6,
+      "headingsCoverage": 85.7,
+      "titleDiffers": true,
+      "rawTitle": "Save, Publish &amp; Share Recipes with Home Cooks Worldwide - Cookpad",
+      "renderedTitle": "Save, Publish & Share Recipes with Home Cooks Worldwide - Cookpad",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

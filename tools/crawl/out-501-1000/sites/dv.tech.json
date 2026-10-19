@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "dv.tech",
+    "rank": 887,
+    "url": "https://dv.tech/",
+    "runAt": "2026-10-18T17:52:08.083Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://dv.tech/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_CONNECTION_RESET at https://dv.tech/\nCall log:\n  - navigating to \"https://dv.tech/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

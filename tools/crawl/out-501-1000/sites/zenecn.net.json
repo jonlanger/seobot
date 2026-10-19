@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "zenecn.net",
+    "rank": 1106,
+    "url": "https://zenecn.net/",
+    "runAt": "2026-10-18T18:00:28.629Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://zenecn.net/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://zenecn.net/\nCall log:\n  - navigating to \"https://zenecn.net/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

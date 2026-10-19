@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "wetteronline.de",
+    "rank": 1292,
+    "url": "https://wetteronline.de/",
+    "runAt": "2026-10-18T18:08:28.869Z",
+    "robots": {
+      "status": 200,
+      "bytes": 58,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.wetteronline.de/",
+      "bytes": 329548
+    },
+    "rendered": {
+      "title": "Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline",
+      "canonical": "https://www.wetteronline.de/",
+      "words": 339,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 304,
+      "renderedWords": 339,
+      "coverage": 79.4,
+      "rawOnlyTokens": 35,
+      "renderedOnlyTokens": 70,
+      "renderedOnlySample": [
+        "rückblick",
+        "wetterrückblick",
+        "gesundheitfit",
+        "gesund",
+        "durch",
+        "herbstaufstehen",
+        "leicht",
+        "gemacht",
+        "tipps",
+        "gegen",
+        "herbstblueswie",
+        "dein",
+        "immunsystem",
+        "stärkstgarten6",
+        "winterfesten",
+        "gartenherbst",
+        "regionales",
+        "gemüse",
+        "obstzugvögel",
+        "was",
+        "fliegt",
+        "denn",
+        "essbares",
+        "aus",
+        "wald"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 6,
+      "headingsCoverage": 75,
+      "titleDiffers": false,
+      "rawTitle": "Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline",
+      "renderedTitle": "Wetter aktuell, Wettervorhersage und Wetterbericht - WetterOnline",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

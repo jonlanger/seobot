@@ -1,0 +1,124 @@
+[
+  {
+    "domain": "calculator.net",
+    "rank": 1336,
+    "url": "https://calculator.net/",
+    "runAt": "2026-10-18T18:09:55.354Z",
+    "robots": {
+      "status": 200,
+      "bytes": 64,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.calculator.net/",
+      "bytes": 11673
+    },
+    "rendered": {
+      "title": "Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science",
+      "canonical": "",
+      "words": 163,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 163,
+      "renderedWords": 163,
+      "coverage": 95.1,
+      "rawOnlyTokens": 8,
+      "renderedOnlyTokens": 8,
+      "renderedOnlySample": [
+        "sincostandegrad",
+        "sin-1cos-1tan-1πe",
+        "xyx3x2ex10x",
+        "xlnlog",
+        "789",
+        "456",
+        "123",
+        "rndac"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science",
+      "renderedTitle": "Calculator.net: Free Online Calculators - Math, Fitness, Finance, Science",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "spankbang.com",
+    "rank": 1226,
+    "url": "https://spankbang.com/",
+    "runAt": "2026-10-18T18:05:28.286Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5875,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://spankbang.com/",
+      "bytes": 5823
+    },
+    "rendered": {
+      "title": "Free Porn Videos & Sex Movies: XXX Videos Tube - SpankBang",
+      "canonical": "https://spankbang.com/",
+      "words": 989,
+      "jsonLdTypes": [],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 989,
+      "coverage": 0.1,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 988,
+      "renderedOnlySample": [
+        "are",
+        "you",
+        "years",
+        "age",
+        "older",
+        "must",
+        "and",
+        "agree",
+        "our",
+        "terms",
+        "service",
+        "access",
+        "use",
+        "this",
+        "website",
+        "clicking",
+        "enter",
+        "below",
+        "certify",
+        "that",
+        "accept",
+        "instructions",
+        "for",
+        "the",
+        "parents"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Free Porn Videos & Sex Movies: XXX Videos Tube - SpankBang",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

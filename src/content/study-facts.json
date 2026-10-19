@@ -1,0 +1,80 @@
+{
+  "_generated": "by scripts/build-study-facts.mjs from src/content/data/top-sites-study-1k.json — do not edit",
+  "listId": "64VVX",
+  "runDate": "2026-10-16",
+  "crawled": 1700,
+  "readable": 1025,
+  "readablePct": 60.3,
+  "readableShare": 60,
+  "unreadableShare": 40,
+  "robotsExcluded": 50,
+  "unreadable": 625,
+  "unreadablePct": 36.8,
+  "highestRankCrawled": 2132,
+  "doublePassThrough": 500,
+  "counts": {
+    "measured": 1025,
+    "robots_excluded": 50,
+    "raw_blocked": 497,
+    "render_incomplete": 33,
+    "render_failed": 25,
+    "both_blocked": 70
+  },
+  "walled": 567,
+  "walledShare": 33,
+  "invitedButBarricaded": 514,
+  "coverage": {
+    "median": 76.7,
+    "p25": 55.3,
+    "p75": 96
+  },
+  "robotsFiles": 1221,
+  "blocks": {
+    "GPTBot": {
+      "n": 222,
+      "pctOfRobotsFiles": 18.2
+    },
+    "ClaudeBot": {
+      "n": 209,
+      "pctOfRobotsFiles": 17.1
+    },
+    "PerplexityBot": {
+      "n": 162,
+      "pctOfRobotsFiles": 13.3
+    },
+    "Googlebot": {
+      "n": 27,
+      "pctOfRobotsFiles": 2.2
+    }
+  },
+  "retrievalBlockers": 224,
+  "retrievalBlockedPct": 18.3,
+  "trainingBlockers": 305,
+  "trainingBlockedPct": 25,
+  "classicBlockers": 42,
+  "retrievalTokenCount": 7,
+  "trainingTokenCount": 8,
+  "verticalMedians": {
+    "search": 12.6,
+    "social": 3
+  },
+  "render": {
+    "sitesCompared": 1328,
+    "invisibleWords": 189217,
+    "injectedJsonLdSites": 104,
+    "withMetrics": 1400
+  },
+  "waffle": {
+    "cells": 500,
+    "readable": 301,
+    "unreadable": 184
+  },
+  "stability": {
+    "sitesCompared": 500,
+    "classificationChanged": 15,
+    "bothMeasured": 318,
+    "medianAbsDelta": 0,
+    "p90AbsDelta": 0.6,
+    "movedOver5pp": 7
+  }
+}

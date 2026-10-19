@@ -1,0 +1,7 @@
+{
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/company/:domain", "destination": "/index.html" },
+    { "source": "/design/(components|foundations|brand)", "destination": "/index.html" }
+  ]
+}

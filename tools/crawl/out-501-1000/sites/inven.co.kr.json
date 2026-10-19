@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "inven.co.kr",
+    "rank": 1162,
+    "url": "https://inven.co.kr/",
+    "runAt": "2026-10-18T18:03:07.824Z",
+    "robots": {
+      "status": 200,
+      "bytes": 744,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.inven.co.kr/",
+      "bytes": 497566
+    },
+    "rendered": {
+      "title": "인벤 - No.1 게임 미디어 플랫폼",
+      "canonical": "",
+      "words": 5247,
+      "jsonLdTypes": [
+        "newsmediaorganization",
+        "organization"
+      ],
+      "headings": 138,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 5263,
+      "renderedWords": 5247,
+      "coverage": 98.3,
+      "rawOnlyTokens": 103,
+      "renderedOnlyTokens": 87,
+      "renderedOnlySample": [
+        "식서",
+        "션최",
+        "69",
+        "터개",
+        "션개",
+        "이개",
+        "개개",
+        "트개",
+        "모개",
+        "코개",
+        "린개",
+        "d개",
+        "어소",
+        "는파",
+        "계당",
+        "고별",
+        "고편",
+        "권에",
+        "권를",
+        "스루",
+        "패션",
+        "트던",
+        "고서",
+        "4장",
+        "유니"
+      ],
+      "jsonLdRaw": [
+        "newsmediaorganization",
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "newsmediaorganization",
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 138,
+      "headingsAlsoInRaw": 79,
+      "headingsCoverage": 57.2,
+      "titleDiffers": false,
+      "rawTitle": "인벤 - No.1 게임 미디어 플랫폼",
+      "renderedTitle": "인벤 - No.1 게임 미디어 플랫폼",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "weforum.org",
+    "rank": 1038,
+    "url": "https://weforum.org/",
+    "runAt": "2026-10-18T17:58:20.627Z",
+    "robots": {
+      "status": 403,
+      "bytes": 383,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.weforum.org/",
+      "bytes": 369
+    },
+    "rendered": {
+      "title": "World Economic Forum",
+      "canonical": "https://www.weforum.org/",
+      "words": 1337,
+      "jsonLdTypes": [],
+      "headings": 10,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 1337,
+      "coverage": 0.7,
+      "rawOnlyTokens": 10,
+      "renderedOnlyTokens": 1327,
+      "renderedOnlySample": [
+        "consentdetails",
+        "iabv2settings",
+        "aboutthis",
+        "website",
+        "uses",
+        "cookiesthe",
+        "world",
+        "economic",
+        "forum",
+        "necessary",
+        "cookies",
+        "make",
+        "our",
+        "site",
+        "work",
+        "would",
+        "also",
+        "like",
+        "set",
+        "optional",
+        "marketing",
+        "personalise",
+        "content",
+        "and",
+        "ads"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 10,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "World Economic Forum",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

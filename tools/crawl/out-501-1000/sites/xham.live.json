@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "xham.live",
+    "rank": 1314,
+    "url": "https://xham.live/",
+    "runAt": "2026-10-18T18:09:22.365Z",
+    "robots": {
+      "status": 200,
+      "bytes": 445,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://xham.live/",
+      "bytes": 435915
+    },
+    "rendered": {
+      "title": "Free Live Adult Webcams | xhamsterlive.com",
+      "canonical": "https://xhamsterlive.com/",
+      "words": 280,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 338,
+      "renderedWords": 280,
+      "coverage": 58.6,
+      "rawOnlyTokens": 174,
+      "renderedOnlyTokens": 116,
+      "renderedOnlySample": [
+        "girlsguystransi'm",
+        "18by",
+        "herethis",
+        "livetop",
+        "modelsmagic",
+        "searchabout",
+        "stripchatjoin",
+        "freecreate",
+        "accountlog",
+        "ingirlscouplesguystransgirlscouplesguystransmoremoregirlscouplesguystranscategoriessearch50",
+        "historyspecials",
+        "american151",
+        "ukrainian169",
+        "models1235",
+        "cams139",
+        "bdsm66",
+        "shows227ageteen",
+        "1283young",
+        "3623milf1291mature255granny49ethnicityarab105asian850ebony1033indian667latina1916mixed262white2322body",
+        "typeskinny2253athletic655medium2430curvy1423bbw328hairblonde1169black2183brunette3007redhead287colorful327private",
+        "shows8-12",
+        "tk301816-24",
+        "tk186132-60",
+        "tk162390",
+        "tk460recordable"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 33.3,
+      "titleDiffers": false,
+      "rawTitle": "Free Live Adult Webcams | xhamsterlive.com",
+      "renderedTitle": "Free Live Adult Webcams | xhamsterlive.com",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

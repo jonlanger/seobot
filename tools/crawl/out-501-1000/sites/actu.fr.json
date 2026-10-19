@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "actu.fr",
+    "rank": 1298,
+    "url": "https://actu.fr/",
+    "runAt": "2026-10-18T18:08:44.707Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4253,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://actu.fr/",
+      "bytes": 654476
+    },
+    "rendered": {
+      "title": "Actu : toute l'information locale et nationale en direct",
+      "canonical": "https://actu.fr/",
+      "words": 1171,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 85,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1120,
+      "renderedWords": 1171,
+      "coverage": 94.1,
+      "rawOnlyTokens": 18,
+      "renderedOnlyTokens": 69,
+      "renderedOnlySample": [
+        "soutenez",
+        "journalisme",
+        "fiable",
+        "indépendant",
+        "accédez",
+        "gratuitement",
+        "acceptant",
+        "utilisation",
+        "l'affichage",
+        "publicités",
+        "personnalisées",
+        "accès",
+        "hors",
+        "contenus",
+        "réservés",
+        "repose",
+        "quant",
+        "identifiants",
+        "uniques",
+        "adresses",
+        "navigation",
+        "afin",
+        "l'amélioration",
+        "755",
+        "partenaires"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 85,
+      "headingsAlsoInRaw": 77,
+      "headingsCoverage": 90.6,
+      "titleDiffers": true,
+      "rawTitle": "Actu : toute l&#039;information locale et nationale en direct",
+      "renderedTitle": "Actu : toute l'information locale et nationale en direct",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

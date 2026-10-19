@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "meb.gov.tr",
+    "rank": 1402,
+    "url": "https://meb.gov.tr/",
+    "runAt": "2026-10-18T18:12:00.934Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1823,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://meb.gov.tr/",
+      "bytes": 103371
+    },
+    "rendered": {
+      "title": "T.C. Millî Eğitim Bakanlığı",
+      "canonical": "",
+      "words": 786,
+      "jsonLdTypes": [],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 613,
+      "renderedWords": 786,
+      "coverage": 76.5,
+      "rawOnlyTokens": 12,
+      "renderedOnlyTokens": 185,
+      "renderedOnlySample": [
+        "llî",
+        "bakaniyusuf",
+        "nözgeçmi",
+        "bakanlık",
+        "yardımcılarımevzuatönceki",
+        "bakanlarkurum",
+        "politikalarımızkurum",
+        "politikalarımızmisyon",
+        "vizyonetik",
+        "komisyonurapor",
+        "resmî",
+        "statistiklerrapor",
+        "statistiklerresmî",
+        "statistiklerfaaliyet",
+        "raporlarıoecd",
+        "raporlarıunesco",
+        "raporlarıunicef",
+        "raporları",
+        "bakanlığımızın",
+        "tarihçesiteşkilat",
+        "şemasıkurum",
+        "tanıtım",
+        "kılavuzubirimler",
+        "birimler",
+        "acil"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 85.7,
+      "titleDiffers": false,
+      "rawTitle": "T.C. Millî Eğitim Bakanlığı",
+      "renderedTitle": "T.C. Millî Eğitim Bakanlığı",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

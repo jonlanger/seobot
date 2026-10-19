@@ -1,0 +1,20 @@
+[
+  {
+    "domain": "tsyndicate.com",
+    "rank": 1016,
+    "url": "https://tsyndicate.com/",
+    "runAt": "2026-10-18T17:57:31.219Z",
+    "robots": {
+      "status": 404,
+      "bytes": 548,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 204,
+      "finalUrl": "https://tsyndicate.com/",
+      "bytes": 0
+    },
+    "renderError": "page.goto: net::ERR_ABORTED at https://tsyndicate.com/\nCall log:\n  - navigating to \"https://tsyndicate.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

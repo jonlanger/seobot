@@ -1,0 +1,172 @@
+[
+  {
+    "domain": "hln.be",
+    "rank": 1250,
+    "url": "https://hln.be/",
+    "runAt": "2026-10-18T18:06:20.866Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2689,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.hln.be/",
+      "bytes": 817911
+    },
+    "rendered": {
+      "title": "HLN - Het Laatste Nieuws - Volg het nieuws op de nr1 nieuwssite in België, HLN.be brengt je het allerlaatste nieuws 24/24 en 7/7, uit binnen - en buitenland, evenals dichtbij met nieuws uit je eigen regio. | hln.be",
+      "canonical": "https://www.hln.be/",
+      "words": 1478,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "collectionpage",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "place",
+        "videoobject",
+        "website"
+      ],
+      "headings": 28,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1464,
+      "renderedWords": 1478,
+      "coverage": 97.6,
+      "rawOnlyTokens": 21,
+      "renderedOnlyTokens": 35,
+      "renderedOnlySample": [
+        "71'",
+        "auto's",
+        "d'herbouvillekaai",
+        "ochtend",
+        "aanvragen",
+        "helaas",
+        "gelukt",
+        "probeer",
+        "eens",
+        "verstuur",
+        "bedankt",
+        "aanvraag",
+        "mailadres",
+        "orde",
+        "z'n",
+        "scholierenprotest'",
+        "janet'",
+        "gratis",
+        "livekijk",
+        "loggen",
+        "makeninloggennog",
+        "vips'",
+        "restaurant'",
+        "hour'",
+        "penalty's"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "collectionpage",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "place",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "collectionpage",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "place",
+        "videoobject",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 28,
+      "headingsAlsoInRaw": 22,
+      "headingsCoverage": 78.6,
+      "titleDiffers": false,
+      "rawTitle": "HLN - Het Laatste Nieuws - Volg het nieuws op de nr1 nieuwssite in België, HLN.be brengt je het allerlaatste nieuws 24/24 en 7/7, uit binnen - en buitenland, evenals dichtbij met nieuws uit je eigen regio. | hln.be",
+      "renderedTitle": "HLN - Het Laatste Nieuws - Volg het nieuws op de nr1 nieuwssite in België, HLN.be brengt je het allerlaatste nieuws 24/24 en 7/7, uit binnen - en buitenland, evenals dichtbij met nieuws uit je eigen regio. | hln.be",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

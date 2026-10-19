@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "gsmarena.com",
+    "rank": 1128,
+    "url": "https://gsmarena.com/",
+    "runAt": "2026-10-18T18:01:12.384Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2053,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.gsmarena.com/",
+      "bytes": 55464
+    },
+    "rendered": {
+      "title": "GSMArena.com - mobile phone reviews, news, specifications and more...",
+      "canonical": "https://www.gsmarena.com/",
+      "words": 442,
+      "jsonLdTypes": [],
+      "headings": 27,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 421,
+      "renderedWords": 442,
+      "coverage": 82.4,
+      "rawOnlyTokens": 57,
+      "renderedOnlyTokens": 78,
+      "renderedOnlySample": [
+        "reviewsmore",
+        "resultslast",
+        "visitedmore",
+        "resultsnewsmore",
+        "resultsgoadvanced",
+        "ago6vivo",
+        "202614tecno",
+        "202624apple",
+        "cheatsheet",
+        "smartphones",
+        "tried",
+        "tested",
+        "ago6",
+        "ago33",
+        "ago1",
+        "ago12",
+        "ago0",
+        "ago51",
+        "202632",
+        "202614",
+        "202651",
+        "202617",
+        "20261",
+        "202616",
+        "20265"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 27,
+      "headingsAlsoInRaw": 26,
+      "headingsCoverage": 96.3,
+      "titleDiffers": false,
+      "rawTitle": "GSMArena.com - mobile phone reviews, news, specifications and more...",
+      "renderedTitle": "GSMArena.com - mobile phone reviews, news, specifications and more...",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

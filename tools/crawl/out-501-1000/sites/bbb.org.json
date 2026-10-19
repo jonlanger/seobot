@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "bbb.org",
+    "rank": 1340,
+    "url": "https://bbb.org/",
+    "runAt": "2026-10-18T18:10:01.052Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3004,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.bbb.org/",
+      "bytes": 156667
+    },
+    "rendered": {
+      "title": "BBB | Better Business Bureau",
+      "canonical": "https://www.bbb.org/",
+      "words": 284,
+      "jsonLdTypes": [],
+      "headings": 15,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 130,
+      "renderedWords": 284,
+      "coverage": 40.1,
+      "rawOnlyTokens": 16,
+      "renderedOnlyTokens": 170,
+      "renderedOnlySample": [
+        "orgwe",
+        "cookiesmanage",
+        "cookiescookie",
+        "preferencesmany",
+        "websites",
+        "similar",
+        "tools",
+        "store",
+        "information",
+        "browser",
+        "device",
+        "remember",
+        "preferences",
+        "improve",
+        "performance",
+        "enhance",
+        "user",
+        "recommend",
+        "believe",
+        "will",
+        "most",
+        "relevant",
+        "collect",
+        "anonymous",
+        "such"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 15,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 53.3,
+      "titleDiffers": false,
+      "rawTitle": "BBB | Better Business Bureau",
+      "renderedTitle": "BBB | Better Business Bureau",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

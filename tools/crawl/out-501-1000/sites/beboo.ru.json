@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "beboo.ru",
+    "rank": 1266,
+    "url": "https://beboo.ru/",
+    "runAt": "2026-10-18T18:07:02.908Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1684,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://beboo.ru/",
+      "bytes": 49634
+    },
+    "rendered": {
+      "title": "Знакомства Beboo - сайт знакомств без регистрации бесплатно",
+      "canonical": "https://beboo.ru/",
+      "words": 159,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 259,
+      "renderedWords": 159,
+      "coverage": 3.1,
+      "rawOnlyTokens": 254,
+      "renderedOnlyTokens": 154,
+      "renderedOnlySample": [
+        "входрегистрация",
+        "сайт",
+        "знакомствпросматривай",
+        "анкеты",
+        "фотографии",
+        "без",
+        "регистрации",
+        "заводи",
+        "новые",
+        "знакомства",
+        "назначай",
+        "свидания",
+        "регистрациявведите",
+        "ваше",
+        "имя",
+        "укажите",
+        "свой",
+        "полполпареньдевушкаукажите",
+        "дату",
+        "вашего",
+        "рождениядень01020304050607080910111213141516171819202122232425262728293031месяцянваряфевралямартаапрелямаяиюняиюляавгустасентябряоктябряноябрядекабрягод2008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927введите",
+        "ваш",
+        "страна",
+        "выбранароссияукраинабеларуськазахстанабхазияавстралияавстрияазербайджаналбанияалжирангильяанголаандорраантигуа",
+        "барбудаантильские"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "���������� Beboo - ���� ��������� ��� ����������� ���������",
+      "renderedTitle": "Знакомства Beboo - сайт знакомств без регистрации бесплатно",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

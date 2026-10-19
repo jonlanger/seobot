@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "fb.me",
+    "rank": 1243,
+    "url": "https://fb.me/",
+    "runAt": "2026-10-18T18:06:09.418Z",
+    "robots": {
+      "status": 400,
+      "bytes": 1542,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 400,
+      "finalUrl": "https://fb.me/",
+      "bytes": 1542
+    },
+    "rendered": {
+      "title": "Facebook",
+      "canonical": "https://www.facebook.com/",
+      "words": 41,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 15,
+      "renderedWords": 41,
+      "coverage": 0,
+      "rawOnlyTokens": 15,
+      "renderedOnlyTokens": 41,
+      "renderedOnlySample": [
+        "explore",
+        "the",
+        "things",
+        "you",
+        "love",
+        "log",
+        "into",
+        "facebookemail",
+        "mobile",
+        "numberpasswordlog",
+        "inforgot",
+        "password",
+        "create",
+        "new",
+        "account",
+        "english",
+        "españolfrançais",
+        "france",
+        "العربيةportuguês",
+        "brasil",
+        "italianomore",
+        "languages",
+        "sign",
+        "uplog",
+        "inmessengerfacebook"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": true,
+      "rawTitle": "Error",
+      "renderedTitle": "Facebook",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

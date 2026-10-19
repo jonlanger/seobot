@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "genius.com",
+    "rank": 946,
+    "url": "https://genius.com/",
+    "runAt": "2026-10-18T17:53:48.254Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1149,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://genius.com/",
+      "bytes": 309329
+    },
+    "rendered": {
+      "title": "Genius | Song Lyrics & Knowledge",
+      "canonical": "",
+      "words": 205,
+      "jsonLdTypes": [],
+      "headings": 29,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 229,
+      "renderedWords": 205,
+      "coverage": 58,
+      "rawOnlyTokens": 110,
+      "renderedOnlyTokens": 86,
+      "renderedOnlySample": [
+        "tracklistget",
+        "verifiedchartsvideospromote",
+        "musicsign",
+        "upnewstate",
+        "partridgeoct",
+        "2026newschappelle",
+        "remixby",
+        "2026newslana",
+        "2026newsread",
+        "2026chartssongs",
+        "todaytypesongsalbumsartistslyricsgenreallrapelectronicrockcountryr",
+        "bpoptimedayweekmonthall",
+        "time1housewifelyricstate",
+        "mcrae55425",
+        "4k2expectationslyricsolivia",
+        "roan208",
+        "2k3lieslyricszach",
+        "bryan98",
+        "1k4nicole",
+        "kidmanlyricsadéla1",
+        "1m5na",
+        "banglyricsmariah",
+        "deborah532",
+        "7k6alfaazlyricshamza",
+        "zohaib52487"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 29,
+      "headingsAlsoInRaw": 18,
+      "headingsCoverage": 62.1,
+      "titleDiffers": true,
+      "rawTitle": "Genius | Song Lyrics &amp; Knowledge",
+      "renderedTitle": "Genius | Song Lyrics & Knowledge",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

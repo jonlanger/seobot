@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "tailscale.com",
+    "rank": 951,
+    "url": "https://tailscale.com/",
+    "runAt": "2026-10-18T17:53:57.088Z",
+    "robots": {
+      "status": 200,
+      "bytes": 109,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://tailscale.com/",
+      "bytes": 288802
+    },
+    "rendered": {
+      "title": "Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud",
+      "canonical": "https://tailscale.com/",
+      "words": 458,
+      "jsonLdTypes": [],
+      "headings": 14,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 461,
+      "renderedWords": 458,
+      "coverage": 76.6,
+      "rawOnlyTokens": 110,
+      "renderedOnlyTokens": 107,
+      "renderedOnlySample": [
+        "blogdocsdownloadcontact",
+        "salesplatformmeet",
+        "tailscalehow",
+        "workswireguard",
+        "enterprisesfeaturesintegrationsdocsdownloadcompare",
+        "tailscaleproductsbusiness",
+        "vpntailscale",
+        "pamci",
+        "connectivitysecure",
+        "aiworkload",
+        "connectivityedge",
+        "iothomelabaperture",
+        "tailscaleunified",
+        "worksee",
+        "casesolutionssolutionscloud",
+        "connectivityinfrastructure",
+        "accesszero",
+        "networkingremote",
+        "accesskubernetes",
+        "networkingsecure",
+        "saassecure",
+        "connectivitycustomerscustomer",
+        "storiesinstacartcriblmercuryall",
+        "storiescommunityjoin",
+        "communityabout"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 14,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 78.6,
+      "titleDiffers": true,
+      "rawTitle": "Tailscale | Secure Connectivity for AI, IoT &amp; Multi-Cloud",
+      "renderedTitle": "Tailscale | Secure Connectivity for AI, IoT & Multi-Cloud",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

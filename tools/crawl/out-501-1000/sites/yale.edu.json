@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "yale.edu",
+    "rank": 1143,
+    "url": "https://yale.edu/",
+    "runAt": "2026-10-18T18:02:34.142Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2491,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.yale.edu/",
+      "bytes": 102416
+    },
+    "rendered": {
+      "title": "Yale University",
+      "canonical": "https://www.yale.edu/",
+      "words": 430,
+      "jsonLdTypes": [],
+      "headings": 25,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 424,
+      "renderedWords": 430,
+      "coverage": 87,
+      "rawOnlyTokens": 50,
+      "renderedOnlyTokens": 56,
+      "renderedOnlySample": [
+        "calendarsgivenewsdirectories",
+        "studentsfacultystaffalumninew",
+        "yaleleadership",
+        "organizationyale",
+        "factstraditions",
+        "historycenters",
+        "institutesyale",
+        "americaimpact",
+        "stateyale",
+        "worldvisitingacademicsundergraduate",
+        "studygraduate",
+        "studydepartments",
+        "programsglobal",
+        "educationsummer",
+        "sessionnon-degree",
+        "offeringsonline",
+        "learningadmissionsundergraduategraduate",
+        "schoolsfinancial",
+        "aidinternational",
+        "studentssummer",
+        "studentsworld",
+        "programresearchcollectionslux",
+        "discoverymuseums",
+        "librarieslife",
+        "yalearts"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 25,
+      "headingsAlsoInRaw": 25,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Yale University",
+      "renderedTitle": "Yale University",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

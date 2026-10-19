@@ -1,0 +1,159 @@
+[
+  {
+    "domain": "nextcloud.com",
+    "rank": 1039,
+    "url": "https://nextcloud.com/",
+    "runAt": "2026-10-18T17:58:22.346Z",
+    "robots": {
+      "status": 200,
+      "bytes": 171,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://nextcloud.com/",
+      "bytes": 238185
+    },
+    "rendered": {
+      "title": "Nextcloud - Open source content collaboration platform",
+      "canonical": "https://nextcloud.com/",
+      "words": 603,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 580,
+      "renderedWords": 603,
+      "coverage": 92.2,
+      "rawOnlyTokens": 24,
+      "renderedOnlyTokens": 47,
+      "renderedOnlySample": [
+        "hubthe",
+        "filesfile",
+        "talkcalls",
+        "groupwarecalendar",
+        "officereal",
+        "officepowered",
+        "assistantprivate",
+        "flowdriving",
+        "roundcubethe",
+        "integrationsoutlook",
+        "enterprisefor",
+        "sectorenterprise",
+        "enterprisesenterprise",
+        "providersenterprise",
+        "educationenterprise",
+        "infrastructureenterprise",
+        "pricingnextcloud",
+        "migrationmigrate",
+        "homefor",
+        "blognextcloud",
+        "eventsall",
+        "webinarsall",
+        "storiessuccess",
+        "whitepapersdownload",
+        "podcastlatest"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 83.3,
+      "titleDiffers": false,
+      "rawTitle": "Nextcloud - Open source content collaboration platform",
+      "renderedTitle": "Nextcloud - Open source content collaboration platform",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

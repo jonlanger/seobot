@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "dw.com",
+    "rank": 1392,
+    "url": "https://dw.com/",
+    "runAt": "2026-10-18T18:11:48.412Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2874,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.dw.com/",
+      "bytes": 12206
+    },
+    "rendered": {
+      "title": "News and current affairs from Germany and around the world",
+      "canonical": "https://www.dw.com/en/top-stories/s-9097",
+      "words": 692,
+      "jsonLdTypes": [],
+      "headings": 51,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 692,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 692,
+      "renderedOnlySample": [
+        "skip",
+        "contentskip",
+        "main",
+        "menuskip",
+        "more",
+        "siteslatest",
+        "videoslatest",
+        "audioregionsafricaasiaeuropelatin",
+        "americamiddle",
+        "eastnorth",
+        "americagermanytopicsclimateequalityhealthhuman",
+        "rightsmigrationtechnologycategoriesbusinessscienceenvironmentculturesportsin",
+        "focusfrancestarlinkukrainelatest",
+        "audiolatest",
+        "videoslive",
+        "tvwe",
+        "have",
+        "chosen",
+        "english",
+        "for",
+        "you",
+        "change",
+        "languageadvertisementhomepageskip",
+        "next",
+        "section"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 51,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "News and current affairs from Germany and around the world",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

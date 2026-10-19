@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "alipay.com",
+    "rank": 1137,
+    "url": "https://alipay.com/",
+    "runAt": "2026-10-18T18:02:25.542Z",
+    "robots": {
+      "status": 404,
+      "bytes": 803,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.alipay.com/",
+      "bytes": 6569
+    },
+    "rendered": {
+      "title": "支付宝",
+      "canonical": "",
+      "words": 111,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 111,
+      "coverage": 1.8,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 109,
+      "renderedOnlySample": [
+        "我已",
+        "已有",
+        "有支",
+        "宝账",
+        "账户",
+        "户快",
+        "快速",
+        "速登",
+        "登录",
+        "录我",
+        "我是",
+        "是服",
+        "服务",
+        "务商",
+        "商我",
+        "是开",
+        "开发",
+        "发者",
+        "者我",
+        "是商",
+        "商家",
+        "家用",
+        "用户",
+        "户我",
+        "是支"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "支付宝",
+      "renderedTitle": "支付宝",
+      "cjk": true
+    },
+    "classification": "raw_blocked"
+  }
+]

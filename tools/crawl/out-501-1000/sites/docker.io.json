@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "docker.io",
+    "rank": 958,
+    "url": "https://docker.io/",
+    "runAt": "2026-10-18T17:54:24.882Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1055,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.docker.com/",
+      "bytes": 500915
+    },
+    "rendered": {
+      "title": "Docker | Secure Sandboxes for AI Agents",
+      "canonical": "https://www.docker.com/",
+      "words": 577,
+      "jsonLdTypes": [
+        "corporation",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "headings": 25,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 427,
+      "renderedWords": 577,
+      "coverage": 73.1,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 155,
+      "renderedOnlySample": [
+        "contentget",
+        "250",
+        "credits",
+        "claim",
+        "blogdocs",
+        "underevery",
+        "100already",
+        "ondocker",
+        "cookies",
+        "clicking",
+        "accept",
+        "agree",
+        "storing",
+        "device",
+        "enhance",
+        "site",
+        "navigation",
+        "analyze",
+        "usage",
+        "assist",
+        "marketing",
+        "efforts",
+        "reject",
+        "cookiesprivacy",
+        "preference"
+      ],
+      "jsonLdRaw": [
+        "corporation",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "corporation",
+        "videoobject",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 25,
+      "headingsAlsoInRaw": 18,
+      "headingsCoverage": 72,
+      "titleDiffers": false,
+      "rawTitle": "Docker | Secure Sandboxes for AI Agents",
+      "renderedTitle": "Docker | Secure Sandboxes for AI Agents",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

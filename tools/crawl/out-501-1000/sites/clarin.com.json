@@ -1,0 +1,162 @@
+[
+  {
+    "domain": "clarin.com",
+    "rank": 1160,
+    "url": "https://clarin.com/",
+    "runAt": "2026-10-18T18:03:05.585Z",
+    "robots": {
+      "status": 200,
+      "bytes": 457,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.clarin.com/",
+      "bytes": 3584605
+    },
+    "rendered": {
+      "title": "Noticias. Últimas noticias de Argentina y el Mundo | Clarín",
+      "canonical": "https://www.clarin.com/",
+      "words": 1330,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "softwareapplication",
+        "website"
+      ],
+      "headings": 130,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1223,
+      "renderedWords": 1330,
+      "coverage": 62.3,
+      "rawOnlyTokens": 394,
+      "renderedOnlyTokens": 501,
+      "renderedOnlySample": [
+        "nochesuscribite",
+        "110suscribiteseccioneshomenewslettersdebatesjuegosjuegosquizclaringrillalos",
+        "errorestest",
+        "actualidadlexi",
+        "retoletrasbaldosassudokupalagramatienda",
+        "clarínúltimo",
+        "momentopolíticaeconomía",
+        "ruraleconomíaruralpropiedadesdolár",
+        "bonoscalculadora",
+        "gananciascalculadora",
+        "aguinaldocalculadora",
+        "monotributocalculadora",
+        "alquileressociedadsociedadciudadespolicialeshistoriasserviciosmundomundoestados",
+        "unidosnyt",
+        "reportopiniónopinióncartas",
+        "paísdeportesdeportesagenda",
+        "deportivaestadísticascultura",
+        "espectáculosculturarevista",
+        "ñespectáculosfamaestilovivatecnologíabuena",
+        "vidarelacionesarqrecetasautosastrologíagourmetviajesfamiliasde",
+        "unainternacionalserviciosclimahoróscopoloterías",
+        "quinielasclasificadoshumor",
+        "ilustracionesargenpropferiados",
+        "2026gran",
+        "dthoróscopo"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "softwareapplication",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "softwareapplication",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 130,
+      "headingsAlsoInRaw": 127,
+      "headingsCoverage": 97.7,
+      "titleDiffers": false,
+      "rawTitle": "Noticias. Últimas noticias de Argentina y el Mundo | Clarín",
+      "renderedTitle": "Noticias. Últimas noticias de Argentina y el Mundo | Clarín",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

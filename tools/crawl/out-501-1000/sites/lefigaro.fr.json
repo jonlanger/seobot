@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "lefigaro.fr",
+    "rank": 927,
+    "url": "https://lefigaro.fr/",
+    "runAt": "2026-10-18T17:53:08.124Z",
+    "robots": {
+      "status": 200,
+      "bytes": 12643,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.lefigaro.fr/",
+      "bytes": 1248355
+    },
+    "rendered": {
+      "title": "Le Figaro - Actualité en direct et informations en continu",
+      "canonical": "https://www.lefigaro.fr/",
+      "words": 2449,
+      "jsonLdTypes": [
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 115,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2383,
+      "renderedWords": 2449,
+      "coverage": 94.4,
+      "rawOnlyTokens": 72,
+      "renderedOnlyTokens": 138,
+      "renderedOnlySample": [
+        "menurechercherabonnez-vous",
+        "moisrecherchernotre",
+        "applicationsoyez",
+        "réelavec",
+        "l'application",
+        "figarorubriques",
+        "figaropolitiqueinternationaléconomiesociétévoxsportculturemadamefaits",
+        "diverssantésciencestech",
+        "webpatrimoine",
+        "bourseart",
+        "vivrevoyagestylevinautomobilele",
+        "magazinele",
+        "étudiantle",
+        "immobilierle",
+        "histoiremédiastvmagprogramme",
+        "tvdécideursles",
+        "figaroemploicarnet",
+        "jourcarnet",
+        "annoncesbons",
+        "plansannonces",
+        "légalesterritoiresmétéojeuxle",
+        "englishla",
+        "jourlangue",
+        "françaisele",
+        "golfmaison"
+      ],
+      "jsonLdRaw": [
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 115,
+      "headingsAlsoInRaw": 47,
+      "headingsCoverage": 40.9,
+      "titleDiffers": false,
+      "rawTitle": "Le Figaro - Actualité en direct et informations en continu",
+      "renderedTitle": "Le Figaro - Actualité en direct et informations en continu",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

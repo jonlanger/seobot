@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "bmj.com",
+    "rank": 1262,
+    "url": "https://bmj.com/",
+    "runAt": "2026-10-18T18:06:43.115Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5809,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.bmj.com/",
+      "bytes": 5779
+    },
+    "rendered": {
+      "title": "Just a moment...",
+      "canonical": "",
+      "words": 31,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 31,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 31,
+      "renderedOnlySample": [
+        "www",
+        "bmj",
+        "comperforming",
+        "security",
+        "verificationthis",
+        "website",
+        "uses",
+        "service",
+        "protect",
+        "against",
+        "malicious",
+        "bots",
+        "this",
+        "page",
+        "displayed",
+        "while",
+        "the",
+        "verifies",
+        "you",
+        "are",
+        "not",
+        "bot",
+        "verification",
+        "successful",
+        "waiting"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": false,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "Just a moment...",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

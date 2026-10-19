@@ -1,0 +1,1824 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="fr-FR"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="fr-FR"> <![endif]-->
+<!--[if gte IE 9 ]><html class="ie ie9" lang="fr-FR"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="fr-FR" class="no-js"> <!--<![endif]-->
+   	<head>
+        <meta charset="UTF-8">
+
+        <link rel="shortcut icon" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" sizes="57x57" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/apple-touch-icon-180x180.png">
+        <link rel="icon" type="image/png" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/android-chrome-192x192.png" sizes="192x192">
+        <meta name="msapplication-square70x70logo" content="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/smalltile.png" />
+        <meta name="msapplication-square150x150logo" content="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/mediumtile.png" />
+        <meta name="msapplication-wide310x150logo" content="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/widetile.png" />
+        <meta name="msapplication-square310x310logo" content="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/favicon/largetile.png" />
+
+        <meta name="HandheldFriendly" content="True" />
+      	<meta name="MobileOptimized" content="320" />
+      	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+      	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script id="cookie-law-info-gcm-var-js">
+var _ckyGcm = {"status":true,"default_settings":[{"analytics":"denied","advertisement":"denied","functional":"granted","necessary":"granted","ad_user_data":"denied","ad_personalization":"denied","regions":"All"}],"wait_for_update":2000,"url_passthrough":false,"ads_data_redaction":false}</script>
+<script id="cookie-law-info-gcm-js" type="text/javascript" src="https://www.smilewanted.com/wp-content/plugins/cookie-law-info/lite/frontend/js/gcm.min.js"></script> <script id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/28e07d20c0f8d4a8f5301250/script.js"></script>
+	<!-- This site is optimized with the Yoast SEO plugin v27.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Smile Wanted &#8211; Supply Intelligence</title>
+<link data-rocket-prefetch href="https://www.gstatic.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://cdn-cookieyes.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://fonts.googleapis.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://cdn.by.wonderpush.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.google.com" rel="dns-prefetch">
+	<meta name="description" content="Smile Wanted is the Supply Intelligence that elevates value for publishers and outcomes for advertisers." />
+	<link rel="canonical" href="https://www.smilewanted.com/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Smile Wanted &#8211; Supply Intelligence" />
+	<meta property="og:description" content="Smile Wanted is the Supply Intelligence that elevates value for publishers and outcomes for advertisers." />
+	<meta property="og:url" content="https://www.smilewanted.com/" />
+	<meta property="og:site_name" content="Smile Wanted" />
+	<meta property="article:modified_time" content="2026-07-02T08:54:10+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.smilewanted.com/","url":"https://www.smilewanted.com/","name":"Smile Wanted &#8211; Supply Intelligence","isPartOf":{"@id":"https://www.smilewanted.com/#website"},"about":{"@id":"https://www.smilewanted.com/#organization"},"datePublished":"2022-10-20T16:51:47+00:00","dateModified":"2026-07-02T08:54:10+00:00","description":"Smile Wanted is the Supply Intelligence that elevates value for publishers and outcomes for advertisers.","breadcrumb":{"@id":"https://www.smilewanted.com/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.smilewanted.com/"]}]},{"@type":"BreadcrumbList","@id":"https://www.smilewanted.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil"}]},{"@type":"WebSite","@id":"https://www.smilewanted.com/#website","url":"https://www.smilewanted.com/","name":"Smile Wanted","description":"Un site utilisant WordPress","publisher":{"@id":"https://www.smilewanted.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.smilewanted.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.smilewanted.com/#organization","name":"Smile Wanted","alternateName":"Smilewanted","url":"https://www.smilewanted.com/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.smilewanted.com/#/schema/logo/image/","url":"https://www.smilewanted.com/wp-content/uploads/2023/01/smilewanted@4x.png","contentUrl":"https://www.smilewanted.com/wp-content/uploads/2023/01/smilewanted@4x.png","width":1077,"height":204,"caption":"Smile Wanted"},"image":{"@id":"https://www.smilewanted.com/#/schema/logo/image/"},"sameAs":["https://www.linkedin.com/company/smile-wanted/","https://www.instagram.com/smilewanted/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.smilewanted.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smilewanted.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.smilewanted.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.smilewanted.com%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-library-inline-css' type='text/css'>
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*wp_block_styles_on_demand_placeholder:6ad506054ba85*/
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+<link rel='stylesheet' id='bp-css' href='https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/css/bootstrap.min.css?ver=6.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/css/swiper.min.css?ver=6.9.5' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/css/template.css?ver=1.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='sib-front-css-css' href='https://www.smilewanted.com/wp-content/plugins/mailin/css/mailin-front.css?ver=6.9.5' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.smilewanted.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="ajax_scripts-js-extra">
+/* <![CDATA[ */
+var ajax_loadmore_params = {"ajaxurl":"https://www.smilewanted.com/wp-admin/admin-ajax.php","posts":"{\"error\":\"\",\"m\":\"\",\"p\":\"31\",\"post_parent\":\"\",\"subpost\":\"\",\"subpost_id\":\"\",\"attachment\":\"\",\"attachment_id\":0,\"name\":\"\",\"pagename\":\"\",\"page_id\":\"31\",\"second\":\"\",\"minute\":\"\",\"hour\":\"\",\"day\":0,\"monthnum\":0,\"year\":0,\"w\":0,\"category_name\":\"\",\"tag\":\"\",\"cat\":\"\",\"tag_id\":\"\",\"author\":\"\",\"author_name\":\"\",\"feed\":\"\",\"tb\":\"\",\"paged\":0,\"meta_key\":\"\",\"meta_value\":\"\",\"preview\":\"\",\"s\":\"\",\"sentence\":\"\",\"title\":\"\",\"fields\":\"all\",\"menu_order\":\"\",\"embed\":\"\",\"category__in\":[],\"category__not_in\":[],\"category__and\":[],\"post__in\":[],\"post__not_in\":[],\"post_name__in\":[],\"tag__in\":[],\"tag__not_in\":[],\"tag__and\":[],\"tag_slug__in\":[],\"tag_slug__and\":[],\"post_parent__in\":[],\"post_parent__not_in\":[],\"author__in\":[],\"author__not_in\":[],\"search_columns\":[],\"ignore_sticky_posts\":false,\"suppress_filters\":false,\"cache_results\":true,\"update_post_term_cache\":true,\"update_menu_item_cache\":false,\"lazy_load_term_meta\":true,\"update_post_meta_cache\":true,\"post_type\":\"\",\"posts_per_page\":12,\"nopaging\":false,\"comments_per_page\":\"50\",\"no_found_rows\":false,\"order\":\"DESC\"}","current_page":"1","max_page":"0"};
+//# sourceURL=ajax_scripts-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/myloadmore.js?ver=6.9.5" id="ajax_scripts-js"></script>
+<script type="text/javascript" id="sib-front-js-js-extra">
+/* <![CDATA[ */
+var sibErrMsg = {"invalidMail":"Veuillez entrer une adresse e-mail valide.","requiredField":"Veuillez compl\u00e9ter les champs obligatoires.","invalidDateFormat":"Veuillez entrer une date valide.","invalidSMSFormat":"Veuillez entrer une num\u00e9ro de t\u00e9l\u00e9phone valide."};
+var ajax_sib_front_object = {"ajax_url":"https://www.smilewanted.com/wp-admin/admin-ajax.php","ajax_nonce":"418fa7fa89","flag_url":"https://www.smilewanted.com/wp-content/plugins/mailin/img/flags/"};
+//# sourceURL=sib-front-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/plugins/mailin/js/mailin-front.js?ver=1773784403" id="sib-front-js-js"></script>
+<link rel="https://api.w.org/" href="https://www.smilewanted.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.smilewanted.com/wp-json/wp/v2/pages/31" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.smilewanted.com/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://www.smilewanted.com/' />
+        <!-- GOOGLE FONTS -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-HGMVKFWFT1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-HGMVKFWFT1');
+        </script>
+    <script type="text/javascript" src="https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js" async></script>
+<script type="text/javascript">
+  window.WonderPush = window.WonderPush || [];
+  window.WonderPush.push(['init', {"customDomain":"https:\/\/www.smilewanted.com\/wp-content\/plugins\/mailin\/","serviceWorkerUrl":"wonderpush-worker-loader.min.js?webKey=bedae392411eb0ace204f00c3cb10cd0d4ccd9cd5bf47a8420fc30023cdddc2a","frameUrl":"wonderpush.min.html","webKey":"bedae392411eb0ace204f00c3cb10cd0d4ccd9cd5bf47a8420fc30023cdddc2a"}]);
+</script>
+           	<style id="rocket-lazyrender-inline-css">[data-wpr-lazyrender] {content-visibility: auto;}</style><meta name="generator" content="WP Rocket 3.20.6.1" data-wpr-features="wpr_preconnect_external_domains wpr_automatic_lazy_rendering wpr_preload_links wpr_desktop" /></head>
+
+    
+    
+    <body class="home wp-singular page-template-default page page-id-31 wp-theme-smilewanted22 ">
+
+                    <header  id="#header" class="is-top">
+                <div class="navbar">
+                    <div class="header-left">
+                                                    <div class="burger_w">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                                                <a class="header-brand" href="https://www.smilewanted.com/">
+                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/smilewanted-logo.svg" alt="Smile Wanted" />
+                        </a>
+                                            </div>
+                    <ul id="nav" class="nav"><li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-31 current_page_item menu-item-40"><a href="https://www.smilewanted.com/" aria-current="page">Home</a></li>
+<li id="menu-item-1186" class="no-current menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1186"><a href="#">Advertiser</a>
+<ul class="sub-menu">
+	<li id="menu-item-1187" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-1187"><a href="/#technology" aria-current="page">Technology</a></li>
+	<li id="menu-item-1188" class="menu-item menu-item-type-post_type_archive menu-item-object-crea menu-item-1188"><a href="https://www.smilewanted.com/studio/">Smile Studio</a></li>
+	<li id="menu-item-1189" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-1189"><a href="/#case-studies" aria-current="page">Case Studies</a></li>
+</ul>
+</li>
+<li id="menu-item-1190" class="no-current menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-1190"><a href="/#publishers" aria-current="page">Publisher</a></li>
+<li id="menu-item-1191" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1191"><a href="#">Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-1192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1192"><a href="https://www.smilewanted.com/news/">News</a></li>
+	<li id="menu-item-1204" class="menu-item menu-item-type-post_type_archive menu-item-object-interviews menu-item-1204"><a href="https://www.smilewanted.com/interviews/">Interviews</a></li>
+</ul>
+</li>
+</ul>                    <div class="header-right">
+                        <!--<a class="header-champion" href="https://www.lesechos.fr/weekend/business-story/les-champions-de-la-croissance-2023-dans-la-publicite-le-marketing-et-la-communication-1905397" target="_blank" title="Smilewanted Champion of Growth 2023">
+                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/Les_Echos_Champions2023_Logo_EN_blanche.jpg" alt="Champions de la croissance 2023 badge" height="45" />
+                        </a>-->
+                        <ul id="menu-header-right" class="menu"><li id="menu-item-50" class="cta cta-main menu-item menu-item-type-post_type menu-item-object-page menu-item-50"><a href="https://www.smilewanted.com/contact-us/">Contact us</a></li>
+</ul>                    </div>
+                </div>
+            </header>
+
+        
+    
+            <section  class="section-hero">
+            <div  class="container">
+                <div  class="hero-content">
+                    
+                    <div class="row d-flex justify-content-between align-items-center order-0 order-lg-1">
+                        <div class="col-12 col-lg-6 animated fadeIn">
+                            <h1>Smile Wanted<br>Supply Intelligence</h1>                            <h2><b>SPO</b>, <b>Profitability</b> and <b>Quality</b></h2>                                                            <div class="cta-w">
+                                    <a href="https://www.smilewanted.com/contact-us/" class="cta cta-main-border"><span class="cta-text">Contact us</span></a>
+                                </div>
+                                                    </div>
+                        <div class="col-12 col-lg-6 animated fadeIn">
+                            <div class="px-5">
+                                <div class="ratio ratio-1x1">
+                                    <video autoplay muted playsinline class="hero-image" height="500" oncontextmenu="return false;">
+                                        <source src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/sw-top.mp4?v=3" type="video/mp4">
+                                    </video>
+                                    <!--<img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/sw-schema.png" height="510" class="hero-image" />-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                                    </div>
+            </div>
+        </section>
+    
+        <section  class="section-advantages">
+        <div  class="container">
+            <div  class="row">
+                <div class="col-12">
+                    <div class="swiper advantages-slider" data-resize="container">
+                        <div class="swiper-wrapper">
+                                                           <div class="swiper-slide">
+                                    <div class="advantages-card" data-resize="element">
+                                        <div class="d-flex align-items-center advantages-card-top">
+                                            <span class="icon-performance"></span>
+                                            <div class="ms-1 advantages-card-title">Dynamic Placement Creation</div>
+                                        </div>
+                                        <p>Thousands of unique placements per domain. Every impression priced at its <b>true value</b>.</p>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="advantages-card" data-resize="element">
+                                        <div class="d-flex align-items-center advantages-card-top">
+                                            <span class="icon-filter"></span>
+                                            <div class="ms-1 advantages-card-title">Viewability & Engagement Prediction</div>
+                                        </div>
+                                        <p>Real-time AI scoring on every bid. Buyers bid higher, <b>you earn more</b>.</p>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="advantages-card" data-resize="element">
+                                        <div class="d-flex align-items-center advantages-card-top">
+                                            <span class="icon-ecosystem"></span>
+                                            <div class="ms-1 advantages-card-title">Semantic Targeting & URL Citability LLM</div>
+                                        </div>
+                                        <p>Cookieless targeting powered by LLM. Quality content, <b>premium CPMs</b>.</p>
+                                    </div>
+                                </div>
+                                                            <div class="swiper-slide">
+                                    <div class="advantages-card" data-resize="element">
+                                        <div class="d-flex align-items-center advantages-card-top">
+                                            <span class="icon-brandsafe"></span>
+                                            <div class="ms-1 advantages-card-title">Tier-1 Unique Demand</div>
+                                        </div>
+                                        <p>Curated deals feeding major agencies & Tier-1 trading desks. Earmarked budgets, <b>higher bids</b>.</p>
+                                    </div>
+                                </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+            <section  class="section-technology animated fadeInUp" id="technology">
+            <div  class="container">
+                <div  class="row">
+                    <div class="col-12 text-center animated fadeIn">
+                        <div class="subtitle">The Technology</div>
+                        <h2 class="text-white">Spot the most valuable inventory on any websites and provide guarantees of performance to advertisers</h2>
+                    </div>
+                </div>
+                <div  class="row mt-5">
+                    <div class="col-12">
+                        <div class="technology-video">
+                            <div class="ratio ratio-16x9">
+                                <video controls width="100%" poster="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/smilewanted-sw-filter.png">
+                                    <source src="https://www.smilewanted.com/wp-content/uploads/2023/02/smilewanted-technology.mp4" type="video/mp4">
+                                </video>
+                                                            </div>
+                        </div>
+                        <!--<div class="technology-video text-center">
+                            <img src="/assets/img/sw-schema.jpg" class="d-inline-block" />
+                        </div>-->
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <section  class="section-studio" id="smile-studio">
+            <div  class="studio-background" style="background-image: url('https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/studio/studio-background.jpg')">
+                <div  class="container">
+                    <div class="row justify-content-between">
+                        <div class="col-12 col-lg-7 col-xl-7 text-center text-md-start">
+                            <div class="studio-content">
+                                <div class="brand-w" data-tilt data-tilt-reverse="true" data-tilt-max="10" data-tilt-speed="400" data-tilt-scale="1.05" data-tilt-glare="true" data-tilt-max-glare=".2">
+                                    <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/brand/smile-studio.svg" alt="Smile Studio" />
+                                </div>
+                                <h3>A <span class="colored">creative</span> dedicated studio</h3>
+                                                                <div class="studio-brand">
+                                                                        <div class="studio-logos">
+                                                                                    <img data-crea="0" src="https://www.smilewanted.com/wp-content/uploads/2022/11/energizer.png" height="30" data-studio="Energizer" />
+                                                                                    <img data-crea="1" src="https://www.smilewanted.com/wp-content/uploads/2022/11/mattel.png" height="30" data-studio="Mattel" />
+                                                                                    <img data-crea="2" src="https://www.smilewanted.com/wp-content/uploads/2022/11/pmu-1.png" height="30" data-studio="PMU" />
+                                                                                    <img data-crea="3" src="https://www.smilewanted.com/wp-content/uploads/2022/11/primevideo.png" height="30" data-studio="Prime Video" />
+                                                                                    <img data-crea="4" src="https://www.smilewanted.com/wp-content/uploads/2023/09/hm-logo-w-smile-studio.png" height="30" data-studio="H&#038;M" />
+                                                                            </div>
+                                </div>
+                                <div class="cta-w">
+                                    <a href="https://www.smilewanted.com/studio/" class="cta cta-white cta-small" title="Discover Smile Studio"><span class="cta-text">Discover more</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-lg-4">
+                            <div class="studio-creas">
+                                <div class="swiper studio-slider">
+                                    <div class="swiper-wrapper">
+                                                                                    <div class="swiper-slide">
+                                                <div class="card-studio" data-video-id="https://www.smilewanted.com/wp-content/uploads/2022/11/energizer-smile-skin-6s.mp4">
+                                                                                                            <div class="card-studio-play">
+                                                            <span class="icon-play"></span>
+                                                        </div>
+                                                                                                                                                            <div style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2022/11/energizer-smile-skin.jpg');" class="card-img-top"></div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="swiper-slide">
+                                                <div class="card-studio" data-video-id="https://www.smilewanted.com/wp-content/uploads/2022/11/mattel.mp4">
+                                                                                                            <div class="card-studio-play">
+                                                            <span class="icon-play"></span>
+                                                        </div>
+                                                                                                                                                            <div style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2022/11/mattel.jpg');" class="card-img-top"></div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="swiper-slide">
+                                                <div class="card-studio" data-video-id="https://www.smilewanted.com/wp-content/uploads/2022/11/pmu-sw-skin.mp4">
+                                                                                                            <div class="card-studio-play">
+                                                            <span class="icon-play"></span>
+                                                        </div>
+                                                                                                                                                            <div style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2022/11/pmu-thumbnail.jpg');" class="card-img-top"></div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="swiper-slide">
+                                                <div class="card-studio" data-video-id="https://www.smilewanted.com/wp-content/uploads/2022/11/sw-prime-video.mp4">
+                                                                                                            <div class="card-studio-play">
+                                                            <span class="icon-play"></span>
+                                                        </div>
+                                                                                                                                                            <div style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2022/11/primevideo-thumbnail.jpg');" class="card-img-top"></div>
+                                                </div>
+                                            </div>
+                                                                                    <div class="swiper-slide">
+                                                <div class="card-studio" data-video-id="https://www.smilewanted.com/wp-content/uploads/2023/09/sw-hm-skin-carousel.mp4">
+                                                                                                            <div class="card-studio-play">
+                                                            <span class="icon-play"></span>
+                                                        </div>
+                                                                                                                                                            <div style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2023/09/hm-caroussel-skin.jpg');" class="card-img-top"></div>
+                                                </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <section  class="section-eco">
+            <div  class="container">
+                <div  class="row align-items-center">
+                    <div class="d-none d-lg-block col-12 col-lg-5 animated animatedFadeInLeft">
+                        <div class="eco-left">
+                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/eco/planet-eco-targeting.png" alt="Eco-Targeting offer" />
+                            <div class="eco-background"></div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-lg-7 animated animatedFadeInRight">
+                        <div class="eco-right">
+                            <div class="eco-top">
+                                <div class="eco-top-green">
+                                    <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/eco/sw-eco-logo.svg" alt="SW Eco Path" />
+                                    <span>Path</span>
+                                </div>
+                                <span class="eco-top-new">New</span>
+                            </div>
+                            <div class="eco-content">
+                                <h3>The <span>1st carbon full-stack offer</span><br />SPO and carbon reduction Less impression for more engagement</h3>
+                                                                    <div class="eco-text"><ul>
+<li>Emissions measurement</li>
+<li>Reducing emissions</li>
+<li>Balance sheet &amp; equivalencies</li>
+</ul>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                                                                    <div class="cta-w">
+                                        <a href="https://www.smilewanted.com/contact-us/" title="Contact us" class="cta cta-main">Contact us</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+
+
+            <section data-wpr-lazyrender="1" class="section-integrations" id="publishers">
+            <div  class="container">
+                <div  class="row align-items-center">
+                    <div class="col-12 col-lg-6 animated animatedFadeInLeft">
+                        <div class="text-left">
+                            <div class="subtitle">For publishers</div>
+                            <h2>Get our <span class="yellow">exclusive</span> and <span class="yellow">premium</span> demand in Video, Display and Native&nbsp;!</h2>
+                        </div>
+                        <div class="integrations-left">
+                            <ul class="nav nav-pills integrations-tabs">
+                                                                    <li class="nav-item integrations-tab" role="presentation">
+                                        <div class="nav-link">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/sw-hb.png" alt="" height="25" />
+                                        </div>
+                                    </li>
+                                                                    <li class="nav-item integrations-tab" role="presentation">
+                                        <div class="nav-link">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/sw-vast.png" alt="" height="25" />
+                                        </div>
+                                    </li>
+                                                                    <li class="nav-item integrations-tab" role="presentation">
+                                        <div class="nav-link">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/sw-tag.png" alt="" height="25" />
+                                        </div>
+                                    </li>
+                                                            </ul>
+                        </div>
+                                                    <div class="cta-w">
+                                <a href="https://www.smilewanted.com/contact-us/" title="Contact us" class="cta cta-yellow">Contact us</a>
+                            </div>
+                                            </div>
+                    <div class="col-12 col-lg-6 animated animatedFadeInRight">
+                        <div class="integrations-right">
+                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/integrations/integration-vast.png" alt="Integration VAST" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <section data-wpr-lazyrender="1" class="section-inventory">
+            <div  class="inventory-background">
+                <div  class="container">
+                    <div  class="row">
+                        <div class="col-12 text-center">
+                            <div class="subtitle">Our publishers</div>
+                            <h2>A growing inventory of premium publishers...</h2>
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-12 text-center">
+                            <ul class="nav justify-content-center publishers-nav" id="nav-tab" role="tablist">
+                                                                    <li class="nav-item">
+                                        <button class="nav-link active" id="nav-france-tab" data-bs-toggle="tab" data-bs-target="#nav-france" type="button" role="tab" aria-controls="nav-france" aria-selected="true">France</button>
+                                    </li>
+                                                                                                                                    <li class="nav-item">
+                                        <button class="nav-link" id="nav-global-tab" data-bs-toggle="tab" data-bs-target="#nav-global" type="button" role="tab" aria-controls="nav-global" aria-selected="false">Global</button>
+                                    </li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="row mt-5">
+                        <div class="col-12 position-relative">
+                            <div class="tab-content" id="nav-tabContent">
+                                                                    <div class="swiper inventory-slider tab-pane fade show active" id="nav-france" role="tabpanel" aria-labelledby="nav-france-tab" tabindex="0">
+                                        <div class="swiper-wrapper">
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #e92822;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-forbes.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/forbes.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #e2001a;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/ouest-france.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/ouestfrance.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #0068b1;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-progres.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/le-progres.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #cb040e;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-dauphine.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/ledauphine.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #000000;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/marieclaire.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/marie-claire.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #d80c0c;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-lepoint.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/le-point.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #22a1bd;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-santemagazine.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/sante-magazine.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #e42b69;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/notre-famille.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/bayard.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                
+                                
+                                                                    <div class="swiper inventory-slider tab-pane fade" id="nav-global" role="tabpanel" aria-labelledby="nav-global-tab" tabindex="0">
+                                        <div class="swiper-wrapper">
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #f1272b;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/ELLE-be.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/elle.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #999999;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/autoscout24.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/autscout.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #cc0000;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/marca.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/marca-1.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #d70000;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/indian-express-logo-n.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/indianexpress.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #cb0f3e;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/jpost-logo.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/thejerusalempost.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #0d3567;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-larazon.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/larazon.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #0b419b;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-20minutos.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/20minutos.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #f53036;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-elperiodico.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/elperiodico.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="inventory-item" style="background-color: #ce0000;">
+                                                        <div class="inventory-logo">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/logo-as.png" alt="" height="24" />
+                                                        </div>
+                                                        <div class="inventory-phone">
+                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/as.png" alt="" width="220" />
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                
+                                <div class="inventory-slider-arrow">
+                                    <div class="inventory-slider-prev swiper-button-disabled"><span class="icon-arrow-left"></span></div>
+                                    <div class="inventory-slider-next"><span class="icon-arrow-right"></span></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <section  class="section-advertisers">
+            <div  class="divider">
+                <div  class="curved-bottom"></div>
+            </div>
+            <div  class="advertisers-background">
+                <div  class="container">
+                    <div  class="row">
+                        <div class="col-12 text-center">
+                            <h2>...matched with the best agencies & brands</h2>
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-12 col-md-6 text-center">
+                            <div class="advertisers-agencies-w">
+                                <div class="advertisers-title">Agencies</div>
+                                <div class="brands-list">
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/omd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/havas-media-group.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/publicis-media.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dentsu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/wpp.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/values-media.jpg" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ipg.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/phd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/heroiks.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/cospirit-groupe.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/repeat.png" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/omd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/havas-media-group.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/publicis-media.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dentsu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/wpp.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/values-media.jpg" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ipg.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/phd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/heroiks.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/cospirit-groupe.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/repeat.png" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="brands-list">
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ipg.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/phd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/heroiks.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/cospirit-groupe.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/repeat.png" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/omd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/havas-media-group.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/publicis-media.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dentsu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/wpp.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/values-media.jpg" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ipg.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/phd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/heroiks.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/cospirit-groupe.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/repeat.png" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/omd.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/havas-media-group.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/publicis-media.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dentsu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/wpp.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/values-media.jpg" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 text-center">
+                            <div class="advertisers-brands-w">
+                                <div class="advertisers-title">Brands</div>
+                                <div class="brands-list">
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/amazon.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/renault.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/seat.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/canal.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pierre-fabre.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dell.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mgen.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/societe-generale.png" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/essilor.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pmu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mazda.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/logitech.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/intermarche.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/eleclerc.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/clubmed.png" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/amazon.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/renault.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/seat.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/canal.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pierre-fabre.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dell.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mgen.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/societe-generale.png" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/essilor.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pmu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mazda.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/logitech.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/intermarche.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/eleclerc.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/clubmed.png" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                    </div>
+                                <div class="brands-list">
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/essilor.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pmu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mazda.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/logitech.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/intermarche.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/eleclerc.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/clubmed.png" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/amazon.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/renault.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/seat.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/canal.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pierre-fabre.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dell.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mgen.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/societe-generale.png" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                            <div class="brands-inner">
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/essilor.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pmu.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mazda.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/logitech.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/intermarche.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/eleclerc.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/clubmed.png" height="30" />
+                                                </div>
+                                                                                                                                        <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/amazon.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/renault.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/seat.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/canal.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/pierre-fabre.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/dell.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/mgen.png" height="30" />
+                                                </div>
+                                                                                            <div class="brands-item">
+                                                    <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/societe-generale.png" height="30" />
+                                                </div>
+                                                                                    </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+        </section>
+    
+
+            <section data-wpr-lazyrender="1" class="section-stories" id="case-studies">
+            <div  class="stories-background">
+                <div  class="container">
+                    <div  class="row">
+                        <div class="col-12 text-center">
+                            <h2>Case studies</h2>
+                        </div>
+                    </div>
+                    <div class="row mt-4">
+                        <div class="col-12 text-center">
+                            <div class="stories-tabs" id="pills-tab" role="tablist">
+                                
+                                    
+                                                                            <div class="stories-tab">
+                                        <div class="stories-tab-top">Awareness</div>
+                                        <div class="stories-tab-bottom">
+                                                                        <button class="stories-tab-logo nav-link active" id="pills-0-tab" data-bs-toggle="pill" data-bs-target="#pills-0" type="button" role="tab" aria-controls="pills-0" aria-selected="true">
+                                        <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/clubmed-1.png" alt="" height="20" />
+                                    </button>
+                                                                        
+                                    
+                                                                        <button class="stories-tab-logo nav-link" id="pills-1-tab" data-bs-toggle="pill" data-bs-target="#pills-1" type="button" role="tab" aria-controls="pills-1" aria-selected="true">
+                                        <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/intermarche-1.png" alt="" height="20" />
+                                    </button>
+                                                                            </div>
+                                        </div>
+                                                                        
+                                    
+                                                                            <div class="stories-tab">
+                                        <div class="stories-tab-top">Consideration</div>
+                                        <div class="stories-tab-bottom">
+                                                                        <button class="stories-tab-logo nav-link" id="pills-2-tab" data-bs-toggle="pill" data-bs-target="#pills-2" type="button" role="tab" aria-controls="pills-2" aria-selected="true">
+                                        <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/canalplus.png" alt="" height="20" />
+                                    </button>
+                                                                        
+                                    
+                                                                        <button class="stories-tab-logo nav-link" id="pills-3-tab" data-bs-toggle="pill" data-bs-target="#pills-3" type="button" role="tab" aria-controls="pills-3" aria-selected="true">
+                                        <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/seat-1.png" alt="" height="20" />
+                                    </button>
+                                                                            </div>
+                                        </div>
+                                                                                                    </div>
+                        </div>
+                    </div>
+                    <div class="tab-content">
+                                                    <div class="tab-pane fade show active" id="pills-0" role="tabpanel" aria-labelledby="pills-0-tab" tabindex="0">
+                                <div  class="row">
+                                    <div class="col-12 col-md-10 col-lg-7 col-xl-7 col-xxl-6">
+                                        <div class="stories-list">
+                                                                                            <div class="stories-feature">
+                                                    <div class="stories-feature-value">Video In-Stream 30s</div>
+                                                    <div class="stories-feature-label">formats</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">Mobile<br />Desktop</div>
+                                                    <div class="stories-feature-label">devices</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">News <br /> & Business CSP+</div>
+                                                    <div class="stories-feature-label">targeting</div>
+                                                </div>
+                                                                                    </div>
+                                        <div class="stories-kpis" data-resize="container">
+                                            <div class="stories-kpis-left">
+                                                <div class="stories-kpis-title text-center">
+                                                    Client Brief<br />
+                                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/agence-79.png" alt="">
+                                                                                                    </div>
+                                                                                                                                                            <div class="stories-kpis-item">70%</div>
+                                                                                                            <div class="stories-kpis-item">70%</div>
+                                                                                                            <div class="stories-kpis-item white">-</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-middle">
+                                                                                                                                                            <div class="stories-kpis-item">VTR</div>
+                                                                                                            <div class="stories-kpis-item">Viewability</div>
+                                                                                                            <div class="stories-kpis-item">CPV</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-right">
+                                                <div class="stories-kpis-title text-center">
+                                                    Results<br />
+                                                    <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/stories/sw-logo.png" height="24">
+                                                </div>
+                                                                                                                                                            <div class="stories-kpis-item">80%</div>
+                                                                                                            <div class="stories-kpis-item">88%</div>
+                                                                                                            <div class="stories-kpis-item">0,010€</div>
+                                                                                                                                                </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-8 col-lg-4 col-xl-5 col-xxl-5 text-center text-lg-end">
+                                        <div class="position-relative">
+                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/clubmedl-theitaliantimes.png" alt="" class="stories-crea">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="tab-pane fade" id="pills-1" role="tabpanel" aria-labelledby="pills-1-tab" tabindex="1">
+                                <div class="row">
+                                    <div class="col-12 col-md-10 col-lg-7 col-xl-7 col-xxl-6">
+                                        <div class="stories-list">
+                                                                                            <div class="stories-feature">
+                                                    <div class="stories-feature-value">Video In-Stream 60s</div>
+                                                    <div class="stories-feature-label">formats</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">Mobile<br />Desktop</div>
+                                                    <div class="stories-feature-label">devices</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">Women</div>
+                                                    <div class="stories-feature-label">targeting</div>
+                                                </div>
+                                                                                    </div>
+                                        <div class="stories-kpis" data-resize="container">
+                                            <div class="stories-kpis-left">
+                                                <div class="stories-kpis-title text-center">
+                                                    Client Brief<br />
+                                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/publicis-media.png" alt="">
+                                                                                                    </div>
+                                                                                                                                                            <div class="stories-kpis-item">50%</div>
+                                                                                                            <div class="stories-kpis-item">70%</div>
+                                                                                                            <div class="stories-kpis-item">50%</div>
+                                                                                                            <div class="stories-kpis-item white">-</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-middle">
+                                                                                                                                                            <div class="stories-kpis-item">VTR</div>
+                                                                                                            <div class="stories-kpis-item">Viewability</div>
+                                                                                                            <div class="stories-kpis-item">DAR 25-34</div>
+                                                                                                            <div class="stories-kpis-item">CPV</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-right">
+                                                <div class="stories-kpis-title text-center">
+                                                    Results<br />
+                                                    <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/stories/sw-logo.png" height="24">
+                                                </div>
+                                                                                                                                                            <div class="stories-kpis-item">56%</div>
+                                                                                                            <div class="stories-kpis-item">82%</div>
+                                                                                                            <div class="stories-kpis-item">60%</div>
+                                                                                                            <div class="stories-kpis-item">0.020€</div>
+                                                                                                                                                </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-8 col-lg-4 col-xl-5 col-xxl-5 text-center text-lg-end">
+                                        <div class="position-relative">
+                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/intermarche-latribune.png" alt="" class="stories-crea">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="tab-pane fade" id="pills-2" role="tabpanel" aria-labelledby="pills-2-tab" tabindex="2">
+                                <div class="row">
+                                    <div class="col-12 col-md-10 col-lg-7 col-xl-7 col-xxl-6">
+                                        <div class="stories-list">
+                                                                                            <div class="stories-feature">
+                                                    <div class="stories-feature-value">Video In-Stream 30s</div>
+                                                    <div class="stories-feature-label">formats</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">Mobile<br />Desktop</div>
+                                                    <div class="stories-feature-label">devices</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">Entertainment</div>
+                                                    <div class="stories-feature-label">targeting</div>
+                                                </div>
+                                                                                    </div>
+                                        <div class="stories-kpis" data-resize="container">
+                                            <div class="stories-kpis-left">
+                                                <div class="stories-kpis-title text-center">
+                                                    Client Brief<br />
+                                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/havas-media.png" alt="">
+                                                                                                    </div>
+                                                                                                                                                            <div class="stories-kpis-item">70%</div>
+                                                                                                            <div class="stories-kpis-item">80%</div>
+                                                                                                            <div class="stories-kpis-item white">-</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-middle">
+                                                                                                                                                            <div class="stories-kpis-item">VTR</div>
+                                                                                                            <div class="stories-kpis-item">Viewability</div>
+                                                                                                            <div class="stories-kpis-item">CPV</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-right">
+                                                <div class="stories-kpis-title text-center">
+                                                    Results<br />
+                                                    <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/stories/sw-logo.png" height="24">
+                                                </div>
+                                                                                                                                                            <div class="stories-kpis-item">79%</div>
+                                                                                                            <div class="stories-kpis-item">85%</div>
+                                                                                                            <div class="stories-kpis-item">0.009€</div>
+                                                                                                                                                </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-8 col-lg-4 col-xl-5 col-xxl-5 text-center text-lg-end">
+                                        <div class="position-relative">
+                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/canal-lebonbon.png" alt="" class="stories-crea">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                        <div class="tab-pane fade" id="pills-3" role="tabpanel" aria-labelledby="pills-3-tab" tabindex="3">
+                                <div class="row">
+                                    <div class="col-12 col-md-10 col-lg-7 col-xl-7 col-xxl-6">
+                                        <div class="stories-list">
+                                                                                            <div class="stories-feature">
+                                                    <div class="stories-feature-value">IAB</div>
+                                                    <div class="stories-feature-label">formats</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">Mobile<br />Desktop</div>
+                                                    <div class="stories-feature-label">devices</div>
+                                                </div>
+                                                                                                                                        <div class="stories-feature">
+                                                    <div class="stories-feature-value">News<br />Auto</div>
+                                                    <div class="stories-feature-label">targeting</div>
+                                                </div>
+                                                                                    </div>
+                                        <div class="stories-kpis" data-resize="container">
+                                            <div class="stories-kpis-left">
+                                                <div class="stories-kpis-title text-center">
+                                                    Client Brief<br />
+                                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/remind-phd.png" alt="">
+                                                                                                    </div>
+                                                                                                                                                            <div class="stories-kpis-item">0.10%</div>
+                                                                                                            <div class="stories-kpis-item">60%</div>
+                                                                                                            <div class="stories-kpis-item">0.50€</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-middle">
+                                                                                                                                                            <div class="stories-kpis-item">CTR</div>
+                                                                                                            <div class="stories-kpis-item">Viewability</div>
+                                                                                                            <div class="stories-kpis-item">CPC</div>
+                                                                                                                                                </div>
+                                            <div class="stories-kpis-right">
+                                                <div class="stories-kpis-title text-center">
+                                                    Results<br />
+                                                    <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/stories/sw-logo.png" height="24">
+                                                </div>
+                                                                                                                                                            <div class="stories-kpis-item">0.25%</div>
+                                                                                                            <div class="stories-kpis-item">71%</div>
+                                                                                                            <div class="stories-kpis-item">0.25€</div>
+                                                                                                                                                </div>
+
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-8 col-lg-4 col-xl-5 col-xxl-5 text-center text-lg-end">
+                                        <div class="position-relative">
+                                                                                            <img src="https://www.smilewanted.com/wp-content/uploads/2023/01/seat-eurosport.png" alt="" class="stories-crea">
+                                                                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                                                </div>
+
+                </div>
+            </div>
+        </section>
+    
+
+
+            <section data-wpr-lazyrender="1" class="section-certifications">
+            <div  class="certifications-background">
+                <div  class="container">
+                    <div class="row">
+                        <div class="col-12 col-md-8 text-center">
+                                                        <h2>Our Partners</h2>                        </div>
+                    </div>
+                    <div class="row mt-5">
+						                        <div class="col-12 col-lg-8 animated animatedFadeInUp">
+                            <div class="certifications-item certications-item-brand">
+                                <h3>Brand Safety and Targeting Partners</h3>                                                                                                    <ul>
+                                                                                    <li><img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ias.png" alt="" height="25"></li>
+                                                                                    <li><img src="https://www.smilewanted.com/wp-content/uploads/2023/05/double-verify.png" alt="" height="25"></li>
+                                                                                    <li><img src="https://www.smilewanted.com/wp-content/uploads/2023/09/implcit.png" alt="" height="25"></li>
+                                        </ul><ul>                                            <li><img src="https://www.smilewanted.com/wp-content/uploads/2022/11/sirdata.png" alt="" height="25"></li>
+                                                                                    <li><img src="https://www.smilewanted.com/wp-content/uploads/2022/11/id5.png" alt="" height="25"></li>
+                                                                                    <li><img src="https://www.smilewanted.com/wp-content/uploads/2023/01/liveramp.png" alt="" height="25"></li>
+                                                                            </ul>
+                                                            </div>
+                        </div>
+                        						                    </div>
+                </div>
+            </div>
+        </section>
+    
+            <section data-wpr-lazyrender="1" class="section-quotes" id="testimonials">
+            <div  class="container animated animatedFadeInUp">
+                                    <div class="row">
+                        <div class="col-12 col-md-8 text-center">
+                                                        <h2 class="mb-3">Testimonials </h2>                        </div>
+                                                    <div class="col-12 text-center">
+                                <ul class="nav justify-content-center quotes-nav" id="nav-tabQuotes" role="tablist">
+                                                                            <li class="nav-item nav-item-advertisers">
+                                            <button class="nav-link active" id="nav-advertisers-tab" data-bs-toggle="tab" data-bs-target="#nav-advertisers" type="button" role="tab" aria-controls="nav-advertisers" aria-selected="true">Advertisers</button>
+                                        </li>
+                                                                                                                <li class="nav-item nav-item-publishers">
+                                            <button class="nav-link" id="nav-publishers-tab" data-bs-toggle="tab" data-bs-target="#nav-publishers" type="button" role="tab" aria-controls="nav-publishers" aria-selected="false">Publishers</button>
+                                        </li>
+                                                                    </ul>
+                            </div>
+                                            </div>
+                
+                <div class="tab-content" id="nav-tabContent">
+                                            <div class="tab-pane fade show active" id="nav-advertisers" role="tabpanel" aria-labelledby="nav-advertisers-tab" tabindex="0">
+                            <div class="row justify-content-center mt-2">
+                                <div class="d-sm-none d-md-block col-md-2 col-lg-3">
+                                    <div class="quotes-left">
+                                        <div class="circle publicis">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/publicis-media.png" alt="logo Publicis media" height="59" />
+                                        </div>
+                                        <div class="circle-empty"></div>
+                                        <div class="circle omd">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/omd.png" alt="logo OMD" height="30" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-10 col-md-8 col-lg-6 text-center position-relative pt-5">
+                                    <div class="swiper quotes-slider quotes-slider-advertisers">
+                                        <div class="swiper-wrapper">
+                                                                                            <div class="swiper-slide">
+                                                    <div class="quotes-item">
+                                                        <div><p>“<strong>Smile Wanted</strong> knew how to adapt to the advertiser expectations with the creation of innovative format broadcast throughout the <em>SW Display Curated Marketplace</em>. It guarantees optimal performance on narrow target audience and limited domains whitelist. Thanks to Smile Wanted, we gain time and optimise cost for our trading team.”</p>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                        <div class="quotes-item-bottom">
+                                                            <div class="quotes-logo" style="background-color: #000000;">
+                                                                <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/agence-79.png" alt="" height="35" />
+                                                            </div>
+                                                            <div class="quotes-infos">
+                                                                <div class="quotes-infos-name">Thibaud Marais</div>                                                                <div class="quotes-infos-job">Consultant Director</div>                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="quotes-item">
+                                                        <div><p>“We have been the first to test the <em>SW Video Curated Marketplace</em> willing to guarantee performance on our <strong>long video format</strong> on premium whitelist. After 3 years of cooperation, Smile Wanted has always ranked in our best performers.”</p>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                        <div class="quotes-item-bottom">
+                                                            <div class="quotes-logo" style="background-color: #000000;">
+                                                                <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/publicis-media-1.png" alt="" height="35" />
+                                                            </div>
+                                                            <div class="quotes-infos">
+                                                                <div class="quotes-infos-name">Richard Besancon</div>                                                                <div class="quotes-infos-job">Digital Director</div>                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="quotes-item">
+                                                        <div><p>“A first B2B video campaign for <strong>a major software company</strong>, successfully carried out thanks to Smile Wanted, whose semantic approach enabled us to reach the core target audience where it was, <strong>in a brand safe and brand suitable environment</strong>.”</p>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                        <div class="quotes-item-bottom">
+                                                            <div class="quotes-logo" style="background-color: #d81e05;">
+                                                                <img src="https://www.smilewanted.com/wp-content/uploads/2023/03/NeoMediaWorld-logo.png" alt="" height="35" />
+                                                            </div>
+                                                            <div class="quotes-infos">
+                                                                <div class="quotes-infos-name">Mohamed Akouh</div>                                                                <div class="quotes-infos-job">Neo media world</div>                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="quotes-item">
+                                                        <div><p>“Optimizing our campaigns for a competitive CPE in video format, Smile Wanted simply meets our advertiser&rsquo;s objectives and remains our <strong>Best Performers Brand/Perf</strong> to this day. With these results, it&rsquo;s obvious that we keep the « Smile ».”</p>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                        <div class="quotes-item-bottom">
+                                                            <div class="quotes-logo" style="background-color: #eb2a21;">
+                                                                <img src="https://www.smilewanted.com/wp-content/uploads/2023/03/omd-1-1.png" alt="" height="35" />
+                                                            </div>
+                                                            <div class="quotes-infos">
+                                                                <div class="quotes-infos-name">Toumani Barry SIDIBE</div>                                                                <div class="quotes-infos-job">OMD France</div>                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                    <div class="quotes-slider-arrow">
+                                        <div class="quotes-slider-prev quotes-slider-ad-next"><span class="icon-arrow-left"></span></div>
+                                        <div class="quotes-slider-next quotes-slider-ad-prev"><span class="icon-arrow-right"></span></div>
+                                    </div>
+                                </div>
+                                <div class="d-sm-none d-md-block col-md-2 col-lg-3">
+                                    <div class="quotes-right">
+                                        <div class="circle a79">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/agence-79.png" alt="logo Agence 79" height="53" />
+                                        </div>
+                                        <div class="circle-empty">
+                                            <div class="swiper-pagination swiper-pagination-ad"></div>
+                                        </div>
+                                        <div class="circle neo">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/neomedia-world.png" alt="logo Neo Media World" height="39" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                                                <div class="tab-pane fade" id="nav-publishers" role="tabpanel" aria-labelledby="nav-publishers-tab" tabindex="0">
+                            <div class="row justify-content-center mt-2">
+                                <div class="d-sm-none d-md-block col-md-2 col-lg-3">
+                                    <div class="quotes-left">
+                                        <div class="circle canal">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/canal.png" alt="Partner Publisher Publicis media" height="45" />
+                                        </div>
+                                        <div class="circle-empty circle-empty-pub"></div>
+                                        <!--<div class="circle"></div>-->
+                                    </div>
+                                </div>
+                                <div class="col-10 col-md-8 col-lg-6 text-center position-relative pt-5">
+                                    <div class="swiper quotes-slider quotes-slider-publishers">
+                                        <div class="swiper-wrapper">
+                                                                                            <div class="swiper-slide">
+                                                    <div class="quotes-item">
+                                                        <div><p>“Smile Wanted&rsquo;s formats <strong>respect the UX perfectly</strong>. It was very important for us to select monetization partners that fit properly with our <strong>Digital Ad Trust label</strong>.”</p>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                        <div class="quotes-item-bottom">
+                                                            <div class="quotes-logo" style="background-color: #254aa5;">
+                                                                <img src="https://www.smilewanted.com/wp-content/uploads/2023/02/la_provence-logo.png" alt="" height="35" />
+                                                            </div>
+                                                            <div class="quotes-infos">
+                                                                <div class="quotes-infos-name">Mathias Barba</div>                                                                <div class="quotes-infos-job">La Provence</div>                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                            <div class="swiper-slide">
+                                                    <div class="quotes-item">
+                                                        <div><p>“After a few weeks of testing, we decided to maintain our confidence in Smile Wanted by gradually opening up new placements. We were successfully able to generate a CPM uplift of <strong>+70% on strategic positions</strong> in our inventories.”</p>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+<div id="professor_prebid-root"></div>
+</div>
+                                                        <div class="quotes-item-bottom">
+                                                            <div class="quotes-logo" style="background-color: #0a0000;">
+                                                                <img src="https://www.smilewanted.com/wp-content/uploads/2023/02/canalplusbrand.webp" alt="" height="35" />
+                                                            </div>
+                                                            <div class="quotes-infos">
+                                                                <div class="quotes-infos-name">Vincent Vuillaume</div>                                                                <div class="quotes-infos-job">Canal+ Brand Solution </div>                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                                                    </div>
+                                    </div>
+                                    <div class="quotes-slider-arrow">
+                                        <div class="quotes-slider-prev quotes-slider-pub-next"><span class="icon-arrow-left"></span></div>
+                                        <div class="quotes-slider-next quotes-slider-pub-prev"><span class="icon-arrow-right"></span></div>
+                                    </div>
+                                </div>
+                                <div class="d-sm-none d-md-block col-md-2 col-lg-3">
+                                    <div class="quotes-right">
+                                        <div class="circle mm">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/minute-media.png" alt="Partner Publisher Minute Media" height="53" />
+                                        </div>
+                                        <div class="circle-empty circle-empty-pub">
+                                            <div class="swiper-pagination swiper-pagination-pub"></div>
+                                        </div>
+                                        <div class="circle laprovence">
+                                            <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/quotes/laprovence.png" alt="Partner Publisher La Provence" height="39" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                                    </div>
+            </div>
+        </section>
+    
+
+
+    
+    <section data-wpr-lazyrender="1" class="section-slider">
+        <div  class="container">
+                            <div class="row">
+                    <div class="col-12">
+                        <div class="title-w">
+                            <h3>Top news</h3>                                                    </div>
+                    </div>
+                </div>
+            
+            <div  class="row featured-single" data-resize="container">
+                <div class="col-12">
+                    <div class="swiper single-slider">
+                        <div class="swiper-wrapper">
+                                                                                                <div class="swiper-slide">
+                                        <a href="https://www.smilewanted.com/press/smile-wanted-leve-10-millions-euros/" title="Home" class="card" data-resize="element">
+                                                                                        <div class="card-img-top" style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2025/02/levee-de-fonds-communique-de-presse-smile-wanted-fev-2025-500x281.jpg');"></div>
+                                            <div class="card-body">
+                                                                                                <div class="card-title">Smile Wanted lève 10 M€ pour accélérer son développement !</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide">
+                                        <a href="https://www.smilewanted.com/media/smile-wanted-joins-financial-times-prestigious-european-ranking-of-high-growth-companies/" title="Home" class="card card-media" data-resize="element">
+                                                                                        <div class="card-img-top" style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2023/03/smile-exchangewire-500x281.jpg');"></div>
+                                            <div class="card-body">
+                                                <img class="card-logo" height="20" src="https://www.smilewanted.com/wp-content/uploads/2023/03/logo-exchange-wire.png" />                                                <div class="card-title">Smile Wanted Joins Financial Time&rsquo;s Prestigious European Ranking of High-Growth Companies!</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide">
+                                        <a href="https://www.smilewanted.com/media/smile-wanted-nouveau-champion-sur-le-podium-du-classement-de-la-croissance-des-echos/" title="Home" class="card card-media" data-resize="element">
+                                                                                        <div class="card-img-top" style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2023/02/smile-lesecho-500x281.jpg');"></div>
+                                            <div class="card-body">
+                                                <img class="card-logo" height="20" src="https://www.smilewanted.com/wp-content/uploads/2023/02/Les_echos.png" />                                                <div class="card-title">Smile Wanted, nouveau champion sur le podium du classement de la croissance des Echos</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                    <div class="swiper-slide">
+                                        <a href="https://www.smilewanted.com/media/curated-marketplace-display-native-a-la-performance/" title="Home" class="card card-media" data-resize="element">
+                                                                                        <div class="card-img-top" style="background-image: url('https://www.smilewanted.com/wp-content/uploads/2022/11/smile-ratecard-500x281.jpg');"></div>
+                                            <div class="card-body">
+                                                <img class="card-logo" height="20" src="https://www.smilewanted.com/wp-content/uploads/2022/12/sw-ratecard.png" />                                                <div class="card-title">Après la vidéo, Smile Wanted lance désormais sa curated marketplace display et native à la performance !</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+            <section data-wpr-lazyrender="1">
+            <div  class="container">
+                <div  class="row align-items-center">
+                    <div class="col-12 col-md-5 col-lg-4">
+                        <div class="pe-3 py-2">
+                            <h3 class="h2">They talk about us</h3>                                                    </div>
+                    </div>
+                    <div class="col-12 col-md-7 col-lg-8">
+                        <div class="press-list">
+                                                            <div class="press-inner">
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ratecard.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/offremedia.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/maddyness.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/theprogrammaticsociety.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/influencia.png" alt="" width="150">
+                                        </a>
+                                                                    </div>
+                                                            <div class="press-inner">
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ratecard.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/offremedia.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/maddyness.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/theprogrammaticsociety.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/influencia.png" alt="" width="150">
+                                        </a>
+                                                                    </div>
+                                                            <div class="press-inner">
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/ratecard.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/offremedia.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/maddyness.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/theprogrammaticsociety.png" alt="" width="150">
+                                        </a>
+                                                                            <a href="https://www.smilewanted.com/news/" title="Our news">
+                                            <img src="https://www.smilewanted.com/wp-content/uploads/2022/11/influencia.png" alt="" width="150">
+                                        </a>
+                                                                    </div>
+                                                    </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+    
+<div  class="sw-modal" data-modal-show="form">
+    <div  class="modal-close" title="Fermer">
+        <span class="icon-close"></span>
+    </div>
+    <div  class="modal-w">
+        <div  class="modal-content">
+            <h3>Meet us at the next events</h3>
+            
+<div class="wpcf7 no-js" id="wpcf7-f1198-o1" lang="fr-FR" dir="ltr" data-wpcf7-id="1198">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f1198-o1" method="post" class="wpcf7-form init" aria-label="Formulaire de contact" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="1198" /><input type="hidden" name="_wpcf7_version" value="6.1.5" /><input type="hidden" name="_wpcf7_locale" value="fr_FR" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1198-o1" /><input type="hidden" name="_wpcf7_container_post" value="0" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" /><input type="hidden" name="_wpcf7_recaptcha_response" value="" />
+</fieldset>
+<div class="row">
+	<div class="col-12 col-md-6">
+		<p><label class="form-label required">Name</label><br />
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Name *" value="" type="text" name="your-name" /></span>
+		</p>
+	</div>
+	<div class="col-12 col-md-6">
+		<p><label class="form-label required">Email address</label><br />
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email form-control" aria-required="true" aria-invalid="false" placeholder="Email address *" value="" type="email" name="your-email" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-12 col-md-6">
+		<p><label class="form-label required">Company</label><br />
+<span class="wpcf7-form-control-wrap" data-name="your-company"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Company *" value="" type="text" name="your-company" /></span>
+		</p>
+	</div>
+	<div class="col-12 col-md-6">
+		<p><label class="form-label">Phone number</label><br />
+<span class="wpcf7-form-control-wrap" data-name="your-phone"><input size="40" maxlength="20" class="wpcf7-form-control wpcf7-tel wpcf7-text wpcf7-validates-as-tel form-control" aria-invalid="false" placeholder="Phone number" value="" type="tel" name="your-phone" /></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-12">
+		<p><label class="form-label required">Where do we meet ?</label><br />
+<span class="wpcf7-form-control-wrap" data-name="your-event"><select class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" name="your-event"><option value="OMR 9-10 May">OMR 9-10 May</option><option value="Programmatic Pioneers 25-26 May">Programmatic Pioneers 25-26 May</option><option value="Cannes Lions 19-23 June">Cannes Lions 19-23 June</option></select></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-12">
+		<p><label class="form-label required">How can we help you ?</label><br />
+<span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="3" maxlength="2000" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required form-control" aria-required="true" aria-invalid="false" placeholder="Type here" name="your-message"></textarea></span>
+		</p>
+	</div>
+</div>
+<div class="row">
+	<div class="col-12">
+		<p><input class="wpcf7-form-control wpcf7-submit has-spinner cta cta-main" type="submit" value="Submit" />
+		</p>
+	</div>
+</div><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+        </div>
+    </div>
+</div>
+
+<div  class="sw-modal modal-video" data-modal-show="video">
+    <div  class="modal-close" title="Fermer">
+        <span class="icon-close"></span>
+    </div>
+    <div  class="iframe-container">
+        <div  class="ratio ratio-16x9" id="creaVideo">
+            <video width="100%" autoplay muted loop poster="">
+                <source src="" type="video/mp4">
+            </video>
+        </div>
+    </div>
+</div>
+
+
+            <!--<div class="divider">
+            <div class="curved-bottom"></div>
+        </div>-->
+        <footer >
+
+                            <div  class="footer-world">
+                    <img class="animated animatedFadeInUp" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/solutions/world.png" alt="Smile Wanted International" />
+                </div>
+            
+          <div  class="container">
+              <div class="row">
+                                        <div class="col-12 col-md-6 order-md-2 animated animatedFadeInRight">
+                          <div class="footer-cta">
+                              <div class="fs-3 fw-bold">Meet the team !</div>
+                              <p>Get in touch with our team and we will get back to you !</p>                                                                <div class="cta-w">
+                                      <a href="https://www.smilewanted.com/contact-us/" title="Contact us" class="cta cta-white" target="">Contact us</a>
+                                  </div>
+                                                        </div>
+                      </div>
+                                    <div class="col-12 col-md-6">
+                      <div class="row">
+                          <div class="col-12 footer-brand">
+                              <div class="footer-smile">
+                                  <img src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/sw-smile.svg" alt="Smile Wanted Smile" />
+                              </div>
+                              <img class="footer-brand-image" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/smilewanted-logo-footer.svg" alt="Smile Wanted" />
+                          </div>
+                      </div>
+                      <div class="row justify-content-start">
+                                                                                  <div class="col-12 col-sm-6">
+                                  <div class="footer-menu-title">Connect</div>
+                                  <div class="menu-footer-right-container"><ul id="menu-footer-right" class="footer-menu"><li id="menu-item-920" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-31 current_page_item menu-item-920"><a href="https://www.smilewanted.com/" aria-current="page">Home</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://www.smilewanted.com/contact-us/">Contact us</a></li>
+</ul></div>                                  <ul class="footer-social">
+                                      <li><a href="https://www.linkedin.com/company/smile-wanted/" title="Smile Wanted on Linkedin" target="_blank"><span class="icon-linkedin"></span></a></li>
+                                      <li><a href="https://www.instagram.com/smilewanted/" title="Smile Wanted on Instagram" target="_blank"><span class="icon-instagram"></span></a></li>
+                                  </ul>
+                              </div>
+                                                </div>
+                      <div class="row justify-content-start mt-4">
+                          <div class="col-12">
+                              <div class="footer-partner">
+                                  <img class="footer-partner-iab" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/iab-tech-lab.png" alt="Smile Wanted - IAB Tech Lab" width="70" />
+                                  <img class="footer-partner-prebid" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/prebid-logo.png" alt="Smile Wanted - Prebid" width="160" />
+                                  <img class="footer-partner-tcf" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/img/tcf-registered-vendor-smilewanted.png" alt="Smile Wanted - TCF Registered Vendor IAB Europe" width="120" />
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-12 footer-bottom">
+                      <div class="footer-copyright">Smile Wanted © Copyrights 2026</div>
+                      <div class="footer-legal"><ul id="menu-footer-copyright" class="menu"><li id="menu-item-919" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-919"><a rel="privacy-policy" href="https://www.smilewanted.com/privacy/">Privacy policy</a></li>
+</ul></div>                  </div>
+             </div>
+          </div>
+        </footer>
+
+                    <div  class="champions-banner event-banner">
+                <div  class="container">
+                    <a href="https://www.smilewanted.com/press/smile-wanted-leve-10-millions-euros/" target="_blank" title="Smile Wanted lève 10 M€ pour accélérer son développement !">
+                        <div class="champions-w">
+                            <div class="champions-inner">
+                                Smile Wanted raises <span>10M €</span> for its international expansion&nbsp;
+                            </div>
+                            <div class="champions-inner">
+                                Smile Wanted raises <span>10M €</span> for its international expansion&nbsp;
+                            </div>
+                            <div class="champions-inner">
+                                Smile Wanted raises <span>10M €</span> for its international expansion&nbsp;
+                            </div>
+                        </div>
+                        <div class="cta cta-small cta-main">
+                            <span class="cta-text">Read more</span>
+                        </div>
+                    </a>
+                </div>
+                <span class="icon-close" data-champions="close"></span>
+            </div>
+            
+    <!-- SCRIPTS -->
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/smilewanted22/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" id="rocket-browser-checker-js-after">
+/* <![CDATA[ */
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+//# sourceURL=rocket-browser-checker-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-extra">
+/* <![CDATA[ */
+var RocketPreloadLinksConfig = {"excludeUris":"/(?:.+/)?feed(?:/(?:.+/?)?)?$|/(?:.+/)?embed/|/(index.php/)?(.*)wp-json(/.*|$)|/refer/|/go/|/recommend/|/recommends/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https://www.smilewanted.com","onHoverDelay":"100","rateThrottle":"3"};
+//# sourceURL=rocket-preload-links-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" id="rocket-preload-links-js-after">
+/* <![CDATA[ */
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+
+//# sourceURL=rocket-preload-links-js-after
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/jquery-3.5.1.min.js?ver=1.0.0" id="jq-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/jquery.waypoints.min.js?ver=1.0.0" id="wp-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/bootstrap.min.js?ver=1.0.0" id="bp-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/swiper.min.js?ver=1.0.0" id="swiper-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/vanilla-tilt.min.js?ver=1.0.0" id="vanilla-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/themes/smilewanted22/assets/js/main.min.js?ver=1.2.0" id="main-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LfOcCYkAAAAAM3ucUWYV85gziMBo30djlK6c_S_&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-before">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {
+    "sitekey": "6LfOcCYkAAAAAM3ucUWYV85gziMBo30djlK6c_S_",
+    "actions": {
+        "homepage": "homepage",
+        "contactform": "contactform"
+    }
+};
+//# sourceURL=wpcf7-recaptcha-js-before
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.smilewanted.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=6.1.5" id="wpcf7-recaptcha-js"></script>
+
+   </body>
+</html>
+
+
+
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1792345605 -->

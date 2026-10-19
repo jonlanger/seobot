@@ -1,0 +1,16 @@
+User-Agent: googlebot
+Allow: /
+Allow: /js/
+Allow: /css/
+Disallow: /assets/
+Disallow: /converter/
+Disallow: /files/
+
+User-Agent: *
+Allow: /
+Allow: /js/
+Allow: /css/
+Disallow: /assets/
+Disallow: /converter/
+Disallow: /files/
+

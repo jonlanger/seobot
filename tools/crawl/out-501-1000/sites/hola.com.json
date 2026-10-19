@@ -1,0 +1,162 @@
+[
+  {
+    "domain": "hola.com",
+    "rank": 1311,
+    "url": "https://hola.com/",
+    "runAt": "2026-10-18T18:09:14.265Z",
+    "robots": {
+      "status": 200,
+      "bytes": 5987,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.hola.com/us/",
+      "bytes": 382852
+    },
+    "rendered": {
+      "title": "HOLA! USA: Celebrity news, royals, entertainment and lifestyle",
+      "canonical": "https://www.hola.com/us/",
+      "words": 745,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "itemlist",
+        "newsmediaorganization",
+        "sitenavigationelement",
+        "webpage",
+        "website"
+      ],
+      "headings": 69,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 667,
+      "renderedWords": 745,
+      "coverage": 70.9,
+      "rawOnlyTokens": 139,
+      "renderedOnlyTokens": 217,
+      "renderedOnlySample": [
+        "contentskip",
+        "footerhot",
+        "usharry",
+        "meghanhussein",
+        "rajwacharlotte",
+        "casiraghilourdes",
+        "leonshakiracardi",
+        "bgerard",
+        "piquésylvester",
+        "stallonelatinas",
+        "showjohn",
+        "fortunemachine",
+        "kellycéline",
+        "dionhola",
+        "lifestyleusaespañaamericasméxicocelebritiescelebrity",
+        "couplescelebrity",
+        "momscelebrity",
+        "kidscelebrity",
+        "parentscelebrity",
+        "entertainmentmusicmoviestvwhat",
+        "watchroyalskate",
+        "middletonmeghan",
+        "markleprince",
+        "harryqueen",
+        "letiziaqueen"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "itemlist",
+        "newsmediaorganization",
+        "sitenavigationelement",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "itemlist",
+        "newsmediaorganization",
+        "sitenavigationelement",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 69,
+      "headingsAlsoInRaw": 49,
+      "headingsCoverage": 71,
+      "titleDiffers": false,
+      "rawTitle": "HOLA! USA: Celebrity news, royals, entertainment and lifestyle",
+      "renderedTitle": "HOLA! USA: Celebrity news, royals, entertainment and lifestyle",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

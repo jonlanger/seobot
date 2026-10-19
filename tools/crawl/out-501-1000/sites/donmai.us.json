@@ -1,0 +1,49 @@
+[
+  {
+    "domain": "donmai.us",
+    "rank": 1322,
+    "url": "https://donmai.us/",
+    "runAt": "2026-10-18T18:09:34.940Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5867,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://donmai.us/",
+      "bytes": 5815
+    },
+    "rendered": {
+      "title": "",
+      "canonical": "",
+      "words": 3,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 3,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 3,
+      "renderedOnlySample": [
+        "default",
+        "backend",
+        "404"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

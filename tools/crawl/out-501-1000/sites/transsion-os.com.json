@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "transsion-os.com",
+    "rank": 1009,
+    "url": "https://transsion-os.com/",
+    "runAt": "2026-10-18T17:57:20.553Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://transsion-os.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://transsion-os.com/\nCall log:\n  - navigating to \"https://transsion-os.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

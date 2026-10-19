@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "classlink.com",
+    "rank": 933,
+    "url": "https://classlink.com/",
+    "runAt": "2026-10-18T17:53:22.488Z",
+    "robots": {
+      "status": 200,
+      "bytes": 126,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.classlink.com/",
+      "bytes": 123006
+    },
+    "rendered": {
+      "title": "ClassLink | Identity & Access Management for Education",
+      "canonical": "https://www.classlink.com/",
+      "words": 510,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 459,
+      "renderedWords": 510,
+      "coverage": 74.5,
+      "rawOnlyTokens": 79,
+      "renderedOnlyTokens": 130,
+      "renderedOnlySample": [
+        "2027register",
+        "threatscanavailable",
+        "enesfrarjazhloginsolutionscl",
+        "enterpriseidentity",
+        "managementidentity",
+        "managementcl",
+        "12learning",
+        "analyticscl",
+        "edcybersecurity",
+        "educationcybersecurity",
+        "educationcl",
+        "statesmulti-factor",
+        "authenticationmulti-factor",
+        "authenticationremote",
+        "learningsingle",
+        "educationsingle",
+        "educationtransparency",
+        "trusttransparency",
+        "trustview",
+        "libraryview",
+        "libraryproductslaunchpadonesyncanalyticsroster",
+        "serveranalytics",
+        "dataguardscreen",
+        "timeincluded",
+        "insightsstatelinksecurity"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 17,
+      "headingsCoverage": 70.8,
+      "titleDiffers": true,
+      "rawTitle": "ClassLink | Identity &amp; Access Management for Education",
+      "renderedTitle": "ClassLink | Identity & Access Management for Education",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

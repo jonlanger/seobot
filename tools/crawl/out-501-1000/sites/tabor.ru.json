@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "tabor.ru",
+    "rank": 1268,
+    "url": "https://tabor.ru/",
+    "runAt": "2026-10-18T18:07:07.267Z",
+    "robots": {
+      "status": 200,
+      "bytes": 752,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://tabor.ru/",
+      "bytes": 30633
+    },
+    "rendered": {
+      "title": "Знакомства на Tabor.ru - сайт знакомств c бесплатной регистрацией.",
+      "canonical": "",
+      "words": 134,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 154,
+      "renderedWords": 134,
+      "coverage": 66.4,
+      "rawOnlyTokens": 65,
+      "renderedOnlyTokens": 45,
+      "renderedOnlySample": [
+        "зарегистрироватьсявойтивход",
+        "сайтзапомнитьзабыли",
+        "08035",
+        "990всего",
+        "292ищудевушкупарнядевушкудевушкупарняв",
+        "возрасте18",
+        "лет70",
+        "лет18",
+        "летизроссия",
+        "эстониясшароссиябеларусьукраинаказахстанабхазияазербайджанарменияболгариявеликобританиягерманиягрузияизраильиталиякыргызстанлатвиялитвамолдовапольшарумыниясшатаджикистантуркменистанузбекистанфранциячехияэстониягорода",
+        "фотоcейчас",
+        "сайтенайтирасширенный",
+        "поискзнакомстваonline",
+        "android-приложенияустановите",
+        "установитьнаталия",
+        "севастопольonline",
+        "установитьевгения",
+        "новосибирсквиктория",
+        "сургутonline",
+        "установитьольга",
+        "костромаonline",
+        "установитьди",
+        "санкт-петербургonline",
+        "установитьлесик",
+        "нижний"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 3,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Знакомства на Tabor.ru - сайт знакомств c бесплатной регистрацией.",
+      "renderedTitle": "Знакомства на Tabor.ru - сайт знакомств c бесплатной регистрацией.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

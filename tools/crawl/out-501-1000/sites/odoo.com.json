@@ -1,0 +1,126 @@
+[
+  {
+    "domain": "odoo.com",
+    "rank": 939,
+    "url": "https://odoo.com/",
+    "runAt": "2026-10-18T17:53:30.428Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1627,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.odoo.com/",
+      "bytes": 99063
+    },
+    "rendered": {
+      "title": "Open Source ERP and CRM | Odoo",
+      "canonical": "https://www.odoo.com/",
+      "words": 483,
+      "jsonLdTypes": [
+        "onlinestore"
+      ],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 484,
+      "renderedWords": 483,
+      "coverage": 99.2,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 4,
+      "renderedOnlySample": [
+        "san",
+        "francisco",
+        "doninkceo",
+        "unleashyour"
+      ],
+      "jsonLdRaw": [
+        "onlinestore"
+      ],
+      "jsonLdRendered": [
+        "onlinestore"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 62.5,
+      "titleDiffers": false,
+      "rawTitle": "Open Source ERP and CRM | Odoo",
+      "renderedTitle": "Open Source ERP and CRM | Odoo",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

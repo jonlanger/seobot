@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "themoviedb.org",
+    "rank": 1142,
+    "url": "https://themoviedb.org/",
+    "runAt": "2026-10-18T18:02:31.751Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2382,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.themoviedb.org/",
+      "bytes": 2617
+    },
+    "rendered": {
+      "title": "The Movie Database (TMDB)",
+      "canonical": "https://www.themoviedb.org/",
+      "words": 577,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 64,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 577,
+      "coverage": 1.9,
+      "rawOnlyTokens": 9,
+      "renderedOnlyTokens": 566,
+      "renderedOnlySample": [
+        "moviespopularnow",
+        "playingupcomingtop",
+        "ratedtv",
+        "showspopularairing",
+        "todayon",
+        "tvupcomingtop",
+        "ratedpeoplepopularawardspopularupcomingmorediscussionsleaderboardsupportapi",
+        "documentationapi",
+        "for",
+        "business",
+        "login",
+        "join",
+        "welcome",
+        "millions",
+        "movies",
+        "shows",
+        "and",
+        "people",
+        "discover",
+        "explore",
+        "now",
+        "disclosure",
+        "day",
+        "backrooms",
+        "resident"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "website"
+      ],
+      "headingsRendered": 64,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment... - The Movie Database (TMDb)",
+      "renderedTitle": "The Movie Database (TMDB)",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

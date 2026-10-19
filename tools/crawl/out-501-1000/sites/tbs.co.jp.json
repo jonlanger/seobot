@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "tbs.co.jp",
+    "rank": 1182,
+    "url": "https://tbs.co.jp/",
+    "runAt": "2026-10-18T18:03:39.848Z",
+    "robots": {
+      "status": 404,
+      "bytes": 824,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 404,
+      "finalUrl": "https://tbs.co.jp/",
+      "bytes": 824
+    },
+    "rendered": {
+      "title": "TBS | 404 NotFound",
+      "canonical": "",
+      "words": 76,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 77,
+      "renderedWords": 76,
+      "coverage": 100,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "TBS | 404 NotFound",
+      "renderedTitle": "TBS | 404 NotFound",
+      "cjk": true
+    },
+    "classification": "raw_blocked"
+  }
+]

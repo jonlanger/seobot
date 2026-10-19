@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "dafont.com",
+    "rank": 1170,
+    "url": "https://dafont.com/",
+    "runAt": "2026-10-18T18:03:24.944Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1754,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.dafont.com/",
+      "bytes": 16050
+    },
+    "rendered": {
+      "title": "DaFont - Download fonts",
+      "canonical": "https://www.dafont.com/",
+      "words": 152,
+      "jsonLdTypes": [],
+      "headings": 0,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 134,
+      "renderedWords": 152,
+      "coverage": 67.1,
+      "rawOnlyTokens": 32,
+      "renderedOnlyTokens": 50,
+      "renderedOnlySample": [
+        "français",
+        "español",
+        "português",
+        "fontsauthors",
+        "topforumfaqsubmit",
+        "fonttools",
+        "fancycartooncomicgroovyold",
+        "schoolcurlywesternerodeddistorteddestroyhorrorfire",
+        "icedecorativetypewriterstencil",
+        "armyretroinitialsgridvariousforeign",
+        "lookchinese",
+        "jpnarabicmexicanroman",
+        "greekrussianvarioustechnosquarelcdsci-fivarious",
+        "bitmappixel",
+        "bitmapgothicmedievalmoderncelticinitialsvariousbasicsans",
+        "serifseriffixed",
+        "widthvariousscriptcalligraphyschoolhandwrittenbrushtrashgraffitiold",
+        "schoolvariousdingbatsalienanimalsasianancientrunes",
+        "elvishesotericfantastichorrorgamesshapesbar",
+        "codenaturesportheadskidstv",
+        "movielogossexyarmymusicvariousholidayvalentineeasterhalloweenchristmasvarious",
+        "fontsmilesdane",
+        "eko",
+        "bimantara",
+        "basic"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 0,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": null,
+      "titleDiffers": false,
+      "rawTitle": "DaFont - Download fonts",
+      "renderedTitle": "DaFont - Download fonts",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

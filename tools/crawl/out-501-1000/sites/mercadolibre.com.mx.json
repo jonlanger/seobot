@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "mercadolibre.com.mx",
+    "rank": 1144,
+    "url": "https://mercadolibre.com.mx/",
+    "runAt": "2026-10-18T18:02:35.663Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2453,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.mercadolibre.com.mx/",
+      "bytes": 365039
+    },
+    "rendered": {
+      "title": "Mercado Libre México - Envíos Gratis en el día",
+      "canonical": "https://www.mercadolibre.com.mx/",
+      "words": 374,
+      "jsonLdTypes": [
+        "onlinestore",
+        "website"
+      ],
+      "headings": 30,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 365,
+      "renderedWords": 374,
+      "coverage": 41.7,
+      "rawOnlyTokens": 209,
+      "renderedOnlyTokens": 218,
+      "renderedOnlySample": [
+        "contenidomenú",
+        "atajossaltar",
+        "asaltar",
+        "contenidocomentar",
+        "accesibilidadmétodos",
+        "tecladobuscar",
+        "compraspcarritocabrir",
+        "atajoszmercado",
+        "todoingresa",
+        "encontraringresa",
+        "postalingresa",
+        "postalcategoríasvehículossupermercadotecnologíafarmaciaelectrodomésticoshogar",
+        "modadeportes",
+        "fitnessherramientasconstrucciónpara",
+        "negociomascotasindustrias",
+        "oficinasaccesorios",
+        "vehículosjuegos",
+        "juguetesbebéssalud",
+        "médicobelleza",
+        "personalinmueblesinternacionalproductos",
+        "sustentablesmás",
+        "vendidostiendas",
+        "oficialesver",
+        "categoríastecnologíacelulares",
+        "telefoníacelulares"
+      ],
+      "jsonLdRaw": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 30,
+      "headingsAlsoInRaw": 29,
+      "headingsCoverage": 96.7,
+      "titleDiffers": false,
+      "rawTitle": "Mercado Libre México - Envíos Gratis en el día",
+      "renderedTitle": "Mercado Libre México - Envíos Gratis en el día",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

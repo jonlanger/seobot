@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "kueezrtb.com",
+    "rank": 1037,
+    "url": "https://kueezrtb.com/",
+    "runAt": "2026-10-18T17:58:19.306Z",
+    "robots": {
+      "status": 200,
+      "bytes": 118258,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://weare.kueez.com/",
+      "bytes": 118258
+    },
+    "rendered": {
+      "title": "We are Kueez",
+      "canonical": "",
+      "words": 371,
+      "jsonLdTypes": [],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 337,
+      "renderedWords": 371,
+      "coverage": 77.9,
+      "rawOnlyTokens": 48,
+      "renderedOnlyTokens": 82,
+      "renderedOnlySample": [
+        "suiteend2end",
+        "platformabout",
+        "uscareerscontact",
+        "uspppkueez",
+        "marketerskueez",
+        "platformkueez",
+        "suitein",
+        "moreend2end",
+        "platformthe",
+        "morelife",
+        "kueezat",
+        "opportuniteslife",
+        "kueezthe",
+        "blogleadershiphow",
+        "webpublishers",
+        "there's",
+        "mishanaug",
+        "2026leadershipai",
+        "modelkueez",
+        "2026performance",
+        "rolloutwhen",
+        "amazon's",
+        "steinerapr",
+        "2026leadershipthe",
+        "brokeai"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 17,
+      "headingsCoverage": 89.5,
+      "titleDiffers": false,
+      "rawTitle": "We are Kueez",
+      "renderedTitle": "We are Kueez",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

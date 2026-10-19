@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "gazzetta.it",
+    "rank": 1234,
+    "url": "https://gazzetta.it/",
+    "runAt": "2026-10-18T18:05:58.029Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4811,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.gazzetta.it/",
+      "bytes": 447650
+    },
+    "rendered": {
+      "title": "La Gazzetta dello Sport | Notizie sportive e risultati live di oggi",
+      "canonical": "https://www.gazzetta.it/",
+      "words": 1822,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 145,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1645,
+      "renderedWords": 1822,
+      "coverage": 77.3,
+      "rawOnlyTokens": 237,
+      "renderedOnlyTokens": 414,
+      "renderedOnlySample": [
+        "risultatirisultaticalciomotoritennisciclismoaltri",
+        "sportle",
+        "probabiliscommesseabbonamenti",
+        "profilogestione",
+        "assistenzalog",
+        "outtemi",
+        "risultaticontenuti",
+        "ciclistaaltre",
+        "podcastgazzaplay",
+        "quotidianocercacalciomotoritennisbasketciclismoactivearcoatleticabocceesportsfightinggolfnuoto",
+        "pallanuotoolimpiadiolimpiadi",
+        "invernaliparalimpicipadelrugbyscommessesport",
+        "invernalisport",
+        "usasport",
+        "varivela",
+        "nauticavolleycalciocalcio",
+        "italianoprobabili",
+        "formazionicalciomercatocalcio",
+        "esterocoppe",
+        "europeecompetizioni",
+        "nazionalifantanewsnumbersmatch",
+        "lentecreator",
+        "zonecalcio",
+        "italianonotizieserie",
+        "aserie"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 145,
+      "headingsAlsoInRaw": 141,
+      "headingsCoverage": 97.2,
+      "titleDiffers": false,
+      "rawTitle": "La Gazzetta dello Sport | Notizie sportive e risultati live di oggi",
+      "renderedTitle": "La Gazzetta dello Sport | Notizie sportive e risultati live di oggi",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

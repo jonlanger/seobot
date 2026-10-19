@@ -1,0 +1,17 @@
+{
+  "name": "@seobot/crawl-tools",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "description": "Research crawlers for Seobot data studies (JS-wall / AI-indexation measurements). Isolated from the site build — see docs/data-assets-and-interactives.md.",
+  "scripts": {
+    "js-wall": "node js-wall.mjs",
+    "top-sites": "node top-sites.mjs",
+    "analyze": "node analyze.mjs",
+    "compare": "node compare-runs.mjs",
+    "study": "node js-wall.mjs --list data/top-500.json --concurrency 3"
+  },
+  "devDependencies": {
+    "playwright": "^1.64.1"
+  }
+}

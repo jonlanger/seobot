@@ -1,0 +1,80 @@
+[
+  {
+    "domain": "sofascore.com",
+    "rank": 1000,
+    "url": "https://sofascore.com/",
+    "runAt": "2026-10-18T17:57:05.594Z",
+    "robots": {
+      "status": 403,
+      "bytes": 48,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://sofascore.com/",
+      "bytes": 48
+    },
+    "rendered": {
+      "title": "Football Live Scores, Fixtures & Odds | Sofascore | Championship League, Premier League",
+      "canonical": "https://www.sofascore.com/",
+      "words": 527,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 5,
+      "renderedWords": 527,
+      "coverage": 0,
+      "rawOnlyTokens": 5,
+      "renderedOnlyTokens": 527,
+      "renderedOnlySample": [
+        "trendingtoday2nd2-414",
+        "45-15",
+        "00-16",
+        "25-17",
+        "00-17",
+        "30-20",
+        "20-ft2-1ft78-97ft3-2tomorrow06",
+        "30-10",
+        "10-11",
+        "20-20",
+        "00-20",
+        "15-22",
+        "30-download",
+        "appscoresnewsfantasytorneosearch",
+        "sofascore",
+        "ktrendingfootballhockeybasketballamerican",
+        "footballbaseballtennismotorsportmmaesportsvolleyballtable",
+        "tenniscricketdartsrugbyhandballsnookerbadmintoncyclingwater",
+        "polofutsalbeach",
+        "volleyballaussie",
+        "rulesminifootballfloorballbandypadelfootballhockeybasketballamerican",
+        "rulesminifootballfloorballbandypadel26morefootballhockeybasketballamerican",
+        "footballbaseball21moredropping",
+        "oddsfavouritestv",
+        "scheduleadvertisementtodayoddsalllive"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Football Live Scores, Fixtures & Odds | Sofascore | Championship League, Premier League",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

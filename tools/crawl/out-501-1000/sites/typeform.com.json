@@ -1,0 +1,151 @@
+[
+  {
+    "domain": "typeform.com",
+    "rank": 1070,
+    "url": "https://typeform.com/",
+    "runAt": "2026-10-18T17:59:30.098Z",
+    "robots": {
+      "status": 200,
+      "bytes": 136,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.typeform.com/",
+      "bytes": 319217
+    },
+    "rendered": {
+      "title": "Form Builder with AI Automation | Typeform",
+      "canonical": "https://www.typeform.com/",
+      "words": 573,
+      "jsonLdTypes": [
+        "organization",
+        "videoobject"
+      ],
+      "headings": 39,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 395,
+      "renderedWords": 573,
+      "coverage": 48.3,
+      "rawOnlyTokens": 118,
+      "renderedOnlyTokens": 296,
+      "renderedOnlySample": [
+        "platformplatformplatform",
+        "overviewwhat",
+        "aiyour",
+        "know-pilottypeform",
+        "mcpnewuse",
+        "toolsgrowth",
+        "flownewautomated",
+        "teamsresearch",
+        "flownewai-moderated",
+        "studiescontacts",
+        "automationsautomated",
+        "businessvideo",
+        "engagementinteractive",
+        "formsanalytics",
+        "reportinganswers",
+        "onintegrationsconnect",
+        "appstoolsform",
+        "buildersurvey",
+        "makerquiz",
+        "makertest",
+        "makerpoll",
+        "builderapplication",
+        "builderlanding",
+        "buildernps",
+        "builderregistration"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "videoobject"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 39,
+      "headingsAlsoInRaw": 27,
+      "headingsCoverage": 69.2,
+      "titleDiffers": false,
+      "rawTitle": "Form Builder with AI Automation | Typeform",
+      "renderedTitle": "Form Builder with AI Automation | Typeform",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

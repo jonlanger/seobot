@@ -1,0 +1,142 @@
+[
+  {
+    "domain": "deloitte.com",
+    "rank": 921,
+    "url": "https://deloitte.com/",
+    "runAt": "2026-10-18T17:52:53.556Z",
+    "robots": {
+      "status": 200,
+      "bytes": 503,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://deloitte.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "rendered": {
+      "title": "Deloitte US | Together Makes Progress",
+      "canonical": "https://www.deloitte.com/us/en.html",
+      "words": 626,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 626,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 626,
+      "renderedOnlySample": [
+        "link",
+        "opens",
+        "new",
+        "tab",
+        "window",
+        "skip",
+        "main",
+        "content",
+        "who",
+        "are",
+        "overview",
+        "governance",
+        "recognition",
+        "newsroom",
+        "contact",
+        "about",
+        "deloitte",
+        "our",
+        "shared",
+        "values",
+        "facts",
+        "figures",
+        "network",
+        "brands",
+        "alliances"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Deloitte US | Together Makes Progress",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "finn.no",
+    "rank": 1124,
+    "url": "https://finn.no/",
+    "runAt": "2026-10-18T18:01:02.833Z",
+    "robots": {
+      "status": 200,
+      "bytes": 7730,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.finn.no/",
+      "bytes": 177926
+    },
+    "rendered": {
+      "title": "FINN.no – mulighetenes marked",
+      "canonical": "https://www.finn.no/",
+      "words": 124,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 16,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 205,
+      "renderedWords": 124,
+      "coverage": 34.7,
+      "rawOnlyTokens": 162,
+      "renderedOnlyTokens": 81,
+      "renderedOnlySample": [
+        "kartmarkedertorget",
+        "avjobb",
+        "avreise",
+        "aveiendom",
+        "avbil",
+        "avklær",
+        "avbåt",
+        "avnyttekjøretøy",
+        "avmc",
+        "avnybrukt",
+        "avnettbil",
+        "forqasa",
+        "avpopulære",
+        "annonserlekker",
+        "3-roms",
+        "balkong",
+        "høy",
+        "standard",
+        "gjennomgående",
+        "planløsning",
+        "spa",
+        "2017",
+        "vinduer",
+        "2022",
+        "masse"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 16,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 25,
+      "titleDiffers": false,
+      "rawTitle": "FINN.no – mulighetenes marked",
+      "renderedTitle": "FINN.no – mulighetenes marked",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

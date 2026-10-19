@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "kslawin.com",
+    "rank": 1139,
+    "url": "https://kslawin.com/",
+    "runAt": "2026-10-18T18:02:30.408Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://kslawin.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://kslawin.com/\nCall log:\n  - navigating to \"https://kslawin.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

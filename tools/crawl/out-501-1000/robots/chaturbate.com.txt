@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /contest/log_presence/
+Disallow: /contest/previous_winners/
+Disallow: /next/
+Disallow: /recaptcha_ie
+Disallow: /agegate/
+Disallow: /push_service/room_history/
+
+User-agent: ia_archiver
+Disallow: /
+
+#Sitemap
+Sitemap: https://chaturbate.com/sitemap.xml

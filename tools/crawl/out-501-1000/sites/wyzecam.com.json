@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "wyzecam.com",
+    "rank": 920,
+    "url": "https://wyzecam.com/",
+    "runAt": "2026-10-18T17:52:51.170Z",
+    "robots": {
+      "status": 200,
+      "bytes": 6418,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 429,
+      "finalUrl": "https://www.wyze.com/",
+      "bytes": 1568
+    },
+    "rendered": {
+      "title": "Wyze | Smart Home Security Cameras & Devices",
+      "canonical": "https://www.wyze.com/",
+      "words": 521,
+      "jsonLdTypes": [
+        "onlinestore",
+        "website"
+      ],
+      "headings": 47,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 9,
+      "renderedWords": 521,
+      "coverage": 0.4,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 519,
+      "renderedOnlySample": [
+        "opens",
+        "new",
+        "window",
+        "external",
+        "website",
+        "use",
+        "cookies",
+        "and",
+        "similar",
+        "tracking",
+        "technologies",
+        "including",
+        "those",
+        "provided",
+        "third",
+        "parties",
+        "view",
+        "retain",
+        "your",
+        "interactions",
+        "the",
+        "site",
+        "help",
+        "improve",
+        "our"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "onlinestore",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "onlinestore",
+        "website"
+      ],
+      "headingsRendered": 47,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Too many requests",
+      "renderedTitle": "Wyze | Smart Home Security Cameras & Devices",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

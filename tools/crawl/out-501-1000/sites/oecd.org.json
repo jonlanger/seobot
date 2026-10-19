@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "oecd.org",
+    "rank": 1057,
+    "url": "https://oecd.org/",
+    "runAt": "2026-10-18T17:58:59.502Z",
+    "robots": {
+      "status": 200,
+      "bytes": 237,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.oecd.org/",
+      "bytes": 5840
+    },
+    "rendered": {
+      "title": "The Organisation for Economic Co-operation and Development | OECD",
+      "canonical": "https://www.oecd.org/en.html",
+      "words": 894,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 894,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 894,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "content",
+        "oecd",
+        "topics",
+        "featured",
+        "agriculture",
+        "and",
+        "fisheries",
+        "climate",
+        "change",
+        "development",
+        "digital",
+        "economy",
+        "education",
+        "skills",
+        "employment",
+        "environment",
+        "finance",
+        "investment",
+        "governance",
+        "health",
+        "industry",
+        "business",
+        "entrepreneurship"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "The Organisation for Economic Co-operation and Development | OECD",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

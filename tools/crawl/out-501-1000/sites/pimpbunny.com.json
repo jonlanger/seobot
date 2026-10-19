@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "pimpbunny.com",
+    "rank": 1209,
+    "url": "https://pimpbunny.com/",
+    "runAt": "2026-10-18T18:04:43.836Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1733,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://pimpbunny.com/",
+      "bytes": 785713
+    },
+    "rendered": {
+      "title": "Watch Porn & Chat With Models | PimpBunny",
+      "canonical": "https://pimpbunny.com/",
+      "words": 636,
+      "jsonLdTypes": [],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 574,
+      "renderedWords": 636,
+      "coverage": 50.8,
+      "rawOnlyTokens": 251,
+      "renderedOnlyTokens": 313,
+      "renderedOnlySample": [
+        "000",
+        "subscription",
+        "get",
+        "requiredin",
+        "regionage",
+        "verificationpowered",
+        "bypimpbunny",
+        "livevr",
+        "pornfree",
+        "pornlesbian",
+        "pornxxbritslive",
+        "camsbest",
+        "sitessex",
+        "camporn",
+        "dudefetish",
+        "pornjav",
+        "pornrule",
+        "34enenesfrptdeitcnjprutrwatch",
+        "pornadult",
+        "roleplayfpupload",
+        "earnvideophotossign",
+        "insign",
+        "uphomevideosmost",
+        "recentmost",
+        "viewedbest"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Watch Porn & Chat With Models | PimpBunny",
+      "renderedTitle": "Watch Porn & Chat With Models | PimpBunny",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

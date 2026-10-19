@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "property24.com",
+    "rank": 1389,
+    "url": "https://property24.com/",
+    "runAt": "2026-10-18T18:11:40.394Z",
+    "robots": {
+      "status": 200,
+      "bytes": 4105,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.property24.com/",
+      "bytes": 128319
+    },
+    "rendered": {
+      "title": "Property for Sale: Houses for sale: Property24",
+      "canonical": "https://www.property24.com/",
+      "words": 411,
+      "jsonLdTypes": [],
+      "headings": 6,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 358,
+      "renderedWords": 411,
+      "coverage": 80.3,
+      "rawOnlyTokens": 28,
+      "renderedOnlyTokens": 81,
+      "renderedOnlySample": [
+        "salebuyrentdevelopmentsagentssold",
+        "pricesmaprecently",
+        "searchedsearchproperty",
+        "typehouseapartment",
+        "flattownhousevacant",
+        "plotfarmcommercial",
+        "propertyindustrial",
+        "propertydonemin",
+        "priceanyr",
+        "000r",
+        "600",
+        "700",
+        "800",
+        "900",
+        "000custom",
+        "pricedoneswitch",
+        "viewmax",
+        "000anycustom",
+        "viewbedroomsany1",
+        "doneswitch",
+        "viewproperty",
+        "view0filtersfiltersrecently",
+        "searchedproperty",
+        "typeanyhouseapartment",
+        "propertydonepriceminanyr"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 6,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 83.3,
+      "titleDiffers": false,
+      "rawTitle": "Property for Sale: Houses for sale: Property24",
+      "renderedTitle": "Property for Sale: Houses for sale: Property24",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

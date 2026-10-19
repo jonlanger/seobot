@@ -1,0 +1,137 @@
+[
+  {
+    "domain": "themeforest.net",
+    "rank": 1100,
+    "url": "https://themeforest.net/",
+    "runAt": "2026-10-18T18:00:24.679Z",
+    "robots": {
+      "status": 200,
+      "bytes": 874,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://themeforest.net/",
+      "bytes": 460249
+    },
+    "rendered": {
+      "title": "Just a moment...",
+      "canonical": "",
+      "words": 30,
+      "jsonLdTypes": [],
+      "headings": 3,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 737,
+      "renderedWords": 30,
+      "coverage": 36.7,
+      "rawOnlyTokens": 726,
+      "renderedOnlyTokens": 19,
+      "renderedOnlySample": [
+        "netperforming",
+        "security",
+        "verificationthis",
+        "uses",
+        "service",
+        "protect",
+        "against",
+        "malicious",
+        "bots",
+        "displayed",
+        "while",
+        "verifies",
+        "bot",
+        "verification",
+        "successful",
+        "waiting",
+        "respondray",
+        "a4c97143dca64cceperformance",
+        "cloudflareprivacy"
+      ],
+      "jsonLdRaw": [
+        "onlinebusiness"
+      ],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 3,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 33.3,
+      "titleDiffers": true,
+      "rawTitle": "WordPress Themes &amp; Website Templates from ThemeForest",
+      "renderedTitle": "Just a moment...",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

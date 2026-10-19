@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "admin.ch",
+    "rank": 1204,
+    "url": "https://admin.ch/",
+    "runAt": "2026-10-18T18:04:28.656Z",
+    "robots": {
+      "status": 200,
+      "bytes": 65,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.admin.ch/de",
+      "bytes": 132644
+    },
+    "rendered": {
+      "title": "Der Bundesrat",
+      "canonical": "",
+      "words": 685,
+      "jsonLdTypes": [],
+      "headings": 37,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 157,
+      "renderedWords": 685,
+      "coverage": 19.6,
+      "rawOnlyTokens": 23,
+      "renderedOnlyTokens": 551,
+      "renderedOnlySample": [
+        "springenalle",
+        "bundesbehördennews",
+        "abonnierensprach",
+        "ausgewähltdefritenrmder",
+        "regierungdas",
+        "regierungder",
+        "regierungmedienserviceskontaktsuchesuchebundesratbundesverwaltungvolksabstimmungender",
+        "bundesratdie",
+        "bkfokusjugendliche",
+        "2026am",
+        "medienkonferenzenletzte",
+        "bundesratesaktuelle",
+        "mitteilungen14",
+        "oktober",
+        "2026kommunikationsplattformen",
+        "will",
+        "ausbauenan",
+        "seiner",
+        "sitzung",
+        "nahm",
+        "ergebnisse",
+        "gesetzes",
+        "kommunikationsplattformen",
+        "suchmaschinen",
+        "zur"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 37,
+      "headingsAlsoInRaw": 13,
+      "headingsCoverage": 35.1,
+      "titleDiffers": false,
+      "rawTitle": "Der Bundesrat",
+      "renderedTitle": "Der Bundesrat",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

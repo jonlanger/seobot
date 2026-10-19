@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "company-target.com",
+    "rank": 1135,
+    "url": "https://company-target.com/",
+    "runAt": "2026-10-18T18:02:24.351Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://company-target.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://company-target.com/\nCall log:\n  - navigating to \"https://company-target.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

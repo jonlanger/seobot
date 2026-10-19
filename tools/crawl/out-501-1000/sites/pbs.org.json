@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "pbs.org",
+    "rank": 1061,
+    "url": "https://pbs.org/",
+    "runAt": "2026-10-18T17:59:05.186Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3502,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.pbs.org/",
+      "bytes": 1280976
+    },
+    "rendered": {
+      "title": "PBS: Public Broadcasting Service",
+      "canonical": "https://www.pbs.org/",
+      "words": 575,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 26,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 465,
+      "renderedWords": 575,
+      "coverage": 61.2,
+      "rawOnlyTokens": 113,
+      "renderedOnlyTokens": 223,
+      "renderedOnlySample": [
+        "contentlive",
+        "tvshowsmy",
+        "stationmy",
+        "listsign",
+        "save",
+        "dive",
+        "right",
+        "where",
+        "left",
+        "off",
+        "shopvisit",
+        "nowdonatesupport",
+        "gbhgbh",
+        "changepbs",
+        "bygbh",
+        "gbhchange",
+        "stationexplore",
+        "stationmore",
+        "gbhemail",
+        "newslettersbecome",
+        "membergbh",
+        "passportsign",
+        "insign",
+        "track",
+        "appearance"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 26,
+      "headingsAlsoInRaw": 15,
+      "headingsCoverage": 57.7,
+      "titleDiffers": false,
+      "rawTitle": "PBS: Public Broadcasting Service",
+      "renderedTitle": "PBS: Public Broadcasting Service",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

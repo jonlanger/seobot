@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "hotpepper.jp",
+    "rank": 1145,
+    "url": "https://hotpepper.jp/",
+    "runAt": "2026-10-18T18:02:37.996Z",
+    "robots": {
+      "status": 200,
+      "bytes": 204,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.hotpepper.jp/",
+      "bytes": 84210
+    },
+    "rendered": {
+      "title": "ホットペッパーグルメ",
+      "canonical": "https://www.hotpepper.jp/",
+      "words": 1549,
+      "jsonLdTypes": [],
+      "headings": 53,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1479,
+      "renderedWords": 1549,
+      "coverage": 95.5,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 70,
+      "renderedOnlySample": [
+        "んお",
+        "伝",
+        "掛川",
+        "川本",
+        "本店",
+        "焼津",
+        "藤枝",
+        "和風",
+        "萬漁",
+        "漁箱",
+        "海鮮",
+        "熱中",
+        "中酒",
+        "酒場",
+        "夢吉",
+        "崎店",
+        "鶴見",
+        "洋",
+        "和洋",
+        "餃子",
+        "子と",
+        "とど",
+        "どて",
+        "て煮",
+        "煮う"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 53,
+      "headingsAlsoInRaw": 43,
+      "headingsCoverage": 81.1,
+      "titleDiffers": false,
+      "rawTitle": "ホットペッパーグルメ",
+      "renderedTitle": "ホットペッパーグルメ",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

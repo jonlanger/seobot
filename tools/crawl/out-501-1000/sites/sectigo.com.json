@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "sectigo.com",
+    "rank": 1273,
+    "url": "https://sectigo.com/",
+    "runAt": "2026-10-18T18:07:18.786Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1145,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.sectigo.com/",
+      "bytes": 697922
+    },
+    "rendered": {
+      "title": "Certificate Management Solutions & SSL Certificates | Sectigo® Official",
+      "canonical": "https://www.sectigo.com/",
+      "words": 1608,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 23,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 401,
+      "renderedWords": 1608,
+      "coverage": 20.1,
+      "rawOnlyTokens": 78,
+      "renderedOnlyTokens": 1285,
+      "renderedOnlySample": [
+        "consentdetails",
+        "iabv2settings",
+        "aboutour",
+        "this",
+        "uses",
+        "cookies",
+        "personalize",
+        "content",
+        "deliver",
+        "relevant",
+        "ads",
+        "provide",
+        "social",
+        "media",
+        "analyze",
+        "traffic",
+        "also",
+        "share",
+        "information",
+        "site",
+        "advertising",
+        "analytics",
+        "combine",
+        "have",
+        "provided"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 23,
+      "headingsAlsoInRaw": 21,
+      "headingsCoverage": 91.3,
+      "titleDiffers": true,
+      "rawTitle": "Certificate Management Solutions &amp; SSL Certificates | Sectigo® Official",
+      "renderedTitle": "Certificate Management Solutions & SSL Certificates | Sectigo® Official",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

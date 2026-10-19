@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "tiktokw.us",
+    "rank": 947,
+    "url": "https://tiktokw.us/",
+    "runAt": "2026-10-18T17:53:51.876Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://tiktokw.us/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://tiktokw.us/\nCall log:\n  - navigating to \"https://tiktokw.us/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

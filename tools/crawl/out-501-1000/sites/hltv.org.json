@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "hltv.org",
+    "rank": 1150,
+    "url": "https://hltv.org/",
+    "runAt": "2026-10-18T18:02:52.577Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1646,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.hltv.org/",
+      "bytes": 357299
+    },
+    "rendered": {
+      "title": "Counter-Strike News & Coverage | HLTV.org",
+      "canonical": "",
+      "words": 1468,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 722,
+      "renderedWords": 1468,
+      "coverage": 34.2,
+      "rawOnlyTokens": 220,
+      "renderedOnlyTokens": 966,
+      "renderedOnlySample": [
+        "newsmatchesresultseventsbrainnewsmatchesresultsrankingeventsall",
+        "eventsongoingarchivecalendarvrs",
+        "inviteslivethunderpick",
+        "wcplayersplayersretired",
+        "playerstransfersmvpsevpstop20prospectsplayer",
+        "explorerhall",
+        "famestatsstats",
+        "overviewtop",
+        "playerstop",
+        "teamsmapsfantasyfantasy",
+        "overviewthunderpick",
+        "2026forumcounter-strikefantasybettinghardware",
+        "tweaksbugs",
+        "suggestionsmediahltv",
+        "confirmedgalleriesbettingbetting",
+        "usbetting",
+        "canadabetting",
+        "ukbetting",
+        "indiabetting",
+        "brazilbetting",
+        "swedenbetting",
+        "denmarkbetting",
+        "locationscompare",
+        "oddsanalyticslivemajortimeline",
+        "gameskinsbrainsearchremember"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 92.3,
+      "titleDiffers": true,
+      "rawTitle": "Counter-Strike News &amp; Coverage | HLTV.org",
+      "renderedTitle": "Counter-Strike News & Coverage | HLTV.org",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

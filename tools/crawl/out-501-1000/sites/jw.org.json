@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "jw.org",
+    "rank": 1186,
+    "url": "https://jw.org/",
+    "runAt": "2026-10-18T18:03:47.808Z",
+    "robots": {
+      "status": 200,
+      "bytes": 228,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.jw.org/en/",
+      "bytes": 178653
+    },
+    "rendered": {
+      "title": "Jehovah’s Witnesses—Official Website: jw.org | English",
+      "canonical": "https://www.jw.org/en/",
+      "words": 306,
+      "jsonLdTypes": [],
+      "headings": 37,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 244,
+      "renderedWords": 306,
+      "coverage": 79.7,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 62,
+      "renderedOnlySample": [
+        "provide",
+        "experience",
+        "cookies",
+        "similar",
+        "technologies",
+        "some",
+        "necessary",
+        "make",
+        "cannot",
+        "refused",
+        "accept",
+        "decline",
+        "which",
+        "improve",
+        "none",
+        "data",
+        "will",
+        "ever",
+        "sold",
+        "used",
+        "marketing",
+        "customize",
+        "any",
+        "going",
+        "media"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 37,
+      "headingsAlsoInRaw": 32,
+      "headingsCoverage": 86.5,
+      "titleDiffers": false,
+      "rawTitle": "Jehovah’s Witnesses—Official Website: jw.org | English",
+      "renderedTitle": "Jehovah’s Witnesses—Official Website: jw.org | English",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

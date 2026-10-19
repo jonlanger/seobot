@@ -1,0 +1,120 @@
+[
+  {
+    "domain": "ys7.com",
+    "rank": 943,
+    "url": "https://ys7.com/",
+    "runAt": "2026-10-18T17:53:41.848Z",
+    "robots": {
+      "status": 200,
+      "bytes": 23,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ys7.com/",
+      "bytes": 301686
+    },
+    "rendered": {
+      "title": "萤石商城-智能家居-摄像机-视频锁-智能机器人-萤石云服务-萤石网站",
+      "canonical": "",
+      "words": 1346,
+      "jsonLdTypes": [],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1346,
+      "renderedWords": 1346,
+      "coverage": 99.7,
+      "rawOnlyTokens": 4,
+      "renderedOnlyTokens": 4,
+      "renderedOnlySample": [
+        "登录",
+        "录注",
+        "注册",
+        "费基"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 13,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "萤石商城-智能家居-摄像机-视频锁-智能机器人-萤石云服务-萤石网站",
+      "renderedTitle": "萤石商城-智能家居-摄像机-视频锁-智能机器人-萤石云服务-萤石网站",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

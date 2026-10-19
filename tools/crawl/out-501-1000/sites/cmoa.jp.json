@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "cmoa.jp",
+    "rank": 1395,
+    "url": "https://cmoa.jp/",
+    "runAt": "2026-10-18T18:11:52.987Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://cmoa.jp/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://cmoa.jp/\nCall log:\n  - navigating to \"https://cmoa.jp/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

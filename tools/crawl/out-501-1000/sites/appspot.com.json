@@ -1,0 +1,138 @@
+[
+  {
+    "domain": "appspot.com",
+    "rank": 885,
+    "url": "https://appspot.com/",
+    "runAt": "2026-10-18T17:52:06.788Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1247885,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://accounts.google.com/v3/signin/identifier?continue=https://console.cloud.google.com/appengine&followup=https://console.cloud.google.com/appengine&osid=1&passive=1209600&service=cloudconsole&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S487088817:1792345927579379",
+      "bytes": 1247331
+    },
+    "rendered": {
+      "title": "Google Cloud Platform",
+      "canonical": "",
+      "words": 62,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 110,
+      "renderedWords": 62,
+      "coverage": 64.5,
+      "rawOnlyTokens": 70,
+      "renderedOnlyTokens": 22,
+      "renderedOnlySample": [
+        "loadingsign",
+        "into",
+        "platformemail",
+        "phoneforgot",
+        "seenot",
+        "modenextcreate",
+        "accountenglish",
+        "afrikaansazərbaycanbosanskicatalàčeštinacymraegdanskdeutscheestienglish",
+        "euskarafilipinofrançais",
+        "gaeilgegalegohrvatskiindonesiaisizuluíslenskaitalianokiswahililatviešulietuviųmagyarmelayunederlandsnorsko",
+        "zbekpolskiportuguês",
+        "românăshqipslovenčinaslovenščinasrpski",
+        "suomisvenskatiếng",
+        "việttürkçeελληνικάбеларускаябългарскикыргызчақазақ",
+        "тілімакедонскимонголрусскийсрпски",
+        "українськаქართულიհայերեն",
+        "አማርኛन",
+        "ଆதம",
+        "ನಡമലയ",
+        "හලไทยລາວမ",
+        "រ한국어中文",
+        "日本語简体中文繁體中文helpprivacyterms"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Google Cloud Platform",
+      "renderedTitle": "Google Cloud Platform",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "domain": "battle.net",
+    "rank": 1282,
+    "url": "https://battle.net/",
+    "runAt": "2026-10-18T18:07:30.917Z",
+    "robots": {
+      "status": 403,
+      "bytes": 520,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://battle.net/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "rendered": {
+      "title": "Home | Battle.net",
+      "canonical": "https://us.shop.battle.net/en-us",
+      "words": 571,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 33,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 571,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 571,
+      "renderedOnlySample": [
+        "warcraftnewdiablooverwatchhearthstonestarcraftheroescall",
+        "dutymore",
+        "battle",
+        "net",
+        "balancea",
+        "new",
+        "way",
+        "payyou",
+        "can",
+        "now",
+        "combine",
+        "your",
+        "balance",
+        "with",
+        "another",
+        "payment",
+        "method",
+        "learn",
+        "moreunlock",
+        "epic",
+        "30th",
+        "anniversary",
+        "rewards",
+        "premium",
+        "pass"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "website"
+      ],
+      "headingsRendered": 33,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Home | Battle.net",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

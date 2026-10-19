@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "jimdo.com",
+    "rank": 1045,
+    "url": "https://jimdo.com/",
+    "runAt": "2026-10-18T17:58:29.527Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2319,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.jimdo.com/",
+      "bytes": 492514
+    },
+    "rendered": {
+      "title": "Bring Your Business Online | Websites & More – Jimdo",
+      "canonical": "https://www.jimdo.com/",
+      "words": 379,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 16,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 346,
+      "renderedWords": 379,
+      "coverage": 65.4,
+      "rawOnlyTokens": 98,
+      "renderedOnlyTokens": 131,
+      "renderedOnlySample": [
+        "websiteour",
+        "buildercreate",
+        "websitepricing",
+        "planswebsite",
+        "examplesyour",
+        "domainfounder",
+        "storiesuseful",
+        "websitewarning-proof",
+        "textsfor",
+        "cobusiness",
+        "listingsfor",
+        "bookingdirectly",
+        "websitesocial",
+        "integrationpromote",
+        "instagramfor",
+        "industryonline",
+        "portfoliorestaurant",
+        "websitescoachesmusicians",
+        "bandsreal",
+        "agentsdoctors",
+        "practicesonline",
+        "storeour",
+        "storepricing",
+        "plansonline",
+        "storewarning-proof"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 16,
+      "headingsAlsoInRaw": 14,
+      "headingsCoverage": 87.5,
+      "titleDiffers": true,
+      "rawTitle": "Bring Your Business Online | Websites &amp; More – Jimdo",
+      "renderedTitle": "Bring Your Business Online | Websites & More – Jimdo",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "ox.ac.uk",
+    "rank": 1041,
+    "url": "https://ox.ac.uk/",
+    "runAt": "2026-10-18T17:58:24.692Z",
+    "robots": {
+      "status": 403,
+      "bytes": 5848,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.ox.ac.uk/",
+      "bytes": 5776
+    },
+    "rendered": {
+      "title": "University of Oxford",
+      "canonical": "https://www.ox.ac.uk/",
+      "words": 697,
+      "jsonLdTypes": [],
+      "headings": 57,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2,
+      "renderedWords": 697,
+      "coverage": 0,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 697,
+      "renderedOnlySample": [
+        "your",
+        "choice",
+        "regarding",
+        "cookies",
+        "this",
+        "siteessential",
+        "are",
+        "enabled",
+        "default",
+        "give",
+        "you",
+        "the",
+        "best",
+        "possible",
+        "site",
+        "experience",
+        "for",
+        "details",
+        "other",
+        "use",
+        "click",
+        "settings",
+        "accept",
+        "them",
+        "all"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 57,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Just a moment...",
+      "renderedTitle": "University of Oxford",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

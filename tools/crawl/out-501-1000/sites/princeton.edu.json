@@ -1,0 +1,142 @@
+[
+  {
+    "domain": "princeton.edu",
+    "rank": 906,
+    "url": "https://princeton.edu/",
+    "runAt": "2026-10-18T17:52:30.835Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2275,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://princeton.edu/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "rendered": {
+      "title": "Home | Princeton University",
+      "canonical": "https://www.princeton.edu/",
+      "words": 737,
+      "jsonLdTypes": [],
+      "headings": 50,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 737,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 737,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "content",
+        "princeton",
+        "university",
+        "menu",
+        "search",
+        "sites",
+        "people",
+        "engineering",
+        "grants",
+        "could",
+        "help",
+        "build",
+        "moon",
+        "base",
+        "block",
+        "foodborne",
+        "illness",
+        "and",
+        "map",
+        "the",
+        "brain",
+        "innovation",
+        "research"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 50,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Home | Princeton University",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

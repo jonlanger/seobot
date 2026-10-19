@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "locaweb.com.br",
+    "rank": 1095,
+    "url": "https://locaweb.com.br/",
+    "runAt": "2026-10-18T18:00:17.071Z",
+    "robots": {
+      "status": 200,
+      "bytes": 223,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.locaweb.com.br/",
+      "bytes": 280976
+    },
+    "rendered": {
+      "title": "Hospedagem de Site com Domínio Grátis - Locaweb",
+      "canonical": "https://www.locaweb.com.br/",
+      "words": 328,
+      "jsonLdTypes": [
+        "faqpage",
+        "organization",
+        "website"
+      ],
+      "headings": 13,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 412,
+      "renderedWords": 328,
+      "coverage": 70.1,
+      "rawOnlyTokens": 182,
+      "renderedOnlyTokens": 98,
+      "renderedOnlySample": [
+        "produtossoluções",
+        "ialocaweb",
+        "cloudnovoatendimento",
+        "ajudaentrarcentral",
+        "clientegerencie",
+        "contapainel",
+        "emailentre",
+        "profissionalwebmailacesse",
+        "e-mailpesquisarganhe",
+        "elesconfie",
+        "passohospede",
+        "planosprimeiros",
+        "passoscrescimentoalta",
+        "performancemais",
+        "soluçõeshospedagem",
+        "siteshospedagem",
+        "descontohospede",
+        "apenasr",
+        "mêsver",
+        "planosregistro",
+        "domínioregistre",
+        "internetganhe",
+        "coma",
+        "bra",
+        "anoemail"
+      ],
+      "jsonLdRaw": [
+        "faqpage",
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "faqpage",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 13,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 92.3,
+      "titleDiffers": false,
+      "rawTitle": "Hospedagem de Site com Domínio Grátis - Locaweb",
+      "renderedTitle": "Hospedagem de Site com Domínio Grátis - Locaweb",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

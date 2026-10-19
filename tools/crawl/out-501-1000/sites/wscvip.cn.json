@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "wscvip.cn",
+    "rank": 1237,
+    "url": "https://wscvip.cn/",
+    "runAt": "2026-10-18T18:06:03.168Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://wscvip.cn/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: net::ERR_NAME_NOT_RESOLVED at https://wscvip.cn/\nCall log:\n  - navigating to \"https://wscvip.cn/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

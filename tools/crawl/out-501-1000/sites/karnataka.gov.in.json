@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "karnataka.gov.in",
+    "rank": 1352,
+    "url": "https://karnataka.gov.in/",
+    "runAt": "2026-10-18T18:10:26.986Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://karnataka.gov.in/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://karnataka.gov.in/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

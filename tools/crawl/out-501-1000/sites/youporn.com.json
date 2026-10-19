@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "youporn.com",
+    "rank": 1280,
+    "url": "https://youporn.com/",
+    "runAt": "2026-10-18T18:07:30.171Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2504,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.youporn.com/",
+      "bytes": 691229
+    },
+    "rendered": {
+      "title": "Free Porn Videos - HD Porno Tube & XXX Sex Videos | YouPorn",
+      "canonical": "https://www.youporn.com/",
+      "words": 992,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 968,
+      "renderedWords": 992,
+      "coverage": 67.2,
+      "rawOnlyTokens": 301,
+      "renderedOnlyTokens": 325,
+      "renderedOnlySample": [
+        "enforcementterms",
+        "cookies'",
+        "maggie",
+        "star",
+        "rey",
+        "mofos",
+        "habib",
+        "show",
+        "taxi",
+        "englishportuguêsdeutschpolskifrançaisespañolitalianoрусский日本語العربيةbahasa",
+        "you've",
+        "null",
+        "2500812",
+        "fat",
+        "having",
+        "squirting",
+        "boobs",
+        "jaydeecouple",
+        "two",
+        "while",
+        "fun",
+        "monika",
+        "fox",
+        "elen",
+        "million"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 12,
+      "headingsCoverage": 100,
+      "titleDiffers": true,
+      "rawTitle": "Free Porn Videos - HD Porno Tube &amp; XXX Sex Videos | YouPorn",
+      "renderedTitle": "Free Porn Videos - HD Porno Tube & XXX Sex Videos | YouPorn",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

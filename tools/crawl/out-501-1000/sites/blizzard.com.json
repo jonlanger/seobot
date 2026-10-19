@@ -1,0 +1,71 @@
+[
+  {
+    "domain": "blizzard.com",
+    "rank": 1373,
+    "url": "https://blizzard.com/",
+    "runAt": "2026-10-18T18:11:11.458Z",
+    "robots": {
+      "status": 403,
+      "bytes": 520,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.blizzard.com/en-us/",
+      "bytes": 169323
+    },
+    "rendered": {
+      "title": "Blizzard Entertainment",
+      "canonical": "",
+      "words": 414,
+      "jsonLdTypes": [],
+      "headings": 34,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 144,
+      "renderedWords": 414,
+      "coverage": 25.6,
+      "rawOnlyTokens": 38,
+      "renderedOnlyTokens": 308,
+      "renderedOnlySample": [
+        "undefined",
+        "nowlearn",
+        "morebeta",
+        "pre-purchaselearn",
+        "morelast",
+        "morea",
+        "moreplay",
+        "nowxal",
+        "liveget",
+        "nowpurchase",
+        "nowreignite",
+        "campaignexperience",
+        "moredefend",
+        "mankinda",
+        "updateswatch",
+        "nowthe",
+        "diablosign",
+        "updatesconfront",
+        "pastrelive",
+        "morepurchase",
+        "passmade",
+        "moremade",
+        "liveplay",
+        "campaignbuy",
+        "mankindget"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 34,
+      "headingsAlsoInRaw": 29,
+      "headingsCoverage": 85.3,
+      "titleDiffers": false,
+      "rawTitle": "Blizzard Entertainment",
+      "renderedTitle": "Blizzard Entertainment",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "domain": "divar.ir",
+    "rank": 1256,
+    "url": "https://divar.ir/",
+    "runAt": "2026-10-18T18:06:30.999Z",
+    "robots": {
+      "status": 200,
+      "bytes": 92,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://divar.ir/",
+      "bytes": 197885
+    },
+    "rendered": {
+      "title": "دیوار: بزرگترین سایت نیازمندی های رایگان در ایران",
+      "canonical": "https://divar.ir/",
+      "words": 83,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 10,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 100,
+      "renderedWords": 83,
+      "coverage": 94,
+      "rawOnlyTokens": 22,
+      "renderedOnlyTokens": 5,
+      "renderedOnlySample": [
+        "آگهیدرباره",
+        "دیواردریافت",
+        "برنامهاتاق",
+        "خبرپشتیبانیدﯾﻮار",
+        "پربازدیدتهرانمشهدکرجشیرازاصفهاناهوازتبریزکرمانشاهقمرشت"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 10,
+      "headingsAlsoInRaw": 10,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "دیوار: بزرگترین سایت نیازمندی های رایگان در ایران",
+      "renderedTitle": "دیوار: بزرگترین سایت نیازمندی های رایگان در ایران",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

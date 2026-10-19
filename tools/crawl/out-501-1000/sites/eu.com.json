@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "eu.com",
+    "rank": 1081,
+    "url": "https://eu.com/",
+    "runAt": "2026-10-18T17:59:49.048Z",
+    "robots": {
+      "status": 200,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://eu.com/",
+      "bytes": 43976
+    },
+    "rendered": {
+      "title": "EU.COM | The Smart Domain Choice for Expanding into Europe",
+      "canonical": "https://eu.com/",
+      "words": 242,
+      "jsonLdTypes": [],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 242,
+      "renderedWords": 242,
+      "coverage": 100,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 91.7,
+      "titleDiffers": false,
+      "rawTitle": "EU.COM | The Smart Domain Choice for Expanding into Europe",
+      "renderedTitle": "EU.COM | The Smart Domain Choice for Expanding into Europe",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "argos.co.uk",
+    "rank": 1288,
+    "url": "https://argos.co.uk/",
+    "runAt": "2026-10-18T18:08:15.766Z",
+    "robots": {
+      "status": 403,
+      "bytes": 377,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://argos.co.uk/",
+      "bytes": 363
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 18,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 18,
+      "renderedWords": 18,
+      "coverage": 88.9,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 2,
+      "renderedOnlySample": [
+        "46dfda17",
+        "2228a77"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

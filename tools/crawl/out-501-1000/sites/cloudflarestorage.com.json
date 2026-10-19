@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "cloudflarestorage.com",
+    "rank": 1291,
+    "url": "https://cloudflarestorage.com/",
+    "runAt": "2026-10-18T18:08:21.081Z",
+    "robots": {
+      "status": 522,
+      "bytes": 7303,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 522,
+      "finalUrl": "https://cloudflarestorage.com/",
+      "bytes": 7303
+    },
+    "rendered": {
+      "title": "cloudflarestorage.com | 522: Connection timed out",
+      "canonical": "",
+      "words": 87,
+      "jsonLdTypes": [],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 87,
+      "renderedWords": 87,
+      "coverage": 98.9,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "a4c97dd80e5dc6f2"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 87.5,
+      "titleDiffers": false,
+      "rawTitle": "cloudflarestorage.com | 522: Connection timed out",
+      "renderedTitle": "cloudflarestorage.com | 522: Connection timed out",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,153 @@
+[
+  {
+    "domain": "nbcnews.com",
+    "rank": 892,
+    "url": "https://nbcnews.com/",
+    "runAt": "2026-10-18T17:52:11.718Z",
+    "robots": {
+      "status": 200,
+      "bytes": 13381,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.nbcnews.com/",
+      "bytes": 1281323
+    },
+    "rendered": {
+      "title": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News",
+      "canonical": "https://www.nbcnews.com/",
+      "words": 1424,
+      "jsonLdTypes": [
+        "collectionpage",
+        "dataset",
+        "website"
+      ],
+      "headings": 93,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 995,
+      "renderedWords": 1424,
+      "coverage": 55.3,
+      "rawOnlyTokens": 207,
+      "renderedOnlyTokens": 636,
+      "renderedOnlySample": [
+        "saysie",
+        "contentsponsored",
+        "worldlocalnew",
+        "yorklos",
+        "angeleschicagodallas-fort",
+        "worthphiladelphiawashington",
+        "bostonbay",
+        "areasouth",
+        "floridasan",
+        "diegoconnecticut",
+        "tiplinewatchsubscribeshare",
+        "yousubscriber",
+        "hubsavednewsletterssettingsprofilepreferencessubscriptionsearchsectionsu",
+        "newspoliticsworldbusinesssportsinvestigationsculture",
+        "trendshealthsciencetechweathervideophotossudokurecipesnbc",
+        "selectednbc",
+        "americanbc",
+        "blknbc",
+        "latinonbc",
+        "outlocalnew",
+        "diegoconnecticuttvtodaynightly",
+        "newsmeet",
+        "pressdatelinefeaturednbc",
+        "nownightly",
+        "filmsstay"
+      ],
+      "jsonLdRaw": [
+        "collectionpage",
+        "dataset",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "collectionpage",
+        "dataset",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 93,
+      "headingsAlsoInRaw": 71,
+      "headingsCoverage": 76.3,
+      "titleDiffers": false,
+      "rawTitle": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News",
+      "renderedTitle": "NBC News - Breaking Headlines and Video Reports on World, U.S. and Local Angles | NBC News",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "vivo.com",
+    "rank": 1153,
+    "url": "https://vivo.com/",
+    "runAt": "2026-10-18T18:02:54.443Z",
+    "robots": {
+      "status": 200,
+      "bytes": 559,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.vivo.com/en",
+      "bytes": 82790
+    },
+    "rendered": {
+      "title": "vivo Official Site",
+      "canonical": "https://www.vivo.com/en",
+      "words": 115,
+      "jsonLdTypes": [],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 39,
+      "renderedWords": 115,
+      "coverage": 25.2,
+      "rawOnlyTokens": 10,
+      "renderedOnlyTokens": 86,
+      "renderedOnlySample": [
+        "ultra",
+        "buds",
+        "x200",
+        "v70",
+        "y200",
+        "all",
+        "models",
+        "compare",
+        "select",
+        "country",
+        "region",
+        "morescroll",
+        "downmore",
+        "productszeiss",
+        "prolearn",
+        "morelearn",
+        "morediscovervideox300",
+        "probrand",
+        "newsvivo",
+        "imagingbrand",
+        "newscapture",
+        "futureoriginos",
+        "6new",
+        "designcontact",
+        "usvcare"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 80,
+      "titleDiffers": false,
+      "rawTitle": "vivo Official Site",
+      "renderedTitle": "vivo Official Site",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

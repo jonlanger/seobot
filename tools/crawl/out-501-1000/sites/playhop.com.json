@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "playhop.com",
+    "rank": 1319,
+    "url": "https://playhop.com/",
+    "runAt": "2026-10-18T18:09:28.544Z",
+    "robots": {
+      "status": 200,
+      "bytes": 581,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://playhop.com/showcaptcha?cc=1&form-fb-hint=2.89&mt=2C3FE33DF2EF5C6EB9E826134EC819218CDBF9EBA449DD6A96D61F46952A28F820CFEF2037AB7F49D5DA3512DB317772ADFBCE1279F88A5AC04895473A3F2903091765496432782C0377760BA54D84DCFC02D983BC0F64BE8A3B21766CB3C0B9544FDCBBA429B232BE20B8921BF3BFB5D8A776BF1E0459FE174255CD308E818E7056595FC5B36D770FDDD26F12775D120CD38ACF829B5F7A4EFEC614D96374D6DD&retpath=aHR0cHM6Ly9wbGF5aG9wLmNvbS8%2C_643fa3c50ad1845172be8d17231c1d48&t=2%252F1792346969%252F5329088b7cc547c50da8e9cffb2d51a8&u=9601904557886224206&s=2530e8f9ffaf91fb276a6a41f2467129",
+      "bytes": 13122
+    },
+    "rendered": {
+      "title": "Free Online Games — No Download Browser Games | Playhop",
+      "canonical": "https://playhop.com/",
+      "words": 409,
+      "jsonLdTypes": [
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 7,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 34,
+      "renderedWords": 409,
+      "coverage": 2.2,
+      "rawOnlyTokens": 25,
+      "renderedOnlyTokens": 400,
+      "renderedOnlySample": [
+        "find",
+        "game",
+        "genresearch0log",
+        "inall",
+        "gamesnewpopularall",
+        "categories",
+        "gamesactionadventurearcadeboardbubble",
+        "shooterscardcasualeconomyeducationalfor",
+        "boysfor",
+        "girlshorrormatch",
+        "3midcorenovelspuzzlesquizrpgracingsimulatorssportsstrategytwo",
+        "playersall",
+        "tagsfree11057no",
+        "download10845browser10688mobile10419no",
+        "registration10568see",
+        "alllanguageenglishا",
+        "azərbaycan",
+        "diliбеларускаябългарскиcatalàčeštinadeutschenglishespañolفار",
+        "ىfrançaisע",
+        "יתह",
+        "magyarհայերենindonesiaitaliano日本語ქართულიқазақшакыргызчаnederlandspolskiportuguêsromânăрусскийslovenskýсрпскиภาษาไทยtürkmentürkçeукраїнськаoʻzbektiếng",
+        "việt中文game",
+        "catalogbest",
+        "browser",
+        "gamesblogabout"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "itemlist",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headingsRendered": 7,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Are you not a robot?",
+      "renderedTitle": "Free Online Games — No Download Browser Games | Playhop",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

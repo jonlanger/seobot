@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "otto.de",
+    "rank": 960,
+    "url": "https://otto.de/",
+    "runAt": "2026-10-18T17:54:38.280Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2148,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.otto.de/",
+      "bytes": 379560
+    },
+    "rendered": {
+      "title": "OTTO - Mode, Möbel & Technik » Zum Online-Shop",
+      "canonical": "https://www.otto.de/",
+      "words": 897,
+      "jsonLdTypes": [
+        "organization"
+      ],
+      "headings": 52,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 929,
+      "renderedWords": 897,
+      "coverage": 50.5,
+      "rawOnlyTokens": 476,
+      "renderedOnlyTokens": 444,
+      "renderedOnlySample": [
+        "hauptnavigation",
+        "sortiment",
+        "suchvorschläge",
+        "auszuwählen",
+        "tagesdeals",
+        "wochedeals",
+        "monatsherbst-salesuper-sale",
+        "uhrenbrillenautozubehörbabykleidungsanitärkaminöfenheizungenwcsduschenwc-zubehörwaschtischeöfenbriefkästenvinylbödensaunenwerkzeugküchenspülenduschkabinenduschvorhängeinfrarotheizungenbadewannenheizkörperwaschbeckenbodenbelägeradiatorenheizlüftertürenschreibwarendruckerpatronencampingausrüstungzeltekleiderdamenbekleidungdamenschuhebikinisjackenhosenpulloverjeanssommerkleiderwinterjackenschmuckmäntelbademodeaccessoiresdirndlblusensandalenbhsabendkleiderdamen",
+        "sneakerdamen",
+        "taschenpyjamasblazerbadeanzügedamen",
+        "rucksäckestiefelettenstrickjackenstiefelshirtsohrringebootsunterwäscheleggingsröckeringedamen",
+        "handtaschenwestentankinishoodiessportmodehosenanzügetopshausschuhesteppjackenübergangsjackensandalettenfrauen",
+        "uhrenhalskettenarmbänderdamen",
+        "portemonnaiesstrickkleiderweihnachtspulloverpantolettendamen",
+        "t-shirtsstrand",
+        "kleidernachtwäscheregenjackendamen",
+        "umhängetaschencocktailkleiderstreet",
+        "damenumstandsmodelongwestenmaxikleiderpumpsfrauen",
+        "anzügenorth",
+        "jackenmützenlascana",
+        "damenkurze",
+        "hosenshortsdamen",
+        "cargohosenparkasdessoussweatshirtsschalsdamen",
+        "jogginghosennachthemdenwinter",
+        "mänteltrenchcoatsdamen"
+      ],
+      "jsonLdRaw": [
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 52,
+      "headingsAlsoInRaw": 29,
+      "headingsCoverage": 55.8,
+      "titleDiffers": true,
+      "rawTitle": "OTTO - Mode, Möbel &amp; Technik » Zum Online-Shop",
+      "renderedTitle": "OTTO - Mode, Möbel & Technik » Zum Online-Shop",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "poki.com",
+    "rank": 957,
+    "url": "https://poki.com/",
+    "runAt": "2026-10-18T17:54:21.242Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1735,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://poki.com/",
+      "bytes": 429924
+    },
+    "rendered": {
+      "title": "Free Online Games at Poki - Play Now!",
+      "canonical": "https://poki.com/",
+      "words": 568,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 556,
+      "renderedWords": 568,
+      "coverage": 63.2,
+      "rawOnlyTokens": 197,
+      "renderedOnlyTokens": 209,
+      "renderedOnlySample": [
+        "gamescar",
+        "games2",
+        "gamesaction",
+        "gamesskill",
+        "gamesmultiplayer",
+        "gamesadventure",
+        "gamespuzzle",
+        "gamesbrain",
+        "gamesdress",
+        "gamessports",
+        "gamespopular",
+        "weeksubway",
+        "surfersmaster",
+        "chessminefun",
+        "ioaquapark",
+        "iotagcryzen",
+        "iodrift",
+        "bossretro",
+        "bowlstickman",
+        "hookmonkey",
+        "martblocky",
+        "puzzlelevel",
+        "devildrive",
+        "madrobo",
+        "simulatorkick"
+      ],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Free Online Games at Poki - Play Now!",
+      "renderedTitle": "Free Online Games at Poki - Play Now!",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

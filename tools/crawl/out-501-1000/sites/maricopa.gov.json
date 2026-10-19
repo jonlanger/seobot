@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "maricopa.gov",
+    "rank": 1004,
+    "url": "https://maricopa.gov/",
+    "runAt": "2026-10-18T17:57:10.401Z",
+    "robots": {
+      "status": 200,
+      "bytes": 816,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.maricopa.gov/",
+      "bytes": 293363
+    },
+    "rendered": {
+      "title": "Maricopa County, AZ | Official Website",
+      "canonical": "",
+      "words": 295,
+      "jsonLdTypes": [],
+      "headings": 11,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 267,
+      "renderedWords": 295,
+      "coverage": 80.7,
+      "rawOnlyTokens": 29,
+      "renderedOnlyTokens": 57,
+      "renderedOnlySample": [
+        "contentthis",
+        "audioeye",
+        "enabled",
+        "being",
+        "optimized",
+        "open",
+        "toolbar",
+        "press",
+        "shift",
+        "some",
+        "assistive",
+        "technologies",
+        "may",
+        "require",
+        "use",
+        "passthrough",
+        "function",
+        "before",
+        "keystroke",
+        "activate",
+        "button",
+        "labeled",
+        "explore",
+        "your",
+        "accessible"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 11,
+      "headingsAlsoInRaw": 11,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Maricopa County, AZ | Official Website",
+      "renderedTitle": "Maricopa County, AZ | Official Website",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

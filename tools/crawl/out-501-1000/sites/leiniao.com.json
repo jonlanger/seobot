@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "leiniao.com",
+    "rank": 962,
+    "url": "https://leiniao.com/",
+    "runAt": "2026-10-18T17:54:47.182Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://leiniao.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://leiniao.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

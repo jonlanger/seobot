@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "ltwebstatic.com",
+    "rank": 1086,
+    "url": "https://ltwebstatic.com/",
+    "runAt": "2026-10-18T17:59:59.801Z",
+    "robots": {
+      "status": 404,
+      "bytes": 552,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 404,
+      "finalUrl": "https://ltwebstatic.com/",
+      "bytes": 552
+    },
+    "rendered": {
+      "title": "404 Not Found",
+      "canonical": "",
+      "words": 4,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 4,
+      "renderedWords": 4,
+      "coverage": 100,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "404 Not Found",
+      "renderedTitle": "404 Not Found",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

@@ -1,0 +1,45 @@
+# ============================================
+# robots.txt for www.dcinside.com (PC Web)
+# Version: 2.1.2
+# ============================================
+# ----- AI 학습 크롤러 차단 -----
+User-agent: GPTBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+# 바이두 봇 차단
+User-agent: Baiduspider
+Disallow: /
+User-agent: Baiduspider-video
+Disallow: /
+User-agent: Baiduspider-image
+Disallow: /
+# ----- 그 외 모든 봇 (검색봇 + AI 검색봇 포함) -----
+User-agent: *
+Allow: /
+# Sitemap
+Sitemap: https://www.dcinside.com/_seo/main_gall.xml
+Sitemap: https://www.dcinside.com/_seo/mgall_gall1.xml
+Sitemap: https://www.dcinside.com/_seo/mgall_gall2.xml
+Sitemap: https://www.dcinside.com/_seo/migall_gall.xml
+Sitemap: https://www.dcinside.com/_seo/prgall_gall.xml

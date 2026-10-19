@@ -1,0 +1,147 @@
+[
+  {
+    "domain": "ficbook.net",
+    "rank": 1370,
+    "url": "https://ficbook.net/",
+    "runAt": "2026-10-18T18:11:02.453Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1643,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://ficbook.net/",
+      "bytes": 137405
+    },
+    "rendered": {
+      "title": "Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов",
+      "canonical": "",
+      "words": 777,
+      "jsonLdTypes": [
+        "website"
+      ],
+      "headings": 17,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 740,
+      "renderedWords": 777,
+      "coverage": 35.1,
+      "rawOnlyTokens": 467,
+      "renderedOnlyTokens": 504,
+      "renderedOnlySample": [
+        "1регистрациявход",
+        "цвета",
+        "dreamfall",
+        "longest",
+        "journey",
+        "chapters",
+        "счастливого",
+        "жатволуния",
+        "shaman",
+        "king",
+        "анной",
+        "удачи",
+        "детка",
+        "jujutsu",
+        "kaisen",
+        "нокаут",
+        "уход",
+        "обрёл",
+        "дзен",
+        "три",
+        "великих",
+        "обета",
+        "тени",
+        "хейзел-хауса",
+        "innocent"
+      ],
+      "jsonLdRaw": [
+        "website"
+      ],
+      "jsonLdRendered": [
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 17,
+      "headingsAlsoInRaw": 8,
+      "headingsCoverage": 47.1,
+      "titleDiffers": false,
+      "rawTitle": "Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов",
+      "renderedTitle": "Книга Фанфиков - более 25000 фэндомов, ориджиналы от популярных авторов",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

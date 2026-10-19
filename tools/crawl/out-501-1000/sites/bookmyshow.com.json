@@ -1,0 +1,156 @@
+[
+  {
+    "domain": "bookmyshow.com",
+    "rank": 1386,
+    "url": "https://bookmyshow.com/",
+    "runAt": "2026-10-18T18:11:36.421Z",
+    "robots": {
+      "status": 200,
+      "bytes": 12268,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://in.bookmyshow.com/",
+      "bytes": 5512
+    },
+    "rendered": {
+      "title": "Movie Tickets, Plays, Sports, Events & Cinemas nearby - BookMyShow",
+      "canonical": "https://in.bookmyshow.com/",
+      "words": 220,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "itemlist",
+        "organization",
+        "website"
+      ],
+      "headings": 12,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 81,
+      "renderedWords": 220,
+      "coverage": 3.6,
+      "rawOnlyTokens": 73,
+      "renderedOnlyTokens": 212,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "contentsearch",
+        "for",
+        "movies",
+        "events",
+        "plays",
+        "sports",
+        "activitiesselect",
+        "regionsign",
+        "inmoviesstreameventsplayssportsactivitieslistyourshowcorporatesoffersgift",
+        "cardsdetect",
+        "locationpopular",
+        "citiesmumbaidelhi-ncrbengaluruhyderabadchandigarhahmedabadpunechennaikolkatakochiview",
+        "all",
+        "citiesrecommended",
+        "moviessee",
+        "nayyi",
+        "navellicomedy",
+        "family",
+        "horrornayyi",
+        "navelliprahaarbiography",
+        "dramaprahaardrishyam",
+        "conclusiondrama",
+        "mystery"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "itemlist",
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "breadcrumblist",
+        "itemlist",
+        "organization",
+        "website"
+      ],
+      "headingsRendered": 12,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Attention Required! | Cloudflare",
+      "renderedTitle": "Movie Tickets, Plays, Sports, Events & Cinemas nearby - BookMyShow",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

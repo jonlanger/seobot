@@ -1,0 +1,115 @@
+[
+  {
+    "domain": "ilovepdf.com",
+    "rank": 1102,
+    "url": "https://ilovepdf.com/",
+    "runAt": "2026-10-18T18:00:25.076Z",
+    "robots": {
+      "status": 200,
+      "bytes": 32,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ilovepdf.com/",
+      "bytes": 121509
+    },
+    "rendered": {
+      "title": "iLovePDF | Online PDF tools for PDF lovers",
+      "canonical": "https://www.ilovepdf.com/",
+      "words": 367,
+      "jsonLdTypes": [],
+      "headings": 37,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 369,
+      "renderedWords": 367,
+      "coverage": 100,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 37,
+      "headingsAlsoInRaw": 37,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "iLovePDF | Online PDF tools for PDF lovers",
+      "renderedTitle": "iLovePDF | Online PDF tools for PDF lovers",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

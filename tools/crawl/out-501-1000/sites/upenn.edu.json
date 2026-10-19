@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "upenn.edu",
+    "rank": 1179,
+    "url": "https://upenn.edu/",
+    "runAt": "2026-10-18T18:03:36.918Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2141,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.upenn.edu/",
+      "bytes": 137867
+    },
+    "rendered": {
+      "title": "University of Pennsylvania",
+      "canonical": "https://www.upenn.edu/",
+      "words": 846,
+      "jsonLdTypes": [],
+      "headings": 76,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 718,
+      "renderedWords": 846,
+      "coverage": 84.9,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 128,
+      "renderedOnlySample": [
+        "12345previousnext",
+        "pennthe",
+        "may",
+        "work",
+        "third",
+        "parties",
+        "deliver",
+        "website",
+        "used",
+        "provide",
+        "these",
+        "have",
+        "interactions",
+        "purposes",
+        "they",
+        "use",
+        "technologies",
+        "continued",
+        "expresses",
+        "agreement",
+        "policymanage",
+        "accept",
+        "cookiesmanage",
+        "cookie",
+        "settingsmanage"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 76,
+      "headingsAlsoInRaw": 67,
+      "headingsCoverage": 88.2,
+      "titleDiffers": false,
+      "rawTitle": "University of Pennsylvania",
+      "renderedTitle": "University of Pennsylvania",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

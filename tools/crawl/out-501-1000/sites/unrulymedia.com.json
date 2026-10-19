@@ -1,0 +1,89 @@
+[
+  {
+    "domain": "unrulymedia.com",
+    "rank": 894,
+    "url": "https://unrulymedia.com/",
+    "runAt": "2026-10-18T17:52:15.288Z",
+    "robots": {
+      "status": 404,
+      "bytes": 365,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://unrulymedia.com/",
+      "bytes": 78
+    },
+    "rendered": {
+      "title": "Nexxen",
+      "canonical": "https://nexxen.com/",
+      "words": 160,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headings": 2,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 160,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 160,
+      "renderedOnlySample": [
+        "skip",
+        "content",
+        "advertisers",
+        "full-funnel",
+        "campaigns",
+        "campaign",
+        "planning",
+        "dsp",
+        "ssp",
+        "activation",
+        "measurement",
+        "holistic",
+        "sports",
+        "publishers",
+        "inventory",
+        "monetization",
+        "solutions",
+        "acr",
+        "data",
+        "partner",
+        "directory",
+        "discovery",
+        "identity",
+        "resolution",
+        "nexai"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "breadcrumblist",
+        "imageobject",
+        "organization",
+        "webpage",
+        "website"
+      ],
+      "headingsRendered": 2,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Nexxen",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

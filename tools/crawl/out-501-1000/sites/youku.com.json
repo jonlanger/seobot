@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "youku.com",
+    "rank": 959,
+    "url": "https://youku.com/",
+    "runAt": "2026-10-18T17:54:29.297Z",
+    "robots": {
+      "status": 200,
+      "bytes": 15053,
+      "wildcardVerdict": "unset",
+      "policies": {
+        "GPTBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "OAI-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ChatGPT-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "ClaudeBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-SearchBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Claude-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "PerplexityBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Perplexity-User": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Google-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Applebot-Extended": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "CCBot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bytespider": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Amazonbot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "anthropic-ai": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Googlebot": {
+          "verdict": "unset",
+          "basis": "none"
+        },
+        "Bingbot": {
+          "verdict": "unset",
+          "basis": "none"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.youku.com/ku/webhome",
+      "bytes": 1020905
+    },
+    "rendered": {
+      "title": "优酷-热门独播剧集综艺电影在线观看-为好内容全力以赴",
+      "canonical": "",
+      "words": 1021,
+      "jsonLdTypes": [],
+      "headings": 5,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 774,
+      "renderedWords": 1021,
+      "coverage": 65.2,
+      "rawOnlyTokens": 108,
+      "renderedOnlyTokens": 355,
+      "renderedOnlySample": [
+        "员特",
+        "特惠",
+        "惠筛",
+        "选历",
+        "史客",
+        "端登",
+        "录首",
+        "页嫁",
+        "钗电",
+        "剧动",
+        "漫电",
+        "影综",
+        "艺短",
+        "剧会",
+        "心少",
+        "儿纪",
+        "片a",
+        "区体",
+        "育人",
+        "文直",
+        "播游",
+        "戏乐",
+        "学新",
+        "知新",
+        "片页"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 5,
+      "headingsAlsoInRaw": 4,
+      "headingsCoverage": 80,
+      "titleDiffers": false,
+      "rawTitle": "优酷-热门独播剧集综艺电影在线观看-为好内容全力以赴",
+      "renderedTitle": "优酷-热门独播剧集综艺电影在线观看-为好内容全力以赴",
+      "cjk": true
+    },
+    "classification": "measured"
+  }
+]

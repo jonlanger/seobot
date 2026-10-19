@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "ancestry.com",
+    "rank": 992,
+    "url": "https://ancestry.com/",
+    "runAt": "2026-10-18T17:56:57.435Z",
+    "robots": {
+      "status": 200,
+      "bytes": 3623,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://ancestry.com/",
+      "bytes": 540805
+    },
+    "rendered": {
+      "title": "Ancestry - Family Tree, Genealogy & Family History Records",
+      "canonical": "https://www.ancestry.com/",
+      "words": 263,
+      "jsonLdTypes": [],
+      "headings": 18,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 19,
+      "renderedWords": 263,
+      "coverage": 1.5,
+      "rawOnlyTokens": 15,
+      "renderedOnlyTokens": 259,
+      "renderedOnlySample": [
+        "genealogy",
+        "dna",
+        "digitize",
+        "free",
+        "trial",
+        "log",
+        "sign",
+        "try",
+        "for",
+        "days",
+        "start",
+        "terms",
+        "apply",
+        "records",
+        "can",
+        "reveal",
+        "new",
+        "family",
+        "details",
+        "see",
+        "how",
+        "with",
+        "stories",
+        "honoring",
+        "women"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 18,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "Access denied | Ancestry  -- a4c96c35cb52906b",
+      "renderedTitle": "Ancestry - Family Tree, Genealogy & Family History Records",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

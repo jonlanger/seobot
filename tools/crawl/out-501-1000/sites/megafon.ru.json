@@ -1,0 +1,45 @@
+[
+  {
+    "domain": "megafon.ru",
+    "rank": 1090,
+    "url": "https://megafon.ru/",
+    "runAt": "2026-10-18T18:00:03.988Z",
+    "robots": {
+      "status": 403,
+      "bytes": 548,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.megafon.ru//",
+      "bytes": 548
+    },
+    "rendered": {
+      "title": "403 Forbidden",
+      "canonical": "",
+      "words": 3,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 3,
+      "renderedWords": 3,
+      "coverage": 100,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "403 Forbidden",
+      "renderedTitle": "403 Forbidden",
+      "cjk": false
+    },
+    "classification": "both_blocked"
+  }
+]

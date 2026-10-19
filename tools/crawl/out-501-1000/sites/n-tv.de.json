@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "n-tv.de",
+    "rank": 1052,
+    "url": "https://n-tv.de/",
+    "runAt": "2026-10-18T17:58:50.211Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2415,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.n-tv.de/",
+      "bytes": 1347385
+    },
+    "rendered": {
+      "title": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
+      "canonical": "https://www.n-tv.de/",
+      "words": 2819,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "webpage"
+      ],
+      "headings": 237,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 2698,
+      "renderedWords": 2819,
+      "coverage": 74.3,
+      "rawOnlyTokens": 603,
+      "renderedOnlyTokens": 724,
+      "renderedOnlySample": [
+        "ressortsbilderserienpolitikmeldungenkommentarewieduwilts",
+        "wochegeschichtewirtschaftmeldungenterminestartupbörseauf",
+        "blickaktien",
+        "indizesdaxtecdaxmdaxsdaxgexhdaxeurostoxxstoxx50dow",
+        "jonesnasdaqnikkeidevisenrohstoffentv",
+        "zertifikatentv",
+        "fondsntv",
+        "kryptontv",
+        "tradingfonds",
+        "etfanleihenntv",
+        "altersvorsorgentv",
+        "geldanlage-checkbörsen-tag",
+        "archivsportlive-kalendermeldungenfußballbundesliga",
+        "dfb-pokalfußball",
+        "frauenchampions",
+        "leagueeuropa",
+        "leaguepremier",
+        "leagueergebnisse",
+        "wettbewerbefußball-wmmeldungendfb-kaderspielplanwm-podcastnflmotorsporttennishandballbasketballeishockeymixed",
+        "artsgolfradsportleichtathletiksport-tag",
+        "archivgutscheine",
+        "anzeigeadidasengelhornvanssportscheck11teamsportssportwettenwettanbieter",
+        "vergleichwett",
+        "tippssportwetten",
+        "bonuspanoramameldungenunterhaltungüberblicktvfilme"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 237,
+      "headingsAlsoInRaw": 5,
+      "headingsCoverage": 2.1,
+      "titleDiffers": false,
+      "rawTitle": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
+      "renderedTitle": "Nachrichten, aktuelle Schlagzeilen und Videos - n-tv.de",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

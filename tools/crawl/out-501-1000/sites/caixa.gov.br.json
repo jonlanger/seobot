@@ -1,0 +1,72 @@
+[
+  {
+    "domain": "caixa.gov.br",
+    "rank": 986,
+    "url": "https://caixa.gov.br/",
+    "runAt": "2026-10-18T17:56:33.959Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://caixa.gov.br/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "rendered": {
+      "title": "CAIXA",
+      "canonical": "http://www.caixa.gov.br/Paginas/home-caixa.aspx",
+      "words": 443,
+      "jsonLdTypes": [],
+      "headings": 37,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 443,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 443,
+      "renderedOnlySample": [
+        "institucional",
+        "acesso",
+        "informaçãoaviso",
+        "privacidadecaixa",
+        "notíciasdownloadseducação",
+        "financeiragovernança",
+        "corporativainvestor",
+        "relations",
+        "patrocíniosrelações",
+        "com",
+        "investidoressegurançasobre",
+        "caixasustentabilidadetransparência",
+        "atendimento",
+        "aplicativoscanais",
+        "digitaiscanal",
+        "denúnciaspessoa",
+        "deficiência",
+        "auditivaencontre",
+        "caixafale",
+        "conoscoouvidoriatelefonestudo",
+        "sobre",
+        "para",
+        "você",
+        "produtos",
+        "cartões"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 37,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "CAIXA",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "webmd.com",
+    "rank": 1026,
+    "url": "https://webmd.com/",
+    "runAt": "2026-10-18T17:57:55.273Z",
+    "robots": {
+      "status": 200,
+      "bytes": 886,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.webmd.com/",
+      "bytes": 438608
+    },
+    "rendered": {
+      "title": "WebMD - Better information. Better health.",
+      "canonical": "https://www.webmd.com/",
+      "words": 467,
+      "jsonLdTypes": [],
+      "headings": 100,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 433,
+      "renderedWords": 467,
+      "coverage": 60.6,
+      "rawOnlyTokens": 150,
+      "renderedOnlyTokens": 184,
+      "renderedOnlySample": [
+        "adhdallergiesarthritisatrial",
+        "fibrillationbreast",
+        "cancercancercrohn's",
+        "diseasedepressiondiabetesdvteczemaeye",
+        "healthheart",
+        "diseasehiv",
+        "aidshypertensionlung",
+        "diseaselupusmental",
+        "healthmultiple",
+        "sclerosismigrainepain",
+        "managementpsoriasispsoriatic",
+        "arthritisrheumatoid",
+        "arthritissexual",
+        "conditionsskin",
+        "problemssleep",
+        "disordersulcerative",
+        "supplementsdrugs",
+        "supplementspill",
+        "identifierinteraction",
+        "checkerdrug",
+        "couponspet",
+        "medicationswell-being",
+        "well-beingaging",
+        "wellbabybirth",
+        "controlchildren's"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 100,
+      "headingsAlsoInRaw": 86,
+      "headingsCoverage": 86,
+      "titleDiffers": false,
+      "rawTitle": "WebMD - Better information. Better health.",
+      "renderedTitle": "WebMD - Better information. Better health.",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

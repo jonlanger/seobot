@@ -1,0 +1,236 @@
+[
+  {
+    "id": "definition",
+    "name": "Definition & meaning",
+    "examples": ["what is X", "X meaning", "X vs Y meaning", "define X"],
+    "intent": "informational",
+    "aiExposure": {
+      "value": 86,
+      "unit": "% of queries with an AI Overview (Seer 'question' class — mapping approximate)",
+      "sourceId": "seer-aio-intent-2026"
+    },
+    "winningFormats": ["definition-block", "glossary-term", "faq-block"],
+    "evidence": [
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "Definition markers scored +57% citation influence; definition-type semantic roles ranked highest alongside comparison.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "google-aio-guide-2026",
+        "finding": "Fan-out turns 'what is X' into sub-queries; one strong definition page absorbs them (anti-scaled-abuse).",
+        "strength": "strong"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "Definition-first paragraphs are the cheapest quotable unit — the glossary play."
+  },
+  {
+    "id": "howto",
+    "name": "How-to & guidance",
+    "examples": ["how to X", "X steps", "how do I fix X"],
+    "intent": "informational",
+    "aiExposure": {
+      "value": 86,
+      "unit": "% of queries with an AI Overview (Seer 'question' class); Authoritas measured 'problem solving' 74% / 'specific question' 69% trigger rates",
+      "sourceId": "seer-aio-intent-2026"
+    },
+    "winningFormats": ["how-to-steps", "faq-block"],
+    "evidence": [
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "How-to content scored +41% citation influence (descriptive).",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "authoritas-aio-intent-2025",
+        "finding": "Problem-solving keywords trigger AI Overviews 74% of the time — the highest measured intent class.",
+        "strength": "moderate"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "Numbered steps are the extraction format; every step should survive alone as a passage."
+  },
+  {
+    "id": "comparison",
+    "name": "Comparison & alternatives",
+    "examples": ["X vs Y", "best X", "alternatives to X", "X competitors"],
+    "intent": "commercial",
+    "aiExposure": {
+      "value": 95,
+      "unit": "% of queries with an AI Overview (Seer comparison class — the highest)",
+      "sourceId": "seer-aio-intent-2026"
+    },
+    "winningFormats": ["comparison-table", "ranked-listicle", "faq-block"],
+    "evidence": [
+      {
+        "sourceId": "geo-citation-lab",
+        "finding": "Comparison questions carry the highest mean citation influence of any question type; comparison content scored +55%.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "derivatex-b2b-2026",
+        "finding": "For 100 B2B SaaS 'best [category]' queries, third-party best-of lists earn 63% of citations vs 17% for vendor pages — you must appear in lists you don't own.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "wix-format-study-2025",
+        "finding": "Commercial-intent queries send 40.86% of citations to listicles.",
+        "strength": "moderate"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "The sharpest industry-independent pattern in the whole atlas: comparison queries are where AI answers live and where third-party lists beat own pages."
+  },
+  {
+    "id": "transactional-pricing",
+    "name": "Transactional & pricing",
+    "examples": ["X pricing", "X cost", "buy X", "X free trial"],
+    "intent": "transactional",
+    "aiExposure": {
+      "value": 5,
+      "unit": "% of queries with an AI Overview (Seer transactional class — the lowest)",
+      "sourceId": "seer-aio-intent-2026"
+    },
+    "winningFormats": ["pricing-table", "faq-block", "product-page"],
+    "evidence": [
+      {
+        "sourceId": "authoritas-aio-intent-2025",
+        "finding": "AI Overviews appear on 29.9% of keywords but only 11.5% of search volume — transactional volume is largely untouched by AIO.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seo-research-2026",
+        "finding": "Pricing pages are extraction targets: engines get asked 'how much does X cost', and screenshots are invisible — put real numbers in text.",
+        "strength": "moderate"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "Low AIO exposure ≠ low GEO value: pricing/brand questions still get answered by assistants, just not via AIO SERPs."
+  },
+  {
+    "id": "informational-research",
+    "name": "Topic research & education",
+    "examples": ["SEO checklist", "how does X work", "guide to X"],
+    "intent": "informational",
+    "aiExposure": {
+      "value": 36,
+      "unit": "% of queries with an AI Overview (Seer informational class); Authoritas 'topic research' 3.4%",
+      "sourceId": "seer-aio-intent-2026"
+    },
+    "winningFormats": ["article", "how-to-steps", "original-data-study"],
+    "evidence": [
+      {
+        "sourceId": "wix-format-study-2025",
+        "finding": "Informational queries send 45.5% of citations to articles.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "princeton-geo-2024",
+        "finding": "Statistics (+31%) and quotations (+41%) lift visibility — the education-content levers.",
+        "strength": "strong"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "Broadest intent class; wins on evidence density, not on covering every sub-keyword with a page."
+  },
+  {
+    "id": "branded-reputation",
+    "name": "Branded & reputation",
+    "examples": ["X reviews", "is X legit", "X vs [competitor] reviews", "X complaints"],
+    "intent": "commercial",
+    "aiExposure": {
+      "value": 83,
+      "unit": "% of branded searches showing an AI Overview",
+      "sourceId": "ahrefs-aio-branded-2026"
+    },
+    "winningFormats": ["third-party-mentions", "review-listings", "comparison-table"],
+    "evidence": [
+      {
+        "sourceId": "ahrefs-aio-branded-2026",
+        "finding": "AI Overviews appear for 83% of branded searches — the answer about your brand is assembled mostly from third parties.",
+        "strength": "strong"
+      },
+      {
+        "sourceId": "ahrefs-brand-correlation-2025",
+        "finding": "Branded web mentions correlate with AIO brand mentions at 0.664 — reputation work is mention work.",
+        "strength": "strong"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "You don't control the answer; you influence the sources it quotes. Review-platform accuracy is the actionable lever."
+  },
+  {
+    "id": "local",
+    "name": "Local & near-me",
+    "examples": ["X near me", "best X in [city]", "X open now"],
+    "intent": "local",
+    "aiExposure": {
+      "value": 6,
+      "unit": "% of local-services queries with an AI Overview (vendor aggregation range 4–8%)",
+      "sourceId": "serps-aio-vertical-2026"
+    },
+    "winningFormats": ["review-listings", "product-page"],
+    "evidence": [
+      {
+        "sourceId": "profound-citation-origins-2026",
+        "finding": "Where a regional brand led, 46–59% of citations went to country-specific domains — local answers lean local sources.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "rel.local-signals",
+        "finding": "Local intent resolves through business profiles and consistency signals; on-site copy alone cannot substitute.",
+        "strength": "weak"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "AI Overview exposure is lowest here, but map/assistant answers still fire for local intent — GBP and reviews are the levers."
+  },
+  {
+    "id": "news-current",
+    "name": "News & current events",
+    "examples": ["X update", "X news", "latest X change"],
+    "intent": "informational",
+    "aiExposure": {
+      "value": null,
+      "unit": "not measured consistently across vendors",
+      "sourceId": null
+    },
+    "winningFormats": ["article", "original-data-study"],
+    "evidence": [
+      {
+        "sourceId": "metavert-q4-2026",
+        "finding": "Timely-query citation half-life is short (fitted ≈39 days; panel-relative half-life ~11 days) — recency is the product for news.",
+        "strength": "moderate"
+      },
+      {
+        "sourceId": "seobot-top500-2026",
+        "finding": "News & media sites keep 79.3% median coverage server-rendered yet block AI search crawlers at the highest rate (13 of 14) — a business-model tension, not a technical limit.",
+        "strength": "strong"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "Claude citations persist ~2.8× longer than ChatGPT's (Profound) — engine choice changes the economics of news freshness."
+  },
+  {
+    "id": "navigational",
+    "name": "Navigational",
+    "examples": ["X login", "X dashboard", "X support"],
+    "intent": "navigational",
+    "aiExposure": {
+      "value": 0,
+      "unit": "% of navigational keywords triggering AI Overviews",
+      "sourceId": "authoritas-aio-intent-2025"
+    },
+    "winningFormats": ["product-page"],
+    "evidence": [
+      {
+        "sourceId": "authoritas-aio-intent-2025",
+        "finding": "Navigational keywords triggered AI Overviews 0% of the time in a 10K-keyword panel.",
+        "strength": "moderate"
+      }
+    ],
+    "added": "2026-10-17",
+    "notes": "No GEO play — but these are the queries where brand SERP hygiene (noindexed app routes, clean sitelinks) still matters."
+  }
+]

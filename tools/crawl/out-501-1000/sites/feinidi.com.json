@@ -1,0 +1,148 @@
+[
+  {
+    "domain": "feinidi.com",
+    "rank": 1201,
+    "url": "https://feinidi.com/",
+    "runAt": "2026-10-18T18:04:18.547Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1502,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://feinidi.com/vpn/en/",
+      "bytes": 102189
+    },
+    "rendered": {
+      "title": "GreatFireVPN - Bypass Censorship in China, Russia, Iran, India",
+      "canonical": "https://feinidi.com/vpn/en/",
+      "words": 577,
+      "jsonLdTypes": [
+        "faqpage",
+        "softwareapplication"
+      ],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 556,
+      "renderedWords": 577,
+      "coverage": 96,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 23,
+      "renderedOnlySample": [
+        "reading",
+        "mirror",
+        "com",
+        "run",
+        "reached",
+        "where",
+        "details",
+        "page",
+        "itself",
+        "unchanged",
+        "address",
+        "mirrors",
+        "too",
+        "stops",
+        "greatfirevpnno",
+        "1234567891011",
+        "world's",
+        "we've",
+        "there's",
+        "it's",
+        "i've",
+        "they're",
+        "app's"
+      ],
+      "jsonLdRaw": [
+        "faqpage",
+        "softwareapplication"
+      ],
+      "jsonLdRendered": [
+        "faqpage",
+        "softwareapplication"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 22,
+      "headingsCoverage": 91.7,
+      "titleDiffers": false,
+      "rawTitle": "GreatFireVPN - Bypass Censorship in China, Russia, Iran, India",
+      "renderedTitle": "GreatFireVPN - Bypass Censorship in China, Russia, Iran, India",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

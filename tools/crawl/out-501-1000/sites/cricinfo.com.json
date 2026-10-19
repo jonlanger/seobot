@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "cricinfo.com",
+    "rank": 1200,
+    "url": "https://cricinfo.com/",
+    "runAt": "2026-10-18T18:04:18.478Z",
+    "robots": {
+      "status": 403,
+      "bytes": 382,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 403,
+      "finalUrl": "https://www.cricinfo.com/",
+      "bytes": 368
+    },
+    "rendered": {
+      "title": "Access Denied",
+      "canonical": "",
+      "words": 20,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 20,
+      "renderedWords": 20,
+      "coverage": 90,
+      "rawOnlyTokens": 2,
+      "renderedOnlyTokens": 2,
+      "renderedOnlySample": [
+        "1792346661",
+        "b98a1a98"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Access Denied",
+      "renderedTitle": "Access Denied",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

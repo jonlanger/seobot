@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "vnexpress.net",
+    "rank": 1202,
+    "url": "https://vnexpress.net/",
+    "runAt": "2026-10-18T18:04:24.007Z",
+    "robots": {
+      "status": 200,
+      "bytes": 1526,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "specific"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://vnexpress.net/",
+      "bytes": 274879
+    },
+    "rendered": {
+      "title": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+      "canonical": "https://vnexpress.net/",
+      "words": 600,
+      "jsonLdTypes": [
+        "organization",
+        "website"
+      ],
+      "headings": 33,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 569,
+      "renderedWords": 600,
+      "coverage": 81.3,
+      "rawOnlyTokens": 81,
+      "renderedOnlyTokens": 112,
+      "renderedOnlySample": [
+        "nộitp",
+        "roadstermỹđi",
+        "đua",
+        "triển",
+        "tạo",
+        "thiết",
+        "độc",
+        "đáo",
+        "mẫu",
+        "model",
+        "chuẩn",
+        "khách",
+        "cuối",
+        "hôm",
+        "mắt",
+        "màn",
+        "nhào",
+        "lộn",
+        "bên",
+        "dòng",
+        "điện",
+        "hãng",
+        "aeronautics",
+        "cũng",
+        "video"
+      ],
+      "jsonLdRaw": [
+        "organization",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "organization",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 33,
+      "headingsAlsoInRaw": 27,
+      "headingsCoverage": 81.8,
+      "titleDiffers": false,
+      "rawTitle": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+      "renderedTitle": "Báo VnExpress - Báo tiếng Việt nhiều người xem nhất",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

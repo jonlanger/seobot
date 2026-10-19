@@ -1,0 +1,172 @@
+[
+  {
+    "domain": "ad.nl",
+    "rank": 1177,
+    "url": "https://ad.nl/",
+    "runAt": "2026-10-18T18:03:30.987Z",
+    "robots": {
+      "status": 200,
+      "bytes": 2860,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "anthropic-ai": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.ad.nl/",
+      "bytes": 610933
+    },
+    "rendered": {
+      "title": "AD.nl, het laatste nieuws uit binnen- en buitenland, sport en show | AD.nl",
+      "canonical": "https://www.ad.nl/",
+      "words": 1040,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "collectionpage",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "place",
+        "videoobject",
+        "website"
+      ],
+      "headings": 23,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 1006,
+      "renderedWords": 1040,
+      "coverage": 95.3,
+      "rawOnlyTokens": 15,
+      "renderedOnlyTokens": 49,
+      "renderedOnlySample": [
+        "verwoestende'",
+        "foto's",
+        "in'",
+        "toe'",
+        "heen'",
+        "verstuur",
+        "bedankt",
+        "aanvraag",
+        "mailadres",
+        "goede",
+        "orde",
+        "voetbalclub'",
+        "mee'",
+        "blokkade'",
+        "gejat'",
+        "auto's",
+        "binnen'",
+        "e-consult'",
+        "beelden'",
+        "glittertjes'",
+        "verkleind'",
+        "voorkeursbron'",
+        "niet'",
+        "levenslang'",
+        "aanvallen'"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "collectionpage",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "place",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "collectionpage",
+        "imageobject",
+        "itemlist",
+        "newsmediaorganization",
+        "organization",
+        "place",
+        "videoobject",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [
+        "videoobject"
+      ],
+      "headingsRendered": 23,
+      "headingsAlsoInRaw": 18,
+      "headingsCoverage": 78.3,
+      "titleDiffers": false,
+      "rawTitle": "AD.nl, het laatste nieuws uit binnen- en buitenland, sport en show | AD.nl",
+      "renderedTitle": "AD.nl, het laatste nieuws uit binnen- en buitenland, sport en show | AD.nl",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

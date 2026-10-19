@@ -1,0 +1,51 @@
+[
+  {
+    "domain": "inleed.net",
+    "rank": 1188,
+    "url": "https://inleed.net/",
+    "runAt": "2026-10-18T18:03:52.179Z",
+    "robots": {
+      "status": 404,
+      "bytes": 355,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://inleed.se/",
+      "bytes": 507447
+    },
+    "rendered": {
+      "title": "Webbhotell, VPS, Dedikerad server, CO-location - Inleed",
+      "canonical": "https://inleed.se/",
+      "words": 890,
+      "jsonLdTypes": [
+        "webpage"
+      ],
+      "headings": 24,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 897,
+      "renderedWords": 890,
+      "coverage": 100,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 0,
+      "renderedOnlySample": [],
+      "jsonLdRaw": [
+        "webpage"
+      ],
+      "jsonLdRendered": [
+        "webpage"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 24,
+      "headingsAlsoInRaw": 24,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Webbhotell, VPS, Dedikerad server, CO-location - Inleed",
+      "renderedTitle": "Webbhotell, VPS, Dedikerad server, CO-location - Inleed",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

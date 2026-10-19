@@ -1,0 +1,80 @@
+[
+  {
+    "domain": "bilibili.tv",
+    "rank": 1249,
+    "url": "https://bilibili.tv/",
+    "runAt": "2026-10-18T18:06:19.461Z",
+    "robots": {
+      "status": 404,
+      "bytes": 6363,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://www.bilibili.tv/",
+      "bytes": 23321
+    },
+    "rendered": {
+      "title": "BiliBili",
+      "canonical": "https://www.bilibili.tv/en",
+      "words": 475,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization"
+      ],
+      "headings": 4,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 13,
+      "renderedWords": 475,
+      "coverage": 0.8,
+      "rawOnlyTokens": 9,
+      "renderedOnlyTokens": 471,
+      "renderedOnlySample": [
+        "upload",
+        "video",
+        "videosdata",
+        "analysismanage",
+        "interactionssign",
+        "sync",
+        "historylog",
+        "insign",
+        "listlog",
+        "inhistorymy",
+        "listdownload",
+        "the",
+        "appexclusive",
+        "premiumlanguage",
+        "englishsend",
+        "feedback",
+        "appdownload",
+        "app",
+        "enjoy",
+        "more",
+        "featureshigher",
+        "qualitysmoother",
+        "experiencedownload",
+        "videos",
+        "and"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 4,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 25,
+      "titleDiffers": false,
+      "rawTitle": "BiliBili",
+      "renderedTitle": "BiliBili",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

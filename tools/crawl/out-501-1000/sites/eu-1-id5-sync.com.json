@@ -1,0 +1,47 @@
+[
+  {
+    "domain": "eu-1-id5-sync.com",
+    "rank": 929,
+    "url": "https://eu-1-id5-sync.com/",
+    "runAt": "2026-10-18T17:53:12.740Z",
+    "robots": {
+      "status": 522,
+      "bytes": 7279,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 522,
+      "finalUrl": "https://eu-1-id5-sync.com/",
+      "bytes": 7279
+    },
+    "rendered": {
+      "title": "eu-1-id5-sync.com | 522: Connection timed out",
+      "canonical": "",
+      "words": 87,
+      "jsonLdTypes": [],
+      "headings": 8,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 87,
+      "renderedWords": 87,
+      "coverage": 98.9,
+      "rawOnlyTokens": 1,
+      "renderedOnlyTokens": 1,
+      "renderedOnlySample": [
+        "a4c967adffa521a0"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 8,
+      "headingsAlsoInRaw": 7,
+      "headingsCoverage": 87.5,
+      "titleDiffers": false,
+      "rawTitle": "eu-1-id5-sync.com | 522: Connection timed out",
+      "renderedTitle": "eu-1-id5-sync.com | 522: Connection timed out",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

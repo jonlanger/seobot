@@ -1,0 +1,21 @@
+[
+  {
+    "domain": "gtm-a2b2.com",
+    "rank": 980,
+    "url": "https://gtm-a2b2.com/",
+    "runAt": "2026-10-18T17:56:01.801Z",
+    "robots": {
+      "status": 0,
+      "bytes": 0,
+      "wildcardVerdict": "unset"
+    },
+    "raw": {
+      "status": 0,
+      "finalUrl": "https://gtm-a2b2.com/",
+      "bytes": 0,
+      "error": "fetch failed"
+    },
+    "renderError": "page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://gtm-a2b2.com/\", waiting until \"load\"\n",
+    "classification": "raw_blocked"
+  }
+]

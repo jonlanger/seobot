@@ -1,0 +1,150 @@
+[
+  {
+    "domain": "jino.ru",
+    "rank": 1384,
+    "url": "https://jino.ru/",
+    "runAt": "2026-10-18T18:11:32.755Z",
+    "robots": {
+      "status": 200,
+      "bytes": 383,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://jino.ru/",
+      "bytes": 51852
+    },
+    "rendered": {
+      "title": "Джино — облачный хостинг сайтов, VPS, облачные сервисы и домены",
+      "canonical": "https://jino.ru/",
+      "words": 300,
+      "jsonLdTypes": [
+        "webpage",
+        "website"
+      ],
+      "headings": 9,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 314,
+      "renderedWords": 300,
+      "coverage": 77.7,
+      "rawOnlyTokens": 81,
+      "renderedOnlyTokens": 67,
+      "renderedOnlySample": [
+        "доменывсё",
+        "сайтавсё",
+        "сайтаоблачная",
+        "инфраструктураоблако",
+        "облачнаяплатформа",
+        "окруженииначать",
+        "пользоватьсянаши",
+        "хостингсоздавайте",
+        "интернет-магазинаоблачные",
+        "серверывиртуальные",
+        "онлайнпочтапочта",
+        "антиспамдоменыподбор",
+        "зонахбазы",
+        "данныхготовые",
+        "серверахранилище",
+        "s3объектное",
+        "объёмаkubernetesготовый",
+        "узловбалансировщикираспределяют",
+        "нагрузкойприватные",
+        "сетиизолированная",
+        "kubernetesсетевые",
+        "дискидополнительное",
+        "ходуai-агентычат-боты",
+        "моделейnextcloudпочта",
+        "окнепочему"
+      ],
+      "jsonLdRaw": [
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 9,
+      "headingsAlsoInRaw": 3,
+      "headingsCoverage": 33.3,
+      "titleDiffers": false,
+      "rawTitle": "Джино — облачный хостинг сайтов, VPS, облачные сервисы и домены",
+      "renderedTitle": "Джино — облачный хостинг сайтов, VPS, облачные сервисы и домены",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

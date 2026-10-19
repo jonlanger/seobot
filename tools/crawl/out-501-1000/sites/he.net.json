@@ -1,0 +1,120 @@
+[
+  {
+    "domain": "he.net",
+    "rank": 1146,
+    "url": "https://he.net/",
+    "runAt": "2026-10-18T18:02:40.342Z",
+    "robots": {
+      "status": 200,
+      "bytes": 60,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://he.net/",
+      "bytes": 19763
+    },
+    "rendered": {
+      "title": "Hurricane Electric Internet Services - Internet Backbone and Colocation Provider",
+      "canonical": "https://he.net/",
+      "words": 74,
+      "jsonLdTypes": [],
+      "headings": 1,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 77,
+      "renderedWords": 74,
+      "coverage": 94.6,
+      "rawOnlyTokens": 7,
+      "renderedOnlyTokens": 4,
+      "renderedOnlySample": [
+        "electric760",
+        "courtfremont",
+        "510-580-4100fax",
+        "510-580-4151comments"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 1,
+      "headingsAlsoInRaw": 1,
+      "headingsCoverage": 100,
+      "titleDiffers": false,
+      "rawTitle": "Hurricane Electric Internet Services - Internet Backbone and Colocation Provider",
+      "renderedTitle": "Hurricane Electric Internet Services - Internet Backbone and Colocation Provider",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]

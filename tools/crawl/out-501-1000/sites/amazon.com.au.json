@@ -1,0 +1,141 @@
+[
+  {
+    "domain": "amazon.com.au",
+    "rank": 909,
+    "url": "https://amazon.com.au/",
+    "runAt": "2026-10-18T17:52:34.623Z",
+    "robots": {
+      "status": 200,
+      "bytes": 6904,
+      "wildcardVerdict": "partial",
+      "policies": {
+        "GPTBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "OAI-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ChatGPT-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "ClaudeBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-SearchBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Claude-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "PerplexityBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Perplexity-User": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Google-Extended": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Applebot-Extended": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Bytespider": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "block",
+          "basis": "specific"
+        },
+        "Amazonbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "partial",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 202,
+      "finalUrl": "https://www.amazon.com.au/",
+      "bytes": 2007
+    },
+    "rendered": {
+      "title": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more",
+      "canonical": "https://www.amazon.com.au/",
+      "words": 916,
+      "jsonLdTypes": [],
+      "headings": 19,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 0,
+      "renderedWords": 916,
+      "coverage": 0,
+      "rawOnlyTokens": 0,
+      "renderedOnlyTokens": 916,
+      "renderedOnlySample": [
+        "skip",
+        "main",
+        "content",
+        "keyboard",
+        "shortcuts",
+        "search",
+        "alt",
+        "cart",
+        "shift",
+        "home",
+        "orders",
+        "show",
+        "hide",
+        "move",
+        "between",
+        "items",
+        "use",
+        "your",
+        "keyboard's",
+        "down",
+        "arrows",
+        "com",
+        "delivering",
+        "sydney",
+        "2000"
+      ],
+      "jsonLdRaw": [],
+      "jsonLdRendered": [],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 19,
+      "headingsAlsoInRaw": 0,
+      "headingsCoverage": 0,
+      "titleDiffers": true,
+      "rawTitle": "",
+      "renderedTitle": "Amazon.com.au: Shop online for Electronics, Apparel, Toys, Books, DVDs & more",
+      "cjk": false
+    },
+    "classification": "raw_blocked"
+  }
+]

@@ -1,0 +1,159 @@
+[
+  {
+    "domain": "auth0.com",
+    "rank": 1036,
+    "url": "https://auth0.com/",
+    "runAt": "2026-10-18T17:58:18.188Z",
+    "robots": {
+      "status": 200,
+      "bytes": 320,
+      "wildcardVerdict": "allow",
+      "policies": {
+        "GPTBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "OAI-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ChatGPT-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "ClaudeBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-SearchBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Claude-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "PerplexityBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Perplexity-User": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Google-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Applebot-Extended": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "CCBot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bytespider": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Meta-ExternalAgent": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Amazonbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "anthropic-ai": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Googlebot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        },
+        "Bingbot": {
+          "verdict": "allow",
+          "basis": "wildcard"
+        }
+      }
+    },
+    "raw": {
+      "status": 200,
+      "finalUrl": "https://auth0.com/",
+      "bytes": 449870
+    },
+    "rendered": {
+      "title": "Secure AI Agent & User Authentication | Auth0",
+      "canonical": "https://auth0.com/",
+      "words": 808,
+      "jsonLdTypes": [
+        "breadcrumblist",
+        "organization",
+        "softwareapplication",
+        "webpage",
+        "website"
+      ],
+      "headings": 26,
+      "challengeLike": false
+    },
+    "metrics": {
+      "rawWords": 628,
+      "renderedWords": 808,
+      "coverage": 61,
+      "rawOnlyTokens": 135,
+      "renderedOnlyTokens": 315,
+      "renderedOnlySample": [
+        "transform",
+        "lever",
+        "suite",
+        "logindeutschenglishfrançaisespañolportuguês日本語builddocumentationai",
+        "docsapissdksevents",
+        "catalogchangelogcode",
+        "quickstartsreactnext",
+        "jsangularvue",
+        "jsreact",
+        "nativeios",
+        "swiftbuild",
+        "frameworksview",
+        "toolsjwt",
+        "connectcommunity",
+        "productai",
+        "identityb2bcommercefeatured",
+        "contentwhitepaperbuilding",
+        "agentscustomer",
+        "identityuniversal",
+        "loginpasswordlessuser",
+        "managementauthenticationbreached",
+        "passwordsembedded",
+        "loginsolutionsuse",
+        "casesenterpriseb2b",
+        "saasb2b"
+      ],
+      "jsonLdRaw": [
+        "breadcrumblist",
+        "organization",
+        "softwareapplication",
+        "webpage",
+        "website"
+      ],
+      "jsonLdRendered": [
+        "breadcrumblist",
+        "organization",
+        "softwareapplication",
+        "webpage",
+        "website"
+      ],
+      "jsonLdMissingFromRaw": [],
+      "headingsRendered": 26,
+      "headingsAlsoInRaw": 18,
+      "headingsCoverage": 69.2,
+      "titleDiffers": true,
+      "rawTitle": "Secure AI Agent &amp; User Authentication | Auth0",
+      "renderedTitle": "Secure AI Agent & User Authentication | Auth0",
+      "cjk": false
+    },
+    "classification": "measured"
+  }
+]
