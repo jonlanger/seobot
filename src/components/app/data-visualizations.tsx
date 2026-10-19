@@ -93,8 +93,8 @@ function CrawlerHeatmap({ onCellClick }: { onCellClick: (title: string, sites: S
           }}
         />
       ) : (
-      <div className="w-full overflow-x-auto">
-        <div className="grid gap-0.5 w-full" style={{ gridTemplateColumns: `120px repeat(${verticals.length}, 1fr)` }}>
+      <div className="w-full overflow-x-auto p-1">
+        <div className="grid gap-0.5 w-full" style={{ gridTemplateColumns: `120px repeat(${verticals.length}, minmax(0, 1fr))` }}>
           <div className="text-[10px] font-medium text-muted-foreground" />
           {verticals.map((v) => (
             <div key={v} className="text-[9px] font-medium text-muted-foreground text-center px-1 truncate" title={v}>
@@ -190,8 +190,8 @@ function CrawlerCoblocking({ onCellClick }: { onCellClick: (title: string, sites
           }}
         />
       ) : (
-      <div className="w-full overflow-x-auto">
-        <div className="grid gap-px w-full" style={{ gridTemplateColumns: `90px repeat(${CRAWLERS.length}, 1fr)` }}>
+      <div className="w-full overflow-x-auto p-1">
+        <div className="grid gap-px w-full" style={{ gridTemplateColumns: `90px repeat(${CRAWLERS.length}, minmax(0, 1fr))` }}>
           <div />
           {CRAWLERS.map((c) => (
             <div key={c} className="text-[8px] font-mono text-muted-foreground text-center px-0.5 truncate" title={c}>

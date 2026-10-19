@@ -245,7 +245,7 @@ export function DashboardPage({
       <SiteDetail site={detailPanel.site} onOpenCompany={onOpenCompany} />
     </div>
   ) : (
-    <div className="grid gap-3">
+    <div className="grid grid-cols-[minmax(0,1fr)] gap-3">
       {detailPanel.sites.length === 0 ? (
         <p className="py-8 text-center text-sm text-muted-foreground">No companies match.</p>
       ) : (
@@ -453,7 +453,7 @@ export function DashboardPage({
           </div>
         </AppTopbar>
 
-        <main className={isExplorer ? "flex flex-1 flex-col" : "flex flex-1 flex-col gap-10 px-4 py-6 sm:px-6 lg:px-8"}>
+        <main className={isExplorer ? "flex min-w-0 flex-1 flex-col" : "flex min-w-0 flex-1 flex-col gap-10 px-4 py-6 sm:px-6 lg:px-8"}>
           {!isExplorer && <PageHeader title={header.title} description={header.description} />}
 
           {/* Signal map — the primary view */}
@@ -611,7 +611,7 @@ export function DashboardPage({
                   <X />
                 </Button>
               </div>
-              <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-4">{detailBody}</div>
+              <div className="min-h-0 flex-1 overflow-y-auto overflow-x-hidden overscroll-contain p-4">{detailBody}</div>
             </>
           )}
           {/* Stays mounted while a site is open so filters keep their place. */}
@@ -622,7 +622,7 @@ export function DashboardPage({
         <Sheet open onOpenChange={(open) => { if (!open) closeDetail(); }}>
           <SheetContent side="right" className="w-full gap-0 sm:max-w-md">
             <SheetTitle className="shrink-0 border-b border-border px-4 py-4 pr-12 text-sm">{detailTitle}</SheetTitle>
-            <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-4">{detailBody}</div>
+            <div className="min-h-0 flex-1 overflow-y-auto overflow-x-hidden overscroll-contain p-4">{detailBody}</div>
           </SheetContent>
         </Sheet>
       )}
