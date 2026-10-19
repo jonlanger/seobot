@@ -35,6 +35,7 @@ import {
   CardContent,
   AnimatedNumber,
   ChartFrame,
+  CollapsibleSearch,
   Checkbox,
   Dialog,
   DialogDescription,
@@ -1009,6 +1010,9 @@ export function ComponentsPage() {
         {/* ------------------------ Pagination ------------------------ */}
         <PaginationDemo />
 
+        {/* ------------------------ Collapsible search ------------------------ */}
+        <CollapsibleSearchDemo />
+
         {/* ------------------------ Linked data display ------------------------ */}
         <LinkedDisplayDemo />
 
@@ -1190,6 +1194,40 @@ function PaginationDemo() {
         onPageChange={setPage}
         summary={`Showing ${start + 1}–${Math.min(start + pageSize, total)} of ${total.toLocaleString("en-US")}`}
       />
+    </Demo>
+  );
+}
+
+/* Live demo: CollapsibleSearch adapts to its container's width, not the viewport's. */
+function CollapsibleSearchDemo() {
+  const [value, setValue] = useState("");
+  const [open, setOpen] = useState(false);
+  return (
+    <Demo
+      title="Collapsible search"
+      description="A search that adapts to the room it has. Wide: a normal field. Narrow: an icon button that expands over its neighbours and collapses when cleared, submitted or left; a dot shows a search is still applied. It responds to its container (drag the handle to resize), so it behaves the same in a toolbar squeezed by sidebars as on a phone."
+    >
+      <div className="@container w-full min-w-48 max-w-2xl resize-x overflow-auto rounded-lg border border-dashed border-border p-3">
+        <div className="flex items-center gap-2">
+          <CollapsibleSearch
+            value={value}
+            onValueChange={setValue}
+            placeholder="Find a domain…"
+            aria-label="Find a domain"
+            open={open}
+            onOpenChange={setOpen}
+            inlineClassName="@md:w-44 @xl:w-64"
+          />
+          <div className={cn("flex items-center gap-2", open && "@max-md:hidden")}>
+            <Button variant="secondary" size="sm">
+              Sort
+            </Button>
+            <Button variant="secondary" size="sm">
+              Filter
+            </Button>
+          </div>
+        </div>
+      </div>
     </Demo>
   );
 }

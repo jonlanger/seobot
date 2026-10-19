@@ -387,7 +387,7 @@ export function DashboardPage({
       </Dialog>
 
       <div className="flex min-w-0 flex-1 flex-col">
-        <AppTopbar>
+        <AppTopbar className="@container">
           <button
             type="button"
             aria-label="Open navigation"
@@ -433,6 +433,10 @@ export function DashboardPage({
               <Button
                 variant="secondary"
                 size="sm"
+                aria-label="Filters"
+                title="Filters"
+                // Icon-only when the topbar is narrow (container query on the topbar, not the viewport).
+                className="@max-3xl:w-8 @max-3xl:px-0"
                 aria-pressed={filtersOpen && !detailPanel}
                 onClick={() => {
                   // With a site open, the button returns to the filters rather than hiding the sidebar.
@@ -443,7 +447,7 @@ export function DashboardPage({
                 }}
               >
                 <SlidersHorizontal />
-                Filters
+                <span className="hidden @3xl:inline">Filters</span>
               </Button>
             )}
           </div>

@@ -7,6 +7,7 @@ export * from "./button";
 export * from "./card";
 export * from "./chart";
 export * from "./chart-frame";
+export * from "./collapsible-search";
 export * from "./info-popover";
 export * from "./checkbox";
 export * from "./dialog";

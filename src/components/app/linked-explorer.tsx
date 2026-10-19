@@ -1,16 +1,16 @@
 import { useMemo, useState } from "react";
 import { createPortal } from "react-dom";
-import { Box, Grid2x2, Search, Table2 } from "lucide-react";
+import { Box, Grid2x2, Table2 } from "lucide-react";
 import {
   Badge,
   Button,
   Card,
   CardContent,
   ChartFrame,
+  CollapsibleSearch,
   Dialog,
   DotField,
   FilterChip,
-  Input,
   LinkedBarList,
   LinkedColumns,
   SelectMenu,
@@ -204,6 +204,8 @@ export function LinkedExplorer({
   const metric = metrics.find((m) => m.id === metricId) ?? metrics[0];
   const facetIndex: FacetIndex = useMemo(() => Object.fromEntries(facets.map((facet) => [facet.id, facet.traits])), [facets]);
   const [datasetId, setDatasetId] = useState(datasets[0]!.id);
+  /** Whether the narrow-width search field is expanded over the tabs. */
+  const [searchOpen, setSearchOpen] = useState(false);
   const { sites, groups, note } = datasets.find((dataset) => dataset.id === datasetId) ?? datasets[0]!;
   const [localSelected, setLocalSelected] = useState<StudySite | null>(null);
   const external = onSelect !== undefined;
@@ -357,53 +359,63 @@ export function LinkedExplorer({
     })),
   ];
 
+  /**
+   * Controls adapt to the room they actually have, not the viewport: the topbar's free width depends
+   * on both sidebars. `@container` makes the container-query classes below respond to this wrapper.
+   * Wide: search field + labelled tabs. Narrower: icon-only tabs. Narrowest: the search becomes an
+   * icon button that expands over the tabs until it is cleared or submitted.
+   */
+  const tabClass = "flex-1 gap-1.5 px-2.5 text-xs @xl:flex-none @xl:px-3 @2xl:text-sm";
+  const tabLabel = "hidden @xl:inline";
   const controls = (
-  <div className="flex min-w-0 flex-col gap-3 lg:flex-row lg:items-center lg:justify-start">
-    <div className="w-full lg:w-40 xl:w-64">
-      <Input
-        type="search"
-        value={filters.query}
-        onChange={(event) => setQuery(event.target.value)}
-        placeholder="Find a domain…"
-        aria-label="Find a domain"
-        leading={<Search className="size-4" />}
-      />
-    </div>
-    <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-      {datasets.length > 1 && (
-        <Tabs
-          value={datasetId}
-          onValueChange={(value) => {
-            setDatasetId(value);
-            setSelected(null);
-          }}
-        >
-          <TabsList aria-label="Site set" className="w-full sm:w-auto">
-            {datasets.map((dataset) => (
-              <TabsTrigger key={dataset.id} value={dataset.id} className="flex-1 sm:flex-none">
-                {dataset.label}
+    <div className="@container min-w-0 w-full">
+      <div className="flex items-center gap-2">
+        <CollapsibleSearch
+          value={filters.query}
+          onValueChange={setQuery}
+          placeholder="Find a domain…"
+          aria-label="Find a domain"
+          open={searchOpen}
+          onOpenChange={setSearchOpen}
+          inlineClassName="@md:w-44 @xl:w-64"
+        />
+        <div className={cn("flex min-w-0 items-center gap-2", searchOpen && "@max-md:hidden")}>
+          {datasets.length > 1 && (
+            <Tabs
+              value={datasetId}
+              onValueChange={(value) => {
+                setDatasetId(value);
+                setSelected(null);
+              }}
+            >
+              <TabsList aria-label="Site set">
+                {datasets.map((dataset) => (
+                  <TabsTrigger key={dataset.id} value={dataset.id}>
+                    {dataset.label}
+                  </TabsTrigger>
+                ))}
+              </TabsList>
+            </Tabs>
+          )}
+          <Tabs value={dimension} onValueChange={(value) => setDimension(value as "3d" | "2d" | "table")}>
+            <TabsList aria-label="Chart dimensions">
+              <TabsTrigger value="3d" aria-label="3D" title="3D" className={tabClass}>
+                <Box className="size-4" aria-hidden />
+                <span className={tabLabel}>3D</span>
               </TabsTrigger>
-            ))}
-          </TabsList>
-        </Tabs>
-      )}
-      <div className="flex flex-col gap-3 sm:flex-row sm:items-center">
-        <Tabs value={dimension} onValueChange={(value) => setDimension(value as "3d" | "2d" | "table")}>
-          <TabsList aria-label="Chart dimensions" className="w-full sm:w-auto">
-            <TabsTrigger value="3d" className="flex-1 gap-1.5 px-2 text-xs sm:flex-none sm:px-3 sm:text-sm lg:px-2 lg:text-xs 2xl:px-3 2xl:text-sm">
-              <Box className="size-3.5" aria-hidden /> 3D
-            </TabsTrigger>
-            <TabsTrigger value="2d" className="flex-1 gap-1.5 px-2 text-xs sm:flex-none sm:px-3 sm:text-sm lg:px-2 lg:text-xs 2xl:px-3 2xl:text-sm">
-              <Grid2x2 className="size-3.5" aria-hidden /> 2D
-            </TabsTrigger>
-            <TabsTrigger value="table" className="flex-1 gap-1.5 px-2 text-xs sm:flex-none sm:px-3 sm:text-sm lg:px-2 lg:text-xs 2xl:px-3 2xl:text-sm">
-              <Table2 className="size-3.5" aria-hidden /> Table
-            </TabsTrigger>
-          </TabsList>
-        </Tabs>
+              <TabsTrigger value="2d" aria-label="2D" title="2D" className={tabClass}>
+                <Grid2x2 className="size-4" aria-hidden />
+                <span className={tabLabel}>2D</span>
+              </TabsTrigger>
+              <TabsTrigger value="table" aria-label="Table" title="Table" className={tabClass}>
+                <Table2 className="size-4" aria-hidden />
+                <span className={tabLabel}>Table</span>
+              </TabsTrigger>
+            </TabsList>
+          </Tabs>
+        </div>
       </div>
     </div>
-  </div>
   );
 
   const chipsRow = (
@@ -424,9 +436,10 @@ export function LinkedExplorer({
   const toolbar = toolbarTarget ? (
     chips.length > 0 ? <div className="rounded-xl border border-border bg-surface p-3">{chipsRow}</div> : null
   ) : (
-    <div className="grid gap-3 rounded-xl border border-border bg-surface p-4">
+    // Tablet and mobile: no outer card — the controls sit directly on the page.
+    <div className="grid gap-3">
       {controls}
-      {chips.length > 0 && <div className="border-t border-border pt-3">{chipsRow}</div>}
+      {chips.length > 0 && chipsRow}
     </div>
   );
 
